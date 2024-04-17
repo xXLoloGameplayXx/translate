@@ -1,200 +1,200 @@
 {
-  "ERROR_DESCRIPTIONS": {
-    "200": "TAMAM",
-    "400": "Kötü İstek",
-    "401": "Yetkisiz",
-    "402": "Ödeme Gerekli",
-    "403": "Yasak",
-    "404": "Bulunamadı",
-    "405": "Yönteme İzin Verilmiyor",
-    "406": "Kabul Edilemez",
-    "407": "Proxy Kimlik Doğrulaması Gerekli",
-    "408": "İstek Zaman Aşımı",
-    "409": "Çatışma",
-    "410": "Gitti",
-    "411": "Gerekli Uzunluk",
-    "412": "Önkoşul Başarısız",
-    "413": "Yük Çok Büyük",
-    "414": "Request-URI Çok Uzun",
-    "415": "Desteklenmeyen Ortam Türü",
-    "416": "Talep Edilen Aralık Uygun Değil",
-    "417": "Beklenti Başarısız Oldu",
-    "418": "Ben bir çaydanlığım",
-    "420": "Desteklenmeyen Tarayıcı",
-    "421": "Yanlış Yönlendirilmiş Talep",
-    "422": "İşlenemez Varlık",
-    "423": "Kilitli",
-    "424": "Başarısız Bağımlılık",
-    "425": "Çok Erken",
-    "426": "Yükseltme Gerekli",
-    "428": "Ön Koşul Gerekli",
-    "429": "Çok Fazla Talep",
-    "431": "İstek Üstbilgi Alanları Çok Büyük",
-    "444": "Bağlantı Yanıt Verilmeden Kapatıldı",
-    "451": "Yasal Nedenlerle Kullanılamıyor",
-    "500": "Dahili Sunucu Hatası",
-    "501": "Uygulanmadı",
-    "502": "Kötü Geçit",
-    "503": "Hizmet Kullanılamıyor",
-    "504": "Ağ Geçidi Zaman Aşımı",
-    "505": "HTTP Sürümü Desteklenmiyor",
-    "506": "Varyant da Pazarlık Yapıyor",
-    "507": "Yetersiz Depolama",
-    "508": "Döngü Algılandı",
-    "510": "Uzatılmamış",
-    "511": "Ağ Kimlik Doğrulaması Gerekli",
-    "599": "Ağ Bağlantısı Zaman Aşımı Hatası"
-  },
-  "FILO": {
-    "CLASSIC_DESCRIPTION": "Filo, güçlü ve çok amaçlı bir Discord botudur. Özelleştirilebilir, çoklu diller, rapor, günlük kaydı, karşılama ve vedalar, üye sayacı, anti-davet, otomatik mod, anti-kaçırma. +190 komut.",
-    "DESCRIPTION": "Filo, 2019'dan beri Discord loncalarına hizmet veren güçlü, çok amaçlı bir Discord botudur. İşlerinizi kolaylaştırmak için çok çeşitli yönetici ve moderasyon modüllerine sahiptir."
-  },
-  "MAIN_HEADER": {
-    "TITLE": "Filo güçlü ve çok amaçlı bir Discord botudur",
-    "SUBTITLE": "İşlerinizi kolaylaştırmak için çok çeşitli yönetici ve moderasyon modüllerine sahip"
-  },
-  "FEATURES": {
-    "DESCRIPTION": "Sunucunuzu geliştirmek için en iyi özellikler!",
-    "MORE_INFO": "Bu özellik hakkında daha fazla bilgi",
-    "REPORTS": {
-      "TITLE": "Raporlar",
-      "DESCRIPTION": "Kullanıcıların uygunsuz davranışları bildirmesine izin vererek deneyimi geliştirin ve sunucu moderasyonunuzu profesyonelleştirin!"
+    "ERROR_DESCRIPTIONS": {
+        "200": "TAMAM",
+        "400": "Kötü İstek",
+        "401": "Yetkisiz",
+        "402": "Ödeme Gerekli",
+        "403": "Yasak",
+        "404": "Bulunamadı",
+        "405": "Yönteme İzin Verilmiyor",
+        "406": "Kabul Edilemez",
+        "407": "Proxy Kimlik Doğrulaması Gerekli",
+        "408": "İstek Zaman Aşımı",
+        "409": "Çatışma",
+        "410": "Gitti",
+        "411": "Gerekli Uzunluk",
+        "412": "Önkoşul Başarısız",
+        "413": "Yük Çok Büyük",
+        "414": "Request-URI Çok Uzun",
+        "415": "Desteklenmeyen Ortam Türü",
+        "416": "Talep Edilen Aralık Uygun Değil",
+        "417": "Beklenti Başarısız Oldu",
+        "418": "Ben bir çaydanlığım",
+        "420": "Desteklenmeyen Tarayıcı",
+        "421": "Yanlış Yönlendirilmiş Talep",
+        "422": "İşlenemez Varlık",
+        "423": "Kilitli",
+        "424": "Başarısız Bağımlılık",
+        "425": "Çok Erken",
+        "426": "Yükseltme Gerekli",
+        "428": "Ön Koşul Gerekli",
+        "429": "Çok Fazla Talep",
+        "431": "İstek Üstbilgi Alanları Çok Büyük",
+        "444": "Bağlantı Yanıt Verilmeden Kapatıldı",
+        "451": "Yasal Nedenlerle Kullanılamıyor",
+        "500": "Dahili Sunucu Hatası",
+        "501": "Uygulanmadı",
+        "502": "Kötü Geçit",
+        "503": "Hizmet Kullanılamıyor",
+        "504": "Ağ Geçidi Zaman Aşımı",
+        "505": "HTTP Sürümü Desteklenmiyor",
+        "506": "Varyant da Pazarlık Yapıyor",
+        "507": "Yetersiz Depolama",
+        "508": "Döngü Algılandı",
+        "510": "Uzatılmamış",
+        "511": "Ağ Kimlik Doğrulaması Gerekli",
+        "599": "Ağ Bağlantısı Zaman Aşımı Hatası"
     },
-    "LOGGING": {
-      "TITLE": "Günlük kaydı",
-      "DESCRIPTION": "Sunucunuzdaki kullanıcılar tarafından gerçekleştirilen tüm eylemleri bir kanala kaydederek bunları kolayca incelemenizi ve filtrelemenizi sağlar!"
+    "FILO": {
+        "CLASSIC_DESCRIPTION": "Filo, güçlü ve çok amaçlı bir Discord botudur. Özelleştirilebilir, çoklu diller, rapor, günlük kaydı, karşılama ve vedalar, üye sayacı, anti-davet, otomatik mod, anti-kaçırma. +190 komut.",
+        "DESCRIPTION": "Filo, 2019'dan beri Discord loncalarına hizmet veren güçlü, çok amaçlı bir Discord botudur. İşlerinizi kolaylaştırmak için çok çeşitli yönetici ve moderasyon modüllerine sahiptir."
     },
-    "ANTI_INVITES": {
-      "TITLE": "Anti Davetiyeler",
-      "DESCRIPTION": "Kullanıcıları otomatik olarak yaptırıma tabi tutarak sunucularınızdan kendi sunucularınıza davet göndermelerini önleyin!"
+    "MAIN_HEADER": {
+        "TITLE": "Filo güçlü ve çok amaçlı bir Discord botudur",
+        "SUBTITLE": "İşlerinizi kolaylaştırmak için çok çeşitli yönetici ve moderasyon modüllerine sahip"
     },
-    "ANTI_SPAM": {
-      "TITLE": "Anti Spam",
-      "DESCRIPTION": "Spam gönderenlerden bıktınız mı? Moderatörleriniz yeterli değil mi? Bırakın Filo bu kullanıcı sınıfıyla ilgilensin ve bu arada biraz çay içsin!"
+    "FEATURES": {
+        "DESCRIPTION": "Sunucunuzu geliştirmek için en iyi özellikler!",
+        "MORE_INFO": "Bu özellik hakkında daha fazla bilgi",
+        "REPORTS": {
+            "TITLE": "Raporlar",
+            "DESCRIPTION": "Kullanıcıların uygunsuz davranışları bildirmesine izin vererek deneyimi geliştirin ve sunucu moderasyonunuzu profesyonelleştirin!"
+        },
+        "LOGGING": {
+            "TITLE": "Günlük kaydı",
+            "DESCRIPTION": "Sunucunuzdaki kullanıcılar tarafından gerçekleştirilen tüm eylemleri bir kanala kaydederek bunları kolayca incelemenizi ve filtrelemenizi sağlar!"
+        },
+        "ANTI_INVITES": {
+            "TITLE": "Anti Davetiyeler",
+            "DESCRIPTION": "Kullanıcıları otomatik olarak yaptırıma tabi tutarak sunucularınızdan kendi sunucularınıza davet göndermelerini önleyin!"
+        },
+        "ANTI_SPAM": {
+            "TITLE": "Anti Spam",
+            "DESCRIPTION": "Spam gönderenlerden bıktınız mı? Moderatörleriniz yeterli değil mi? Bırakın Filo bu kullanıcı sınıfıyla ilgilensin ve bu arada biraz çay içsin!"
+        },
+        "ANTI_BAD_WORDS": {
+            "TITLE": "Anti Kötü Sözler",
+            "DESCRIPTION": "Kullanıcıların mesajlarında kötü kelimeler kullanmasını önleyin... Kimse bu kelimeleri okumak zorunda kalmaktan hoşlanmaz!"
+        },
+        "ANTI_SCAM_LINKS": {
+            "TITLE": "Dolandırıcılık Karşıtı Bağlantılar",
+            "DESCRIPTION": "Dolandırıcılar, ne yorucu insanlar... Artık Filo bu tür insanlarla savaşmanıza yardımcı olabilir!"
+        },
+        "AUTO_MODERATION": {
+            "TITLE": "Otomatik Moderasyon",
+            "DESCRIPTION": "Sunucunuzda çakışan kullanıcıların bulunmasına izin vermeyin, bu yasal kullanıcıların deneyimini olumsuz etkileyebilir!"
+        },
+        "ANTI_EVASION": {
+            "TITLE": "Anti Kaçınma",
+            "DESCRIPTION": "Birkaç kullanıcıyı sessize aldınız ve onlar sunucuyu terk mi etti? Hiç sorun değil! Filo'nun bu kullanıcıları otomatik olarak yasaklamasına izin verin!"
+        }
     },
-    "ANTI_BAD_WORDS": {
-      "TITLE": "Anti Kötü Sözler",
-      "DESCRIPTION": "Kullanıcıların mesajlarında kötü kelimeler kullanmasını önleyin... Kimse bu kelimeleri okumak zorunda kalmaktan hoşlanmaz!"
+    "STATISTICS": {
+        "TITLE": "İstatistikler",
+        "SERVERS": "Sunucular",
+        "USERS": "Kullanıcılar"
     },
-    "ANTI_SCAM_LINKS": {
-      "TITLE": "Dolandırıcılık Karşıtı Bağlantılar",
-      "DESCRIPTION": "Dolandırıcılar, ne yorucu insanlar... Artık Filo bu tür insanlarla savaşmanıza yardımcı olabilir!"
+    "DONATE": {
+        "TITLE": "Filo'ya Bağış Yapın",
+        "SUBTITLE": "Bağış yaparak Filo'yu çevrimiçi tutmamıza yardımcı olun!",
+        "WARNING": "Tüm bağışlar Hüküm ve Koşullara tabidir.",
+        "PER_MONTH": "Aylık",
+        "VAT_NOT_INCLUDED": "KDV dahil değildir",
+        "SUBSCRIBE": "Abone Olun",
+        "ROLE_REWARD": "Sunucumuzdaki sembolik rol",
+        "FILO_SUPPORT": "Filo'ya desteğinizi gösterin",
+        "SOON_MORE": "Yakında™ daha fazla",
+        "PREVIOUS_PLAN_REWARD": "Önceki plandaki her şey",
+        "NICKNAME_REWARD": "Sunucumuzda özelleştirilebilir takma ad",
+        "EMOJIS_REWARD": "Sunucumuzda harici emojilerin kullanımı"
     },
-    "AUTO_MODERATION": {
-      "TITLE": "Otomatik Moderasyon",
-      "DESCRIPTION": "Sunucunuzda çakışan kullanıcıların bulunmasına izin vermeyin, bu yasal kullanıcıların deneyimini olumsuz etkileyebilir!"
+    "REVIEW": {
+        "TITLE": "Bize bir yorum bırakın",
+        "SUBTITLE": "Filo'yu ve hizmetini ne kadar sevdiğinizi gösterin!"
     },
-    "ANTI_EVASION": {
-      "TITLE": "Anti Kaçınma",
-      "DESCRIPTION": "Birkaç kullanıcıyı sessize aldınız ve onlar sunucuyu terk mi etti? Hiç sorun değil! Filo'nun bu kullanıcıları otomatik olarak yasaklamasına izin verin!"
+    "VOTE": {
+        "TITLE": "Filo'ya oy verin",
+        "SUBTITLE": "Filo'ya desteğinizi ona oy vererek gösterin!"
+    },
+    "FRIENDLY_WEBSITES": {
+        "TITLE": "Dost web siteleri",
+        "SUBTITLE": "Filo'nun büyümesine yardımcı olan dost web siteleri!"
+    },
+    "READY": {
+        "TITLE": "Bir sonraki adımı atmaya hazır mısınız?",
+        "SUBTITLE": "Bugün Filo ile deneyiminizi geliştirin ve sunucunuzu profesyonelleştirin!",
+        "INVITE": "Hadi yapalım şu işi!",
+        "GETTING_STARTED": "Başlarken"
+    },
+    "CALCULATOR": {
+        "TITLE": "Filo'nun İzin Hesaplayıcısı",
+        "VIEW_CASES": "Vakaları görüntüleyin",
+        "EDIT_CASES": "Vakaları düzenle",
+        "MANAGE_CASES": "Vakaları yönetin",
+        "ADMINISTRATOR": "Yönetici",
+        "BAN_MEMBERS": "Üye yasağı",
+        "TEMPBAN_MEMBERS": "Tempban üyeleri",
+        "SOFTBAN_MEMBERS": "Softban üyeleri",
+        "UNBAN_MEMBERS": "Üyelerin yasağını kaldırın",
+        "KICK_MEMBERS": "Üyeleri tekmeleyin",
+        "MUTE_MEMBERS": "Sessiz üyeler",
+        "TEMPMUTE_MEMBERS": "Tempmute üyeleri",
+        "UNMUTE_MEMBERS": "Üyelerin sesini aç",
+        "WARN_MEMBERS": "Üyeleri uyarın",
+        "UNWARN_MEMBERS": "Üyeleri uyarın",
+        "PURGE_WARNS": "Arındırma uyarıyor",
+        "ADD_ROLES": "Rol ekleme",
+        "REMOVE_ROLES": "Rolleri kaldırın",
+        "PURGE_MESSAGES": "Mesajları temizle",
+        "MANAGE_NICKNAMES": "Takma adları yönetme",
+        "MANAGE_CHANNELS": "Kanalları yönetin",
+        "PIN_MESSAGES": "Pin mesajları",
+        "UNPIN_MESSAGES": "Mesajları sabitleme",
+        "VIEW_HISTORY": "Geçmişi görüntüle",
+        "EVADE_SANCTIONS": "Yaptırımlardan kaçınmak",
+        "REPORT_MEMBERS": "Rapor üyeleri",
+        "REPORT_MESSAGES": "Mesajları bildir",
+        "BYPASS_REPORTS_COOLDOWN": "Rapor bekleme süresini atla",
+        "APPROVE_REPORTS": "Raporları onaylayın",
+        "DENY_REPORTS": "Raporları reddetme",
+        "MANAGE_REPORTS": "Raporları yönetin",
+        "TIMEOUT_MEMBERS": "Zaman aşımı üyeleri",
+        "UNTIMEOUT_MEMBERS": "Untimeout üyeleri"
+    },
+    "THANKS": {
+        "TITLE": "Filo'yu eklediğiniz için teşekkürler!",
+        "SUBTITLE": "Filo'ya güvenmeye karar verdiğiniz için çok minnettarız.",
+        "DISCORD_REDIRECT_INFO": "Discord sunucumuza yönlendirileceksiniz."
+    },
+    "FOOTER": {
+        "HELPFUL_LINKS": "Yararlı Bağlantılar",
+        "IMPORTANT_LINKS": "Önemli Bağlantılar",
+        "ABOUT_FILO": "Filo Hakkında"
+    },
+    "GENERAL": {
+        "BLOG": "Blog",
+        "DISCORD_SERVER": "Discord Sunucusu",
+        "DONATE": "Bağış Yapın",
+        "FEATURES": "Özellikler",
+        "HOME": "Ev",
+        "INVITE": "Davetiye",
+        "MORE_INFO": "Daha fazla bilgi",
+        "PRIVACY_POLICY": "Gizlilik Politikası",
+        "STATUS": "Durum",
+        "TERMS": "Şartlar",
+        "TERMS_AND_CONDITIONS": "Şartlar ve Koşullar",
+        "VOTE": "Oylama",
+        "WIKI": "Wiki"
+    },
+    "PAGE_TITLES": {
+        "A_DISCORD_BOT": "Bir Discord Botu",
+        "CALCULATOR": "Hesap Makinesi",
+        "STATISTICS": "İstatistikler",
+        "THANKS": "Teşekkürler",
+        "LINK_SHORTENER": "Bağlantı Kısaltıcı"
+    },
+    "LINK_SHORTENER": {
+        "TITLE": "Yönlendirme",
+        "SUBTITLE": "Birkaç saniye içinde orijinal bağlantıya yönlendirileceksiniz"
     }
-  },
-  "STATISTICS": {
-    "TITLE": "İstatistikler",
-    "SERVERS": "Sunucular",
-    "USERS": "Kullanıcılar"
-  },
-  "DONATE": {
-    "TITLE": "Filo'ya Bağış Yapın",
-    "SUBTITLE": "Bağış yaparak Filo'yu çevrimiçi tutmamıza yardımcı olun!",
-    "WARNING": "Tüm bağışlar Hüküm ve Koşullara tabidir.",
-    "PER_MONTH": "Aylık",
-    "VAT_NOT_INCLUDED": "KDV dahil değildir",
-    "SUBSCRIBE": "Abone Olun",
-    "ROLE_REWARD": "Sunucumuzdaki sembolik rol",
-    "FILO_SUPPORT": "Filo'ya desteğinizi gösterin",
-    "SOON_MORE": "Yakında™ daha fazla",
-    "PREVIOUS_PLAN_REWARD": "Önceki plandaki her şey",
-    "NICKNAME_REWARD": "Sunucumuzda özelleştirilebilir takma ad",
-    "EMOJIS_REWARD": "Sunucumuzda harici emojilerin kullanımı"
-  },
-  "REVIEW": {
-    "TITLE": "Bize bir yorum bırakın",
-    "SUBTITLE": "Filo'yu ve hizmetini ne kadar sevdiğinizi gösterin!"
-  },
-  "VOTE": {
-    "TITLE": "Filo'ya oy verin",
-    "SUBTITLE": "Filo'ya desteğinizi ona oy vererek gösterin!"
-  },
-  "FRIENDLY_WEBSITES": {
-    "TITLE": "Dost web siteleri",
-    "SUBTITLE": "Filo'nun büyümesine yardımcı olan dost web siteleri!"
-  },
-  "READY": {
-    "TITLE": "Bir sonraki adımı atmaya hazır mısınız?",
-    "SUBTITLE": "Bugün Filo ile deneyiminizi geliştirin ve sunucunuzu profesyonelleştirin!",
-    "INVITE": "Hadi yapalım şu işi!",
-    "GETTING_STARTED": "Başlarken"
-  },
-  "CALCULATOR": {
-    "TITLE": "Filo'nun İzin Hesaplayıcısı",
-    "VIEW_CASES": "Vakaları görüntüleyin",
-    "EDIT_CASES": "Vakaları düzenle",
-    "MANAGE_CASES": "Vakaları yönetin",
-    "ADMINISTRATOR": "Yönetici",
-    "BAN_MEMBERS": "Üye yasağı",
-    "TEMPBAN_MEMBERS": "Tempban üyeleri",
-    "SOFTBAN_MEMBERS": "Softban üyeleri",
-    "UNBAN_MEMBERS": "Üyelerin yasağını kaldırın",
-    "KICK_MEMBERS": "Üyeleri tekmeleyin",
-    "MUTE_MEMBERS": "Sessiz üyeler",
-    "TEMPMUTE_MEMBERS": "Tempmute üyeleri",
-    "UNMUTE_MEMBERS": "Üyelerin sesini aç",
-    "WARN_MEMBERS": "Üyeleri uyarın",
-    "UNWARN_MEMBERS": "Üyeleri uyarın",
-    "PURGE_WARNS": "Arındırma uyarıyor",
-    "ADD_ROLES": "Rol ekleme",
-    "REMOVE_ROLES": "Rolleri kaldırın",
-    "PURGE_MESSAGES": "Mesajları temizle",
-    "MANAGE_NICKNAMES": "Takma adları yönetme",
-    "MANAGE_CHANNELS": "Kanalları yönetin",
-    "PIN_MESSAGES": "Pin mesajları",
-    "UNPIN_MESSAGES": "Mesajları sabitleme",
-    "VIEW_HISTORY": "Geçmişi görüntüle",
-    "EVADE_SANCTIONS": "Yaptırımlardan kaçınmak",
-    "REPORT_MEMBERS": "Rapor üyeleri",
-    "REPORT_MESSAGES": "Mesajları bildir",
-    "BYPASS_REPORTS_COOLDOWN": "Rapor bekleme süresini atla",
-    "APPROVE_REPORTS": "Raporları onaylayın",
-    "DENY_REPORTS": "Raporları reddetme",
-    "MANAGE_REPORTS": "Raporları yönetin",
-    "TIMEOUT_MEMBERS": "Zaman aşımı üyeleri",
-    "UNTIMEOUT_MEMBERS": "Untimeout üyeleri"
-  },
-  "THANKS": {
-    "TITLE": "Filo'yu eklediğiniz için teşekkürler!",
-    "SUBTITLE": "Filo'ya güvenmeye karar verdiğiniz için çok minnettarız.",
-    "DISCORD_REDIRECT_INFO": "Discord sunucumuza yönlendirileceksiniz."
-  },
-  "FOOTER": {
-    "HELPFUL_LINKS": "Yararlı Bağlantılar",
-    "IMPORTANT_LINKS": "Önemli Bağlantılar",
-    "ABOUT_FILO": "Filo Hakkında"
-  },
-  "GENERAL": {
-    "BLOG": "Blog",
-    "DISCORD_SERVER": "Discord Sunucusu",
-    "DONATE": "Bağış Yapın",
-    "FEATURES": "Özellikler",
-    "HOME": "Ev",
-    "INVITE": "Davetiye",
-    "MORE_INFO": "Daha fazla bilgi",
-    "PRIVACY_POLICY": "Gizlilik Politikası",
-    "STATUS": "Durum",
-    "TERMS": "Şartlar",
-    "TERMS_AND_CONDITIONS": "Şartlar ve Koşullar",
-    "VOTE": "Oylama",
-    "WIKI": "Wiki"
-  },
-  "PAGE_TITLES": {
-    "A_DISCORD_BOT": "Bir Discord Botu",
-    "CALCULATOR": "Hesap Makinesi",
-    "STATISTICS": "İstatistikler",
-    "THANKS": "Teşekkürler",
-    "LINK_SHORTENER": "Bağlantı Kısaltıcı"
-  },
-  "LINK_SHORTENER": {
-    "TITLE": "Yönlendirme",
-    "SUBTITLE": "Birkaç saniye içinde orijinal bağlantıya yönlendirileceksiniz"
-  }
 }
