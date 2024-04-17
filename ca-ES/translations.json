@@ -1,200 +1,200 @@
 {
-  "ERROR_DESCRIPTIONS": {
-    "200": "OK",
-    "400": "Sol·licitud Incorrecta",
-    "401": "Sense Autorització",
-    "402": "Pagament Requerit",
-    "403": "Prohibit",
-    "404": "No Trobat",
-    "405": "Mètode No Permès",
-    "406": "No Acceptable",
-    "407": "Autenticació de Proxy Requerida",
-    "408": "Temps d'Espera Superat",
-    "409": "Conflicte",
-    "410": "Desaparegut",
-    "411": "Longitud Requerida",
-    "412": "Error de Precondició",
-    "413": "Càrrega Útil Massa Gran",
-    "414": "Sol·licitud-URI Massa Llarga",
-    "415": "Tipus de Medi no Suportat",
-    "416": "Rang Sol·licitat No Satisfactori",
-    "417": "Expectativa Fallida",
-    "418": "Soc una Tetera",
-    "420": "Navegador no Compatible",
-    "421": "Sol·licitud Mal Dirigida",
-    "422": "Entitat no Processable",
-    "423": "Bloquejat",
-    "424": "Error de Dependència",
-    "425": "Massa Aviat",
-    "426": "Actualització Requerida",
-    "428": "Precondició Requerida",
-    "429": "Massa Sol·licituds",
-    "431": "Camps de Capçalera de Sol·licitud Massa Grans",
-    "444": "Connexió Tancada sense Resposta",
-    "451": "No Disponible per Raons Legals",
-    "500": "Error Intern del Servidor",
-    "501": "No implementat",
-    "502": "Porta d'Enllaç Incorrecta",
-    "503": "Servei no Disponible",
-    "504": "Temps d'Espera de Porta d'Enllaç Esgotada",
-    "505": "Versió HTTP no Compatible",
-    "506": "Variants També Negociable",
-    "507": "Emmagatzematge Insuficient",
-    "508": "Bucle Detectat",
-    "510": "No Entès",
-    "511": "Autenticació de Xarxa Necessària",
-    "599": "Error de Connexió a la Xarxa"
-  },
-  "FILO": {
-    "CLASSIC_DESCRIPTION": "Filo és un potent bot de Discord multipropòsit. Personalitzable, múltiples llengües, reports, registres, benvingudes i comiats, comptador de membres, anti-invitacions, auto-mod, anti-evasió. +190 ordres.",
-    "DESCRIPTION": "Filo és una potent bot multipropòsit de Discord que serveix als gremis de Discord des de 2019. Comptant amb una àmplia gamma de mòduls d'administració i moderació per facilitar les coses."
-  },
-  "MAIN_HEADER": {
-    "TITLE": "Filo és una potent bot multipropòsit de Discord",
-    "SUBTITLE": "Comptant amb una àmplia gamma de mòduls d'administració i moderació per facilitar les coses"
-  },
-  "FEATURES": {
-    "DESCRIPTION": "Les millors característiques per millorar el teu servidor!",
-    "MORE_INFO": "Més informació sobre aquesta característica",
-    "REPORTS": {
-      "TITLE": "Informes",
-      "DESCRIPTION": "Millora l'experiència i professionalitza la moderació del teu servidor permetent als usuaris informant de comportaments inapropiats!"
+    "ERROR_DESCRIPTIONS": {
+        "200": "OK",
+        "400": "Sol·licitud Incorrecta",
+        "401": "Sense Autorització",
+        "402": "Pagament Requerit",
+        "403": "Prohibit",
+        "404": "No Trobat",
+        "405": "Mètode No Permès",
+        "406": "No Acceptable",
+        "407": "Autenticació de Proxy Requerida",
+        "408": "Temps d'Espera Superat",
+        "409": "Conflicte",
+        "410": "Desaparegut",
+        "411": "Longitud Requerida",
+        "412": "Error de Precondició",
+        "413": "Càrrega Útil Massa Gran",
+        "414": "Sol·licitud-URI Massa Llarga",
+        "415": "Tipus de Medi no Suportat",
+        "416": "Rang Sol·licitat No Satisfactori",
+        "417": "Expectativa Fallida",
+        "418": "Soc una Tetera",
+        "420": "Navegador no Compatible",
+        "421": "Sol·licitud Mal Dirigida",
+        "422": "Entitat no Processable",
+        "423": "Bloquejat",
+        "424": "Error de Dependència",
+        "425": "Massa Aviat",
+        "426": "Actualització Requerida",
+        "428": "Precondició Requerida",
+        "429": "Massa Sol·licituds",
+        "431": "Camps de Capçalera de Sol·licitud Massa Grans",
+        "444": "Connexió Tancada sense Resposta",
+        "451": "No Disponible per Raons Legals",
+        "500": "Error Intern del Servidor",
+        "501": "No implementat",
+        "502": "Porta d'Enllaç Incorrecta",
+        "503": "Servei no Disponible",
+        "504": "Temps d'Espera de Porta d'Enllaç Esgotada",
+        "505": "Versió HTTP no Compatible",
+        "506": "Variants També Negociable",
+        "507": "Emmagatzematge Insuficient",
+        "508": "Bucle Detectat",
+        "510": "No Entès",
+        "511": "Autenticació de Xarxa Necessària",
+        "599": "Error de Connexió a la Xarxa"
     },
-    "LOGGING": {
-      "TITLE": "Registres",
-      "DESCRIPTION": "Registra totes les accions realitzades pels usuaris en el seu servidor en un canal, el qual permet revisar-les i filtrar-les fàcilment!"
+    "FILO": {
+        "CLASSIC_DESCRIPTION": "Filo és un potent bot de Discord multipropòsit. Personalitzable, múltiples llengües, reports, registres, benvingudes i comiats, comptador de membres, anti-invitacions, auto-mod, anti-evasió. +190 ordres.",
+        "DESCRIPTION": "Filo és una potent bot multipropòsit de Discord que serveix als gremis de Discord des de 2019. Comptant amb una àmplia gamma de mòduls d'administració i moderació per facilitar les coses."
     },
-    "ANTI_INVITES": {
-      "TITLE": "Anti Invitacions",
-      "DESCRIPTION": "Evita que els usuaris enviïn invitacions dels seus servidors en el seu sancionant-los automàticament!"
+    "MAIN_HEADER": {
+        "TITLE": "Filo és una potent bot multipropòsit de Discord",
+        "SUBTITLE": "Comptant amb una àmplia gamma de mòduls d'administració i moderació per facilitar les coses"
     },
-    "ANTI_SPAM": {
-      "TITLE": "Anti Spam",
-      "DESCRIPTION": "Cansat d'spammers? Els teus moderadors no són suficients? Deixa que Filo tracti amb aquesta classe d'usuaris i pren-te una mica de té mentrestant!"
+    "FEATURES": {
+        "DESCRIPTION": "Les millors característiques per millorar el teu servidor!",
+        "MORE_INFO": "Més informació sobre aquesta característica",
+        "REPORTS": {
+            "TITLE": "Informes",
+            "DESCRIPTION": "Millora l'experiència i professionalitza la moderació del teu servidor permetent als usuaris informant de comportaments inapropiats!"
+        },
+        "LOGGING": {
+            "TITLE": "Registres",
+            "DESCRIPTION": "Registra totes les accions realitzades pels usuaris en el seu servidor en un canal, el qual permet revisar-les i filtrar-les fàcilment!"
+        },
+        "ANTI_INVITES": {
+            "TITLE": "Anti Invitacions",
+            "DESCRIPTION": "Evita que els usuaris enviïn invitacions dels seus servidors en el seu sancionant-los automàticament!"
+        },
+        "ANTI_SPAM": {
+            "TITLE": "Anti Spam",
+            "DESCRIPTION": "Cansat d'spammers? Els teus moderadors no són suficients? Deixa que Filo tracti amb aquesta classe d'usuaris i pren-te una mica de té mentrestant!"
+        },
+        "ANTI_BAD_WORDS": {
+            "TITLE": "Anti Paraules Lletges",
+            "DESCRIPTION": "Evita que els usuaris utilitzin paraules lletges en els seus missatges... A ningú l'hi agrada llegir aquestes paraules!"
+        },
+        "ANTI_SCAM_LINKS": {
+            "TITLE": "Anti Enllaços Enganyosos",
+            "DESCRIPTION": "Estafadors, quines persones més pesades... Ara Filo et pot ajudar a combatre contra aquest tipus de persones!"
+        },
+        "AUTO_MODERATION": {
+            "TITLE": "Auto Moderació",
+            "DESCRIPTION": "No permetis que existeixen usuaris conflictius en el teu servidor, això pot afectar negativament a l'experiència dels usuaris legítims!"
+        },
+        "ANTI_EVASION": {
+            "TITLE": "Anti Evasió",
+            "DESCRIPTION": "Has silenciat a diversos usuaris i ells han abandonat el servidor? No n'hi ha problema! Deixa que Filo els prohibeixi automàticament!"
+        }
     },
-    "ANTI_BAD_WORDS": {
-      "TITLE": "Anti Paraules Lletges",
-      "DESCRIPTION": "Evita que els usuaris utilitzin paraules lletges en els seus missatges... A ningú l'hi agrada llegir aquestes paraules!"
+    "STATISTICS": {
+        "TITLE": "Estadí­stiques",
+        "SERVERS": "Servidors",
+        "USERS": "Usuaris"
     },
-    "ANTI_SCAM_LINKS": {
-      "TITLE": "Anti Enllaços Enganyosos",
-      "DESCRIPTION": "Estafadors, quines persones més pesades... Ara Filo et pot ajudar a combatre contra aquest tipus de persones!"
+    "DONATE": {
+        "TITLE": "Fes una donació a Filo",
+        "SUBTITLE": "Ajuda'ns a mantenir a Filo en línia fent una donació!",
+        "WARNING": "Totes les donacions es troben subjectes als Termes i Condicions.",
+        "PER_MONTH": "Per mes",
+        "VAT_NOT_INCLUDED": "IVA no inclòs",
+        "SUBSCRIBE": "Subscriure's",
+        "ROLE_REWARD": "Rol simbòlic en el nostre servidor",
+        "FILO_SUPPORT": "Mostra el teu suport a Filo",
+        "SOON_MORE": "Aviat™ més",
+        "PREVIOUS_PLAN_REWARD": "Tot el pla anterior",
+        "NICKNAME_REWARD": "Sobrenom personalitzable en el nostre servidor",
+        "EMOJIS_REWARD": "Ús d'emojis externs en el nostre servidor"
     },
-    "AUTO_MODERATION": {
-      "TITLE": "Auto Moderació",
-      "DESCRIPTION": "No permetis que existeixen usuaris conflictius en el teu servidor, això pot afectar negativament a l'experiència dels usuaris legítims!"
+    "REVIEW": {
+        "TITLE": "Deixa'ns una valoració",
+        "SUBTITLE": "Demostra quan estimes Filo i el seu servei!"
     },
-    "ANTI_EVASION": {
-      "TITLE": "Anti Evasió",
-      "DESCRIPTION": "Has silenciat a diversos usuaris i ells han abandonat el servidor? No n'hi ha problema! Deixa que Filo els prohibeixi automàticament!"
+    "VOTE": {
+        "TITLE": "Vota per Filo",
+        "SUBTITLE": "Demostra el teu suport a Filo votant per ella!"
+    },
+    "FRIENDLY_WEBSITES": {
+        "TITLE": "Llocs web amics",
+        "SUBTITLE": "Llocs web amics que ajuden Filo a créixer!"
+    },
+    "READY": {
+        "TITLE": "Preparat per donar el següent pas?",
+        "SUBTITLE": "Milloreu l'experiència i professionalitzeu el vostre servidor amb Filo avui mateix!",
+        "INVITE": "Fem-ho!",
+        "GETTING_STARTED": "Començant"
+    },
+    "CALCULATOR": {
+        "TITLE": "Calculadora de permisos de Filo",
+        "VIEW_CASES": "Veure casos",
+        "EDIT_CASES": "Editar casos",
+        "MANAGE_CASES": "Gestionar casos",
+        "ADMINISTRATOR": "Administrador",
+        "BAN_MEMBERS": "Prohibir membres",
+        "TEMPBAN_MEMBERS": "Prohibir membres temporalment",
+        "SOFTBAN_MEMBERS": "Prohibir suaument membres",
+        "UNBAN_MEMBERS": "Desprohibir membres",
+        "KICK_MEMBERS": "Expulsar membres",
+        "MUTE_MEMBERS": "Silenciar membres",
+        "TEMPMUTE_MEMBERS": "Silenciar membres temporalment",
+        "UNMUTE_MEMBERS": "Desilenciar membres",
+        "WARN_MEMBERS": "Advertir membres",
+        "UNWARN_MEMBERS": "Desadvertir membres",
+        "PURGE_WARNS": "Purgar advertències",
+        "ADD_ROLES": "Afegir rols",
+        "REMOVE_ROLES": "Eliminar rols",
+        "PURGE_MESSAGES": "Purgar missatges",
+        "MANAGE_NICKNAMES": "Administrar sobrenoms",
+        "MANAGE_CHANNELS": "Administrar canals",
+        "PIN_MESSAGES": "Fixar missatges",
+        "UNPIN_MESSAGES": "Desfixar missatge",
+        "VIEW_HISTORY": "Veure historial",
+        "EVADE_SANCTIONS": "Evadir sancions",
+        "REPORT_MEMBERS": "Denunciar usuaris",
+        "REPORT_MESSAGES": "Denunciar missatges",
+        "BYPASS_REPORTS_COOLDOWN": "Ometre els informes de reutilització",
+        "APPROVE_REPORTS": "Aprovar informes",
+        "DENY_REPORTS": "Negar informes",
+        "MANAGE_REPORTS": "Gestionar informes",
+        "TIMEOUT_MEMBERS": "Aïllar membres",
+        "UNTIMEOUT_MEMBERS": "Des-aïllar membres"
+    },
+    "THANKS": {
+        "TITLE": "Gràcies per afegir a Filo!",
+        "SUBTITLE": "Estem molt agraïts que hagis decidit confiar en Filo.",
+        "DISCORD_REDIRECT_INFO": "Seràs redirigit al nostre servidor de Discord."
+    },
+    "FOOTER": {
+        "HELPFUL_LINKS": "Enllaços Útils",
+        "IMPORTANT_LINKS": "Enllaços Importants",
+        "ABOUT_FILO": "Sobre Filo"
+    },
+    "GENERAL": {
+        "BLOG": "Bloc",
+        "DISCORD_SERVER": "Servidor de Discord",
+        "DONATE": "Donar",
+        "FEATURES": "Característiques",
+        "HOME": "Inici",
+        "INVITE": "Convidar",
+        "MORE_INFO": "Més informació",
+        "PRIVACY_POLICY": "Política de Privacitat",
+        "STATUS": "Estat",
+        "TERMS": "Terminis",
+        "TERMS_AND_CONDITIONS": "Terminis i Condicions",
+        "VOTE": "Votar",
+        "WIKI": "Wiki"
+    },
+    "PAGE_TITLES": {
+        "A_DISCORD_BOT": "Un Bot de Discord",
+        "CALCULATOR": "Calculadora",
+        "STATISTICS": "Estadí­stiques",
+        "THANKS": "Gràcies",
+        "LINK_SHORTENER": "Escurçador de link"
+    },
+    "LINK_SHORTENER": {
+        "TITLE": "Redireccionant",
+        "SUBTITLE": "Seràs redirigit al link original en uns segons"
     }
-  },
-  "STATISTICS": {
-    "TITLE": "Estadí­stiques",
-    "SERVERS": "Servidors",
-    "USERS": "Usuaris"
-  },
-  "DONATE": {
-    "TITLE": "Fes una donació a Filo",
-    "SUBTITLE": "Ajuda'ns a mantenir a Filo en línia fent una donació!",
-    "WARNING": "Totes les donacions es troben subjectes als Termes i Condicions.",
-    "PER_MONTH": "Per mes",
-    "VAT_NOT_INCLUDED": "IVA no inclòs",
-    "SUBSCRIBE": "Subscriure's",
-    "ROLE_REWARD": "Rol simbòlic en el nostre servidor",
-    "FILO_SUPPORT": "Mostra el teu suport a Filo",
-    "SOON_MORE": "Aviat™ més",
-    "PREVIOUS_PLAN_REWARD": "Tot el pla anterior",
-    "NICKNAME_REWARD": "Sobrenom personalitzable en el nostre servidor",
-    "EMOJIS_REWARD": "Ús d'emojis externs en el nostre servidor"
-  },
-  "REVIEW": {
-    "TITLE": "Deixa'ns una valoració",
-    "SUBTITLE": "Demostra quan estimes Filo i el seu servei!"
-  },
-  "VOTE": {
-    "TITLE": "Vota per Filo",
-    "SUBTITLE": "Demostra el teu suport a Filo votant per ella!"
-  },
-  "FRIENDLY_WEBSITES": {
-    "TITLE": "Llocs web amics",
-    "SUBTITLE": "Llocs web amics que ajuden Filo a créixer!"
-  },
-  "READY": {
-    "TITLE": "Preparat per donar el següent pas?",
-    "SUBTITLE": "Milloreu l'experiència i professionalitzeu el vostre servidor amb Filo avui mateix!",
-    "INVITE": "Fem-ho!",
-    "GETTING_STARTED": "Començant"
-  },
-  "CALCULATOR": {
-    "TITLE": "Calculadora de permisos de Filo",
-    "VIEW_CASES": "Veure casos",
-    "EDIT_CASES": "Editar casos",
-    "MANAGE_CASES": "Gestionar casos",
-    "ADMINISTRATOR": "Administrador",
-    "BAN_MEMBERS": "Prohibir membres",
-    "TEMPBAN_MEMBERS": "Prohibir membres temporalment",
-    "SOFTBAN_MEMBERS": "Prohibir suaument membres",
-    "UNBAN_MEMBERS": "Desprohibir membres",
-    "KICK_MEMBERS": "Expulsar membres",
-    "MUTE_MEMBERS": "Silenciar membres",
-    "TEMPMUTE_MEMBERS": "Silenciar membres temporalment",
-    "UNMUTE_MEMBERS": "Desilenciar membres",
-    "WARN_MEMBERS": "Advertir membres",
-    "UNWARN_MEMBERS": "Desadvertir membres",
-    "PURGE_WARNS": "Purgar advertències",
-    "ADD_ROLES": "Afegir rols",
-    "REMOVE_ROLES": "Eliminar rols",
-    "PURGE_MESSAGES": "Purgar missatges",
-    "MANAGE_NICKNAMES": "Administrar sobrenoms",
-    "MANAGE_CHANNELS": "Administrar canals",
-    "PIN_MESSAGES": "Fixar missatges",
-    "UNPIN_MESSAGES": "Desfixar missatge",
-    "VIEW_HISTORY": "Veure historial",
-    "EVADE_SANCTIONS": "Evadir sancions",
-    "REPORT_MEMBERS": "Denunciar usuaris",
-    "REPORT_MESSAGES": "Denunciar missatges",
-    "BYPASS_REPORTS_COOLDOWN": "Ometre els informes de reutilització",
-    "APPROVE_REPORTS": "Aprovar informes",
-    "DENY_REPORTS": "Negar informes",
-    "MANAGE_REPORTS": "Gestionar informes",
-    "TIMEOUT_MEMBERS": "Aïllar membres",
-    "UNTIMEOUT_MEMBERS": "Des-aïllar membres"
-  },
-  "THANKS": {
-    "TITLE": "Gràcies per afegir a Filo!",
-    "SUBTITLE": "Estem molt agraïts que hagis decidit confiar en Filo.",
-    "DISCORD_REDIRECT_INFO": "Seràs redirigit al nostre servidor de Discord."
-  },
-  "FOOTER": {
-    "HELPFUL_LINKS": "Enllaços Útils",
-    "IMPORTANT_LINKS": "Enllaços Importants",
-    "ABOUT_FILO": "Sobre Filo"
-  },
-  "GENERAL": {
-    "BLOG": "Bloc",
-    "DISCORD_SERVER": "Servidor de Discord",
-    "DONATE": "Donar",
-    "FEATURES": "Característiques",
-    "HOME": "Inici",
-    "INVITE": "Convidar",
-    "MORE_INFO": "Més informació",
-    "PRIVACY_POLICY": "Política de Privacitat",
-    "STATUS": "Estat",
-    "TERMS": "Terminis",
-    "TERMS_AND_CONDITIONS": "Terminis i Condicions",
-    "VOTE": "Votar",
-    "WIKI": "Wiki"
-  },
-  "PAGE_TITLES": {
-    "A_DISCORD_BOT": "Un Bot de Discord",
-    "CALCULATOR": "Calculadora",
-    "STATISTICS": "Estadí­stiques",
-    "THANKS": "Gràcies",
-    "LINK_SHORTENER": "Escurçador de link"
-  },
-  "LINK_SHORTENER": {
-    "TITLE": "Redireccionant",
-    "SUBTITLE": "Seràs redirigit al link original en uns segons"
-  }
 }
