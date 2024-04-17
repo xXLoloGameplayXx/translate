@@ -207,11 +207,11 @@
         "DESCRIPTION": "Estamos encantados de que hayas agregado a Filo a tu comunidad. Prepárate para experimentar el poder de Filo"
     },
     "FOOTER": {
-        "HELPFUL_LINKS": "Enlaces Útiles",
-        "IMPORTANT_LINKS": "Enlaces Importantes",
+        "HELPFUL_LINKS": "Enlaces útiles",
+        "IMPORTANT_LINKS": "Enlaces importantes",
         "ABOUT_FILO": "Acerca de Filo",
-        "ABOUT_FILO_DESCRIPTION": "Filo is a powerful multipurpose Discord bot serving Discord guilds since 2019. Featuring a wide range of admin and moderation modules to make things easier for you",
-        "COPYRIGHT": "Filobot © {{year}}. All rights reserved"
+        "ABOUT_FILO_DESCRIPTION": "Filo es una potente bot de Discord multipropósito sirviendo a las comunidades de Discord desde 2019. Cuenta con una amplia gama de módulos de administración y moderación para hacerte más fácil las cosas",
+        "COPYRIGHT": "Filobot © {{year}}. Todos los derechos reservados"
     },
     "GENERAL": {
         "BLOG": "Blog",
@@ -274,112 +274,112 @@
     },
     "TERMS_OF_SERVICE": {
         "COPYRIGHT": {
-            "TITLE": "Copyright",
-            "FIRST_PARAGRAPH": "We generally accept requests to remove content from our service by sending an email to <strong><a href=\"mailto:{{email}}\">{{email}}</a></strong>. The use, distribution, sale, publication of any content of our service isn't allowed. There are exceptions. We appreciate that you don't use our content to supplement, create or distribute yours. All intellectual property rights are reserved."
+            "TITLE": "Derechos de autor",
+            "FIRST_PARAGRAPH": "Generalmente aceptamos solicitudes para eliminar contenido de nuestro servicio enviando un correo electrónico a <strong><a href=\"mailto:{{email}}\">{{email}}</a></strong>. No se permite el uso, distribución, venta, publicación de cualquier contenido de nuestro servicio. Hay excepciones. Apreciamos que no utilice nuestro contenido para complementar, crear o distribuir el suyo. Todos los derechos de propiedad intelectual están reservados."
         },
         "RIGHTS_TO_USE_THE_SERVICE": {
-            "TITLE": "Rights to use the Service",
-            "FIRST_PARAGRAPH": "We grant limited, non-exclusive and irrevocable right to use the Service. We can revoke your access to this service if:",
+            "TITLE": "Derechos de uso del Servicio",
+            "FIRST_PARAGRAPH": "Otorgamos un derecho limitado, no exclusivo e irrevocable a utilizar el Servicio. Podemos revocar su acceso a este servicio si:",
             "LIST": {
-                "FIRST_ELEMENT": "You are under 13 years old.",
-                "SECOND_ELEMENT": "You engage in illegal, fraudulent, or otherwise harmful activities to a person or entity.",
-                "THIRD_ELEMENT": "You defame, slander, mock, harass, threaten, intimidate, or abuse the rights of a person or entity.",
-                "FOURTH_ELEMENT": "You infringe Filo's intellectual property or services related to Filo; you have a Discord community in which there are subjects that violate Filo's intellectual property or services related to Filo. We don't grant the right to use Filo's resources. There are exceptions.",
-                "FIFTH_ELEMENT": "You participate in the (intentional) interruption of the work of the Filo's staff; you use the Service to interrupt the work of Filo's staff; you use social networks to interrupt the work of Filo's staff.",
-                "SIXTH_ELEMENT": "You develop and distribute copyrighted material.",
-                "SEVENTH_ELEMENT": "You exploit, argue, announce a critical service error; you don't inform Filo's staff of a critical error (and perform the actions mentioned above); you refuse to give Filo's staff details about the critical error found.",
-                "EIGHTH_ELEMENT": "You participate in paid (or unpaid) boost activities; you own a community on which boost activities are performed.",
-                "NINTH_ELEMENT": "You compromise the security, integrity, functionality of the Service.",
-                "TENTH_ELEMENT": "You make inappropriate use of the Service, sent advertising to an external service (or yourself).",
-                "ELEVENTH_ELEMENT": "You try to evade a suspension; you use the Service despite being suspended.",
-                "TWELFTH_ELEMENT": "You use the support methods offered by Filo's staff in an erroneous and intentional manner."
+                "FIRST_ELEMENT": "Tienes menos de 13 años.",
+                "SECOND_ELEMENT": "Participas en actividades ilegales, fraudulentas o de otro modo dañinas para una persona o entidad.",
+                "THIRD_ELEMENT": "Difamas, calumnias, te burlas, acosas, amenazas, intimidas o abusas de los derechos de una persona o entidad.",
+                "FOURTH_ELEMENT": "Infringes la propiedad intelectual de Filo o los servicios relacionados con Filo; tienes una comunidad de Discord en las que hay temas que violan la propiedad intelectual de Filo o los servicios relacionados con Filo. No otorgamos el derecho a utilizar los recursos de Filo. Hay excepciones.",
+                "FIFTH_ELEMENT": "Participas en la interrupción (intencional) del trabajo del personal de Filo; utilizas el Servicio para interrumpir el trabajo del personal de Filo; Utilizas las redes sociales para interrumpir el trabajo del personal de Filo.",
+                "SIXTH_ELEMENT": "Desarrollas y distribuyes material protegido por derechos de autor.",
+                "SEVENTH_ELEMENT": "Explotas, discutes, anuncias un error crítico del servicio; no informas al personal de Filo sobre un error crítico (ni realizas las acciones mencionadas anteriormente); Te niegas a darle al personal de Filo detalles sobre el error crítico encontrado.",
+                "EIGHTH_ELEMENT": "Participas en actividades de impulso pagadas (o no pagadas); eres propietario de una comunidad en la que se realizan actividades de impulso.",
+                "NINTH_ELEMENT": "Comprometes la seguridad, integridad y funcionalidad del Servicio.",
+                "TENTH_ELEMENT": "Haces un uso inadecuado del Servicio, envías publicidad a un servicio externo (o a ti mismo).",
+                "ELEVENTH_ELEMENT": "Intentas evadir una suspensión; utilizas el Servicio a pesar de estar suspendido.",
+                "TWELFTH_ELEMENT": "Utilizas los métodos de soporte ofrecidos por el personal de Filo de manera errónea e intencional."
             },
-            "SECOND_PARAGRAPH": "We reserve the right to modify or suspend, temporarily or permanently, the Service (or any part thereof) with or without notice. We reserve the right to reject the use of the services without notification for any reason, including, but not limited to, a possible violation of the conditions. If you violate these conditions, we reserve the right to issue a warning regarding the violation or immediately suspend your account that you have created through the Service offered by Discord. You agree that we have no obligation to inform you before suspending your account(s), but that you may do so."
+            "SECOND_PARAGRAPH": "Nos reservamos el derecho de modificar o suspender, temporal o permanentemente, el Servicio (o cualquier parte del mismo) con o sin previo aviso. Nos reservamos el derecho de rechazar el uso de los servicios sin previo aviso por cualquier motivo, incluyendo, entre otros, una posible violación de las condiciones. Si violas estas condiciones, nos reservamos el derecho de emitir una advertencia sobre la violación o suspender inmediatamente su cuenta que ha creado a través del Servicio ofrecido por Discord. Usted acepta que no tenemos obligación de informarle antes de suspender su(s) cuenta(s), pero que usted puede hacerlo."
         },
-        "TITLE": "Terms of Service",
-        "DESCRIPTION": "These Terms govern your access to and use of Filo and the services, and any information, text, graphics, or other materials uploaded, downloaded or appearing on the services (collectively referred to as \"Content\"). Your access to and use of the services are conditioned on your acceptance of and compliance with these Terms. By accessing or using the services you agree to be bound by these Terms.",
-        "EFFECTIVE": "Effective",
-        "LAST_UPDATED": "Last Updated",
-        "DATE": "{{month}}/{{day}}/{{year}}",
+        "TITLE": "Términos del Servicio",
+        "DESCRIPTION": "Estos Términos rigen su acceso y uso de Filo y los servicios, y cualquier información, texto, gráficos u otros materiales cargados, descargados o que aparecen en los servicios (denominados colectivamente \"Contenido\"). Su acceso y uso de los servicios están condicionados a su aceptación y cumplimiento de estos Términos. Al acceder o utilizar los servicios, usted acepta estar sujeto a estos Términos.",
+        "EFFECTIVE": "Efectivo",
+        "LAST_UPDATED": "Última Actualización",
+        "DATE": "{{day}}/{{month}}/{{year}}",
         "INTRODUCTION": {
-            "TITLE": "Introduction",
-            "FIRST_PARAGRAPH": "These Terms of Service (\"Terms\"), are a legal agreement between Filobot (\"Us\", \"We\" or \"Our\") and you (\"You\", \"Your\", the \"User\", or the \"End User\"). By using or interacting with Filo (the \"Bot\") or the website located at <strong>{{url}}</strong> (the \"Site\") or any of its aliases, which are collectively referred to as the \"Service\", you agree:",
+            "TITLE": "Introducción",
+            "FIRST_PARAGRAPH": "Estos Términos de servicio (\"Términos\") son un acuerdo legal entre Filobot (\"Nosotros\", \"Nosotros\" o \"Nuestro\") y usted (\"Usted\", \"Su\", el \"Usuario\" o el \"Usuario final\"). \"). Al utilizar o interactuar con Filo (el \"Bot\") o el sitio web ubicado en <strong>{{url}}</strong> (el \"Sitio\") o cualquiera de sus alias, que se denominan colectivamente el \"Servicio\", usted acepta:",
             "LIST": {
-                "FIRST_ELEMENT": "That you are 13 years of age or older.",
-                "SECOND_ELEMENT": "If you are the age of majority in your jurisdiction or over, that you have read, understood, and accept to be bound by the Terms.",
-                "THIRD_ELEMENT": "If you are between 13 and the age of majority in your jurisdiction, that your legal guardian has reviewed and agrees to these Terms."
+                "FIRST_ELEMENT": "Que tienes 13 años o más.",
+                "SECOND_ELEMENT": "Si tiene la mayoría de edad en su jurisdicción o más, ha leído, comprendido y aceptado estar sujeto a los Términos.",
+                "THIRD_ELEMENT": "Si tienes entre 13 años y la mayoría de edad en su jurisdicción, tu tutor legal ha revisado y acepta estos Términos."
             },
-            "SECOND_PARAGRAPH": "We reserve the right, at our sole discretion, to modify or revise these Terms at any time, and you agree to be bound by such modifications or revisions. Any such change or modification will be effective immediately, and your continued use of the Service will constite your acceptance of, and agreement to, such changes or modifications. If you object to any change or modification, your sole recourse shall be to cease using the Service.",
-            "THIRD_PARAGRAPH": "We integrate with various platforms (\"platforms\") to provide you with our services. Neither platform endorses Filo, nor does Filo endorse these platforms. Discord isn't affiliated with Filo."
+            "SECOND_PARAGRAPH": "Nos reservamos el derecho, a nuestro exclusivo criterio, de modificar o revisar estos Términos en cualquier momento, y usted acepta estar sujeto a dichas modificaciones o revisiones. Cualquier cambio o modificación entrará en vigencia de inmediato y su uso continuado del Servicio constituirá su aceptación y acuerdo con dichos cambios o modificaciones. Si se opone a cualquier cambio o modificación, su único recurso será dejar de utilizar el Servicio.",
+            "THIRD_PARAGRAPH": "Nos integramos con varias plataformas (\"plataformas\") para brindarle nuestros servicios. Ninguna plataforma respalda a Filo, ni Filo respalda a estas plataformas. Discord no está afiliado a Filo."
         },
         "TERMS_OF_SALES": {
-            "TITLE": "Virtual currencies, virtual goods, and Terms of Sales",
-            "FIRST_PARAGRAPH": "The Service is free to use, but we may offer additional services for a fee. Please read the <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Terms of Sales</a></strong> carefully before purchasing Virtual Currency or Virtual Goods (as defined below) from Filo."
+            "TITLE": "Monedas virtuales, bienes virtuales y Términos de Venta",
+            "FIRST_PARAGRAPH": "El Servicio es de uso gratuito, pero podemos ofrecer servicios adicionales pagando una tarifa. Lea atentamente los <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Términos de Venta</a></strong> antes de comprar moneda virtual o productos virtuales (como se define a continuación) de Filo."
         },
         "THIRD_PARTY_SERVICES": {
-            "TITLE": "Third-party Services",
-            "FIRST_PARAGRAPH": "We use third-party services to help us provide the Service, but such use doesn't indicate that we endorse them or are responsible or liable for their actions. In addition, the Service may link to third-party websites to facilitate its provision of services to you. If you use these links, you will leave the Service. We aren't responsible for nor do we endorse these third-party websites or the organizations sponsoring such third-party websites or their products or services, whether or not we are affiliated with such third-party websites. You agree that we aren't responsible or liable for any loss or damage of any sort incurred as a result of any such dealings you may have on or through a third-party website or as a result of the presence of any third-party advertising on the Service."
+            "TITLE": "Servicios de Terceros",
+            "FIRST_PARAGRAPH": "Utilizamos servicios de terceros para ayudarnos a proporcionar el Servicio, pero dicho uso no indica que los respaldemos o que seamos responsables de sus acciones. Además, el Servicio puede vincularse a sitios web de terceros para facilitar la prestación de servicios. Si utilizas estos enlaces, abandonarás el Servicio. No somos responsables ni respaldamos estos sitios web de terceros ni las organizaciones que patrocinan dichos sitios web de terceros o sus productos o servicios, ya sea que estemos afiliados o no a dichos sitios web de terceros. Usted acepta que no somos responsables de ninguna pérdida o daño de cualquier tipo incurrido como resultado de dichas transacciones que pueda tener en o a través de un sitio web de terceros o como resultado de la presencia de publicidad de terceros. en el Servicio."
         },
         "FEEDBACKS": {
-            "TITLE": "Feedbacks",
-            "FIRST_PARAGRAPH": "We appreciate your feedback, ideas, suggestions (\"Feedback\"). If you decide to send us Feedback, you declare and guarantee that:",
+            "TITLE": "Comentarios",
+            "FIRST_PARAGRAPH": "Agradecemos sus comentarios, ideas y sugerencias (\"Comentarios\"). Si decide enviarnos Comentarios, declara y garantiza que:",
             "LIST": {
-                "FIRST_ELEMENT": "You have the right to share the Feedback.",
-                "SECOND_ELEMENT": "The Feedback don't infringe the intellectual property rights of any third party.",
-                "THIRD_ELEMENT": "The Feedback don't contain confidential or proprietary information of any third party.",
-                "FOURTH_ELEMENT": "Your views won't be used for the purpose of advertising or promoting a product or service, or for any other commercial purpose.",
-                "FIFTH_ELEMENT": "We aren't obligated to review, consider, or implement your Feedback, but we may use your Feedback for any purpose without compensation to you."
+                "FIRST_ELEMENT": "Tienes derecho a compartir los comentarios.",
+                "SECOND_ELEMENT": "Los Comentarios no infringen los derechos de propiedad intelectual de ningún tercero.",
+                "THIRD_ELEMENT": "Los Comentarios no contienen información confidencial o de propiedad de ningún tercero.",
+                "FOURTH_ELEMENT": "Sus opiniones no se utilizarán con fines publicitarios o de promoción de un producto o servicio, ni para ningún otro fin comercial.",
+                "FIFTH_ELEMENT": "No estamos obligados a revisar, considerar o implementar sus comentarios, pero podemos utilizarlos para cualquier propósito sin compensarle."
             },
-            "SECOND_PARAGRAPH": "We reserve the right to remove any Feedback that we consider to be inappropriate or offensive. We aren't responsible for the information you choose to share with us as part of your Feedback or for any loss or damage you may suffer as a result of sharing such Feedback."
+            "SECOND_PARAGRAPH": "Nos reservamos el derecho de eliminar cualquier comentario que consideremos inapropiado u ofensivo. No somos responsables de la información que elija compartir con nosotros como parte de sus Comentarios ni de ninguna pérdida o daño que pueda sufrir como resultado de compartir dichos Comentarios."
         },
         "CONFIDENTIAL_INFORMATION": {
-            "TITLE": "Confidential Information",
-            "FIRST_PARAGRAPH": "You agree that you won't disclose Filo's confidential information without our prior written consent. \"Confidential information\" includes, but isn't limited to, the following:",
+            "TITLE": "Información confidencial",
+            "FIRST_PARAGRAPH": "Usted acepta que no divulgará la información confidencial de Filo sin nuestro consentimiento previo por escrito. La \"información confidencial\" incluye, entre otros, lo siguiente:",
             "LIST": {
-                "FIRST_ELEMENT": "Any software, technology, programming, specifications, materials, guidelines and documentation relating to the Service.",
-                "SECOND_ELEMENT": "Statistics relating to the performance of the Service.",
-                "THIRD_ELEMENT": "The existence of, and information about, beta features in a Service.",
-                "FOURTH_ELEMENT": "Any other information made available by Filo that is marked confidential or would normally be considered confidential under the circumstances in which it is presented."
+                "FIRST_ELEMENT": "Cualquier software, tecnología, programación, especificaciones, materiales, directrices y documentación relacionados con el Servicio.",
+                "SECOND_ELEMENT": "Estadísticas relativas a la prestación del Servicio.",
+                "THIRD_ELEMENT": "La existencia e información sobre las funciones beta de un Servicio.",
+                "FOURTH_ELEMENT": "Cualquier otra información proporcionada por Filo que esté marcada como confidencial o que normalmente se consideraría confidencial según las circunstancias en las que se presenta."
             },
-            "SECOND_PARAGRAPH": "Confidential information doesn't include information that you already knew prior to your use of the Service, that becomes public through no fault of yours, that was independently developed by you, or that was lawfully given to you by a third party. Notwithstanding the foregoing, you may accurately disclose the amount of Filo's gross payments resulting from your use of the Service."
+            "SECOND_PARAGRAPH": "La información confidencial no incluye información que usted ya conocía antes de usar el Servicio, que se vuelve pública sin culpa suya, que usted desarrolló de forma independiente o que le fue proporcionada legalmente por un tercero. Sin perjuicio de lo anterior, usted puede revelar con precisión el monto de los pagos brutos de Filo resultantes de su uso del Servicio."
         },
         "PRIVACY_POLICY": {
-            "TITLE": "Privacy Policy",
-            "FIRST_PARAGRAPH": "Please refer to our <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong> for information on how we collect, use and disclose information from our users."
+            "TITLE": "Política de Privacidad",
+            "FIRST_PARAGRAPH": "Consulte nuestra <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Privacidad</a></strong> para obtener información sobre cómo recopilamos, utilizamos y divulgamos información de nuestros usuarios."
         },
         "EXPERIMENTAL_FEATURES": {
-            "TITLE": "Experimental Features or Beta Services",
-            "FIRST_PARAGRAPH": "We may offer you access to features or services that are considered experimental or in a beta state (\"Beta Features\"). Beta Features may have reduced or different security, privacy, accessibility, availability and reliability standards, and may not operate correctly or in the way that a generally available feature or service would operate. Our inclusion of Beta Features shouldn't be construed as an endorsement, guarantee, warranty, or recommendation of them by us or any third party. All Beta Features are provided \"as is\" and at your own risk, and you agree that we have no liability arising from your use of or access to any Beta Features.",
-            "SECOND_PARAGRAPH": "We may also terminate, suspend, or modify any Beta Features at any time without prior notice to you. We may also decide not to make a Beta Feature generally available. We may add or remove Beta Features from the Service at any time in our sole discretion. If you decide to use any Beta Features, you do so at your sole risk."
+            "TITLE": "Funciones Experimentales o Servicios en Beta",
+            "FIRST_PARAGRAPH": "Podemos ofrecerle acceso a funciones o servicios que se consideran experimentales o en estado beta (\"Funciones en Beta\"). Las Funciones en Beta pueden tener estándares de seguridad, privacidad, accesibilidad, disponibilidad y confiabilidad reducidos o diferentes, y es posible que no funcionen correctamente o en la forma en que lo haría una función o servicio disponible generalmente. Nuestra inclusión de Funciones Beta no debe interpretarse como un respaldo, garantía o recomendación de ellas por parte nuestra o de un tercero. Todas las Funciones en Beta se proporcionan \"tal cual\" y bajo su propio riesgo, y usted acepta que no tenemos ninguna responsabilidad derivada del uso o acceso a las Funciones en Beta.",
+            "SECOND_PARAGRAPH": "También podemos cancelar, suspender o modificar cualquier Función en Beta en cualquier momento sin previo aviso. También podemos decidir no hacer que una Función en Beta esté disponible de forma generalizada. Podemos agregar o eliminar Funciones Beta del Servicio en cualquier momento a nuestro exclusivo criterio. Si decide utilizar alguna Función en Beta, lo hará bajo su propio riesgo."
         },
         "DISCLAIMER_OF_WARRANTY": {
-            "TITLE": "Disclaimer of Warranty",
-            "FIRST_PARAGRAPH": "The services and the materials of the Service are provided \"as is\" and \"as available\", without any warranties of any kind, either express or implied, including, but not limited, implied warranties, suitable and suitable for any kind. No infringement. Use of the Service is at your sole risk. Further, even though we try to provide a good user experience, we can't and don't represent or guarantee that the Service will always be safe and error-free or that the Service will always operate with no delays, interruptions or defects. The foregoing disclaimers will apply to the extent permitted by applicable law.",
-            "SECOND_PARAGRAPH": "We aren't responsible for outages of the Service."
+            "TITLE": "Renuncia de Garantía",
+            "FIRST_PARAGRAPH": "Los servicios y los materiales del Servicio se proporcionan \"tal cual\" y \"según disponibilidad\", sin garantías de ningún tipo, ya sean expresas o implícitas, incluidas, entre otras, las garantías implícitas, adecuadas y adecuadas para cualquier tipo. Ninguna infracción. El uso del Servicio es bajo su propio riesgo. Además, aunque intentamos brindar una buena experiencia de usuario, no podemos representar ni garantizar que el Servicio siempre será seguro y estará libre de errores o que el Servicio siempre funcionará sin demoras, interrupciones o defectos. Las exenciones de responsabilidad anteriores se aplicarán en la medida permitida por la ley aplicable.",
+            "SECOND_PARAGRAPH": "No somos responsables de las interrupciones del Servicio."
         },
         "LIMITATION_OF_LIABILITY": {
-            "TITLE": "Limitation of Liability",
-            "FIRST_PARAGRAPH": "You expressly acknowledge that we won't be responsible for user content, including without limitation its content, as well as for defamatory, offensive or illegal conduct of any third party and that the risk of damage or prejudice of the foregoing rests entirely with you."
+            "TITLE": "Limitación de Responsabilidad",
+            "FIRST_PARAGRAPH": "Usted reconoce expresamente que no seremos responsables del contenido del usuario, incluido, entre otros, su contenido, así como de la conducta difamatoria, ofensiva o ilegal de cualquier tercero y que el riesgo de daño o perjuicio de lo anterior recae enteramente en usted."
         },
         "INDEMNIFICATION": {
-            "TITLE": "Indemnification",
-            "FIRST_PARAGRAPH": "You agree to defend, indemnify and hold harmless Filobot and its subsidiaries, agents, licensors, managers, and other affiliated companies, and their employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees) arising from:",
+            "TITLE": "Indemnización",
+            "FIRST_PARAGRAPH": "Usted acepta defender, indemnizar y eximir de responsabilidad a Filobot y sus subsidiarias, agentes, licenciantes, gerentes y otras compañías afiliadas, y sus empleados, contratistas, agentes, funcionarios y directores, de y contra todos y cada uno de los reclamos, daños, obligaciones y pérdidas. , pasivos, costos o deudas y gastos (incluidos, entre otros, honorarios de abogados) que surjan de:",
             "LIST": {
-                "FIRST_ELEMENT": "Your use of and access to the Service, including any data or content transmitted or received by you.",
-                "SECOND_ELEMENT": "Your violation of any term of this Agreement, including without limitation your breach of any of the representations and warranties above.",
-                "THIRD_ELEMENT": "Your violation of any third-party right, including without limitation any right of privacy or intellectual property rights.",
-                "FOURTH_ELEMENT": "Your violation of any applicable law, rule or regulation.",
-                "FIFTH_ELEMENT": "Any claim or damages that arise as a result of any of your user content or any that is submitted via your account."
+                "FIRST_ELEMENT": "Su uso y acceso al Servicio, incluidos cualquier dato o contenido transmitido o recibido por usted.",
+                "SECOND_ELEMENT": "Su violación de cualquier término de este Acuerdo, incluido, entre otros, su incumplimiento de cualquiera de las representaciones y garantías anteriores.",
+                "THIRD_ELEMENT": "Su violación de cualquier derecho de terceros, incluido, entre otros, cualquier derecho de privacidad o derechos de propiedad intelectual.",
+                "FOURTH_ELEMENT": "Su violación de cualquier ley, norma o reglamento aplicable.",
+                "FIFTH_ELEMENT": "Cualquier reclamo o daño que surja como resultado de cualquier contenido de su usuario o cualquiera que se envíe a través de su cuenta."
             },
-            "SECOND_PARAGRAPH": "This defense and indemnification obligation will survive this Agreement and your use of the Service."
+            "SECOND_PARAGRAPH": "Esta obligación de defensa e indemnización sobrevivirá a este Acuerdo y a su uso del Servicio."
         },
         "TERMINATION": {
-            "TITLE": "Termination",
-            "FIRST_PARAGRAPH": "We may terminate or suspend your access to the Service at any time, including in the event of your actual or suspected unauthorized use of the Service or non-compliance with these Terms. If you or Filobot terminate your use of the Service, we may delete any content or other materials relating to your use of the Service and we will have no liability to you or any third party for doing so."
+            "TITLE": "Terminación",
+            "FIRST_PARAGRAPH": "Podemos terminar o suspender su acceso al Servicio en cualquier momento, incluso en caso de que usted haga un uso no autorizado real o sospechado del Servicio o que incumpla estos Términos. Si usted o Filobot cancelan su uso del Servicio, podemos eliminar cualquier contenido u otros materiales relacionados con su uso del Servicio y no seremos responsables ante usted ni ante ningún tercero por hacerlo."
         },
         "CONTACT": {
-            "TITLE": "Contact",
-            "FIRST_PARAGRAPH": "If you have any questions about these Terms, please contact us at <strong><a href=\"mailto:{{email}}\">{{email}}</a></strong>."
+            "TITLE": "Contacto",
+            "FIRST_PARAGRAPH": "Si tienes alguna pregunta sobre estos Términos, comunícate con nosotros en <strong><a href=\"mailto:{{email}}\">{{email}}</a></strong>."
         }
     },
     "PRIVACY_POLICY": {
@@ -652,13 +652,13 @@
                 "THIRD_PARAGRAPH": "Los usuarios también tienen derecho a conocer la base jurídica de las transferencias de Datos al extranjero, incluso a cualquier organización internacional regida por el derecho internacional público o creada por dos o más países, como la ONU, y sobre las medidas de seguridad adoptadas por el Titular para salvaguardar sus datos. Datos."
             },
             "DETAILS_ABOUT_THE_RIGHT_TO_OBJECT_TO_PROCESSING": {
-                "TITLE": "Details about the right to object to processing",
-                "FIRST_PARAGRAPH": "Where Personal Data is processed for a public interest, in the exercise of an official authority vested in the Owner or for the purposes of the legitimate interests pursued by the Owner, Users may object to such processing by providing a ground related to their particular situation to justify the objection.",
-                "SECOND_PARAGRAPH": "Users must know that, however, should their Personal Data be processed for direct marketing purposes, they can object to that processing at any time without providing any justification. To learn, whether the Owner is processing Personal Data for direct marketing purposes, Users may refer to the relevant sections of this document."
+                "TITLE": "Detalles sobre el derecho a oponerse al procesamiento",
+                "FIRST_PARAGRAPH": "Cuando los Datos personales se procesan por un interés público, en el ejercicio de una autoridad oficial conferida al Titular o para los fines de los intereses legítimos perseguidos por el Titular, los Usuarios pueden oponerse a dicho procesamiento proporcionando un motivo relacionado con su situación particular para justificar la objeción.",
+                "SECOND_PARAGRAPH": "Los usuarios deben saber que, sin embargo, si sus Datos Personales se procesan con fines de marketing directo, pueden oponerse a ese procesamiento en cualquier momento sin dar ninguna justificación. Para saber si el Propietario está procesando Datos personales con fines de marketing directo, los Usuarios pueden consultar las secciones pertinentes de este documento."
             },
             "HOW_TO_EXERCISE_THESE_RIGHTS": {
-                "TITLE": "How to exercise these rights",
-                "FIRST_PARAGRAPH": "Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. These requests can be exercised free of charge and will be addressed by the Owner as early as possible and always within one month."
+                "TITLE": "Cómo ejercer estos derechos",
+                "FIRST_PARAGRAPH": "Cualquier solicitud para ejercer los derechos del Usuario puede dirigirse al Titular a través de los datos de contacto proporcionados en este documento. Estas solicitudes podrán ejercitarse de forma gratuita y serán atendidas por el Titular con la mayor antelación posible y siempre en el plazo de un mes."
             }
         },
         "INFORMATION_ON_OPTING_OUT_OF_INTEREST_BASED_ADVERTISING": {
@@ -674,336 +674,336 @@
             "FIRST_PARAGRAPH": "Esta sección se aplica a todos los Usuarios de la Unión Europea, de acuerdo con el Reglamento General de Protección de Datos (el \"GDPR\") y, para dichos Usuarios, reemplaza cualquier otra información posiblemente divergente o contradictoria contenida en la política de privacidad. Puede encontrar más detalles sobre las categorías de Datos procesados, los fines del procesamiento, las categorías de destinatarios de los Datos personales, si corresponde, y más información sobre los Datos personales en la sección titulada <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Información detallada sobre el procesamiento de Datos Personales</a></strong> dentro de este documento."
         },
         "ADDITIONAL_INFORMATION_ABOUT_DATA_COLLECTION_AND_PROCESSING": {
-            "TITLE": "Additional information about Data collection and processing",
+            "TITLE": "Información adicional sobre la recopilación y el procesamiento de datos",
             "LEGAL_ACTION": {
-                "TITLE": "Legal action",
-                "FIRST_PARAGRAPH": "The User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of Filo or the related services.",
-                "SECOND_PARAGRAPH": "The User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities."
+                "TITLE": "Acción legal",
+                "FIRST_PARAGRAPH": "Los Datos Personales del Usuario podrán ser utilizados con fines legales por el Titular en los tribunales o en las etapas previas a posibles acciones legales derivadas del uso indebido de Filo o los servicios relacionados.",
+                "SECOND_PARAGRAPH": "El Usuario declara ser consciente de que el Titular puede verse obligado a revelar datos personales a petición de las autoridades públicas."
             },
             "ADDITIONAL_INFORMATION_ABOUT_USER_PERSONAL_DATA": {
-                "TITLE": "Additional information about User's Personal Data",
-                "FIRST_PARAGRAPH": "In addition to the information contained in this privacy policy, Filo may provide the User with additional and contextual information concerning particular services or the collection and processing of Personal Data upon request."
+                "TITLE": "Información adicional sobre los Datos Personales del Usuario",
+                "FIRST_PARAGRAPH": "Además de la información contenida en esta política de privacidad, Filo puede proporcionar al Usuario información adicional y contextual sobre servicios particulares o la recopilación y procesamiento de Datos Personales previa solicitud."
             },
             "SYSTEM_LOGS_AND_MAINTENANCE": {
-                "TITLE": "System logs and maintenance",
-                "FIRST_PARAGRAPH": "For operation and maintenance purposes, Filo and any third-party services may collect files that record interaction with Filo (System logs) use other Personal Data (such as the IP Address) for this purpose."
+                "TITLE": "Registros y mantenimiento del sistema",
+                "FIRST_PARAGRAPH": "Para fines de operación y mantenimiento, Filo y cualquier servicio de terceros pueden recopilar archivos que registren la interacción con Filo (registros del sistema) y utilizar otros datos personales (como la dirección IP) para este propósito."
             },
             "INFORMATION_NOT_CONTAINED_IN_THIS_POLICY": {
-                "TITLE": "Information not contained in this policy",
-                "FIRST_PARAGRAPH": "More details concerning the collection or processing of Personal Data may be requested from the Owner at any time. Please see the contact information at the beginning of this document."
+                "TITLE": "Información no contenida en esta política",
+                "FIRST_PARAGRAPH": "Se podrán solicitar al Titular más detalles sobre la recopilación o el procesamiento de Datos Personales en cualquier momento. Consulte la información de contacto al principio de este documento."
             },
             "HOW_DO_NOT_TRACK_REQUESTS_ARE_HANDLED": {
-                "TITLE": "How \"Do Not Track\" requests are handled",
-                "FIRST_PARAGRAPH": "Filo does not support \"Do Not Track\" requests. To determine whether any of the third-party services it uses honor the \"Do Not Track\" requests, please read their privacy policies."
+                "TITLE": "Cómo se manejan las solicitudes de \"No rastrear\"",
+                "FIRST_PARAGRAPH": "Filo no admite solicitudes de \"No rastrear\". Para determinar si alguno de los servicios de terceros que utiliza cumple con las solicitudes de \"No rastrear\", lea sus políticas de privacidad."
             },
             "CHANGES_TO_THIS_PRIVACY_POLICY": {
-                "TITLE": "Changes to this privacy policy",
-                "FIRST_PARAGRAPH": "The Owner reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page and possibly within Filo and/or - as far as technically and legally feasible - sending a notice to Users via any contact information available to the Owner. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom.",
-                "SECOND_PARAGRAPH": "Should the changes affect processing activities performed on the basis of the User's consent, the Owner shall collect new consent from the User, where required."
+                "TITLE": "Cambios en esta política de privacidad",
+                "FIRST_PARAGRAPH": "El Propietario se reserva el derecho de realizar cambios a esta política de privacidad en cualquier momento notificando a sus Usuarios en esta página y posiblemente dentro de Filo y/o - en la medida en que sea técnica y legalmente posible - enviando un aviso a los Usuarios a través de cualquier información de contacto disponible. al dueño. Se recomienda encarecidamente consultar esta página con frecuencia, consultando la fecha de la última modificación que figura en la parte inferior.",
+                "SECOND_PARAGRAPH": "Si los cambios afectan las actividades de procesamiento realizadas sobre la base del consentimiento del Usuario, el Propietario deberá obtener un nuevo consentimiento del Usuario, cuando sea necesario."
             }
         },
         "DEFINITIONS_AND_LEGAL_REFERENCES": {
             "LEGAL_INFORMATION": {
-                "SECOND_PARAGRAPH": "This privacy policy relates solely to Filo, if not stated otherwise within this document.",
-                "TITLE": "Legal information",
-                "FIRST_PARAGRAPH": "This privacy statement has been prepared based on provisions of multiple legislations, including Art. 13/14 of Regulation (EU) 2016/679 (General Data Protection Regulation)."
+                "SECOND_PARAGRAPH": "Esta política de privacidad se relaciona únicamente con Filo, a menos que se indique lo contrario en este documento.",
+                "TITLE": "Información legal",
+                "FIRST_PARAGRAPH": "Esta declaración de privacidad ha sido elaborada en base a lo dispuesto en múltiples legislaciones, incluido el art. 13/14 del Reglamento (UE) 2016/679 (Reglamento General de Protección de Datos)."
             },
-            "TITLE": "Definitions and legal references",
+            "TITLE": "Definiciones y referencias legales",
             "PERSONAL_DATA": {
-                "TITLE": "Personal Data (or Data)",
-                "FIRST_PARAGRAPH": "Any information that directly, indirectly, or in connection with other information — including a personal identification number — allows for the identification or identifiability of a natural person."
+                "TITLE": "Datos Personales (o Datos)",
+                "FIRST_PARAGRAPH": "Cualquier información que directa, indirectamente o en conexión con otra información, incluido un número de identificación personal, permita la identificación o identificabilidad de una persona física."
             },
             "USAGE_DATA": {
-                "TITLE": "Usage Data",
-                "FIRST_PARAGRAPH": "Information collected automatically through Filo (or third-party services employed in Filo), which can include: the IP addresses or domain names of the computers utilized by the Users who use Filo, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment."
+                "TITLE": "Datos de Uso",
+                "FIRST_PARAGRAPH": "Información recopilada automáticamente a través de Filo (o servicios de terceros empleados en Filo), que puede incluir: las direcciones IP o nombres de dominio de las computadoras utilizadas por los Usuarios que usan Filo, las direcciones URI (Identificador uniforme de recursos), la hora del solicitud, el método utilizado para enviar la solicitud al servidor, el tamaño del archivo recibido en respuesta, el código numérico que indica el estado de la respuesta del servidor (resultado exitoso, error, etc.), el país de origen, las características de el navegador y el sistema operativo utilizados por el Usuario, los diversos detalles de tiempo por visita (por ejemplo, el tiempo transcurrido en cada página dentro de la Aplicación) y los detalles sobre la ruta seguida dentro de la Aplicación con especial referencia a la secuencia de páginas visitadas, y otros parámetros sobre el sistema operativo del dispositivo y/o el entorno informático del Usuario."
             },
             "USER": {
-                "TITLE": "User",
-                "FIRST_PARAGRAPH": "The individual using Filo who, unless otherwise specified, coincides with the Data Subject."
+                "TITLE": "Usuario",
+                "FIRST_PARAGRAPH": "La persona física que utiliza Filo y que, salvo especificación en contrario, coincide con el Titular de los Datos."
             },
             "DATA_SUBJECT": {
-                "TITLE": "Data Subject",
-                "FIRST_PARAGRAPH": "The natural person to whom the Personal Data refers."
+                "TITLE": "Titular de los Datos",
+                "FIRST_PARAGRAPH": "La persona natural a quien se refieren los Datos Personales."
             },
             "DATA_PROCESSOR": {
-                "TITLE": "Data Processor (or Data Supervisor)",
-                "FIRST_PARAGRAPH": "The natural or legal person, public authority, agency or other body which processes Personal Data on behalf of the Controller, as described in this privacy policy."
+                "TITLE": "Procesador de Datos (o Supervisor de Datos)",
+                "FIRST_PARAGRAPH": "La persona física o jurídica, autoridad pública, agencia u otro organismo que procesa Datos Personales en nombre del Responsable, como se describe en esta política de privacidad."
             },
             "DATA_CONTROLLER": {
-                "TITLE": "Data Controller (or Owner)",
-                "FIRST_PARAGRAPH": "The natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of Personal Data, including the security measures concerning the operation and use of Filo. The Data Controller, unless otherwise specified, is the Owner of Filo."
+                "TITLE": "Controlador de Datos (o Propietario)",
+                "FIRST_PARAGRAPH": "La persona física o jurídica, autoridad pública, agencia u otro organismo que, solo o junto con otros, determina los fines y medios del procesamiento de Datos Personales, incluidas las medidas de seguridad relativas al funcionamiento y uso de Filo. El Responsable del Tratamiento, salvo que se especifique lo contrario, es el Titular de Filo."
             },
             "FILO": {
-                "TITLE": "Filo (or this Application)",
-                "FIRST_PARAGRAPH": "The means by which the Personal Data of the User is collected and processed."
+                "TITLE": "Filo (o esta Aplicación)",
+                "FIRST_PARAGRAPH": "El medio por el cual se recopilan y procesan los Datos Personales del Usuario."
             },
             "SERVICE": {
-                "TITLE": "Service",
-                "FIRST_PARAGRAPH": "The service provided by Filo as described in the relative terms (if available) and on this site/application."
+                "TITLE": "Servicio",
+                "FIRST_PARAGRAPH": "El servicio proporcionado por Filo como se describe en los términos relativos (si están disponibles) y en este sitio/aplicación."
             },
             "EUROPEAN_UNION": {
-                "TITLE": "European Union (or EU)",
-                "FIRST_PARAGRAPH": "Unless otherwise specified, all references made within this document to the European Union include all current member states to the European Union and the European Economic Area."
+                "TITLE": "Unión Europa (o UE)",
+                "FIRST_PARAGRAPH": "A menos que se especifique lo contrario, todas las referencias hechas en este documento a la Unión Europea incluyen todos los estados miembros actuales de la Unión Europea y el Espacio Económico Europeo."
             },
             "COOKIES": {
                 "TITLE": "Cookies",
-                "FIRST_PARAGRAPH": "Small sets of data stored in the User's device."
+                "FIRST_PARAGRAPH": "Pequeños conjuntos de datos almacenados en el dispositivo del Usuario."
             }
         }
     },
     "COOKIES_POLICY": {
         "BEFORE": {
-            "SECOND_PARAGRAPH": "For simplicity, all such technologies are defined as \"Trackers\" within this document – unless there is a reason to differentiate.",
-            "THIRD_PARAGRAPH": "For example, while Cookies can be used on both web and mobile browsers, it would be inaccurate to talk about Cookies in the context of mobile apps as they are a browser-based Tracker. For this reason, within this document, the term Cookies is only used where it is specifically meant to indicate that particular type of Tracker.",
-            "FOURTH_PARAGRAPH": "Some of the purposes for which Trackers are used may also require the User's consent. Whenever consent is given, it can be freely withdrawn at any time following the instructions provided in this document.",
-            "FIFTH_PARAGRAPH": "This Website only uses Trackers that enable services provided by a third-party (so-called \"third-party\" Trackers). Unless otherwise specified within this document, third-party providers may access their Trackers.",
-            "SIXTH_PARAGRAPH": "The validity and expiration periods of third-party Cookies and other similar Trackers may vary depending on the lifetime set by the relevant provider.",
-            "FIRST_PARAGRAPH": "This document informs Users about the technologies that help this Website to achieve the purposes described below. Such technologies allow the Owner to access and store information (for example by using a Cookie) or use resources (for example by running a script) on a User's device as they interact with this Website."
+            "SECOND_PARAGRAPH": "Para simplificar, todas estas tecnologías se definen como \"rastreadores\" en este documento, a menos que exista un motivo para diferenciarlas.",
+            "THIRD_PARAGRAPH": "Por ejemplo, si bien las Cookies se pueden utilizar tanto en navegadores web como móviles, sería incorrecto hablar de Cookies en el contexto de las aplicaciones móviles, ya que son un rastreador basado en el navegador. Por este motivo, en este documento, el término Cookies solo se utiliza cuando pretende indicar específicamente ese tipo particular de Rastreador.",
+            "FOURTH_PARAGRAPH": "Algunos de los fines para los que se utilizan los Rastreadores también pueden requerir el consentimiento del Usuario. Siempre que se preste el consentimiento, éste podrá retirarse libremente en cualquier momento siguiendo las instrucciones proporcionadas en este documento.",
+            "FIFTH_PARAGRAPH": "Este sitio web sólo utiliza rastreadores que habilitan servicios proporcionados por un tercero (los llamados rastreadores de \"terceros\"). A menos que se especifique lo contrario en este documento, los proveedores externos pueden acceder a sus Rastreadores.",
+            "SIXTH_PARAGRAPH": "Los períodos de validez y caducidad de las Cookies de terceros y otros Rastreadores similares pueden variar según la vida útil establecida por el proveedor correspondiente.",
+            "FIRST_PARAGRAPH": "Este documento informa a los Usuarios sobre las tecnologías que ayudan a este Sitio Web a lograr los fines que se describen a continuación. Dichas tecnologías permiten al Propietario acceder y almacenar información (por ejemplo, mediante el uso de una Cookie) o utilizar recursos (por ejemplo, ejecutando un script) en el dispositivo de un Usuario mientras interactúa con este Sitio web."
         },
         "ANALYTICS": {
             "GOOGLE_ANALYTICS": {
-                "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Opt Out</a></strong>.",
+                "PLACE_OF_PROCESSING": "<strong>Lugar de procesamiento</strong>: Estados Unidos – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Privacidad</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Optar por no</a></strong>.",
                 "TITLE": "Google Analytics (Google Inc.)",
-                "FIRST_PARAGRAPH": "Google Analytics is a web analysis service provided by Google Inc. (\"Google\"). Google utilizes the Data collected to track and examine the use of this Website, to prepare reports on its activities and share them with other Google services.",
-                "SECOND_PARAGRAPH": "Google may use the Data collected to contextualize and personalize the ads of its own advertising network.",
-                "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Cookies; Usage Data."
+                "FIRST_PARAGRAPH": "Google Analytics es un servicio de análisis web proporcionado por Google Inc. (\"Google\"). Google utiliza los datos recopilados para rastrear y examinar el uso de este sitio web, preparar informes sobre sus actividades y compartirlos con otros servicios de Google.",
+                "SECOND_PARAGRAPH": "Google podrá utilizar los Datos recopilados para contextualizar y personalizar los anuncios de su propia red publicitaria.",
+                "PERSONAL_DATA_COLLECTED": "<strong>Datos personales recopilados</strong>: Galletas; Datos de uso."
             },
-            "TITLE": "Analytics",
-            "FIRST_PARAGRAPH": "The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior."
+            "TITLE": "Analíticas",
+            "FIRST_PARAGRAPH": "Los servicios contenidos en esta sección permiten al Titular monitorear y analizar el tráfico web y pueden usarse para realizar un seguimiento del comportamiento del Usuario."
         },
-        "SEVENTH_PARAGRAPH": "In addition to what's specified in the descriptions within each of the categories below, Users may find more precise and updated information regarding lifetime specification as well as any other relevant information — such as the presence of other Trackers — in the linked privacy policies of the respective third-party providers or by contacting the Owner.",
+        "SEVENTH_PARAGRAPH": "Además de lo que se especifica en las descripciones dentro de cada una de las categorías siguientes, los Usuarios pueden encontrar información más precisa y actualizada sobre la especificación de vida útil, así como cualquier otra información relevante, como la presencia de otros Rastreadores, en las políticas de privacidad vinculadas de las respectivas categorías. terceros proveedores o contactando con el Titular.",
         "ACTIVITIES_STRICTLY_NECESSARY": {
-            "TITLE": "Activities strictly necessary for the operation of this Website and delivery of the Service",
-            "FIRST_PARAGRAPH": "This Website uses so-called \"technical\" Cookies and other similar Trackers to carry out activities that are strictly necessary for the operation or delivery of the Service."
+            "TITLE": "Actividades estrictamente necesarias para el funcionamiento de este sitio web y la prestación del Servicio.",
+            "FIRST_PARAGRAPH": "Este Sitio web utiliza las denominadas Cookies \"técnicas\" y otros Rastreadores similares para llevar a cabo actividades que son estrictamente necesarias para el funcionamiento o la prestación del Servicio."
         },
         "THIRD_PARTY_TRACKER": {
-            "TITLE": "Third-party Tracker",
-            "FIRST_PARAGRAPH": "This Website uses Trackers managed directly by the Owner (so-called \"first-party\" Trackers) and Trackers that enable services provided by a third-party (so-called \"third-party\" Trackers). Unless otherwise specified within this document, third-party providers may access their Trackers.",
+            "TITLE": "Rastreador de terceros",
+            "FIRST_PARAGRAPH": "Este Sitio Web utiliza Rastreadores gestionados directamente por el Propietario (los llamados Rastreadores \"propios\") y Rastreadores que habilitan servicios proporcionados por un tercero (los llamados Rastreadores \"de terceros\"). A menos que se especifique lo contrario en este documento, los proveedores externos pueden acceder a sus Rastreadores.",
             "TRAFFIC_OPTIMIZATION_AND_DISTRIBUTION": {
-                "TITLE": "Traffic optimization and distribution",
-                "FIRST_PARAGRAPH": "This type of service allows this Website to distribute their content using servers located across different countries and to optimize their performance.",
-                "SECOND_PARAGRAPH": "Which Personal Data are processed depends on the characteristics and the way these services are implemented. Their function is to filter communications between this Website and the User's browser.",
-                "THIRD_PARAGRAPH": "Considering the widespread distribution of this system, it is difficult to determine the locations to which the contents that may contain Personal Information of the User are transferred.",
+                "TITLE": "Optimización y distribución del tráfico",
+                "FIRST_PARAGRAPH": "Este tipo de servicio permite a este Sitio Web distribuir su contenido utilizando servidores ubicados en diferentes países y optimizar su rendimiento.",
+                "SECOND_PARAGRAPH": "Los Datos Personales que se procesan dependen de las características y la forma en que se implementan estos servicios. Su función es filtrar las comunicaciones entre este Sitio Web y el navegador del Usuario.",
+                "THIRD_PARAGRAPH": "Considerando la amplia distribución de este sistema, es difícil determinar los lugares a los que se transfieren los contenidos que pueden contener Información Personal del Usuario.",
                 "CLOUDFLARE": {
                     "TITLE": "Cloudflare (Cloudflare Inc.)",
-                    "FIRST_PARAGRAPH": "Cloudflare is a traffic optimization and distribution service provided by Cloudflare Inc.<br>The way Cloudflare is integrated means that it filters all the traffic through this Website, i.e., communication between this Website and the User's browser, while also allowing analytical data from this Website to be collected.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Cookies; various types of Data as specified in the privacy policy of the service.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong>."
+                    "FIRST_PARAGRAPH": "Cloudflare es un servicio de optimización y distribución de tráfico proporcionado por Cloudflare Inc.<br>La forma en que se integra Cloudflare significa que filtra todo el tráfico a través de este sitio web, es decir, la comunicación entre este sitio web y el navegador del usuario, al mismo tiempo que permite datos analíticos de este Sitio web a recopilar.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Datos personales recopilados</strong>: Cookies; varios tipos de Datos según lo especificado en la política de privacidad del servicio.",
+                    "PLACE_OF_PROCESSING": "<strong>Lugar de procesamiento</strong>: Estados Unidos – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Privacidad</a></strong>."
                 }
             },
             "CHAT_SUPPORT": {
-                "TITLE": "Chat support",
-                "FIRST_PARAGRAPH": "This type of service allows Users to interact with third-party live chat platforms directly from the pages of this Website, for contacting and being contacted by this Website support service.",
+                "TITLE": "Soporte por chat",
+                "FIRST_PARAGRAPH": "Este tipo de servicio permite a los Usuarios interactuar con plataformas de chat en vivo de terceros directamente desde las páginas de este Sitio Web, para contactar y ser contactados por el servicio de soporte de este Sitio Web.",
                 "CHATWOOT": {
                     "TITLE": "Chatwoot (Chatwoot Inc.)",
-                    "FIRST_PARAGRAPH": "Chatwoot is a chat support service provided by Chatwoot Inc.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Cookies; Data communicated while using the service; Usage Data.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong>."
+                    "FIRST_PARAGRAPH": "Chatwoot es un servicio de soporte por chat proporcionado por Chatwoot Inc.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Datos personales recopilados</strong>: Cookies; Datos comunicados durante el uso del servicio; Datos de Uso.",
+                    "PLACE_OF_PROCESSING": "<strong>Lugar de procesamiento</strong>: Estados Unidos – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Privacidad</a></strong>."
                 }
             }
         },
         "HOW_TO_MANAGE_PREFENCES_AND_PROVIDE_OR_WITHDRAW_CONSENT": {
-            "TITLE": "How to manage preferences and provide or withdraw consent",
-            "FIRST_PARAGRAPH": "There are various ways to manage Tracker related preferences and to provide and withdraw consent, where relevant:",
-            "SECOND_PARAGRAPH": "Users can manage preferences related to Trackers from directly within their own device settings, for example, by preventing the use or storage of Trackers.",
-            "THIRD_PARAGRAPH": "Additionally, whenever the use of Trackers is based on consent, Users can provide or withdraw such consent by setting their preferences within the cookie notice or by updating such preferences accordingly via the relevant consent-preferences privacy widget, if available.",
-            "FOURTH_PARAGRAPH": "It is also possible, via relevant browser or device features, to delete previously stored Trackers, including those used to remember the User's initial consent preferences.",
-            "FIFTH_PARAGRAPH": "Other Trackers in the browser's local memory may be cleared by deleting the browsing history.",
-            "SIXTH_PARAGRAPH": "With regard to any third-party Trackers, Users can manage their preferences via the related opt-out link (where provided), by using the means indicated in the third party's privacy policy, or by contacting the third party.",
+            "TITLE": "Cómo gestionar las preferencias y dar o retirar el consentimiento",
+            "FIRST_PARAGRAPH": "Hay varias formas de gestionar las preferencias relacionadas con Tracker y de otorgar y retirar el consentimiento, cuando corresponda:",
+            "SECOND_PARAGRAPH": "Los usuarios pueden administrar las preferencias relacionadas con los Rastreadores directamente desde la configuración de su propio dispositivo, por ejemplo, impidiendo el uso o almacenamiento de los Rastreadores.",
+            "THIRD_PARAGRAPH": "Además, siempre que el uso de Rastreadores se base en el consentimiento, los Usuarios pueden otorgar o retirar dicho consentimiento configurando sus preferencias dentro del aviso de cookies o actualizando dichas preferencias en consecuencia a través del widget de privacidad de preferencias de consentimiento correspondiente, si está disponible.",
+            "FOURTH_PARAGRAPH": "También es posible, a través de las funciones relevantes del navegador o del dispositivo, eliminar los Rastreadores almacenados previamente, incluidos aquellos utilizados para recordar las preferencias de consentimiento iniciales del Usuario.",
+            "FIFTH_PARAGRAPH": "Otros rastreadores en la memoria local del navegador se pueden borrar eliminando el historial de navegación.",
+            "SIXTH_PARAGRAPH": "Con respecto a los Rastreadores de terceros, los Usuarios pueden administrar sus preferencias a través del enlace de exclusión correspondiente (cuando se proporcione), utilizando los medios indicados en la política de privacidad del tercero o comunicándose con el tercero.",
             "LOCATING_TRACKER_SETTINGS": {
-                "TITLE": "Locating Tracker Settings",
-                "FIRST_PARAGRAPH": "Users can, for example, find information about how to manage Cookies in the most commonly used browsers at the following addresses:",
-                "SECOND_PARAGRAPH": "Users may also manage certain categories of Trackers used on mobile apps by opting out through relevant device settings such as the device advertising settings for mobile devices, or tracking settings in general (Users may open the device settings and look for the relevant setting)."
+                "TITLE": "Localizando la Configuración del Rastreador",
+                "FIRST_PARAGRAPH": "Los usuarios pueden, por ejemplo, encontrar información sobre cómo gestionar las Cookies en los navegadores más utilizados en las siguientes direcciones:",
+                "SECOND_PARAGRAPH": "Los usuarios también pueden administrar ciertas categorías de Rastreadores utilizados en aplicaciones móviles al optar por no participar a través de configuraciones relevantes del dispositivo, como la configuración de publicidad del dispositivo para dispositivos móviles o la configuración de seguimiento en general (los usuarios pueden abrir la configuración del dispositivo y buscar la configuración relevante)."
             },
             "CONSEQUENCES_OF_DENYING_THE_USE_OF_TRACKERS": {
-                "TITLE": "Consequences of denying the use of Trackers",
-                "FIRST_PARAGRAPH": "Users are free to decide whether or not to allow the use of Trackers. However, please note that Trackers help this Website to provide a better experience and advanced functionalities to Users (in line with the purposes outlined in this document). Therefore, if the User chooses to block the use of Trackers, the Owner may be unable to provide related features."
+                "TITLE": "Consecuencias de negar el uso de Rastreadores",
+                "FIRST_PARAGRAPH": "Los usuarios son libres de decidir si permiten o no el uso de Rastreadores. Sin embargo, tenga en cuenta que los Rastreadores ayudan a este sitio web a brindar una mejor experiencia y funcionalidades avanzadas a los Usuarios (de acuerdo con los propósitos descritos en este documento). Por lo tanto, si el Usuario decide bloquear el uso de Rastreadores, es posible que el Propietario no pueda proporcionar funciones relacionadas."
             }
         },
         "OTHER_ACTIVITIES_INVOLVING_THE_USE_OF_TRACKERS": {
-            "TITLE": "Other activities involving the use of Trackers",
-            "FIRST_PARAGRAPH": "This Website uses Trackers to provide a personalized user experience by improving the quality of preference management options, and by enabling interaction with external networks and platforms.",
+            "TITLE": "Otras actividades que implican el uso de Rastreadores",
+            "FIRST_PARAGRAPH": "Este Sitio Web utiliza Rastreadores para brindar una experiencia de usuario personalizada mejorando la calidad de las opciones de administración de preferencias y permitiendo la interacción con redes y plataformas externas.",
             "MEASUREMENT": {
-                "TITLE": "Measurement",
-                "FIRST_PARAGRAPH": "This Website uses Trackers to measure traffic and analyze User behavior with the goal of improving the Service."
+                "TITLE": "Medición",
+                "FIRST_PARAGRAPH": "Este Sitio Web utiliza Rastreadores para medir el tráfico y analizar el comportamiento del Usuario con el objetivo de mejorar el Servicio."
             }
         },
         "DEFINITIONS_AND_LEGAL_REFERENCES": {
             "EUROPEAN_UNION": {
-                "TITLE": "European Union (or EU)",
-                "FIRST_PARAGRAPH": "Unless otherwise specified, all references made within this document to the European Union include all current member states to the European Union and the European Economic Area."
+                "TITLE": "Unión Europa (o UE)",
+                "FIRST_PARAGRAPH": "A menos que se especifique lo contrario, todas las referencias hechas en este documento a la Unión Europea incluyen todos los estados miembros actuales de la Unión Europea y el Espacio Económico Europeo."
             },
-            "TITLE": "Definitions and legal references",
+            "TITLE": "Definiciones y referencias legales",
             "PERSONAL_DATA": {
-                "TITLE": "Personal Data (or Data)",
-                "FIRST_PARAGRAPH": "Any information that directly, indirectly, or in connection with other information — including a personal identification number — allows for the identification or identifiability of a natural person."
+                "TITLE": "Datos Personales (o Datos)",
+                "FIRST_PARAGRAPH": "Cualquier información que directa, indirectamente o en conexión con otra información, incluido un número de identificación personal, permita la identificación o identificabilidad de una persona física."
             },
             "USAGE_DATA": {
-                "TITLE": "Usage Data",
-                "FIRST_PARAGRAPH": "Information collected automatically through this Website (or third-party services employed in this Website), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Website, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment."
+                "TITLE": "Datos de Uso",
+                "FIRST_PARAGRAPH": "Información recopilada automáticamente a través de este sitio web (o servicios de terceros empleados en este sitio web), que puede incluir: las direcciones IP o nombres de dominio de las computadoras utilizadas por los Usuarios que utilizan este sitio web, las direcciones URI (Identificador uniforme de recursos), el hora de la solicitud, el método utilizado para enviar la solicitud al servidor, el tamaño del archivo recibido en respuesta, el código numérico que indica el estado de la respuesta del servidor (resultado exitoso, error, etc.), el país de origen, las características del navegador y del sistema operativo utilizado por el Usuario, los distintos detalles de tiempo por visita (por ejemplo, el tiempo transcurrido en cada página dentro de la Aplicación) y los detalles sobre la ruta seguida dentro de la Aplicación con especial referencia a la secuencia de páginas visitadas y otros parámetros sobre el sistema operativo del dispositivo y/o el entorno informático del Usuario."
             },
             "USER": {
-                "TITLE": "User",
-                "FIRST_PARAGRAPH": "The individual using this Website who, unless otherwise specified, coincides with the Data Subject."
+                "TITLE": "Usuario",
+                "FIRST_PARAGRAPH": "La persona física que utiliza este Sitio Web y que, salvo que se especifique lo contrario, coincide con el Titular de los datos."
             },
             "DATA_SUBJECT": {
-                "TITLE": "Data Subject",
-                "FIRST_PARAGRAPH": "The natural person to whom the Personal Data refers."
+                "TITLE": "Titular de los Datos",
+                "FIRST_PARAGRAPH": "La persona natural a quien se refieren los Datos Personales."
             },
             "DATA_PROCESSOR": {
-                "TITLE": "Data Processor (or Data Supervisor)",
-                "FIRST_PARAGRAPH": "The natural or legal person, public authority, agency or other body which processes Personal Data on behalf of the Controller, as described in this cookies policy."
+                "TITLE": "Procesador de Datos (o Supervisor de Datos)",
+                "FIRST_PARAGRAPH": "La persona física o jurídica, autoridad pública, agencia u otro organismo que trate Datos Personales por cuenta del Responsable, tal y como se describe en esta política de cookies."
             },
             "DATA_CONTROLLER": {
-                "TITLE": "Data Controller (or Owner)",
-                "FIRST_PARAGRAPH": "The natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of Personal Data, including the security measures concerning the operation and use of this Website. The Data Controller, unless otherwise specified, is the Owner of this Website."
+                "TITLE": "Controlador de Datos (o Propietario)",
+                "FIRST_PARAGRAPH": "La persona física o jurídica, autoridad pública, agencia u otro organismo que, solo o junto con otros, determina los fines y medios del procesamiento de Datos Personales, incluidas las medidas de seguridad relativas al funcionamiento y uso de este Sitio Web. El Responsable del Tratamiento, salvo que se especifique lo contrario, es el Titular de este Sitio Web."
             },
             "THIS_WEBSITE": {
-                "TITLE": "This Website (or this Application)",
-                "FIRST_PARAGRAPH": "The means by which the Personal Data of the User is collected and processed."
+                "TITLE": "Este Sitio Web (o esta Aplicación)",
+                "FIRST_PARAGRAPH": "El medio por el cual se recopilan y procesan los Datos Personales del Usuario."
             },
             "SERVICE": {
-                "TITLE": "Service",
-                "FIRST_PARAGRAPH": "The service provided by this Website as described in the relative terms (if available) and on this site/application."
+                "TITLE": "Servicio",
+                "FIRST_PARAGRAPH": "El servicio proporcionado por este Sitio Web como se describe en los términos relativos (si están disponibles) y en este sitio/aplicación."
             },
             "COOKIES": {
                 "TITLE": "Cookies",
-                "FIRST_PARAGRAPH": "Cookies are Trackers consisting of small sets of data stored in the User's browser."
+                "FIRST_PARAGRAPH": "Las Cookies son Rastreadores que consisten en pequeños conjuntos de datos almacenados en el navegador del Usuario."
             },
             "TRACKER": {
-                "TITLE": "Tracker",
-                "FIRST_PARAGRAPH": "Tracker indicates any technology - e.g Cookies, unique identifiers, web beacons, embedded scripts, e-tags and fingerprinting - that enables the tracking of Users, for example by accessing or storing information on the User's device."
+                "TITLE": "Rastreador",
+                "FIRST_PARAGRAPH": "Rastreador indica cualquier tecnología (por ejemplo, Cookies, identificadores únicos, balizas web, scripts integrados, etiquetas electrónicas y huellas dactilares) que permite el seguimiento de los Usuarios, por ejemplo accediendo o almacenando información en el dispositivo del Usuario."
             },
             "LEGAL_INFORMATION": {
-                "TITLE": "Legal information",
-                "FIRST_PARAGRAPH": "This cookies policy relates solely to this Website, if not stated otherwise within this document."
+                "TITLE": "Información legal",
+                "FIRST_PARAGRAPH": "Esta política de cookies se refiere únicamente a este sitio web, salvo que se indique lo contrario en este documento."
             }
         },
         "OWNER_AND_DATA_CONTROLLER": {
-            "TITLE": "Owner and Data Controller",
-            "FIRST_PARAGRAPH": "Email for communications regarding Data Protection: <strong><a href=\"mailto:{{email}}\">{{email}}</a></strong>",
-            "SECOND_PARAGRAPH": "Since the use of third-party Trackers through this Website cannot be fully controlled by the Owner, any specific references to third-party Trackers are to be considered indicative. In order to obtain complete information, Users are kindly requested to consult the privacy policies of the respective third-party services listed in this document.",
-            "THIRD_PARAGRAPH": "Given the objective complexity surrounding tracking technologies, Users are encouraged to contact the Owner should they wish to receive any further information on the use of such technologies by this Website."
+            "TITLE": "Titular y Responsable del Tratamiento",
+            "FIRST_PARAGRAPH": "Correo electrónico para comunicaciones en materia de Protección de Datos: <strong><a href=\"mailto:{{email}}\">{{email}}</a></strong>",
+            "SECOND_PARAGRAPH": "Dado que el Propietario no puede controlar completamente el uso de Rastreadores de terceros a través de este Sitio web, cualquier referencia específica a Rastreadores de terceros debe considerarse indicativa. Para obtener información completa, se ruega a los Usuarios que consulten las políticas de privacidad de los respectivos servicios de terceros enumerados en este documento.",
+            "THIRD_PARAGRAPH": "Dada la complejidad objetiva que rodea a las tecnologías de seguimiento, se anima a los Usuarios a ponerse en contacto con el Propietario si desean recibir más información sobre el uso de dichas tecnologías por parte de este Sitio Web."
         },
-        "TITLE": "Cookies Policy",
-        "DESCRIPTION": "This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Website.",
-        "EFFECTIVE": "Effective",
-        "LAST_UPDATED": "Last Updated",
-        "DATE": "{{month}}/{{day}}/{{year}}"
+        "TITLE": "Política de Cookies",
+        "DESCRIPTION": "Esta página le informa sobre nuestras políticas con respecto a la recopilación, el uso y la divulgación de información personal que recibimos de los usuarios del sitio web.",
+        "EFFECTIVE": "Efectivo",
+        "LAST_UPDATED": "Última Actualización",
+        "DATE": "{{day}}/{{month}}/{{year}}"
     },
     "TERMS_OF_SALES": {
         "ORDER_SUBMISSION": {
-            "FIRST_PARAGRAPH": "When you complete the purchase process, you are making an offer to purchase the product from Filo. Your offer is accepted and a contract is formed between Filo and you when Filo sends you an notification confirming that your order has been accepted and the product has been delivered.",
-            "TITLE": "Order Submission",
-            "SECOND_PARAGRAPH": "Filo reserves the right to reject any offer to purchase by you at any time and for any reason."
+            "FIRST_PARAGRAPH": "Cuando completas el proceso de compra, estás haciendo una oferta para comprar el producto de Filo. Se acepta su oferta y se forma un contrato entre Filo y usted cuando Filo le envía una notificación confirmando que su pedido ha sido aceptado y el producto ha sido entregado.",
+            "TITLE": "Envío de Pedidos",
+            "SECOND_PARAGRAPH": "Filo se reserva el derecho de rechazar cualquier oferta de compra suya en cualquier momento y por cualquier motivo."
         },
-        "TITLE": "Terms of Sales",
-        "DESCRIPTION": "Our commitment is to ensure clarity and fairness throughout your journey with Filo.",
-        "EFFECTIVE": "Effective",
-        "LAST_UPDATED": "Last Updated",
-        "DATE": "{{month}}/{{day}}/{{year}}",
+        "TITLE": "Condiciones de Venta",
+        "DESCRIPTION": "Nuestro compromiso es garantizar claridad y equidad a lo largo de su viaje con Filo.",
+        "EFFECTIVE": "Efectivo",
+        "LAST_UPDATED": "Última Actualización",
+        "DATE": "{{day}}/{{month}}/{{year}}",
         "INTRODUCTION": {
-            "TITLE": "Introduction",
-            "FIRST_PARAGRAPH": "These Terms of Sales (\"Terms\") govern your access to and use of Filo, including any content, functionality, and services offered on or through Filo (the \"Services\").",
-            "SECOND_PARAGRAPH": "Remember that Filo is free to use, but we also offer a premium subscription plan that unlocks additional features. By using Filo, you accept and agree to be bound and abide by these Terms and our <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong>, incorporated herein by reference."
+            "TITLE": "Introducción",
+            "FIRST_PARAGRAPH": "Estos Términos de Ventas (\"Términos\") rigen su acceso y uso de Filo, incluido cualquier contenido, funcionalidad y servicios ofrecidos en Filo o a través de él (los \"Servicios\").",
+            "SECOND_PARAGRAPH": "Recuerda que Filo es de uso gratuito, pero también ofrecemos un plan de suscripción premium que desbloquea funciones adicionales. Al utilizar Filo, usted acepta y está de acuerdo con estar sujeto y cumplir con estos Términos y nuestra <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Privacidad</a></strong>, incorporada aquí como referencia."
         },
         "PAID_PRODUCTS": {
-            "TITLE": "Paid Products",
-            "FIRST_PARAGRAPH": "Some of the Products provided on Filo, as part of the Service, are provided on the basis of payment.",
-            "SECOND_PARAGRAPH": "By purchasing a subscription, you agree to pay Filo the monthly or annual subscription fees indicated for that service. Payments will be charged on a pre-pay basis on the day you sign up for a subscription and will cover the use of that service for a monthly or annual subscription period as indicated. Subscription fees can be refunded, more information about refunds can be found in the <strong><a href=\"{{url}}\">Refund Policy</a></strong> section.",
-            "THIRD_PARAGRAPH": "Unless you notify Filo before the end of the applicable subscription period that you want to cancel a subscription, your subscription will automatically renew and you authorize us to collect the then-applicable annual or monthly subscription fee for such subscription (as well as any taxes) using any credit card or another payment mechanism we have on record for you. Subscriptions can be canceled at any time, and you will continue to have access to the service through the end of the subscription period."
+            "TITLE": "Productos de Pago",
+            "FIRST_PARAGRAPH": "Algunos de los Productos proporcionados en Filo, como parte del Servicio, se proporcionan mediante pago.",
+            "SECOND_PARAGRAPH": "Al comprar una suscripción, aceptas pagar a Filo las tarifas de suscripción mensual o anual indicadas para ese servicio. Los pagos se cobrarán mediante prepago el día en que se registre para obtener una suscripción y cubrirán el uso de ese servicio durante un período de suscripción mensual o anual, según se indique. Las tarifas de suscripción se pueden reembolsar; puede encontrar más información sobre los reembolsos en la sección <strong><a href=\"{{url}}\">Política de Reembolso</a></strong>.",
+            "THIRD_PARAGRAPH": "A menos que notifique a Filo antes del final del período de suscripción aplicable que desea cancelar una suscripción, su suscripción se renovará automáticamente y usted nos autoriza a cobrar la tarifa de suscripción anual o mensual aplicable en ese momento para dicha suscripción (así como cualquier impuesto). utilizando cualquier tarjeta de crédito u otro mecanismo de pago que tengamos registrado para usted. Las suscripciones se pueden cancelar en cualquier momento y usted seguirá teniendo acceso al servicio hasta el final del período de suscripción."
         },
         "PRODUCT_DESCRIPTIONS": {
-            "TITLE": "Product Descriptions",
-            "FIRST_PARAGRAPH": "Filo attempts to be as accurate as possible. However, Filo does not warrant that product descriptions or other content of any Filo Service is accurate, complete, reliable, current, or error-free. If a product offered by Filo itself is not as described, your sole remedy is to cancel your subscription.",
-            "SECOND_PARAGRAPH": "Descriptions of the products are subject to change without notice, at the sole discretion of Filo.",
-            "THIRD_PARAGRAPH": "Filo reserves the right, at any time, to modify, suspend, or discontinue the sale of any product with or without notice.",
-            "FOURTH_PARAGRAPH": "Filo shall not be liable to you or to any third-party for any modification, price change, suspension, or discontinuance of the sale of any product."
+            "TITLE": "Descripciones de Productos",
+            "FIRST_PARAGRAPH": "Filo intenta ser lo más preciso posible. Sin embargo, Filo no garantiza que las descripciones de productos u otro contenido de cualquier Servicio de Filo sean precisos, completos, confiables, actuales o estén libres de errores. Si un producto ofrecido por Filo no es como se describe, su único recurso es cancelar su suscripción.",
+            "SECOND_PARAGRAPH": "Las descripciones de los productos están sujetas a cambios sin previo aviso, a exclusivo criterio de Filo.",
+            "THIRD_PARAGRAPH": "Filo se reserva el derecho, en cualquier momento, de modificar, suspender o discontinuar la venta de cualquier producto con o sin previo aviso.",
+            "FOURTH_PARAGRAPH": "Filo no será responsable ante usted ni ante ningún tercero por cualquier modificación, cambio de precio, suspensión o interrupción de la venta de cualquier producto."
         },
         "PURCHASE_OF_PRODUCTS": {
-            "TITLE": "Purchase of Products",
-            "FIRST_PARAGRAPH": "By purchasing a product, you agree to pay Filo the one-time and/or monthly or annual subscription fees indicated (additional payment terms may be included in other communications). Subscription payments will be charged on a pre-pay basis on the day you sign up for an Upgrade and will cover the use of that service for a monthly or annual subscription period as indicated. Payments are refundable, more information about refunds can be found in the <strong><a href=\"{{url}}\">Refund Policy</a></strong> section."
+            "TITLE": "Compra de Productos",
+            "FIRST_PARAGRAPH": "Al comprar un producto, usted acepta pagar a Filo las tarifas de suscripción únicas y/o mensuales o anuales indicadas (se pueden incluir condiciones de pago adicionales en otras comunicaciones). Los pagos de suscripción se cobrarán mediante prepago el día en que se registre para una Actualización y cubrirán el uso de ese servicio durante un período de suscripción mensual o anual, según se indique. Los pagos son reembolsables; puede encontrar más información sobre los reembolsos en la sección <strong><a href=\"{{url}}\">Política de Reembolso</a></strong>."
         },
         "PURCHASE_PROCESS": {
-            "TITLE": "Purchase Process",
-            "FIRST_PARAGRAPH": "The purchase process is as follows:",
+            "TITLE": "Proceso de Compra",
+            "FIRST_PARAGRAPH": "El proceso de compra es el siguiente:",
             "LIST": {
-                "FIRST_ELEMENT": "Users select the product they want to purchase.",
-                "SECOND_ELEMENT": "Users are redirected to the payment page.",
-                "THIRD_ELEMENT": "Users complete the payment process.",
-                "FOURTH_ELEMENT": "Users receive the product."
+                "FIRST_ELEMENT": "Los usuarios seleccionan el producto que desean adquirir.",
+                "SECOND_ELEMENT": "Los usuarios son redirigidos a la página de pago.",
+                "THIRD_ELEMENT": "Los usuarios completan el proceso de pago.",
+                "FOURTH_ELEMENT": "Los usuarios reciben el producto."
             }
         },
         "PRICES": {
-            "TITLE": "Prices",
-            "FIRST_PARAGRAPH": "Users are responsible for paying all fees and applicable taxes associated with the purchase of the product. Including but not limited to:",
+            "TITLE": "Precios",
+            "FIRST_PARAGRAPH": "Los usuarios son responsables de pagar todas las tarifas e impuestos aplicables asociados con la compra del producto. Incluyendo pero no limitado a:",
             "LIST": {
-                "FIRST_ELEMENT": "Value Added Tax (VAT).",
-                "SECOND_ELEMENT": "Delivery fees.",
-                "THIRD_ELEMENT": "Customs fees.",
-                "FOURTH_ELEMENT": "Import fees.",
-                "FIFTH_ELEMENT": "Other taxes."
+                "FIRST_ELEMENT": "Impuesto sobre el Valor Añadido (IVA).",
+                "SECOND_ELEMENT": "Cargos por envío.",
+                "THIRD_ELEMENT": "Tasas de aduana.",
+                "FOURTH_ELEMENT": "Tasas de importación.",
+                "FIFTH_ELEMENT": "Otros impuestos."
             }
         },
         "PAYMENT_METHODS": {
-            "TITLE": "Payment Methods",
-            "FIRST_PARAGRAPH": "Filo accepts the following payment methods:",
+            "TITLE": "Métodos de Pago",
+            "FIRST_PARAGRAPH": "Filo acepta los siguientes métodos de pago:",
             "LIST": {
-                "FIRST_ELEMENT": "Credit Card.",
-                "SECOND_ELEMENT": "Debit Card.",
+                "FIRST_ELEMENT": "Tarjeta de Crédito.",
+                "SECOND_ELEMENT": "Tarjeta de Débito.",
                 "THIRD_ELEMENT": "PayPal.",
-                "FOURTH_ELEMENT": "Other Payment Methods."
+                "FOURTH_ELEMENT": "Otros Métodos de Pago."
             },
-            "SECOND_PARAGRAPH": "The payment methods available to you may change depending on your country or region.",
-            "THIRD_PARAGRAPH": "By submitting an order, you represent and warrant that you are authorized to use the designated payment method and authorize us, or our third-party payment processor, to charge your order (including taxes, delivery fees, customs fees, import fees, and other applicable fees) to that payment method. If the payment method cannot be verified, is invalid, or is otherwise not acceptable, your order may be suspended or canceled.",
-            "FOURTH_PARAGRAPH": "You must resolve any problem we encounter in order to proceed with your order.",
-            "FIFTH_PARAGRAPH": "All payments are processed by third-party payment processors. By submitting an order, you agree to be bound by the terms of service and privacy policy of the third-party payment processor."
+            "SECOND_PARAGRAPH": "Los métodos de pago disponibles para usted pueden cambiar según su país o región.",
+            "THIRD_PARAGRAPH": "Al enviar un pedido, usted declara y garantiza que está autorizado a utilizar el método de pago designado y nos autoriza a nosotros, o a nuestro procesador de pagos externo, a cobrar su pedido (incluidos impuestos, tarifas de envío, tarifas aduaneras, tarifas de importación y otros tarifas aplicables) a ese método de pago. Si el método de pago no se puede verificar, no es válido o no es aceptable, su pedido puede suspenderse o cancelarse.",
+            "FOURTH_PARAGRAPH": "Debe resolver cualquier problema que encontremos para poder continuar con su pedido.",
+            "FIFTH_PARAGRAPH": "Todos los pagos son procesados por procesadores de pagos de terceros. Al enviar un pedido, usted acepta estar sujeto a los términos de servicio y la política de privacidad del procesador de pagos externo."
         },
         "RETENTION_OF_PRODUCT_OWNERSHIP": {
-            "TITLE": "Retention of Product Ownership",
-            "FIRST_PARAGRAPH": "Products purchased from Filo are owned by Filo until the product is delivered to the user.",
-            "SECOND_PARAGRAPH": "Once the product is delivered to the user, the user becomes the owner of the product."
+            "TITLE": "Retención de Propiedad del Producto",
+            "FIRST_PARAGRAPH": "Los productos comprados en Filo son propiedad de Filo hasta que el producto se entregue al usuario.",
+            "SECOND_PARAGRAPH": "Una vez que el producto se entrega al usuario, el usuario se convierte en propietario del producto."
         },
         "RETENTION_OF_USAGE_RIGHTS": {
-            "TITLE": "Retention of Usage Rights",
-            "FIRST_PARAGRAPH": "Users don't acquire any rights to use the purchased Product until the total purchase price is received by the Owner."
+            "TITLE": "Retención de Derechos de Uso",
+            "FIRST_PARAGRAPH": "Los usuarios no adquieren ningún derecho a utilizar el Producto adquirido hasta que el Propietario reciba el precio total de compra."
         },
         "DELIVERY": {
-            "TITLE": "Delivery",
+            "TITLE": "Entrega",
             "DELIVERY_OF_DIGITAL_PRODUCTS": {
-                "TITLE": "Delivery of Digital Products",
-                "FIRST_PARAGRAPH": "Unless otherwise specified, all products are delivered digitally. Digital products are delivered to the email address associated with your account for the Service.",
-                "SECOND_PARAGRAPH": "Delivery of digital products is subject to the availability of the product. Filo reserves the right to change the availability of any product at any time, without notice."
+                "TITLE": "Entrega de Productos Digitales",
+                "FIRST_PARAGRAPH": "A menos que se especifique lo contrario, todos los productos se entregan digitalmente. Los productos digitales se entregan a la dirección de correo electrónico asociada con su cuenta del Servicio.",
+                "SECOND_PARAGRAPH": "La entrega de productos digitales está sujeta a la disponibilidad del producto. Filo se reserva el derecho de cambiar la disponibilidad de cualquier producto en cualquier momento, sin previo aviso."
             },
             "PERFORMED_SERVICES": {
-                "TITLE": "Performed Services",
-                "FIRST_PARAGRAPH": "Unless otherwise specified, all services are performed remotely. Services are performed at the time and date agreed upon by the user and Filo."
+                "TITLE": "Servicios Realizados",
+                "FIRST_PARAGRAPH": "A menos que se especifique lo contrario, todos los servicios se realizan de forma remota. Los servicios se prestan en la hora y fecha acordadas entre el usuario y Filo."
             }
         },
         "CONTRACT_DURATION": {
-            "TITLE": "Contract Duration",
+            "TITLE": "Duración del Contrato",
             "SUBSCRIPTIONS": {
-                "TITLE": "Subscriptions",
-                "FIRST_PARAGRAPH": "Subscriptions are valid for the period of time indicated at the time of purchase. Details regarding the type of subscription and termination are provided below."
+                "TITLE": "Suscripciones",
+                "FIRST_PARAGRAPH": "Las suscripciones son válidas por el período de tiempo indicado en el momento de la compra. Los detalles sobre el tipo de suscripción y terminación se proporcionan a continuación."
             },
             "ONE_TIME_PURCHASES": {
-                "TITLE": "One-Time Purchases",
-                "FIRST_PARAGRAPH": "One-time purchases are valid for the period of time indicated at the time of purchase. Details regarding the type of subscription and termination are provided below."
+                "TITLE": "Compras Únicas",
+                "FIRST_PARAGRAPH": "Las compras únicas son válidas por el período de tiempo indicado en el momento de la compra. Los detalles sobre el tipo de suscripción y terminación se proporcionan a continuación."
             },
             "AUTOMATIC_RENEWAL": {
-                "TITLE": "Automatic Renewal",
-                "FIRST_PARAGRAPH": "Subscriptions automatically renew for the same period of time as the original subscription term. The renewal rate will be the same as the prior term's rate, unless Filo notifies you at least 30 days prior to the end of the subscription term. The renewal rate will be charged automatically to the payment method you have on file with Filo."
+                "TITLE": "Renovación Automática",
+                "FIRST_PARAGRAPH": "Las suscripciones se renuevan automáticamente por el mismo período de tiempo que el plazo de suscripción original. La tarifa de renovación será la misma que la tarifa del período anterior, a menos que Filo le notifique al menos 30 días antes del final del período de suscripción. La tasa de renovación se cargará automáticamente al método de pago que tenga registrado en Filo."
             },
             "TERMINATION": {
-                "TITLE": "Termination",
-                "FIRST_PARAGRAPH": "Subscriptions can be terminated at any time, and you will continue to have access to the service through the end of the subscription period."
+                "TITLE": "Terminación",
+                "FIRST_PARAGRAPH": "Las suscripciones pueden cancelarse en cualquier momento y usted seguirá teniendo acceso al servicio hasta el final del período de suscripción."
             }
         },
         "REFUND_POLICY": {
-            "TITLE": "Refund Policy",
-            "FIRST_PARAGRAPH": "Subscriptions can be refunded within 5 days of the purchase date. Keep in mind that refunds are not guaranteed and are subject to the sole discretion of Filo.",
-            "SECOND_PARAGRAPH": "Filo reserves the right to refuse a refund request if we find that the request is fraudulent or if we find that the user is abusing the refund policy.",
-            "THIRD_PARAGRAPH": "Refunds are a One-Time-Only offer. If you request a refund for a subscription, you will not be able to request a refund for the same subscription again."
+            "TITLE": "Politica de Reembolso",
+            "FIRST_PARAGRAPH": "Las suscripciones se pueden reembolsar dentro de los 5 días posteriores a la fecha de compra. Tenga en cuenta que los reembolsos no están garantizados y están sujetos al exclusivo criterio de Filo.",
+            "SECOND_PARAGRAPH": "Filo se reserva el derecho de rechazar una solicitud de reembolso si descubrimos que la solicitud es fraudulenta o si descubrimos que el usuario está abusando de la política de reembolso.",
+            "THIRD_PARAGRAPH": "Los reembolsos son Una Oferta Única. Si solicita un reembolso por una suscripción, no podrá volver a solicitar un reembolso por la misma suscripción."
         }
     },
     "ERROR": {
