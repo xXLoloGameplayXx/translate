@@ -1,200 +1,200 @@
 {
-  "ERROR_DESCRIPTIONS": {
-    "200": "确定",
-    "400": "糟糕的请求",
-    "401": "未经授权",
-    "402": "需要付款",
-    "403": "禁止",
-    "404": "未找到",
-    "405": "不允许的方法",
-    "406": "不可接受",
-    "407": "需要代理验证",
-    "408": "请求超时",
-    "409": "冲突",
-    "410": "走了",
-    "411": "所需长度",
-    "412": "先决条件失败",
-    "413": "有效载荷过大",
-    "414": "请求的 URI 太长",
-    "415": "不支持的介质类型",
-    "416": "要求的范围无法满足",
-    "417": "期望落空",
-    "418": "我是茶壶",
-    "420": "不支持的浏览器",
-    "421": "错误的请求",
-    "422": "无法处理的实体",
-    "423": "锁定",
-    "424": "失败的依赖关系",
-    "425": "为时过早",
-    "426": "需要升级",
-    "428": "所需前提条件",
-    "429": "请求太多",
-    "431": "请求标题字段过大",
-    "444": "连接关闭无响应",
-    "451": "因法律原因无法提供",
-    "500": "内部服务器错误",
-    "501": "未实施",
-    "502": "坏网关",
-    "503": "服务不可用",
-    "504": "网关超时",
-    "505": "不支持 HTTP 版本",
-    "506": "变体也可谈判",
-    "507": "存储空间不足",
-    "508": "检测到回路",
-    "510": "未扩展",
-    "511": "需要网络验证",
-    "599": "网络连接超时错误"
-  },
-  "FILO": {
-    "CLASSIC_DESCRIPTION": "Filo 是一款功能强大的多用途 Discord 机器人。可定制、多语言、报告、日志、欢迎和告别、会员计数器、反邀请、自动修改、反规避。+190 条命令。",
-    "DESCRIPTION": "自从2019以来，Filo 一款功能强大的多功能Discord机器人，为Discord公会提供服务. 具有广泛的管理和审核模块，使您的工作更轻松."
-  },
-  "MAIN_HEADER": {
-    "TITLE": "Filo 是一款功能强大的多用途 Discord 机器人",
-    "SUBTITLE": "具有广泛的管理和审核模块，使您的工作更轻松"
-  },
-  "FEATURES": {
-    "DESCRIPTION": "改善服务器的最佳功能！",
-    "MORE_INFO": "更多信息关于这个特征",
-    "REPORTS": {
-      "TITLE": "报告",
-      "DESCRIPTION": "允许用户报告不当行为，从而提升体验并使服务器管理专业化！"
+    "ERROR_DESCRIPTIONS": {
+        "200": "确定",
+        "400": "糟糕的请求",
+        "401": "未经授权",
+        "402": "需要付款",
+        "403": "禁止",
+        "404": "未找到",
+        "405": "不允许的方法",
+        "406": "不可接受",
+        "407": "需要代理验证",
+        "408": "请求超时",
+        "409": "冲突",
+        "410": "走了",
+        "411": "所需长度",
+        "412": "先决条件失败",
+        "413": "有效载荷过大",
+        "414": "请求的 URI 太长",
+        "415": "不支持的介质类型",
+        "416": "要求的范围无法满足",
+        "417": "期望落空",
+        "418": "我是茶壶",
+        "420": "不支持的浏览器",
+        "421": "错误的请求",
+        "422": "无法处理的实体",
+        "423": "锁定",
+        "424": "失败的依赖关系",
+        "425": "为时过早",
+        "426": "需要升级",
+        "428": "所需前提条件",
+        "429": "请求太多",
+        "431": "请求标题字段过大",
+        "444": "连接关闭无响应",
+        "451": "因法律原因无法提供",
+        "500": "内部服务器错误",
+        "501": "未实施",
+        "502": "坏网关",
+        "503": "服务不可用",
+        "504": "网关超时",
+        "505": "不支持 HTTP 版本",
+        "506": "变体也可谈判",
+        "507": "存储空间不足",
+        "508": "检测到回路",
+        "510": "未扩展",
+        "511": "需要网络验证",
+        "599": "网络连接超时错误"
     },
-    "LOGGING": {
-      "TITLE": "记录",
-      "DESCRIPTION": "将用户在服务器中执行的所有操作记录到一个通道中，让您可以轻松查看和过滤这些操作！"
+    "FILO": {
+        "CLASSIC_DESCRIPTION": "Filo 是一款功能强大的多用途 Discord 机器人。可定制、多语言、报告、日志、欢迎和告别、会员计数器、反邀请、自动修改、反规避。+190 条命令。",
+        "DESCRIPTION": "自从2019以来，Filo 一款功能强大的多功能Discord机器人，为Discord公会提供服务. 具有广泛的管理和审核模块，使您的工作更轻松."
     },
-    "ANTI_INVITES": {
-      "TITLE": "反邀请",
-      "DESCRIPTION": "自动制裁用户，防止他们从你的服务器向你的服务器发送邀请！"
+    "MAIN_HEADER": {
+        "TITLE": "Filo 是一款功能强大的多用途 Discord 机器人",
+        "SUBTITLE": "具有广泛的管理和审核模块，使您的工作更轻松"
     },
-    "ANTI_SPAM": {
-      "TITLE": "反垃圾邮件",
-      "DESCRIPTION": "厌倦了垃圾邮件发送者？您的版主还不够多吗？让 Filo 来处理这类用户吧，顺便喝喝茶！"
+    "FEATURES": {
+        "DESCRIPTION": "改善服务器的最佳功能！",
+        "MORE_INFO": "更多信息关于这个特征",
+        "REPORTS": {
+            "TITLE": "报告",
+            "DESCRIPTION": "允许用户报告不当行为，从而提升体验并使服务器管理专业化！"
+        },
+        "LOGGING": {
+            "TITLE": "记录",
+            "DESCRIPTION": "将用户在服务器中执行的所有操作记录到一个通道中，让您可以轻松查看和过滤这些操作！"
+        },
+        "ANTI_INVITES": {
+            "TITLE": "反邀请",
+            "DESCRIPTION": "自动制裁用户，防止他们从你的服务器向你的服务器发送邀请！"
+        },
+        "ANTI_SPAM": {
+            "TITLE": "反垃圾邮件",
+            "DESCRIPTION": "厌倦了垃圾邮件发送者？您的版主还不够多吗？让 Filo 来处理这类用户吧，顺便喝喝茶！"
+        },
+        "ANTI_BAD_WORDS": {
+            "TITLE": "反坏话",
+            "DESCRIPTION": "防止用户在邮件中使用脏话...没人喜欢读这些字！"
+        },
+        "ANTI_SCAM_LINKS": {
+            "TITLE": "反诈骗链接",
+            "DESCRIPTION": "骗子，真是令人厌恶的人......现在，Filo 可以帮您打击这类人！"
+        },
+        "AUTO_MODERATION": {
+            "TITLE": "自动调节",
+            "DESCRIPTION": "不要让服务器上存在相互冲突的用户，这会对合法用户的使用体验造成负面影响！"
+        },
+        "ANTI_EVASION": {
+            "TITLE": "反规避",
+            "DESCRIPTION": "您是否将多个用户静音，但他们却离开了服务器？没问题！让 Filo 自动禁言这些用户！"
+        }
     },
-    "ANTI_BAD_WORDS": {
-      "TITLE": "反坏话",
-      "DESCRIPTION": "防止用户在邮件中使用脏话...没人喜欢读这些字！"
+    "STATISTICS": {
+        "TITLE": "统计",
+        "SERVERS": "服务器",
+        "USERS": "用户"
     },
-    "ANTI_SCAM_LINKS": {
-      "TITLE": "反诈骗链接",
-      "DESCRIPTION": "骗子，真是令人厌恶的人......现在，Filo 可以帮您打击这类人！"
+    "DONATE": {
+        "TITLE": "捐款给Filo",
+        "SUBTITLE": "用捐款帮助 Filo 继续在成长!",
+        "WARNING": "所有捐款受条款及细则约束.",
+        "PER_MONTH": "每月",
+        "VAT_NOT_INCLUDED": "不包括增值税",
+        "SUBSCRIBE": "订阅",
+        "ROLE_REWARD": "服务器上的象征的角色",
+        "FILO_SUPPORT": "表示你给 Filo 支持",
+        "SOON_MORE": "以后更多",
+        "PREVIOUS_PLAN_REWARD": "所有跟之前的计划",
+        "NICKNAME_REWARD": "我们服务器上可定制名称",
+        "EMOJIS_REWARD": "使用外部表情符号在我们的服务器里"
     },
-    "AUTO_MODERATION": {
-      "TITLE": "自动调节",
-      "DESCRIPTION": "不要让服务器上存在相互冲突的用户，这会对合法用户的使用体验造成负面影响！"
+    "REVIEW": {
+        "TITLE": "给我们留个评价",
+        "SUBTITLE": "展示你多喜欢 Filo 的服务!"
     },
-    "ANTI_EVASION": {
-      "TITLE": "反规避",
-      "DESCRIPTION": "您是否将多个用户静音，但他们却离开了服务器？没问题！让 Filo 自动禁言这些用户！"
+    "VOTE": {
+        "TITLE": "为 Filo 投票",
+        "SUBTITLE": "给 Filo 每天获得大量奖励!"
+    },
+    "FRIENDLY_WEBSITES": {
+        "TITLE": "有好的网页",
+        "SUBTITLE": "Filo 的有好网页帮助 Filo 继续在成长!"
+    },
+    "READY": {
+        "TITLE": "准备好迈出下一步了吗？",
+        "SUBTITLE": "现在就使用 Filo 来增强体验并使您的服务器专业化！",
+        "INVITE": "开始吧",
+        "GETTING_STARTED": "入门"
+    },
+    "CALCULATOR": {
+        "TITLE": "Filo's 权力计算机",
+        "VIEW_CASES": "查看案例",
+        "EDIT_CASES": "编辑案例",
+        "MANAGE_CASES": "管理案例",
+        "ADMINISTRATOR": "管理人员",
+        "BAN_MEMBERS": "屏蔽成员",
+        "TEMPBAN_MEMBERS": "暂时性屏蔽成员",
+        "SOFTBAN_MEMBERS": "软禁成员",
+        "UNBAN_MEMBERS": "解禁成员",
+        "KICK_MEMBERS": "踢成员",
+        "MUTE_MEMBERS": "静音成员",
+        "TEMPMUTE_MEMBERS": "暂时性静音成员",
+        "UNMUTE_MEMBERS": "取消静音成员",
+        "WARN_MEMBERS": "警告成员",
+        "UNWARN_MEMBERS": "取消警告成员",
+        "PURGE_WARNS": "清除警告",
+        "ADD_ROLES": "添加角色",
+        "REMOVE_ROLES": "去掉角色",
+        "PURGE_MESSAGES": "清除信息",
+        "MANAGE_NICKNAMES": "管理名字",
+        "MANAGE_CHANNELS": "管理频道",
+        "PIN_MESSAGES": "标注信息",
+        "UNPIN_MESSAGES": "取消标注信息",
+        "VIEW_HISTORY": "查看历史",
+        "EVADE_SANCTIONS": "逃避制裁",
+        "REPORT_MEMBERS": "报告成员",
+        "REPORT_MESSAGES": "报告信息",
+        "BYPASS_REPORTS_COOLDOWN": "绕过报告冷却时间",
+        "APPROVE_REPORTS": "批准报告",
+        "DENY_REPORTS": "拒绝报告",
+        "MANAGE_REPORTS": "管理报告",
+        "TIMEOUT_MEMBERS": "超时成员",
+        "UNTIMEOUT_MEMBERS": "超时成员"
+    },
+    "THANKS": {
+        "TITLE": "感谢添加 Filo!",
+        "SUBTITLE": "我们非常感谢您相信 Filo.",
+        "DISCORD_REDIRECT_INFO": "您将被重定向到我们的 Discord 服务器。"
+    },
+    "FOOTER": {
+        "HELPFUL_LINKS": "有用的网址",
+        "IMPORTANT_LINKS": "重要的网址",
+        "ABOUT_FILO": "关于 Filo"
+    },
+    "GENERAL": {
+        "BLOG": "博客",
+        "DISCORD_SERVER": "Discord服务器",
+        "DONATE": "捐款",
+        "FEATURES": "标题",
+        "HOME": "主页",
+        "INVITE": "邀请",
+        "MORE_INFO": "更多信息",
+        "PRIVACY_POLICY": "隐私政策",
+        "STATUS": "状态",
+        "TERMS": "条款",
+        "TERMS_AND_CONDITIONS": "条款和条约",
+        "VOTE": "投票",
+        "WIKI": "维基"
+    },
+    "PAGE_TITLES": {
+        "A_DISCORD_BOT": "Discord 机器人",
+        "CALCULATOR": "计算器",
+        "STATISTICS": "统计",
+        "THANKS": "谢谢",
+        "LINK_SHORTENER": "链接缩短器"
+    },
+    "LINK_SHORTENER": {
+        "TITLE": "重定向",
+        "SUBTITLE": "几秒钟后，您将被重定向到原始链接"
     }
-  },
-  "STATISTICS": {
-    "TITLE": "统计",
-    "SERVERS": "服务器",
-    "USERS": "用户"
-  },
-  "DONATE": {
-    "TITLE": "捐款给Filo",
-    "SUBTITLE": "用捐款帮助 Filo 继续在成长!",
-    "WARNING": "所有捐款受条款及细则约束.",
-    "PER_MONTH": "每月",
-    "VAT_NOT_INCLUDED": "不包括增值税",
-    "SUBSCRIBE": "订阅",
-    "ROLE_REWARD": "服务器上的象征的角色",
-    "FILO_SUPPORT": "表示你给 Filo 支持",
-    "SOON_MORE": "以后更多",
-    "PREVIOUS_PLAN_REWARD": "所有跟之前的计划",
-    "NICKNAME_REWARD": "我们服务器上可定制名称",
-    "EMOJIS_REWARD": "使用外部表情符号在我们的服务器里"
-  },
-  "REVIEW": {
-    "TITLE": "给我们留个评价",
-    "SUBTITLE": "展示你多喜欢 Filo 的服务!"
-  },
-  "VOTE": {
-    "TITLE": "为 Filo 投票",
-    "SUBTITLE": "给 Filo 每天获得大量奖励!"
-  },
-  "FRIENDLY_WEBSITES": {
-    "TITLE": "有好的网页",
-    "SUBTITLE": "Filo 的有好网页帮助 Filo 继续在成长!"
-  },
-  "READY": {
-    "TITLE": "准备好迈出下一步了吗？",
-    "SUBTITLE": "现在就使用 Filo 来增强体验并使您的服务器专业化！",
-    "INVITE": "开始吧",
-    "GETTING_STARTED": "入门"
-  },
-  "CALCULATOR": {
-    "TITLE": "Filo's 权力计算机",
-    "VIEW_CASES": "查看案例",
-    "EDIT_CASES": "编辑案例",
-    "MANAGE_CASES": "管理案例",
-    "ADMINISTRATOR": "管理人员",
-    "BAN_MEMBERS": "屏蔽成员",
-    "TEMPBAN_MEMBERS": "暂时性屏蔽成员",
-    "SOFTBAN_MEMBERS": "软禁成员",
-    "UNBAN_MEMBERS": "解禁成员",
-    "KICK_MEMBERS": "踢成员",
-    "MUTE_MEMBERS": "静音成员",
-    "TEMPMUTE_MEMBERS": "暂时性静音成员",
-    "UNMUTE_MEMBERS": "取消静音成员",
-    "WARN_MEMBERS": "警告成员",
-    "UNWARN_MEMBERS": "取消警告成员",
-    "PURGE_WARNS": "清除警告",
-    "ADD_ROLES": "添加角色",
-    "REMOVE_ROLES": "去掉角色",
-    "PURGE_MESSAGES": "清除信息",
-    "MANAGE_NICKNAMES": "管理名字",
-    "MANAGE_CHANNELS": "管理频道",
-    "PIN_MESSAGES": "标注信息",
-    "UNPIN_MESSAGES": "取消标注信息",
-    "VIEW_HISTORY": "查看历史",
-    "EVADE_SANCTIONS": "逃避制裁",
-    "REPORT_MEMBERS": "报告成员",
-    "REPORT_MESSAGES": "报告信息",
-    "BYPASS_REPORTS_COOLDOWN": "绕过报告冷却时间",
-    "APPROVE_REPORTS": "批准报告",
-    "DENY_REPORTS": "拒绝报告",
-    "MANAGE_REPORTS": "管理报告",
-    "TIMEOUT_MEMBERS": "超时成员",
-    "UNTIMEOUT_MEMBERS": "超时成员"
-  },
-  "THANKS": {
-    "TITLE": "感谢添加 Filo!",
-    "SUBTITLE": "我们非常感谢您相信 Filo.",
-    "DISCORD_REDIRECT_INFO": "您将被重定向到我们的 Discord 服务器。"
-  },
-  "FOOTER": {
-    "HELPFUL_LINKS": "有用的网址",
-    "IMPORTANT_LINKS": "重要的网址",
-    "ABOUT_FILO": "关于 Filo"
-  },
-  "GENERAL": {
-    "BLOG": "博客",
-    "DISCORD_SERVER": "Discord服务器",
-    "DONATE": "捐款",
-    "FEATURES": "标题",
-    "HOME": "主页",
-    "INVITE": "邀请",
-    "MORE_INFO": "更多信息",
-    "PRIVACY_POLICY": "隐私政策",
-    "STATUS": "状态",
-    "TERMS": "条款",
-    "TERMS_AND_CONDITIONS": "条款和条约",
-    "VOTE": "投票",
-    "WIKI": "维基"
-  },
-  "PAGE_TITLES": {
-    "A_DISCORD_BOT": "Discord 机器人",
-    "CALCULATOR": "计算器",
-    "STATISTICS": "统计",
-    "THANKS": "谢谢",
-    "LINK_SHORTENER": "链接缩短器"
-  },
-  "LINK_SHORTENER": {
-    "TITLE": "重定向",
-    "SUBTITLE": "几秒钟后，您将被重定向到原始链接"
-  }
 }
