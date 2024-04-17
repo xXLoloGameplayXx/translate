@@ -210,8 +210,8 @@
         "HELPFUL_LINKS": "Liens Utiles",
         "IMPORTANT_LINKS": "Liens Importants",
         "ABOUT_FILO": "À Propos de Filo",
-        "ABOUT_FILO_DESCRIPTION": "Filo is a powerful multipurpose Discord bot serving Discord guilds since 2019. Featuring a wide range of admin and moderation modules to make things easier for you",
-        "COPYRIGHT": "Filobot © {{year}}. All rights reserved"
+        "ABOUT_FILO_DESCRIPTION": "Filo est un puissant bot Discord polyvalent au service des serveurs Discord depuis 2019. Doté d'un large éventail de modules d'administration et de modération pour vous faciliter la tâche.",
+        "COPYRIGHT": "Filobot © {{year}}. Tous droits réservés"
     },
     "GENERAL": {
         "BLOG": "Blog",
@@ -367,8 +367,8 @@
             "FIRST_PARAGRAPH": "The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.",
             "GOOGLE_ANALYTICS": {
                 "TITLE": "Google Analytics (Google Inc.)",
-                "FIRST_PARAGRAPH": "Google Analytics is a web analysis service provided by Google Inc. (\"Google\"). Google utilizes the Data collected to track and examine the use of this Website, to prepare reports on its activities and share them with other Google services.",
-                "SECOND_PARAGRAPH": "Google may use the Data collected to contextualize and personalize the ads of its own advertising network.",
+                "FIRST_PARAGRAPH": "Google Analytics est un service d'analyse du Web fourni par Google Inc. (\"Google\"). Google utilise les données collectées pour suivre et examiner l'utilisation de ce site Web, pour préparer des rapports sur ses activités et les partager avec d'autres services Google.",
+                "SECOND_PARAGRAPH": "Google peut utiliser les données collectées pour contextualiser et personnaliser les annonces de son propre réseau publicitaire.",
                 "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Cookies; Usage Data.",
                 "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Opt Out</a></strong>."
             }
@@ -583,40 +583,40 @@
             "TITLE": "Contract Duration",
             "SUBSCRIPTIONS": {
                 "TITLE": "Subscriptions",
-                "FIRST_PARAGRAPH": "Subscriptions are valid for the period of time indicated at the time of purchase. Details regarding the type of subscription and termination are provided below."
+                "FIRST_PARAGRAPH": "Les abonnements sont valables pour la période indiquée au moment de l'achat. Les détails concernant le type d'abonnement et la résiliation sont fournis ci-dessous."
             },
             "ONE_TIME_PURCHASES": {
                 "TITLE": "One-Time Purchases",
-                "FIRST_PARAGRAPH": "One-time purchases are valid for the period of time indicated at the time of purchase. Details regarding the type of subscription and termination are provided below."
+                "FIRST_PARAGRAPH": "Les achats uniques sont valables pour la période indiquée au moment de l'achat. Les détails concernant le type d'abonnement et la résiliation sont fournis ci-dessous."
             },
             "AUTOMATIC_RENEWAL": {
-                "TITLE": "Automatic Renewal",
-                "FIRST_PARAGRAPH": "Subscriptions automatically renew for the same period of time as the original subscription term. The renewal rate will be the same as the prior term's rate, unless Filo notifies you at least 30 days prior to the end of the subscription term. The renewal rate will be charged automatically to the payment method you have on file with Filo."
+                "TITLE": "Renouvellement Automatique",
+                "FIRST_PARAGRAPH": "Les abonnements sont automatiquement renouvelés pour la même période que la durée initiale de l'abonnement. Le tarif de renouvellement sera le même que celui de la période précédente, sauf si Filo vous en informe au moins 30 jours avant la fin de la période d'abonnement. Le tarif de renouvellement sera automatiquement débité de la méthode de paiement que vous avez enregistrée auprès de Filo."
             },
             "TERMINATION": {
                 "TITLE": "Termination",
-                "FIRST_PARAGRAPH": "Subscriptions can be terminated at any time, and you will continue to have access to the service through the end of the subscription period."
+                "FIRST_PARAGRAPH": "Les abonnements peuvent être résiliés à tout moment et vous continuerez à avoir accès au service jusqu'à la fin de la période d'abonnement."
             }
         },
         "REFUND_POLICY": {
-            "TITLE": "Refund Policy",
-            "FIRST_PARAGRAPH": "Subscriptions can be refunded within 5 days of the purchase date. Keep in mind that refunds are not guaranteed and are subject to the sole discretion of Filo.",
-            "SECOND_PARAGRAPH": "Filo reserves the right to refuse a refund request if we find that the request is fraudulent or if we find that the user is abusing the refund policy.",
-            "THIRD_PARAGRAPH": "Refunds are a One-Time-Only offer. If you request a refund for a subscription, you will not be able to request a refund for the same subscription again."
+            "TITLE": "Politique de Remboursement",
+            "FIRST_PARAGRAPH": "Les abonnements peuvent être remboursés dans les 5 jours suivant la date d'achat. N'oubliez pas que les remboursements ne sont pas garantis et qu'ils sont soumis à la seule discrétion de Filo.",
+            "SECOND_PARAGRAPH": "Filo se réserve le droit de refuser une demande de remboursement si nous constatons que la demande est frauduleuse ou si nous constatons que l'utilisateur abuse de la politique de remboursement.",
+            "THIRD_PARAGRAPH": "Les remboursements sont une offre unique. Si vous demandez un remboursement pour un abonnement, vous ne pourrez pas demander à nouveau un remboursement pour le même abonnement."
         }
     },
     "BUTTON_LABELS": {
-        "DISCORD_SERVER": "Discord server",
+        "DISCORD_SERVER": "Serveur Discord",
         "GO_HOME": "Go home",
-        "FEATURES": "Features",
-        "INVITE": "Invite",
-        "VIEW_MORE": "View more",
+        "FEATURES": "Fonctionnalités",
+        "INVITE": "Inviter",
+        "VIEW_MORE": "Voir plus",
         "GETTING_STARTED": "Getting started",
         "DOCUMENTATION": "Documentation"
     },
     "HERO": {
         "TITLE": "Elevate your Discord community",
-        "DESCRIPTION": "Unlock powerful and seamless moderation tools, available in multiple languages, as well as containing multiple commands and purposes"
+        "DESCRIPTION": "Débloquez des outils de modération puissants et transparents, disponibles dans plusieurs langues et contenant des commandes et des objectifs multiples."
     },
     "FAQ": {
         "QUESTIONS": {
@@ -792,55 +792,55 @@
         }
     },
     "TITLE": {
-        "GENERIC": "{{title}} | Filo — The Discord Bot",
-        "GENERIC_ALT": "Filo — The Discord Bot",
-        "SERVICE_STATUS": "Service status",
-        "VOTE": "Vote",
+        "GENERIC": "{{title}} | Filo — Le Bot Discord",
+        "GENERIC_ALT": "Filo — Le Bot Discord",
+        "SERVICE_STATUS": "Statut du service",
+        "VOTE": "Voter",
         "BLOG": "Blog",
-        "TERMS_OF_SERVICE": "Terms of Service",
-        "PRIVACY_POLICY": "Privacy Policy",
-        "COOKIES_POLICY": "Cookies Policy",
-        "TERMS_OF_SALES": "Terms of Sales",
-        "HOME": "Home",
-        "INVITE": "Invite",
+        "TERMS_OF_SERVICE": "Conditions d'Utilisation",
+        "PRIVACY_POLICY": "Politique de confidentialité",
+        "COOKIES_POLICY": "Politique des Cookies",
+        "TERMS_OF_SALES": "Conditions de Vente",
+        "HOME": "Accueil",
+        "INVITE": "Inviter",
         "DOCUMENTATION": "Documentation",
         "CONTACT": "Contact",
-        "DISCORD_SERVER": "Discord server",
-        "THANKS": "Thanks",
-        "ERROR": "Error",
-        "LINK_SHORTENER": "Link shortener",
-        "FEATURES": "Features",
-        "APPEAL": "Appeal",
-        "CONGESTED_QUEUE": "Congested queue",
-        "DONATE": "Donate",
-        "SYNC_ACCOUNT": "Sync account",
+        "DISCORD_SERVER": "Serveur Discord",
+        "THANKS": "Remerciements",
+        "ERROR": "Erreur",
+        "LINK_SHORTENER": "Raccourcisseur de liens",
+        "FEATURES": "Fonctionnalités",
+        "APPEAL": "Appel",
+        "CONGESTED_QUEUE": "File d'attente saturée",
+        "DONATE": "Donner",
+        "SYNC_ACCOUNT": "Synchroniser le compte",
         "GITHUB": "GitHub",
-        "TRANSLATE": "Translate",
+        "TRANSLATE": "Traduire",
         "TWITTER": "Twitter",
         "TWITCH": "Twitch",
         "YOUTUBE": "YouTube",
-        "CONTACT_US": "Contact us",
-        "REVIEW": "Review",
-        "APP_DIRECTORY": "App directory"
+        "CONTACT_US": "Nous contacter",
+        "REVIEW": "Revoir",
+        "APP_DIRECTORY": "Répertoire des applications"
     },
     "META": {
         "DEFAULT": {
-            "DESCRIPTION": "Elevate your Discord community with powerful and seamless moderation tools, available in multiple languages.",
-            "ABSTRACT": "Empower your Discord community with versatile, multilingual moderation solutions.",
-            "KEYWORDS": "filo bot, discord, discord bot, discord bots, moderation bot, multilingual bot, anime bot, best moderation bot discord, best discord bots for moderation, powerful discord bot"
+            "DESCRIPTION": "Améliorez votre communauté Discord grâce à des outils de modération puissants et transparents, disponibles en plusieurs langues.",
+            "ABSTRACT": "Renforcez votre communauté Discord avec des solutions de modération polyvalentes et multilingues.",
+            "KEYWORDS": "bot filo, discord, bot discord, bots discord, bot de modération, bot multilingue, bot d'anime, meilleur bot de modération discord, meilleur bot de modération pour discord, bot discord puissant"
         },
         "FEATURES": {
-            "DESCRIPTION": "Explore Filo's rich array of Discord bot features - from enhanced moderation to community engagement tools, unleash the full potential of your community management.",
-            "ABSTRACT": "Discover the full spectrum of features that Filo offers, empowering you to elevate your Discord community's management, moderation, and community engagement.",
+            "DESCRIPTION": "Explorez la riche gamme de fonctionnalités du bot Discord Filo - de la modération améliorée aux outils d'engagement communautaire, libérez tout le potentiel de votre gestion de communauté.",
+            "ABSTRACT": "Découvrez l'ensemble des fonctionnalités offertes par Filo, qui vous permettent d'améliorer la gestion, la modération et l'engagement de votre communauté Discord.",
             "KEYWORDS": "discord bot, community management, moderation tools, community engagement, multilingual support, anti-spam, member counting, welcoming messages, security measures, customization options"
         },
         "COOKIES_POLICY": {
-            "DESCRIPTION": "Learn how we prioritize your privacy, manage data tracking, and provide options for personalized online experiences through transparent cookie policies.",
-            "ABSTRACT": "Explore how we utilize cookies, respect user preferences, and prioritize data protection for a tailored online experience.",
+            "DESCRIPTION": "Découvrez comment nous donnons la priorité à votre vie privée, gérons le suivi des données et offrons des options pour des expériences en ligne personnalisées grâce à des politiques transparentes en matière de cookies.",
+            "ABSTRACT": "Découvrez comment nous utilisons les cookies, respectons les préférences des utilisateurs et donnons la priorité à la protection des données pour une expérience sur mesure.",
             "KEYWORDS": "cookies, data tracking, privacy settings, cookie policy, user preferences, website analytics, consent management, online experience, data protection, cookie usage"
         },
         "TERMS_OF_SERVICE": {
-            "DESCRIPTION": "Learn about acceptable use policies, community management rules, and compliance requirements to ensure a respectful and secure Discord experience.",
+            "DESCRIPTION": "Découvrez les politiques d'utilisation acceptables, les règles de gestion de la communauté et les exigences de conformité pour garantir une expérience Discord respectueuse et sécurisée.",
             "ABSTRACT": "Explore the details of acceptable use, community management rules, and compliance requirements for a harmonious and secure online environment.",
             "KEYWORDS": "terms of service, user agreement, discord bot usage, community guidelines, code of conduct, acceptable use, legal terms, agreement terms, community management rules, compliance requirements"
         },
