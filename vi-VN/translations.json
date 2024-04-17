@@ -1,200 +1,200 @@
 {
-  "ERROR_DESCRIPTIONS": {
-    "200": "OK",
-    "400": "Yêu cầu thất bại",
-    "401": "Chưa được xác thực",
-    "402": "Yêu cầu thanh toán",
-    "403": "Bị cấm",
-    "404": "Không tìm thấy",
-    "405": "Phương thức không được phép",
-    "406": "Không chấp nhận",
-    "407": "Yêu cầu xác thực proxy",
-    "408": "Yêu cầu quá hạn",
-    "409": "Mâu thuẫn",
-    "410": "Biến mất",
-    "411": "Độ dài cần thiết",
-    "412": "Điều kiện tiên quyết không thành công",
-    "413": "Khối lượng dữ liệu quá lớn",
-    "414": "URI yêu cầu quá dài",
-    "415": "Loại phương tiện truyền thông không được hỗ trợ",
-    "416": "Phạm vi yêu cầu không hài lòng",
-    "417": "Kỳ vọng không thành công",
-    "418": "Tôi là một bình trà",
-    "420": "Trình duyệt không được hỗ trợ",
-    "421": "Chuyển hướng yêu cầu không thành công",
-    "422": "Thực thể không thể xử lý",
-    "423": "Đã khóa",
-    "424": "Phụ thuộc không thành công",
-    "425": "Quá Sớm",
-    "426": "Yêu cầu nâng cấp",
-    "428": "Điều kiện tiên quyết bắt buộc",
-    "429": "Quá nhiều yêu cầu",
-    "431": "Yêu cầu trường tiêu đề quá lớn",
-    "444": "Cổng kết nối đã đóng và không có phản hồi",
-    "451": "Không tồn tại vì lí do bản quyền",
-    "500": "Lỗi bên trong máy chủ",
-    "501": "Không được thực hiện",
-    "502": "Gateway hỏng",
-    "503": "Dịch vụ không khả dụng",
-    "504": "Gateway quá hạn",
-    "505": "Phiên bản của HTTP không được hỗ trợ",
-    "506": "Biến thể trong máy chủ cũng thương lượng",
-    "507": "Không đủ bộ nhớ",
-    "508": "Vòng lặp đã được phát hiện",
-    "510": "Không được nới thêm giới hạn",
-    "511": "Bắt buộc phải xác thực mạng",
-    "599": "Lỗi kết nối mạng"
-  },
-  "FILO": {
-    "CLASSIC_DESCRIPTION": "Filo là một Discord bot đa chức năng. Có thể thay đổi tuỳ ý, nhiều ngôn ngữ, báo cáo, ghi chép nhật ký, chào mừng và tạm biệt, máy đếm số thành viên, ngăn chặn link mời, quản lý tự động, ngăn chặn, chống trốn tránh. Hơn 190 lệnh.",
-    "DESCRIPTION": "Filo là một Bot Discord đa chức năng mạnh mẽ phục vụ các server Discord từ 2019. Filo có hàng loạt tính năng và chương trình quản lý để làm cho công cuộc quản lý server của bạn dễ hơn."
-  },
-  "MAIN_HEADER": {
-    "TITLE": "Filo là một Discord bot đa chức năng mạnh mẽ",
-    "SUBTITLE": "Có hàng loạt chương trình admin và quản lý để cho công việc của bạn dễ dàng hơn"
-  },
-  "FEATURES": {
-    "DESCRIPTION": "Có các tính năng tốt nhất để cải thiện server của bạn!",
-    "MORE_INFO": "Thông tin thêm về tính năng này",
-    "REPORTS": {
-      "TITLE": "Các báo cáo",
-      "DESCRIPTION": "Cải thiện trải nghiệm cũng như là chuyên nghiệp hoá cách quản lý server bằng cách cho phép người dùng báo cáo các hành vi không phù hợp!"
+    "ERROR_DESCRIPTIONS": {
+        "200": "OK",
+        "400": "Yêu cầu thất bại",
+        "401": "Chưa được xác thực",
+        "402": "Yêu cầu thanh toán",
+        "403": "Bị cấm",
+        "404": "Không tìm thấy",
+        "405": "Phương thức không được phép",
+        "406": "Không chấp nhận",
+        "407": "Yêu cầu xác thực proxy",
+        "408": "Yêu cầu quá hạn",
+        "409": "Mâu thuẫn",
+        "410": "Biến mất",
+        "411": "Độ dài cần thiết",
+        "412": "Điều kiện tiên quyết không thành công",
+        "413": "Khối lượng dữ liệu quá lớn",
+        "414": "URI yêu cầu quá dài",
+        "415": "Loại phương tiện truyền thông không được hỗ trợ",
+        "416": "Phạm vi yêu cầu không hài lòng",
+        "417": "Kỳ vọng không thành công",
+        "418": "Tôi là một bình trà",
+        "420": "Trình duyệt không được hỗ trợ",
+        "421": "Chuyển hướng yêu cầu không thành công",
+        "422": "Thực thể không thể xử lý",
+        "423": "Đã khóa",
+        "424": "Phụ thuộc không thành công",
+        "425": "Quá Sớm",
+        "426": "Yêu cầu nâng cấp",
+        "428": "Điều kiện tiên quyết bắt buộc",
+        "429": "Quá nhiều yêu cầu",
+        "431": "Yêu cầu trường tiêu đề quá lớn",
+        "444": "Cổng kết nối đã đóng và không có phản hồi",
+        "451": "Không tồn tại vì lí do bản quyền",
+        "500": "Lỗi bên trong máy chủ",
+        "501": "Không được thực hiện",
+        "502": "Gateway hỏng",
+        "503": "Dịch vụ không khả dụng",
+        "504": "Gateway quá hạn",
+        "505": "Phiên bản của HTTP không được hỗ trợ",
+        "506": "Biến thể trong máy chủ cũng thương lượng",
+        "507": "Không đủ bộ nhớ",
+        "508": "Vòng lặp đã được phát hiện",
+        "510": "Không được nới thêm giới hạn",
+        "511": "Bắt buộc phải xác thực mạng",
+        "599": "Lỗi kết nối mạng"
     },
-    "LOGGING": {
-      "TITLE": "Nhật ký",
-      "DESCRIPTION": "Ghi lại những hành động đã được thực hiện bởi các người dùng ở trong server của bạn vào một kênh, cho phép bạn dễ dàng xem lại và lọc chúng!"
+    "FILO": {
+        "CLASSIC_DESCRIPTION": "Filo là một Discord bot đa chức năng. Có thể thay đổi tuỳ ý, nhiều ngôn ngữ, báo cáo, ghi chép nhật ký, chào mừng và tạm biệt, máy đếm số thành viên, ngăn chặn link mời, quản lý tự động, ngăn chặn, chống trốn tránh. Hơn 190 lệnh.",
+        "DESCRIPTION": "Filo là một Bot Discord đa chức năng mạnh mẽ phục vụ các server Discord từ 2019. Filo có hàng loạt tính năng và chương trình quản lý để làm cho công cuộc quản lý server của bạn dễ hơn."
     },
-    "ANTI_INVITES": {
-      "TITLE": "Cấm link mời",
-      "DESCRIPTION": "Cấm người dùng khi họ gửi các link mời vào các server của bạn bằng cách tự động xử phạt họ!"
+    "MAIN_HEADER": {
+        "TITLE": "Filo là một Discord bot đa chức năng mạnh mẽ",
+        "SUBTITLE": "Có hàng loạt chương trình admin và quản lý để cho công việc của bạn dễ dàng hơn"
     },
-    "ANTI_SPAM": {
-      "TITLE": "Chống spam",
-      "DESCRIPTION": "Bạn đã mệt với những người spam? Những người quản lý của bạn chưa đủ trình độ? Hãy để Filo đối mặt với những người dùng này và bạn có thể uống trà trong lúc Filo đang thực hiện!"
+    "FEATURES": {
+        "DESCRIPTION": "Có các tính năng tốt nhất để cải thiện server của bạn!",
+        "MORE_INFO": "Thông tin thêm về tính năng này",
+        "REPORTS": {
+            "TITLE": "Các báo cáo",
+            "DESCRIPTION": "Cải thiện trải nghiệm cũng như là chuyên nghiệp hoá cách quản lý server bằng cách cho phép người dùng báo cáo các hành vi không phù hợp!"
+        },
+        "LOGGING": {
+            "TITLE": "Nhật ký",
+            "DESCRIPTION": "Ghi lại những hành động đã được thực hiện bởi các người dùng ở trong server của bạn vào một kênh, cho phép bạn dễ dàng xem lại và lọc chúng!"
+        },
+        "ANTI_INVITES": {
+            "TITLE": "Cấm link mời",
+            "DESCRIPTION": "Cấm người dùng khi họ gửi các link mời vào các server của bạn bằng cách tự động xử phạt họ!"
+        },
+        "ANTI_SPAM": {
+            "TITLE": "Chống spam",
+            "DESCRIPTION": "Bạn đã mệt với những người spam? Những người quản lý của bạn chưa đủ trình độ? Hãy để Filo đối mặt với những người dùng này và bạn có thể uống trà trong lúc Filo đang thực hiện!"
+        },
+        "ANTI_BAD_WORDS": {
+            "TITLE": "Chống các từ ngữ không phù hợp",
+            "DESCRIPTION": "Ngăn chặn người dùng khi người dùng ấy gửi các từ ngữ không phù hợp ở trong các tin nhắn... Không một ai muốn đọc các từ đó cả!"
+        },
+        "ANTI_SCAM_LINKS": {
+            "TITLE": "Chống link lừa đảo",
+            "DESCRIPTION": "Những người lừa đảo thật mệt mỏi... Bây giờ Filo sẽ giúp bạn đấu lại những người đó!"
+        },
+        "AUTO_MODERATION": {
+            "TITLE": "Quản lý tự động",
+            "DESCRIPTION": "Không cho phép các người dùng gây mâu thuẫn ở trong server, điều này có thể ảnh hưởng xấu tới trải nghiệm của người dùng!"
+        },
+        "ANTI_EVASION": {
+            "TITLE": "Chống trốn",
+            "DESCRIPTION": "Bạn đã từng mute một số người dùng và họ đã thoát khỏi server? Không vấn đề! Hãy để Filo tự động ban những người đó!"
+        }
     },
-    "ANTI_BAD_WORDS": {
-      "TITLE": "Chống các từ ngữ không phù hợp",
-      "DESCRIPTION": "Ngăn chặn người dùng khi người dùng ấy gửi các từ ngữ không phù hợp ở trong các tin nhắn... Không một ai muốn đọc các từ đó cả!"
+    "STATISTICS": {
+        "TITLE": "Thống kê",
+        "SERVERS": "Máy chủ",
+        "USERS": "Số người dùng"
     },
-    "ANTI_SCAM_LINKS": {
-      "TITLE": "Chống link lừa đảo",
-      "DESCRIPTION": "Những người lừa đảo thật mệt mỏi... Bây giờ Filo sẽ giúp bạn đấu lại những người đó!"
+    "DONATE": {
+        "TITLE": "Ủng hộ cho Filo",
+        "SUBTITLE": "Hãy giúp chúng tôi để Filo hoạt động bằng cách ủng hộ!",
+        "WARNING": "Tất cả khoản ủng hộ đều tuân thủ Điều Khoản và Điều Kiện.",
+        "PER_MONTH": "Mỗi tháng",
+        "VAT_NOT_INCLUDED": "Chưa bao gồm thuế",
+        "SUBSCRIBE": "Đăng kí",
+        "ROLE_REWARD": "Một role đặc biệt ở trong server của chúng tôi",
+        "FILO_SUPPORT": "Hãy thể hiện sự ủng hộ của bạn dành cho Filo",
+        "SOON_MORE": "Sẽ có nhiều hơn trong thời gian tới™",
+        "PREVIOUS_PLAN_REWARD": "Tất cả từ gói trước",
+        "NICKNAME_REWARD": "Biệt danh riêng ở trong server của chúng tôi",
+        "EMOJIS_REWARD": "Sử dụng các biểu cảm ở ngoài server ở trong server của chúng tôi"
     },
-    "AUTO_MODERATION": {
-      "TITLE": "Quản lý tự động",
-      "DESCRIPTION": "Không cho phép các người dùng gây mâu thuẫn ở trong server, điều này có thể ảnh hưởng xấu tới trải nghiệm của người dùng!"
+    "REVIEW": {
+        "TITLE": "Viết bài đánh giá về chúng tôi",
+        "SUBTITLE": "Thể hiện tình yêu của bạn dành cho Filo và dịch vụ của cô ấy!"
     },
-    "ANTI_EVASION": {
-      "TITLE": "Chống trốn",
-      "DESCRIPTION": "Bạn đã từng mute một số người dùng và họ đã thoát khỏi server? Không vấn đề! Hãy để Filo tự động ban những người đó!"
+    "VOTE": {
+        "TITLE": "Bình chọn cho Filo",
+        "SUBTITLE": "Thể hiện sự ủng hộ của bạn dành cho Filo bằng cách bình chọn cho cô ấy!"
+    },
+    "FRIENDLY_WEBSITES": {
+        "TITLE": "Các website thân thiện",
+        "SUBTITLE": "Các website thân thiện để giúp Filo phát triển!"
+    },
+    "READY": {
+        "TITLE": "Bạn đã sẫn sàng để bước tiếp?",
+        "SUBTITLE": "Nâng cao trải nghiệm của người dùng và chuyên nghiệp hoá server của bạn với Filo ngay hôm nay!",
+        "INVITE": "Bắt đầu thôi!",
+        "GETTING_STARTED": "Bắt đầu"
+    },
+    "CALCULATOR": {
+        "TITLE": "Máy tính quyền hạn của Filo",
+        "VIEW_CASES": "Xem các vụ án",
+        "EDIT_CASES": "Sửa các vụ án",
+        "MANAGE_CASES": "Quản lý các vụ án",
+        "ADMINISTRATOR": "Người quản lý",
+        "BAN_MEMBERS": "Ban thành viên",
+        "TEMPBAN_MEMBERS": "Ban thành viên tạm thời",
+        "SOFTBAN_MEMBERS": "Bạn thành viên nhẹ tay",
+        "UNBAN_MEMBERS": "Gỡ ban thành viên",
+        "KICK_MEMBERS": "Đá thành viên",
+        "MUTE_MEMBERS": "Mute thành viên",
+        "TEMPMUTE_MEMBERS": "Mute thành viên tạm thời",
+        "UNMUTE_MEMBERS": "Bỏ mute thành viên",
+        "WARN_MEMBERS": "Cảnh cáo thành viên",
+        "UNWARN_MEMBERS": "Bỏ cảnh cáo thành viên",
+        "PURGE_WARNS": "Xoá cảnh cáo",
+        "ADD_ROLES": "Thêm role",
+        "REMOVE_ROLES": "Bỏ role",
+        "PURGE_MESSAGES": "Xoá tin nhắn",
+        "MANAGE_NICKNAMES": "Quản lý biệt danh",
+        "MANAGE_CHANNELS": "Quản lý kênh",
+        "PIN_MESSAGES": "Ghim tin nhắn",
+        "UNPIN_MESSAGES": "Bỏ ghim tin nhắn",
+        "VIEW_HISTORY": "Xem lịch sử",
+        "EVADE_SANCTIONS": "Trốn tránh hình phạt",
+        "REPORT_MEMBERS": "Report members",
+        "REPORT_MESSAGES": "Report messages",
+        "BYPASS_REPORTS_COOLDOWN": "Bypass reports cooldown",
+        "APPROVE_REPORTS": "Approve reports",
+        "DENY_REPORTS": "Deny reports",
+        "MANAGE_REPORTS": "Manage reports",
+        "TIMEOUT_MEMBERS": "Timeout members",
+        "UNTIMEOUT_MEMBERS": "Untimeout members"
+    },
+    "THANKS": {
+        "TITLE": "Cảm ơn vì đã thêm Filo!",
+        "SUBTITLE": "Chúng tôi rất biết ơn vì bạn đã lựa chọn và tin tưởng Filo.",
+        "DISCORD_REDIRECT_INFO": "Bạn sẽ được chuyển hướng tới server Discord của chúng tôi."
+    },
+    "FOOTER": {
+        "HELPFUL_LINKS": "Các đường dẫn hữu ích",
+        "IMPORTANT_LINKS": "Các đường dẫn quan trọng",
+        "ABOUT_FILO": "Về Filo"
+    },
+    "GENERAL": {
+        "BLOG": "Blog",
+        "DISCORD_SERVER": "Server Discord",
+        "DONATE": "Ủng hộ",
+        "FEATURES": "Các tính năng",
+        "HOME": "Trang chủ",
+        "INVITE": "Mời",
+        "MORE_INFO": "Thông tin chi tiết",
+        "PRIVACY_POLICY": "Chính sách Bảo mật",
+        "STATUS": "Trạng thái",
+        "TERMS": "Điều khoản",
+        "TERMS_AND_CONDITIONS": "Điều khoản và Điều kiện",
+        "VOTE": "Bình chọn",
+        "WIKI": "Từ điển Wiki"
+    },
+    "PAGE_TITLES": {
+        "A_DISCORD_BOT": "Một Bot Discord",
+        "CALCULATOR": "Máy tính",
+        "STATISTICS": "Thống kê",
+        "THANKS": "Cảm ơn",
+        "LINK_SHORTENER": "Link Shortener"
+    },
+    "LINK_SHORTENER": {
+        "TITLE": "Redirecting",
+        "SUBTITLE": "You'll be redirected to the original link in a few seconds"
     }
-  },
-  "STATISTICS": {
-    "TITLE": "Thống kê",
-    "SERVERS": "Máy chủ",
-    "USERS": "Số người dùng"
-  },
-  "DONATE": {
-    "TITLE": "Ủng hộ cho Filo",
-    "SUBTITLE": "Hãy giúp chúng tôi để Filo hoạt động bằng cách ủng hộ!",
-    "WARNING": "Tất cả khoản ủng hộ đều tuân thủ Điều Khoản và Điều Kiện.",
-    "PER_MONTH": "Mỗi tháng",
-    "VAT_NOT_INCLUDED": "Chưa bao gồm thuế",
-    "SUBSCRIBE": "Đăng kí",
-    "ROLE_REWARD": "Một role đặc biệt ở trong server của chúng tôi",
-    "FILO_SUPPORT": "Hãy thể hiện sự ủng hộ của bạn dành cho Filo",
-    "SOON_MORE": "Sẽ có nhiều hơn trong thời gian tới™",
-    "PREVIOUS_PLAN_REWARD": "Tất cả từ gói trước",
-    "NICKNAME_REWARD": "Biệt danh riêng ở trong server của chúng tôi",
-    "EMOJIS_REWARD": "Sử dụng các biểu cảm ở ngoài server ở trong server của chúng tôi"
-  },
-  "REVIEW": {
-    "TITLE": "Viết bài đánh giá về chúng tôi",
-    "SUBTITLE": "Thể hiện tình yêu của bạn dành cho Filo và dịch vụ của cô ấy!"
-  },
-  "VOTE": {
-    "TITLE": "Bình chọn cho Filo",
-    "SUBTITLE": "Thể hiện sự ủng hộ của bạn dành cho Filo bằng cách bình chọn cho cô ấy!"
-  },
-  "FRIENDLY_WEBSITES": {
-    "TITLE": "Các website thân thiện",
-    "SUBTITLE": "Các website thân thiện để giúp Filo phát triển!"
-  },
-  "READY": {
-    "TITLE": "Bạn đã sẫn sàng để bước tiếp?",
-    "SUBTITLE": "Nâng cao trải nghiệm của người dùng và chuyên nghiệp hoá server của bạn với Filo ngay hôm nay!",
-    "INVITE": "Bắt đầu thôi!",
-    "GETTING_STARTED": "Bắt đầu"
-  },
-  "CALCULATOR": {
-    "TITLE": "Máy tính quyền hạn của Filo",
-    "VIEW_CASES": "Xem các vụ án",
-    "EDIT_CASES": "Sửa các vụ án",
-    "MANAGE_CASES": "Quản lý các vụ án",
-    "ADMINISTRATOR": "Người quản lý",
-    "BAN_MEMBERS": "Ban thành viên",
-    "TEMPBAN_MEMBERS": "Ban thành viên tạm thời",
-    "SOFTBAN_MEMBERS": "Bạn thành viên nhẹ tay",
-    "UNBAN_MEMBERS": "Gỡ ban thành viên",
-    "KICK_MEMBERS": "Đá thành viên",
-    "MUTE_MEMBERS": "Mute thành viên",
-    "TEMPMUTE_MEMBERS": "Mute thành viên tạm thời",
-    "UNMUTE_MEMBERS": "Bỏ mute thành viên",
-    "WARN_MEMBERS": "Cảnh cáo thành viên",
-    "UNWARN_MEMBERS": "Bỏ cảnh cáo thành viên",
-    "PURGE_WARNS": "Xoá cảnh cáo",
-    "ADD_ROLES": "Thêm role",
-    "REMOVE_ROLES": "Bỏ role",
-    "PURGE_MESSAGES": "Xoá tin nhắn",
-    "MANAGE_NICKNAMES": "Quản lý biệt danh",
-    "MANAGE_CHANNELS": "Quản lý kênh",
-    "PIN_MESSAGES": "Ghim tin nhắn",
-    "UNPIN_MESSAGES": "Bỏ ghim tin nhắn",
-    "VIEW_HISTORY": "Xem lịch sử",
-    "EVADE_SANCTIONS": "Trốn tránh hình phạt",
-    "REPORT_MEMBERS": "Report members",
-    "REPORT_MESSAGES": "Report messages",
-    "BYPASS_REPORTS_COOLDOWN": "Bypass reports cooldown",
-    "APPROVE_REPORTS": "Approve reports",
-    "DENY_REPORTS": "Deny reports",
-    "MANAGE_REPORTS": "Manage reports",
-    "TIMEOUT_MEMBERS": "Timeout members",
-    "UNTIMEOUT_MEMBERS": "Untimeout members"
-  },
-  "THANKS": {
-    "TITLE": "Cảm ơn vì đã thêm Filo!",
-    "SUBTITLE": "Chúng tôi rất biết ơn vì bạn đã lựa chọn và tin tưởng Filo.",
-    "DISCORD_REDIRECT_INFO": "Bạn sẽ được chuyển hướng tới server Discord của chúng tôi."
-  },
-  "FOOTER": {
-    "HELPFUL_LINKS": "Các đường dẫn hữu ích",
-    "IMPORTANT_LINKS": "Các đường dẫn quan trọng",
-    "ABOUT_FILO": "Về Filo"
-  },
-  "GENERAL": {
-    "BLOG": "Blog",
-    "DISCORD_SERVER": "Server Discord",
-    "DONATE": "Ủng hộ",
-    "FEATURES": "Các tính năng",
-    "HOME": "Trang chủ",
-    "INVITE": "Mời",
-    "MORE_INFO": "Thông tin chi tiết",
-    "PRIVACY_POLICY": "Chính sách Bảo mật",
-    "STATUS": "Trạng thái",
-    "TERMS": "Điều khoản",
-    "TERMS_AND_CONDITIONS": "Điều khoản và Điều kiện",
-    "VOTE": "Bình chọn",
-    "WIKI": "Từ điển Wiki"
-  },
-  "PAGE_TITLES": {
-    "A_DISCORD_BOT": "Một Bot Discord",
-    "CALCULATOR": "Máy tính",
-    "STATISTICS": "Thống kê",
-    "THANKS": "Cảm ơn",
-    "LINK_SHORTENER": "Link Shortener"
-  },
-  "LINK_SHORTENER": {
-    "TITLE": "Redirecting",
-    "SUBTITLE": "You'll be redirected to the original link in a few seconds"
-  }
 }
