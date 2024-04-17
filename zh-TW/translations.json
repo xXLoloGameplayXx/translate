@@ -1,200 +1,200 @@
 {
-  "ERROR_DESCRIPTIONS": {
-    "200": "OK",
-    "400": "Bad Request",
-    "401": "Unauthorized",
-    "402": "Payment Required",
-    "403": "Forbidden",
-    "404": "Not Found",
-    "405": "Method Not Allowed",
-    "406": "Not Acceptable",
-    "407": "Proxy Authentication Required",
-    "408": "Request Timeout",
-    "409": "Conflict",
-    "410": "Gone",
-    "411": "Length Required",
-    "412": "Precondition Failed",
-    "413": "Payload Too Large",
-    "414": "Request-URI Too Long",
-    "415": "Unsupported Media Type",
-    "416": "Requested Range Not Satisfiable",
-    "417": "Expectation Failed",
-    "418": "I'm a teapot",
-    "420": "Unsupported Browser",
-    "421": "Misdirected Request",
-    "422": "Unprocessable Entity",
-    "423": "Locked",
-    "424": "Failed Dependency",
-    "425": "Too Early",
-    "426": "Upgrade Required",
-    "428": "Precondition Required",
-    "429": "Too Many Request",
-    "431": "Request Header Fields Too Large",
-    "444": "Connection Closed Without Response",
-    "451": "Unavailable For Legal Reasons",
-    "500": "Internal Server Error",
-    "501": "Not Implemented",
-    "502": "Bad Gateway",
-    "503": "Service Unavailable",
-    "504": "Gateway Timeout",
-    "505": "HTTP Version Not Supported",
-    "506": "Variant Also Negotiates",
-    "507": "Insufficient Storage",
-    "508": "Loop Detected",
-    "510": "Not Extended",
-    "511": "Network Authentication Required",
-    "599": "Network Connect Timeout Error"
-  },
-  "FILO": {
-    "CLASSIC_DESCRIPTION": "Filo is a powerful multipurpose Discord bot. Customizable, multiple languages, report, logging, welcomes and farewells, member counter, anti-invites, auto-mod, anti-evasion. +190 commands.",
-    "DESCRIPTION": "Filo 是一個功能強大且多用途的 Discord 機器人，自 2019 年以來就一直努力不懈的在 Discord 伺服器上服務。她擁有廣泛的管理和審核模塊，讓您工作更輕鬆。"
-  },
-  "MAIN_HEADER": {
-    "TITLE": "Filo is a powerful multipurpose Discord bot",
-    "SUBTITLE": "她擁有廣泛的管理和審核模塊，讓您工作更輕鬆"
-  },
-  "FEATURES": {
-    "DESCRIPTION": "The best features to improve your server!",
-    "MORE_INFO": "更多敘述",
-    "REPORTS": {
-      "TITLE": "Reports",
-      "DESCRIPTION": "Enhance the experience and professionalize your server moderation by allowing users to report inappropriate behavior!"
+    "ERROR_DESCRIPTIONS": {
+        "200": "OK",
+        "400": "Bad Request",
+        "401": "Unauthorized",
+        "402": "Payment Required",
+        "403": "Forbidden",
+        "404": "Not Found",
+        "405": "Method Not Allowed",
+        "406": "Not Acceptable",
+        "407": "Proxy Authentication Required",
+        "408": "Request Timeout",
+        "409": "Conflict",
+        "410": "Gone",
+        "411": "Length Required",
+        "412": "Precondition Failed",
+        "413": "Payload Too Large",
+        "414": "Request-URI Too Long",
+        "415": "Unsupported Media Type",
+        "416": "Requested Range Not Satisfiable",
+        "417": "Expectation Failed",
+        "418": "I'm a teapot",
+        "420": "Unsupported Browser",
+        "421": "Misdirected Request",
+        "422": "Unprocessable Entity",
+        "423": "Locked",
+        "424": "Failed Dependency",
+        "425": "Too Early",
+        "426": "Upgrade Required",
+        "428": "Precondition Required",
+        "429": "Too Many Request",
+        "431": "Request Header Fields Too Large",
+        "444": "Connection Closed Without Response",
+        "451": "Unavailable For Legal Reasons",
+        "500": "Internal Server Error",
+        "501": "Not Implemented",
+        "502": "Bad Gateway",
+        "503": "Service Unavailable",
+        "504": "Gateway Timeout",
+        "505": "HTTP Version Not Supported",
+        "506": "Variant Also Negotiates",
+        "507": "Insufficient Storage",
+        "508": "Loop Detected",
+        "510": "Not Extended",
+        "511": "Network Authentication Required",
+        "599": "Network Connect Timeout Error"
     },
-    "LOGGING": {
-      "TITLE": "Logging",
-      "DESCRIPTION": "Log all actions performed by users in your server to a channel, allowing you to easily review and filter them!"
+    "FILO": {
+        "CLASSIC_DESCRIPTION": "Filo is a powerful multipurpose Discord bot. Customizable, multiple languages, report, logging, welcomes and farewells, member counter, anti-invites, auto-mod, anti-evasion. +190 commands.",
+        "DESCRIPTION": "Filo 是一個功能強大且多用途的 Discord 機器人，自 2019 年以來就一直努力不懈的在 Discord 伺服器上服務。她擁有廣泛的管理和審核模塊，讓您工作更輕鬆。"
     },
-    "ANTI_INVITES": {
-      "TITLE": "Anti Invites",
-      "DESCRIPTION": "Prevent users from sending invites from your servers to yours by automatically sanctioning them!"
+    "MAIN_HEADER": {
+        "TITLE": "Filo is a powerful multipurpose Discord bot",
+        "SUBTITLE": "她擁有廣泛的管理和審核模塊，讓您工作更輕鬆"
     },
-    "ANTI_SPAM": {
-      "TITLE": "Anti Spam",
-      "DESCRIPTION": "Tired of spammers? Are your moderators not enough? Let Filo deal with this class of users and have some tea in the meantime!"
+    "FEATURES": {
+        "DESCRIPTION": "The best features to improve your server!",
+        "MORE_INFO": "更多敘述",
+        "REPORTS": {
+            "TITLE": "Reports",
+            "DESCRIPTION": "Enhance the experience and professionalize your server moderation by allowing users to report inappropriate behavior!"
+        },
+        "LOGGING": {
+            "TITLE": "Logging",
+            "DESCRIPTION": "Log all actions performed by users in your server to a channel, allowing you to easily review and filter them!"
+        },
+        "ANTI_INVITES": {
+            "TITLE": "Anti Invites",
+            "DESCRIPTION": "Prevent users from sending invites from your servers to yours by automatically sanctioning them!"
+        },
+        "ANTI_SPAM": {
+            "TITLE": "Anti Spam",
+            "DESCRIPTION": "Tired of spammers? Are your moderators not enough? Let Filo deal with this class of users and have some tea in the meantime!"
+        },
+        "ANTI_BAD_WORDS": {
+            "TITLE": "Anti Bad Words",
+            "DESCRIPTION": "Prevent users from using bad words in their messages... Nobody likes having to read those words!"
+        },
+        "ANTI_SCAM_LINKS": {
+            "TITLE": "Anti Scam Links",
+            "DESCRIPTION": "Scammers, what tiresome people... Now Filo can help you fight these types of people!"
+        },
+        "AUTO_MODERATION": {
+            "TITLE": "Auto Moderation",
+            "DESCRIPTION": "Don't allow conflicting users to exist on your server, this can negatively affect the experience of legitimate users!"
+        },
+        "ANTI_EVASION": {
+            "TITLE": "Anti Evasion",
+            "DESCRIPTION": "Have you muted several users and they have left the server? No problem! Let Filo automatically ban these users!"
+        }
     },
-    "ANTI_BAD_WORDS": {
-      "TITLE": "Anti Bad Words",
-      "DESCRIPTION": "Prevent users from using bad words in their messages... Nobody likes having to read those words!"
+    "STATISTICS": {
+        "TITLE": "統計資料",
+        "SERVERS": "Servers",
+        "USERS": "Users"
     },
-    "ANTI_SCAM_LINKS": {
-      "TITLE": "Anti Scam Links",
-      "DESCRIPTION": "Scammers, what tiresome people... Now Filo can help you fight these types of people!"
+    "DONATE": {
+        "TITLE": "捐款給我們",
+        "SUBTITLE": "幫助 Filo 繼續維持成長，我們需要您的支持",
+        "WARNING": "捐款時，即代表您已同意 Filo 的捐贈條款及細則",
+        "PER_MONTH": "每月",
+        "VAT_NOT_INCLUDED": "不含稅",
+        "SUBSCRIBE": "訂閱",
+        "ROLE_REWARD": "伺服器的專屬徽章",
+        "FILO_SUPPORT": "展示出您對 Filo 的支持",
+        "SOON_MORE": "即將到來 Soon™",
+        "PREVIOUS_PLAN_REWARD": "本訂閱會包含前面等級的所有福利",
+        "NICKNAME_REWARD": "在 Filo 官方伺服器更改暱稱",
+        "EMOJIS_REWARD": "在我們的伺服器使用外部表情符號"
     },
-    "AUTO_MODERATION": {
-      "TITLE": "Auto Moderation",
-      "DESCRIPTION": "Don't allow conflicting users to exist on your server, this can negatively affect the experience of legitimate users!"
+    "REVIEW": {
+        "TITLE": "留個評論給我們吧！",
+        "SUBTITLE": "顯示您對 Filo 有著多少的好感"
     },
-    "ANTI_EVASION": {
-      "TITLE": "Anti Evasion",
-      "DESCRIPTION": "Have you muted several users and they have left the server? No problem! Let Filo automatically ban these users!"
+    "VOTE": {
+        "TITLE": "為 Filo 投下寶貴的一票",
+        "SUBTITLE": "每日投票即可獲得大量投票獎勵"
+    },
+    "FRIENDLY_WEBSITES": {
+        "TITLE": "友情網站",
+        "SUBTITLE": "他們都是讓 Filo 壯大的網站"
+    },
+    "READY": {
+        "TITLE": "Ready to take the next step?",
+        "SUBTITLE": "Enhance the experience and professionalize your server with Filo today!",
+        "INVITE": "Let's do it!",
+        "GETTING_STARTED": "入門指南"
+    },
+    "CALCULATOR": {
+        "TITLE": "Filo's 權限計算機",
+        "VIEW_CASES": "查看",
+        "EDIT_CASES": "編輯",
+        "MANAGE_CASES": "管理",
+        "ADMINISTRATOR": "管理員",
+        "BAN_MEMBERS": "Ban成員",
+        "TEMPBAN_MEMBERS": "暫時Ban成員",
+        "SOFTBAN_MEMBERS": "Softban成員",
+        "UNBAN_MEMBERS": "解除成員Ban",
+        "KICK_MEMBERS": "提出成員",
+        "MUTE_MEMBERS": "靜音成員",
+        "TEMPMUTE_MEMBERS": "暫時靜音成員",
+        "UNMUTE_MEMBERS": "解除成員靜音",
+        "WARN_MEMBERS": "警告成員",
+        "UNWARN_MEMBERS": "解除成員警告",
+        "PURGE_WARNS": "清除警告",
+        "ADD_ROLES": "新增身分組",
+        "REMOVE_ROLES": "移增身分組",
+        "PURGE_MESSAGES": "清除訊息",
+        "MANAGE_NICKNAMES": "管理暱稱",
+        "MANAGE_CHANNELS": "管理頻道",
+        "PIN_MESSAGES": "釘選頻道",
+        "UNPIN_MESSAGES": "取消釘選頻道",
+        "VIEW_HISTORY": "查看歷史",
+        "EVADE_SANCTIONS": "Evade sanctions",
+        "REPORT_MEMBERS": "Report members",
+        "REPORT_MESSAGES": "Report messages",
+        "BYPASS_REPORTS_COOLDOWN": "Bypass reports cooldown",
+        "APPROVE_REPORTS": "Approve reports",
+        "DENY_REPORTS": "Deny reports",
+        "MANAGE_REPORTS": "Manage reports",
+        "TIMEOUT_MEMBERS": "Timeout members",
+        "UNTIMEOUT_MEMBERS": "Untimeout members"
+    },
+    "THANKS": {
+        "TITLE": "感謝您邀請 Filo！",
+        "SUBTITLE": "我們很高興你相信 Filo。",
+        "DISCORD_REDIRECT_INFO": "您將被重新導向到邀請頁面."
+    },
+    "FOOTER": {
+        "HELPFUL_LINKS": "實用連結",
+        "IMPORTANT_LINKS": "公司",
+        "ABOUT_FILO": "關於 Filo"
+    },
+    "GENERAL": {
+        "BLOG": "部落格",
+        "DISCORD_SERVER": "Discord伺服器",
+        "DONATE": "捐款",
+        "FEATURES": "功能",
+        "HOME": "主頁",
+        "INVITE": "邀請",
+        "MORE_INFO": "更多敘述",
+        "PRIVACY_POLICY": "隱私政策",
+        "STATUS": "狀態",
+        "TERMS": "條款",
+        "TERMS_AND_CONDITIONS": "條款及細則",
+        "VOTE": "投票",
+        "WIKI": "指南"
+    },
+    "PAGE_TITLES": {
+        "A_DISCORD_BOT": "Discord 機器人",
+        "CALCULATOR": "Calculator",
+        "STATISTICS": "統計資料",
+        "THANKS": "Thanks",
+        "LINK_SHORTENER": "Link Shortener"
+    },
+    "LINK_SHORTENER": {
+        "TITLE": "Redirecting",
+        "SUBTITLE": "You'll be redirected to the original link in a few seconds"
     }
-  },
-  "STATISTICS": {
-    "TITLE": "統計資料",
-    "SERVERS": "Servers",
-    "USERS": "Users"
-  },
-  "DONATE": {
-    "TITLE": "捐款給我們",
-    "SUBTITLE": "幫助 Filo 繼續維持成長，我們需要您的支持",
-    "WARNING": "捐款時，即代表您已同意 Filo 的捐贈條款及細則",
-    "PER_MONTH": "每月",
-    "VAT_NOT_INCLUDED": "不含稅",
-    "SUBSCRIBE": "訂閱",
-    "ROLE_REWARD": "伺服器的專屬徽章",
-    "FILO_SUPPORT": "展示出您對 Filo 的支持",
-    "SOON_MORE": "即將到來 Soon™",
-    "PREVIOUS_PLAN_REWARD": "本訂閱會包含前面等級的所有福利",
-    "NICKNAME_REWARD": "在 Filo 官方伺服器更改暱稱",
-    "EMOJIS_REWARD": "在我們的伺服器使用外部表情符號"
-  },
-  "REVIEW": {
-    "TITLE": "留個評論給我們吧！",
-    "SUBTITLE": "顯示您對 Filo 有著多少的好感"
-  },
-  "VOTE": {
-    "TITLE": "為 Filo 投下寶貴的一票",
-    "SUBTITLE": "每日投票即可獲得大量投票獎勵"
-  },
-  "FRIENDLY_WEBSITES": {
-    "TITLE": "友情網站",
-    "SUBTITLE": "他們都是讓 Filo 壯大的網站"
-  },
-  "READY": {
-    "TITLE": "Ready to take the next step?",
-    "SUBTITLE": "Enhance the experience and professionalize your server with Filo today!",
-    "INVITE": "Let's do it!",
-    "GETTING_STARTED": "入門指南"
-  },
-  "CALCULATOR": {
-    "TITLE": "Filo's 權限計算機",
-    "VIEW_CASES": "查看",
-    "EDIT_CASES": "編輯",
-    "MANAGE_CASES": "管理",
-    "ADMINISTRATOR": "管理員",
-    "BAN_MEMBERS": "Ban成員",
-    "TEMPBAN_MEMBERS": "暫時Ban成員",
-    "SOFTBAN_MEMBERS": "Softban成員",
-    "UNBAN_MEMBERS": "解除成員Ban",
-    "KICK_MEMBERS": "提出成員",
-    "MUTE_MEMBERS": "靜音成員",
-    "TEMPMUTE_MEMBERS": "暫時靜音成員",
-    "UNMUTE_MEMBERS": "解除成員靜音",
-    "WARN_MEMBERS": "警告成員",
-    "UNWARN_MEMBERS": "解除成員警告",
-    "PURGE_WARNS": "清除警告",
-    "ADD_ROLES": "新增身分組",
-    "REMOVE_ROLES": "移增身分組",
-    "PURGE_MESSAGES": "清除訊息",
-    "MANAGE_NICKNAMES": "管理暱稱",
-    "MANAGE_CHANNELS": "管理頻道",
-    "PIN_MESSAGES": "釘選頻道",
-    "UNPIN_MESSAGES": "取消釘選頻道",
-    "VIEW_HISTORY": "查看歷史",
-    "EVADE_SANCTIONS": "Evade sanctions",
-    "REPORT_MEMBERS": "Report members",
-    "REPORT_MESSAGES": "Report messages",
-    "BYPASS_REPORTS_COOLDOWN": "Bypass reports cooldown",
-    "APPROVE_REPORTS": "Approve reports",
-    "DENY_REPORTS": "Deny reports",
-    "MANAGE_REPORTS": "Manage reports",
-    "TIMEOUT_MEMBERS": "Timeout members",
-    "UNTIMEOUT_MEMBERS": "Untimeout members"
-  },
-  "THANKS": {
-    "TITLE": "感謝您邀請 Filo！",
-    "SUBTITLE": "我們很高興你相信 Filo。",
-    "DISCORD_REDIRECT_INFO": "您將被重新導向到邀請頁面."
-  },
-  "FOOTER": {
-    "HELPFUL_LINKS": "實用連結",
-    "IMPORTANT_LINKS": "公司",
-    "ABOUT_FILO": "關於 Filo"
-  },
-  "GENERAL": {
-    "BLOG": "部落格",
-    "DISCORD_SERVER": "Discord伺服器",
-    "DONATE": "捐款",
-    "FEATURES": "功能",
-    "HOME": "主頁",
-    "INVITE": "邀請",
-    "MORE_INFO": "更多敘述",
-    "PRIVACY_POLICY": "隱私政策",
-    "STATUS": "狀態",
-    "TERMS": "條款",
-    "TERMS_AND_CONDITIONS": "條款及細則",
-    "VOTE": "投票",
-    "WIKI": "指南"
-  },
-  "PAGE_TITLES": {
-    "A_DISCORD_BOT": "Discord 機器人",
-    "CALCULATOR": "Calculator",
-    "STATISTICS": "統計資料",
-    "THANKS": "Thanks",
-    "LINK_SHORTENER": "Link Shortener"
-  },
-  "LINK_SHORTENER": {
-    "TITLE": "Redirecting",
-    "SUBTITLE": "You'll be redirected to the original link in a few seconds"
-  }
 }
