@@ -1,200 +1,200 @@
 {
-  "ERROR_DESCRIPTIONS": {
-    "200": "OK",
-    "400": "Solicitud Incorrecta",
-    "401": "Sin Autorización",
-    "402": "Pago Requerido",
-    "403": "Prohibido",
-    "404": "No Encontrado",
-    "405": "Método No Permitido",
-    "406": "No Aceptable",
-    "407": "Autenticación de Proxy Requerida",
-    "408": "Tiempo de Espera Superado",
-    "409": "Conflicto",
-    "410": "Desaparecido",
-    "411": "Longitud Requerida",
-    "412": "Error de Precondicion",
-    "413": "Carga Útil Demasiado Grande",
-    "414": "Solicitud-URI Demasiado Larga",
-    "415": "Tipo de Medio no Soportado",
-    "416": "Rango Solicitado No Satisfactorio",
-    "417": "Expectativa Fallida",
-    "418": "Soy una Tetera",
-    "420": "Navegador no Compatible",
-    "421": "Solicitud Mal Dirigida",
-    "422": "Entidad no Procesable",
-    "423": "Bloqueado",
-    "424": "Error de Dependencia",
-    "425": "Demasiado Pronto",
-    "426": "Actualización Requerida",
-    "428": "Precondicion Requerida",
-    "429": "Demasiadas Solicitudes",
-    "431": "Campos de Encabezado de Solicitud Demasiado Grandes",
-    "444": "Conexión Cerrada sin Respuesta",
-    "451": "No Disponible por Razones Legales",
-    "500": "Error Interno del Servidor",
-    "501": "No Implementado",
-    "502": "Puerta de Enlace Incorrecta",
-    "503": "Servicio no Disponible",
-    "504": "Tiempo de Espera de Puerta de Enlace Agotado",
-    "505": "Versión HTTP no Compatible",
-    "506": "Variantes También Negociable",
-    "507": "Almacenamiento Insuficiente",
-    "508": "Bucle Detectado",
-    "510": "No Extendido",
-    "511": "Autenticación de Red Necesaria",
-    "599": "Error de Conexión a la Red"
-  },
-  "FILO": {
-    "CLASSIC_DESCRIPTION": "Filo es un potente bot de Discord multipropósito. Personalizable, múltiples idiomas, reportes, registros, bienvenidas y despedidas, contador de miembros, anti-invitaciones, auto-mod, anti-evasión. +190 comandos.",
-    "DESCRIPTION": "Filo es una potente bot multipropósito de Discord que sirve a los gremios de Discord desde 2019. Contando con una amplia gama de módulos de administración y moderación para facilitarte las cosas."
-  },
-  "MAIN_HEADER": {
-    "TITLE": "Filo es una potente bot multipropósito de Discord",
-    "SUBTITLE": "Contando con una amplia gama de módulos de administración y moderación para facilitarte las cosas"
-  },
-  "FEATURES": {
-    "DESCRIPTION": "¡Las mejores características para mejorar tu servidor!",
-    "MORE_INFO": "Más información sobre esta característica",
-    "REPORTS": {
-      "TITLE": "Reportes",
-      "DESCRIPTION": "¡Mejora la experiencia y profesionaliza la moderación de tu servidor permitiendo a los usuarios reportar comportamientos inapropiados!"
+    "ERROR_DESCRIPTIONS": {
+        "200": "OK",
+        "400": "Solicitud Incorrecta",
+        "401": "Sin Autorización",
+        "402": "Pago Requerido",
+        "403": "Prohibido",
+        "404": "No Encontrado",
+        "405": "Método No Permitido",
+        "406": "No Aceptable",
+        "407": "Autenticación de Proxy Requerida",
+        "408": "Tiempo de Espera Superado",
+        "409": "Conflicto",
+        "410": "Desaparecido",
+        "411": "Longitud Requerida",
+        "412": "Error de Precondicion",
+        "413": "Carga Útil Demasiado Grande",
+        "414": "Solicitud-URI Demasiado Larga",
+        "415": "Tipo de Medio no Soportado",
+        "416": "Rango Solicitado No Satisfactorio",
+        "417": "Expectativa Fallida",
+        "418": "Soy una Tetera",
+        "420": "Navegador no Compatible",
+        "421": "Solicitud Mal Dirigida",
+        "422": "Entidad no Procesable",
+        "423": "Bloqueado",
+        "424": "Error de Dependencia",
+        "425": "Demasiado Pronto",
+        "426": "Actualización Requerida",
+        "428": "Precondicion Requerida",
+        "429": "Demasiadas Solicitudes",
+        "431": "Campos de Encabezado de Solicitud Demasiado Grandes",
+        "444": "Conexión Cerrada sin Respuesta",
+        "451": "No Disponible por Razones Legales",
+        "500": "Error Interno del Servidor",
+        "501": "No Implementado",
+        "502": "Puerta de Enlace Incorrecta",
+        "503": "Servicio no Disponible",
+        "504": "Tiempo de Espera de Puerta de Enlace Agotado",
+        "505": "Versión HTTP no Compatible",
+        "506": "Variantes También Negociable",
+        "507": "Almacenamiento Insuficiente",
+        "508": "Bucle Detectado",
+        "510": "No Extendido",
+        "511": "Autenticación de Red Necesaria",
+        "599": "Error de Conexión a la Red"
     },
-    "LOGGING": {
-      "TITLE": "Registros",
-      "DESCRIPTION": "¡Registra todas las acciones realizadas por los usuarios en su servidor en un canal, lo que le permite revisarlas y filtrarlas fácilmente!"
+    "FILO": {
+        "CLASSIC_DESCRIPTION": "Filo es un potente bot de Discord multipropósito. Personalizable, múltiples idiomas, reportes, registros, bienvenidas y despedidas, contador de miembros, anti-invitaciones, auto-mod, anti-evasión. +190 comandos.",
+        "DESCRIPTION": "Filo es una potente bot multipropósito de Discord que sirve a los gremios de Discord desde 2019. Contando con una amplia gama de módulos de administración y moderación para facilitarte las cosas."
     },
-    "ANTI_INVITES": {
-      "TITLE": "Anti Invitaciones",
-      "DESCRIPTION": "¡Evita que los usuarios envíen invitaciones de sus servidores en el suyo sancionándolos automáticamente!"
+    "MAIN_HEADER": {
+        "TITLE": "Filo es una potente bot multipropósito de Discord",
+        "SUBTITLE": "Contando con una amplia gama de módulos de administración y moderación para facilitarte las cosas"
     },
-    "ANTI_SPAM": {
-      "TITLE": "Anti Spam",
-      "DESCRIPTION": "¿Cansado de spammers? ¿Tus moderadores no son suficientes? ¡Deja que Filo trate con esta clase de usuarios y tómate un poco de té mientras tanto!"
+    "FEATURES": {
+        "DESCRIPTION": "¡Las mejores características para mejorar tu servidor!",
+        "MORE_INFO": "Más información sobre esta característica",
+        "REPORTS": {
+            "TITLE": "Reportes",
+            "DESCRIPTION": "¡Mejora la experiencia y profesionaliza la moderación de tu servidor permitiendo a los usuarios reportar comportamientos inapropiados!"
+        },
+        "LOGGING": {
+            "TITLE": "Registros",
+            "DESCRIPTION": "¡Registra todas las acciones realizadas por los usuarios en su servidor en un canal, lo que le permite revisarlas y filtrarlas fácilmente!"
+        },
+        "ANTI_INVITES": {
+            "TITLE": "Anti Invitaciones",
+            "DESCRIPTION": "¡Evita que los usuarios envíen invitaciones de sus servidores en el suyo sancionándolos automáticamente!"
+        },
+        "ANTI_SPAM": {
+            "TITLE": "Anti Spam",
+            "DESCRIPTION": "¿Cansado de spammers? ¿Tus moderadores no son suficientes? ¡Deja que Filo trate con esta clase de usuarios y tómate un poco de té mientras tanto!"
+        },
+        "ANTI_BAD_WORDS": {
+            "TITLE": "Anti Malas Palabras",
+            "DESCRIPTION": "Evita que los usuarios usen malas palabras en sus mensajes... ¡A nadie le gusta tener que leer esas palabras!"
+        },
+        "ANTI_SCAM_LINKS": {
+            "TITLE": "Anti Enlaces Estafadores",
+            "DESCRIPTION": "Estafadores, que personas más cansinas... ¡Ahora Filo te puede ayudar a combatir contra ese tipo de personas!"
+        },
+        "AUTO_MODERATION": {
+            "TITLE": "Auto Moderación",
+            "DESCRIPTION": "No permitas que existan usuarios conflictivos en su servidor, ¡esto puede afectar negativamente a la experiencia de los usuarios legítimos!"
+        },
+        "ANTI_EVASION": {
+            "TITLE": "Anti Evasión",
+            "DESCRIPTION": "¿Has silenciado a varios usuarios y ellos han abandonado el servidor? ¡No hay problema! ¡Deja que Filo los prohíba automáticamente!"
+        }
     },
-    "ANTI_BAD_WORDS": {
-      "TITLE": "Anti Malas Palabras",
-      "DESCRIPTION": "Evita que los usuarios usen malas palabras en sus mensajes... ¡A nadie le gusta tener que leer esas palabras!"
+    "STATISTICS": {
+        "TITLE": "Estadísticas",
+        "SERVERS": "Servidores",
+        "USERS": "Usuarios"
     },
-    "ANTI_SCAM_LINKS": {
-      "TITLE": "Anti Enlaces Estafadores",
-      "DESCRIPTION": "Estafadores, que personas más cansinas... ¡Ahora Filo te puede ayudar a combatir contra ese tipo de personas!"
+    "DONATE": {
+        "TITLE": "Donar a Filo",
+        "SUBTITLE": "¡Ayúdanos a mantener a Filo en línea haciendo una donación!",
+        "WARNING": "Todas las donaciones están sujetas a Términos y Condiciones.",
+        "PER_MONTH": "por mes",
+        "VAT_NOT_INCLUDED": "IVA no incluido",
+        "SUBSCRIBE": "Suscribirse",
+        "ROLE_REWARD": "Rol simbólico en nuestro servidor",
+        "FILO_SUPPORT": "Muestra tu apoyo a Filo",
+        "SOON_MORE": "Pronto™ más",
+        "PREVIOUS_PLAN_REWARD": "Todo lo del plan anterior",
+        "NICKNAME_REWARD": "Apodo personalizable en nuestro servidor",
+        "EMOJIS_REWARD": "Uso de emojis externos en nuestro servidor"
     },
-    "AUTO_MODERATION": {
-      "TITLE": "Auto Moderación",
-      "DESCRIPTION": "No permitas que existan usuarios conflictivos en su servidor, ¡esto puede afectar negativamente a la experiencia de los usuarios legítimos!"
+    "REVIEW": {
+        "TITLE": "Déjanos una reseña",
+        "SUBTITLE": "¡Demuestra cuando amas a Filo y su servicio!"
     },
-    "ANTI_EVASION": {
-      "TITLE": "Anti Evasión",
-      "DESCRIPTION": "¿Has silenciado a varios usuarios y ellos han abandonado el servidor? ¡No hay problema! ¡Deja que Filo los prohíba automáticamente!"
+    "VOTE": {
+        "TITLE": "Vota por Filo",
+        "SUBTITLE": "¡Demuestra tu apoyo a Filo votando por ella!"
+    },
+    "FRIENDLY_WEBSITES": {
+        "TITLE": "Sitios web amigos",
+        "SUBTITLE": "¡Sitios web amigos que ayudan a Filo a crecer!"
+    },
+    "READY": {
+        "TITLE": "¿Preparado para dar el siguiente paso?",
+        "SUBTITLE": "¡Mejore la experiencia y profesionalice su servidor con Filo hoy mismo!",
+        "INVITE": "¡Hagámoslo!",
+        "GETTING_STARTED": "Empezando"
+    },
+    "CALCULATOR": {
+        "TITLE": "Calculadora de permisos de Filo",
+        "VIEW_CASES": "Ver casos",
+        "EDIT_CASES": "Editar casos",
+        "MANAGE_CASES": "Gestionar casos",
+        "ADMINISTRATOR": "Administrador",
+        "BAN_MEMBERS": "Prohibir miembros",
+        "TEMPBAN_MEMBERS": "Prohibir miembros temporalmente",
+        "SOFTBAN_MEMBERS": "Prohibir suavemente miembros",
+        "UNBAN_MEMBERS": "Desprohibir miembros",
+        "KICK_MEMBERS": "Expulsar miembros",
+        "MUTE_MEMBERS": "Silenciar miembros",
+        "TEMPMUTE_MEMBERS": "Silenciar miembros temporalmente",
+        "UNMUTE_MEMBERS": "Desilenciar miembros",
+        "WARN_MEMBERS": "Advertir miembros",
+        "UNWARN_MEMBERS": "Desadvertir miembros",
+        "PURGE_WARNS": "Purgar advertencias",
+        "ADD_ROLES": "Agregar roles",
+        "REMOVE_ROLES": "Eliminar roles",
+        "PURGE_MESSAGES": "Purgar mensajes",
+        "MANAGE_NICKNAMES": "Administrar apodos",
+        "MANAGE_CHANNELS": "Administrar canales",
+        "PIN_MESSAGES": "Fijar mensajes",
+        "UNPIN_MESSAGES": "Desfijar mensaje",
+        "VIEW_HISTORY": "Ver historial",
+        "EVADE_SANCTIONS": "Evadir sanciones",
+        "REPORT_MEMBERS": "Informar miembros",
+        "REPORT_MESSAGES": "Informar mensajes",
+        "BYPASS_REPORTS_COOLDOWN": "Evitar el enfriamiento de los informes",
+        "APPROVE_REPORTS": "Aprobar informes",
+        "DENY_REPORTS": "Denegar informes",
+        "MANAGE_REPORTS": "Gestionar informes",
+        "TIMEOUT_MEMBERS": "Aislar miembros",
+        "UNTIMEOUT_MEMBERS": "Desairlar miembros"
+    },
+    "THANKS": {
+        "TITLE": "¡Gracias por añadir a Filo!",
+        "SUBTITLE": "Estamos muy agradecidos de que hayas decidido confiar en Filo.",
+        "DISCORD_REDIRECT_INFO": "Serás redirigido a nuestro servidor de Discord."
+    },
+    "FOOTER": {
+        "HELPFUL_LINKS": "Enlaces Útiles",
+        "IMPORTANT_LINKS": "Enlaces Importantes",
+        "ABOUT_FILO": "Acerca de Filo"
+    },
+    "GENERAL": {
+        "BLOG": "Blog",
+        "DISCORD_SERVER": "Servidor de Discord",
+        "DONATE": "Donar",
+        "FEATURES": "Características",
+        "HOME": "Inicio",
+        "INVITE": "Invitar",
+        "MORE_INFO": "Más información",
+        "PRIVACY_POLICY": "Política de Privacidad",
+        "STATUS": "Estado",
+        "TERMS": "Términos",
+        "TERMS_AND_CONDITIONS": "Términos y Condiciones",
+        "VOTE": "Votar",
+        "WIKI": "Wiki"
+    },
+    "PAGE_TITLES": {
+        "A_DISCORD_BOT": "Un Bot de Discord",
+        "CALCULATOR": "Calculadora",
+        "STATISTICS": "Estadísticas",
+        "THANKS": "Gracias",
+        "LINK_SHORTENER": "Acortador de Enlaces"
+    },
+    "LINK_SHORTENER": {
+        "TITLE": "Redirigiendo",
+        "SUBTITLE": "En unos segundos serás redirigido al enlace original"
     }
-  },
-  "STATISTICS": {
-    "TITLE": "Estadísticas",
-    "SERVERS": "Servidores",
-    "USERS": "Usuarios"
-  },
-  "DONATE": {
-    "TITLE": "Donar a Filo",
-    "SUBTITLE": "¡Ayúdanos a mantener a Filo en línea haciendo una donación!",
-    "WARNING": "Todas las donaciones están sujetas a Términos y Condiciones.",
-    "PER_MONTH": "por mes",
-    "VAT_NOT_INCLUDED": "IVA no incluido",
-    "SUBSCRIBE": "Suscribirse",
-    "ROLE_REWARD": "Rol simbólico en nuestro servidor",
-    "FILO_SUPPORT": "Muestra tu apoyo a Filo",
-    "SOON_MORE": "Pronto™ más",
-    "PREVIOUS_PLAN_REWARD": "Todo lo del plan anterior",
-    "NICKNAME_REWARD": "Apodo personalizable en nuestro servidor",
-    "EMOJIS_REWARD": "Uso de emojis externos en nuestro servidor"
-  },
-  "REVIEW": {
-    "TITLE": "Déjanos una reseña",
-    "SUBTITLE": "¡Demuestra cuando amas a Filo y su servicio!"
-  },
-  "VOTE": {
-    "TITLE": "Vota por Filo",
-    "SUBTITLE": "¡Demuestra tu apoyo a Filo votando por ella!"
-  },
-  "FRIENDLY_WEBSITES": {
-    "TITLE": "Sitios web amigos",
-    "SUBTITLE": "¡Sitios web amigos que ayudan a Filo a crecer!"
-  },
-  "READY": {
-    "TITLE": "¿Preparado para dar el siguiente paso?",
-    "SUBTITLE": "¡Mejore la experiencia y profesionalice su servidor con Filo hoy mismo!",
-    "INVITE": "¡Hagámoslo!",
-    "GETTING_STARTED": "Empezando"
-  },
-  "CALCULATOR": {
-    "TITLE": "Calculadora de permisos de Filo",
-    "VIEW_CASES": "Ver casos",
-    "EDIT_CASES": "Editar casos",
-    "MANAGE_CASES": "Gestionar casos",
-    "ADMINISTRATOR": "Administrador",
-    "BAN_MEMBERS": "Prohibir miembros",
-    "TEMPBAN_MEMBERS": "Prohibir miembros temporalmente",
-    "SOFTBAN_MEMBERS": "Prohibir suavemente miembros",
-    "UNBAN_MEMBERS": "Desprohibir miembros",
-    "KICK_MEMBERS": "Expulsar miembros",
-    "MUTE_MEMBERS": "Silenciar miembros",
-    "TEMPMUTE_MEMBERS": "Silenciar miembros temporalmente",
-    "UNMUTE_MEMBERS": "Desilenciar miembros",
-    "WARN_MEMBERS": "Advertir miembros",
-    "UNWARN_MEMBERS": "Desadvertir miembros",
-    "PURGE_WARNS": "Purgar advertencias",
-    "ADD_ROLES": "Agregar roles",
-    "REMOVE_ROLES": "Eliminar roles",
-    "PURGE_MESSAGES": "Purgar mensajes",
-    "MANAGE_NICKNAMES": "Administrar apodos",
-    "MANAGE_CHANNELS": "Administrar canales",
-    "PIN_MESSAGES": "Fijar mensajes",
-    "UNPIN_MESSAGES": "Desfijar mensaje",
-    "VIEW_HISTORY": "Ver historial",
-    "EVADE_SANCTIONS": "Evadir sanciones",
-    "REPORT_MEMBERS": "Informar miembros",
-    "REPORT_MESSAGES": "Informar mensajes",
-    "BYPASS_REPORTS_COOLDOWN": "Evitar el enfriamiento de los informes",
-    "APPROVE_REPORTS": "Aprobar informes",
-    "DENY_REPORTS": "Denegar informes",
-    "MANAGE_REPORTS": "Gestionar informes",
-    "TIMEOUT_MEMBERS": "Aislar miembros",
-    "UNTIMEOUT_MEMBERS": "Desairlar miembros"
-  },
-  "THANKS": {
-    "TITLE": "¡Gracias por añadir a Filo!",
-    "SUBTITLE": "Estamos muy agradecidos de que hayas decidido confiar en Filo.",
-    "DISCORD_REDIRECT_INFO": "Serás redirigido a nuestro servidor de Discord."
-  },
-  "FOOTER": {
-    "HELPFUL_LINKS": "Enlaces Útiles",
-    "IMPORTANT_LINKS": "Enlaces Importantes",
-    "ABOUT_FILO": "Acerca de Filo"
-  },
-  "GENERAL": {
-    "BLOG": "Blog",
-    "DISCORD_SERVER": "Servidor de Discord",
-    "DONATE": "Donar",
-    "FEATURES": "Características",
-    "HOME": "Inicio",
-    "INVITE": "Invitar",
-    "MORE_INFO": "Más información",
-    "PRIVACY_POLICY": "Política de Privacidad",
-    "STATUS": "Estado",
-    "TERMS": "Términos",
-    "TERMS_AND_CONDITIONS": "Términos y Condiciones",
-    "VOTE": "Votar",
-    "WIKI": "Wiki"
-  },
-  "PAGE_TITLES": {
-    "A_DISCORD_BOT": "Un Bot de Discord",
-    "CALCULATOR": "Calculadora",
-    "STATISTICS": "Estadísticas",
-    "THANKS": "Gracias",
-    "LINK_SHORTENER": "Acortador de Enlaces"
-  },
-  "LINK_SHORTENER": {
-    "TITLE": "Redirigiendo",
-    "SUBTITLE": "En unos segundos serás redirigido al enlace original"
-  }
 }
