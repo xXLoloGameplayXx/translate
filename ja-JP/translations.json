@@ -54,74 +54,74 @@
         "SUBTITLE": "管理・モデレーションモジュールが充実しているのが特徴で、より快適に利用できる"
     },
     "FEATURES": {
-        "DESCRIPTION": "サーバーを改善するのに最適な機能を紹介します！",
+        "DESCRIPTION": "Filo の広範な機能で可能性の世界を発見してください",
         "MORE_INFO": "この機能についての詳細はこちら",
         "REPORTS": {
             "TITLE": "レポート",
-            "DESCRIPTION": "ユーザーが不適切な行為を報告できるようにすることで、サーバーのモデレーションの体験を向上させ、専門性を高めることができます！"
+            "DESCRIPTION": "ユーザーが不適切な行為を報告できるようにすることで、コミュニティのセキュリティと透明性を高めます"
         },
         "LOGGING": {
             "TITLE": "ロギング",
-            "DESCRIPTION": "サーバー内のユーザーが実行したすべてのアクションをチャンネルに記録し、簡単にレビューやフィルタリングを行うことができます！"
+            "DESCRIPTION": "コミュニティの活動を追跡重要なイベントや行動を記録し、透明性と説明責任を維持します。"
         },
         "ANTI_INVITES": {
             "TITLE": "アンチインビテーション",
-            "DESCRIPTION": "ユーザーが自分のサーバーから自分のサーバーに招待状を送ることを、自動的に制裁することで防止します！"
+            "DESCRIPTION": "不要な招待からコミュニティを保護します。不正な招待の共有を防止することで、コミュニティの集中力と安全性を維持します"
         },
         "ANTI_SPAM": {
             "TITLE": "アンチスパム",
-            "DESCRIPTION": "スパマーにうんざりしていませんか？モデレーターが足りないのでは？Filoにこのクラスのユーザーを処理させて、その間にお茶を飲んでください！"
+            "DESCRIPTION": "スパムがコミュニティの活動を妨げるのを防ぎましょう。よりクリーンで楽しいコミュニティ体験を"
         },
         "ANTI_BAD_WORDS": {
             "TITLE": "アンチ悪口",
-            "DESCRIPTION": "ユーザーがメッセージに悪い言葉を使うのを防ぐ...。誰もそのような言葉を読むことを好まない！"
+            "DESCRIPTION": "コミュニティの清潔で礼儀正しい環境を維持します。不適切な言葉を自動的にフィルタリングしてブロックし、友好的で安全な環境を促進します。"
         },
         "ANTI_SCAM_LINKS": {
             "TITLE": "詐欺対策リンク集",
-            "DESCRIPTION": "詐欺師、なんて面倒な人たちなんでしょう...。Filoは、このような人たちと戦うためのお手伝いをします！"
+            "DESCRIPTION": "潜在的な詐欺や詐欺リンクからあなたのコミュニティを守りましょう。コミュニティを安全かつセキュアに保つ"
         },
         "AUTO_MODERATION": {
             "TITLE": "オートモデレーション",
-            "DESCRIPTION": "競合するユーザーをサーバーに存在させないでください。これは、正当なユーザーの経験に悪影響を与える可能性があります！"
+            "DESCRIPTION": "コミュニティのセキュリティと礼儀作法を自動化。コミュニティのガイドラインを簡単に実施し、快適な環境を維持します"
         },
         "ANTI_EVASION": {
             "TITLE": "アンチエヴァージョン",
-            "DESCRIPTION": "複数のユーザーをミュートしたところ、そのユーザーがサーバーを離れてしまった？大丈夫です！Filo にこれらのユーザーを自動的に禁止させてください！"
+            "DESCRIPTION": "破壊的なユーザーの一歩先を行くモデレーション対策を迂回しようとするルール違反者に対するコミュニティの防御を強化する"
         },
-        "TITLE": "Features",
-        "TITLE_ALTERNATIVE": "The best features",
-        "DESCRIPTION_ALTERNATIVE": "Explore the finest features for efficient community management with Filo",
+        "TITLE": "特徴",
+        "TITLE_ALTERNATIVE": "最高の機能",
+        "DESCRIPTION_ALTERNATIVE": "Filo で効率的なコミュニティ管理のための最高の機能を探求する",
         "MULTI_LANGUAGE": {
-            "TITLE": "Multi Language",
-            "DESCRIPTION": "Experience the beauty of bringing communities from different cultures and languages together. It's not just a feature; it's our mission!"
+            "TITLE": "マルチ言語",
+            "DESCRIPTION": "異なる文化や言語のコミュニティーがひとつになることの素晴らしさを体験してください。それは単なる機能ではなく、私たちの使命なのです！"
         },
         "WELCOMES": {
-            "TITLE": "Welcomes",
-            "DESCRIPTION": "Create a welcoming atmosphere in your community. Greet new members, show your community's personality, and make everyone feel right at home"
+            "TITLE": "歓迎",
+            "DESCRIPTION": "コミュニティに歓迎の雰囲気を作りましょう。新しい会員に挨拶し、コミュニティの個性を示し、誰もがくつろげるようにしましょう。"
         },
         "WELCOMES_ROLE": {
-            "TITLE": "Welcomes Role",
-            "DESCRIPTION": "Automatically assign roles to new members, ensuring they feel instantly at home in your community"
+            "TITLE": "歓迎される役割",
+            "DESCRIPTION": "新しいメンバーに自動的に役割を割り当て、コミュニティですぐにくつろげるようにします。"
         },
         "FAREWELLS": {
-            "TITLE": "Farewells",
-            "DESCRIPTION": "Create a gracious exit for departing members. Bid farewell to members leaving your community and keep the community spirit alive"
+            "TITLE": "お別れ",
+            "DESCRIPTION": "退会する会員のために、礼儀正しい退会を演出しましょう。コミュニティを去る会員に別れを告げ、コミュニティ精神を維持する。"
         },
         "MEMBER_COUNTER": {
-            "TITLE": "Member Counter",
-            "DESCRIPTION": "Display real-time member counts to celebrate milestones and monitor your community's progress"
+            "TITLE": "会員カウンター",
+            "DESCRIPTION": "リアルタイムの会員数を表示し、マイルストーンを祝い、コミュニティの進捗状況をモニターする。"
         },
         "ANTI_MASS_MENTIONS": {
-            "TITLE": "Anti Mass Mentions",
-            "DESCRIPTION": "Protect your community from excessive mentions and disruptions. Enjoy a spam-free and focused community environment"
+            "TITLE": "アンチ・マス・メンション",
+            "DESCRIPTION": "過剰な言及や混乱からコミュニティを守る。スパムのない集中的なコミュニティ環境をお楽しみください。"
         },
         "ANTI_REPEATED_TEXT": {
-            "TITLE": "Anti Repeated Text",
-            "DESCRIPTION": "Say goodbye to repetitive and monotonous messages. Ensure more engaging and enjoyable conversation in your community"
+            "TITLE": "繰り返しテキスト対策",
+            "DESCRIPTION": "繰り返しの単調なメッセージとはおさらばしましょう。コミュニティでの会話をより魅力的で楽しいものに。"
         },
         "ANTI_EXTERNAL_LINKS": {
-            "TITLE": "Anti External Links",
-            "DESCRIPTION": "Keep your community safe from unwanted external links. Maintain a secure and focused community environment"
+            "TITLE": "外部リンク対策",
+            "DESCRIPTION": "不要な外部リンクからコミュニティを安全に保つ。安全で集中できるコミュニティ環境を維持する"
         }
     },
     "STATISTICS": {
@@ -146,24 +146,24 @@
     "REVIEW": {
         "TITLE": "レビューを書く",
         "SUBTITLE": "Filo とそのサービスを愛していることをアピールしてください！",
-        "DESCRIPTION": "Share your thoughts and experiences with Filo"
+        "DESCRIPTION": "あなたの考えや経験を Filo にシェアしてください"
     },
     "VOTE": {
         "TITLE": "Filo に投票する",
         "SUBTITLE": "Filo に投票することで、Filo への支持を表明してください！",
-        "DESCRIPTION": "Help us grow and improve by voting for Filo"
+        "DESCRIPTION": "Filo に投票することで、私たちの成長と向上に貢献してください。"
     },
     "FRIENDLY_WEBSITES": {
-        "TITLE": "フレンドリーなウェブサイト",
+        "TITLE": "お勧めのフレンドリーなウェブサイト",
         "SUBTITLE": "Filo の成長を支えるフレンドリーなウェブサイト！",
-        "DESCRIPTION": "Explore a curated list of websites that we consider friendly and valuable"
+        "DESCRIPTION": "私たちが友好的で価値があると考えるウェブサイトの厳選されたリストをご覧ください。"
     },
     "READY": {
-        "TITLE": "次のステップに進む準備はできていますか？",
+        "TITLE": "地域の潜在能力を最大限に引き出す準備はできていますか？",
         "SUBTITLE": "今すぐ Filo を使って、体験を高め、サーバーをプロフェッショナルにしましょう！",
         "INVITE": "やってみましょう！",
         "GETTING_STARTED": "入門編",
-        "DESCRIPTION": "Invite Filo today to supercharge your Discord experience with powerful moderation and community-enhancing features"
+        "DESCRIPTION": "今すぐ Filo を招待して、強力なモデレーションとコミュニティ強化機能で Discord 体験をスーパーチャージしましょう。"
     },
     "CALCULATOR": {
         "TITLE": "Filo のパーミッション計算機",
@@ -201,10 +201,10 @@
         "UNTIMEOUT_MEMBERS": "タイムアウト解除メンバー"
     },
     "THANKS": {
-        "TITLE": "Filo の追加ありがとうございます！",
+        "TITLE": "Filo のコミュニティへようこそ!",
         "SUBTITLE": "Filo を信頼することを決めていただき、大変感謝しております。",
         "DISCORD_REDIRECT_INFO": "Discord サーバーにリダイレクトされます。",
-        "DESCRIPTION": "We're thrilled you've added Filo to your community. Get ready to experience the power of Filo"
+        "DESCRIPTION": "Filo をあなたのコミュニティに加えていただき、感激しています。 Filo のパワーを体験してください。"
     },
     "FOOTER": {
         "HELPFUL_LINKS": "お役立ちリンク集",
@@ -238,224 +238,224 @@
     "LINK_SHORTENER": {
         "TITLE": "リダイレクト",
         "SUBTITLE": "数秒後に元のリンクにリダイレクトされます。",
-        "DESCRIPTION": "We are preparing the stars that will guide you on your journey towards the definitive redirection!"
+        "DESCRIPTION": "私たちは、決定的な方向転換に向かう旅の道しるべとなる星を準備している！"
     },
     "TITLE": {
-        "VOTE": "Vote",
-        "GENERIC": "{{title}} | Filo — The Discord Bot",
-        "GENERIC_ALT": "Filo — The Discord Bot",
-        "SERVICE_STATUS": "Service status",
-        "BLOG": "Blog",
-        "TERMS_OF_SERVICE": "Terms of Service",
-        "PRIVACY_POLICY": "Privacy Policy",
-        "COOKIES_POLICY": "Cookies Policy",
-        "TERMS_OF_SALES": "Terms of Sales",
-        "HOME": "Home",
-        "INVITE": "Invite",
-        "DOCUMENTATION": "Documentation",
-        "CONTACT": "Contact",
-        "DISCORD_SERVER": "Discord server",
-        "THANKS": "Thanks",
-        "ERROR": "Error",
-        "LINK_SHORTENER": "Link shortener",
-        "FEATURES": "Features",
-        "APPEAL": "Appeal",
-        "CONGESTED_QUEUE": "Congested queue",
-        "DONATE": "Donate",
-        "SYNC_ACCOUNT": "Sync account",
-        "GITHUB": "GitHub",
-        "TRANSLATE": "Translate",
+        "VOTE": "投票",
+        "GENERIC": "{{title}} | Filo — ディスコード・ボット",
+        "GENERIC_ALT": "Filo — ディスコード・ボット",
+        "SERVICE_STATUS": "サービス状況",
+        "BLOG": "ブログ",
+        "TERMS_OF_SERVICE": "利用規約",
+        "PRIVACY_POLICY": "プライバシーポリシー",
+        "COOKIES_POLICY": "クッキーポリシー",
+        "TERMS_OF_SALES": "販売条件",
+        "HOME": "ホーム",
+        "INVITE": "招待",
+        "DOCUMENTATION": "ドキュメンテーション",
+        "CONTACT": "連絡先",
+        "DISCORD_SERVER": "Discord サーバー",
+        "THANKS": "ありがとうございます",
+        "ERROR": "エラー",
+        "LINK_SHORTENER": "リンクショートナー",
+        "FEATURES": "特徴",
+        "APPEAL": "アピール",
+        "CONGESTED_QUEUE": "混雑したキュー",
+        "DONATE": "寄付する",
+        "SYNC_ACCOUNT": "同期アカウント",
+        "GITHUB": "ギットハブ",
+        "TRANSLATE": "翻訳する",
         "TWITTER": "Twitter",
         "TWITCH": "Twitch",
         "YOUTUBE": "YouTube",
-        "CONTACT_US": "Contact us",
-        "REVIEW": "Review",
-        "APP_DIRECTORY": "App directory"
+        "CONTACT_US": "お問い合わせ",
+        "REVIEW": "レビュー",
+        "APP_DIRECTORY": "アプリ一覧"
     },
     "BUTTON_LABELS": {
-        "DISCORD_SERVER": "Discord server",
-        "GO_HOME": "Go home",
-        "INVITE": "Invite",
-        "VIEW_MORE": "View more",
-        "GETTING_STARTED": "Getting started",
-        "DOCUMENTATION": "Documentation",
-        "FEATURES": "Features"
+        "DISCORD_SERVER": "Discord サーバー",
+        "GO_HOME": "家に帰る",
+        "INVITE": "招待する",
+        "VIEW_MORE": "もっと見る",
+        "GETTING_STARTED": "スタート",
+        "DOCUMENTATION": "ドキュメンテーション",
+        "FEATURES": "特徴"
     },
     "HERO": {
-        "TITLE": "Elevate your Discord community",
-        "DESCRIPTION": "Unlock powerful and seamless moderation tools, available in multiple languages, as well as containing multiple commands and purposes"
+        "TITLE": "Discord コミュニティのレベルアップ",
+        "DESCRIPTION": "パワフルでシームレスなモデレーション・ツールを複数の言語で利用可能"
     },
     "FAQ": {
         "QUESTIONS": {
             "SECOND": {
-                "QUESTION": "How do I invite Filo to my Discord community?",
-                "ANSWER": "Inviting Filo is easy! Just click the \"Invite\" link in the navigation bar and follow the steps. You can customize its settings to fit your community's needs"
+                "QUESTION": "自分の Discord コミュニティに Filo を招待するにはどうすればいいですか？",
+                "ANSWER": "Filo を誘うのは簡単！ ナビゲーション バーの [招待] リンクをクリックし、手順に従ってください。 コミュニティのニーズに合わせて設定をカスタマイズできます"
             },
             "FIRST": {
-                "QUESTION": "What is Filo, and what can it do for my Discord community?",
-                "ANSWER": "Filo is a powerful multipurpose Discord bot designed to simplify community moderation and administration"
+                "QUESTION": "Filo とは何ですか？ Discord コミュニティのために何ができますか？",
+                "ANSWER": "Filo は、コミュニティのモデレーションと管理を簡素化するために設計された強力な多目的 Discord ボットです。"
             },
             "THIRD": {
-                "QUESTION": "How can I get support or report an issue with Filo?",
-                "ANSWER": "We're here to help! If you have any questions, concerns, or need assistance, you can join our support server or contact our team through the provided channels. We're committed to ensuring a smooth experience for our users"
+                "QUESTION": "Filo のサポートを受けたり、問題を報告したりするにはどうすればよいですか？",
+                "ANSWER": "私たちがお手伝いします！ご質問、ご不明な点がある場合、またはサポートが必要な場合は、サポートサーバーに参加するか、提供されているチャネルを通じて私たちのチームに連絡することができます。ユーザーの皆様にスムーズな体験をお約束します。"
             },
             "FOURTH": {
-                "QUESTION": "Does Filo have multilingual support for non-English-speaking communities?",
-                "ANSWER": "Yes, Filo offers multilingual support, making it accessible to a wide range of language communities. You can configure Filo to use your preferred language (must be available) for a more inclusive experience"
+                "QUESTION": "Filo では、英語を母国語としないコミュニティに対する多言語サポートはありますか?",
+                "ANSWER": "はい, Filo は多言語に対応しているため、さまざまな言語コミュニティにアクセスできます。より包括的な体験のために、お好みの言語を使用するように Filo を設定できます（使用可能である必要があります）"
             },
             "FIFTH": {
-                "QUESTION": "Can I customize Filo's moderation settings to suit my community's specific needs?",
-                "ANSWER": "Absolutely! Filo allows you to customize its moderation settings to align with your community's rules and requirements. You can fine-tune the filters and settings to maintain a safe and welcoming environment"
+                "QUESTION": "自分のコミュニティ固有のニーズに合わせて Filo のモデレーション設定をカスタマイズできますか？",
+                "ANSWER": "もちろんです！ Filo では、コミュニティのルールや要件に合わせてモデレーション設定をカスタマイズすることができます。フィルタと設定を微調整して、安全で居心地の良い環境を維持することができます。"
             },
             "SIXTH": {
-                "QUESTION": "What are some key features that Filo offers for community management?",
-                "ANSWER": "Filo provides a wide range of features, including automatic moderation, multilingual support, member counting, anti-spam measures, and more. These features enhance community functionality and safety"
+                "QUESTION": "Filo がコミュニティ管理のために提供する主な機能は何ですか？",
+                "ANSWER": "Filo は、自動モデレーション、多言語サポート、メンバーカウント、スパム対策など、幅広い機能を提供しています。これらの機能は、コミュニティの機能性と安全性を高めます。"
             },
             "SEVENTH": {
-                "QUESTION": "How can Filo help me maintain a safe and enjoyable environment in my community?",
-                "ANSWER": "Filo's features include tools to combat spam, protect against external links, and manage community security, ensuring a positive and secure Discord experience for your community"
+                "QUESTION": "Filo は、私のコミュニティで安全で楽しい環境を維持するために、どのようなお手伝いができますか？",
+                "ANSWER": "Filo の機能には、スパム対策、外部リンクからの保護、コミュニティのセキュリティ管理などのツールが含まれており、コミュニティにポジティブで安全な Discord 体験を保証します。"
             },
             "EIGHTH": {
-                "QUESTION": "Can I integrate Filo's features seamlessly into my existing community setup, or is it a complex process?",
-                "ANSWER": "Filo is designed to be user-friendly and easy to integrate into your community. The setup process is straightforward and intuitive"
+                "QUESTION": "Filo の機能を既存のコミュニティ設定にシームレスに統合できますか、それとも複雑なプロセスが必要ですか？",
+                "ANSWER": "Filo は、ユーザーフレンドリーで、コミュニティに簡単に統合できるように設計されています。セットアップのプロセスは簡単で直感的です。"
             }
         },
-        "TITLE": "Frequently asked questions",
-        "DESCRIPTION": "Explore our FAQ section for quick solutions to common queries about Filo, Discord bot features, and much more"
+        "TITLE": "よくある質問",
+        "DESCRIPTION": "Filo, Discord ボット機能などに関する一般的な質問については, FAQ セクションをご覧ください"
     },
     "ERROR": {
         "406": {
-            "DESCRIPTION": "Not Acceptable"
+            "DESCRIPTION": "受入不可"
         },
-        "TITLE": "Error",
+        "TITLE": "エラー",
         "200": {
-            "DESCRIPTION": "OK"
+            "DESCRIPTION": "よっしゃー"
         },
         "400": {
-            "DESCRIPTION": "Bad Request"
+            "DESCRIPTION": "悪いお願い"
         },
         "401": {
-            "DESCRIPTION": "Unauthorized"
+            "DESCRIPTION": "未承認"
         },
         "402": {
-            "DESCRIPTION": "Payment Required"
+            "DESCRIPTION": "お支払いが必要です"
         },
         "403": {
-            "DESCRIPTION": "Forbidden"
+            "DESCRIPTION": "禁じ手"
         },
         "404": {
-            "DESCRIPTION": "Not Found"
+            "DESCRIPTION": "見つかりませんでした"
         },
         "405": {
-            "DESCRIPTION": "Method Not Allowed"
+            "DESCRIPTION": "使用不可の方法"
         },
         "407": {
-            "DESCRIPTION": "Proxy Authentication Required"
+            "DESCRIPTION": "プロキシ認証が必要"
         },
         "408": {
-            "DESCRIPTION": "Request Timeout"
+            "DESCRIPTION": "リクエストタイムアウト"
         },
         "409": {
-            "DESCRIPTION": "Conflict"
+            "DESCRIPTION": "コンフリクト"
         },
         "410": {
-            "DESCRIPTION": "Gone"
+            "DESCRIPTION": "ゴーン"
         },
         "411": {
-            "DESCRIPTION": "Length Required"
+            "DESCRIPTION": "必要な長さ"
         },
         "412": {
-            "DESCRIPTION": "Precondition Failed"
+            "DESCRIPTION": "事前条件不成立"
         },
         "413": {
-            "DESCRIPTION": "Payload Too Large"
+            "DESCRIPTION": "ペイロードが大きすぎる"
         },
         "414": {
-            "DESCRIPTION": "Request-URI Too Long"
+            "DESCRIPTION": "Request-URI が長すぎる"
         },
         "415": {
-            "DESCRIPTION": "Unsupported Media Type"
+            "DESCRIPTION": "未対応のメディアタイプ"
         },
         "416": {
-            "DESCRIPTION": "Requested Range Not Satisfiable"
+            "DESCRIPTION": "要求された範囲が満足できない"
         },
         "417": {
-            "DESCRIPTION": "Expectation Failed"
+            "DESCRIPTION": "期待ハズレ"
         },
         "418": {
-            "DESCRIPTION": "I'm a teapot"
+            "DESCRIPTION": "私はティーポット"
         },
         "420": {
-            "DESCRIPTION": "Unsupported Browser"
+            "DESCRIPTION": "未対応のブラウザー"
         },
         "421": {
-            "DESCRIPTION": "Misdirected Request"
+            "DESCRIPTION": "誤送信のお願い"
         },
         "422": {
-            "DESCRIPTION": "Unprocessable Entity"
+            "DESCRIPTION": "処理不能な実体"
         },
         "423": {
-            "DESCRIPTION": "Locked"
+            "DESCRIPTION": "ロックされた"
         },
         "424": {
-            "DESCRIPTION": "Failed Dependency"
+            "DESCRIPTION": "失敗したディペンダント"
         },
         "425": {
-            "DESCRIPTION": "Too Early"
+            "DESCRIPTION": "早すぎる"
         },
         "426": {
-            "DESCRIPTION": "Upgrade Required"
+            "DESCRIPTION": "アップグレードが必要"
         },
         "428": {
-            "DESCRIPTION": "Precondition Required"
+            "DESCRIPTION": "要前提条件"
         },
         "429": {
-            "DESCRIPTION": "Too Many Request"
+            "DESCRIPTION": "要望が多すぎる"
         },
         "431": {
-            "DESCRIPTION": "Request Header Fields Too Large"
+            "DESCRIPTION": "リクエストヘッダーフィールドが大きすぎる"
         },
         "444": {
-            "DESCRIPTION": "Connection Closed Without Response"
+            "DESCRIPTION": "無反応で接続を閉じる"
         },
         "451": {
-            "DESCRIPTION": "Unavailable For Legal Reasons"
+            "DESCRIPTION": "法的な理由で利用できない"
         },
         "500": {
-            "DESCRIPTION": "Internal Server Error"
+            "DESCRIPTION": "インターナルサーバーエラー"
         },
         "501": {
-            "DESCRIPTION": "Not Implemented"
+            "DESCRIPTION": "未実施"
         },
         "502": {
-            "DESCRIPTION": "Bad Gateway"
+            "DESCRIPTION": "バッドゲートウェイ"
         },
         "503": {
-            "DESCRIPTION": "Service Unavailable"
+            "DESCRIPTION": "サービス利用不可"
         },
         "504": {
-            "DESCRIPTION": "Gateway Timeout"
+            "DESCRIPTION": "ゲートウェイタイムアウト"
         },
         "505": {
-            "DESCRIPTION": "HTTP Version Not Supported"
+            "DESCRIPTION": "HTTP バージョンがサポートされていない"
         },
         "506": {
-            "DESCRIPTION": "Variant Also Negotiates"
+            "DESCRIPTION": "バリアントも交渉します"
         },
         "507": {
-            "DESCRIPTION": "Insufficient Storage"
+            "DESCRIPTION": "ストレージ不足"
         },
         "508": {
-            "DESCRIPTION": "Loop Detected"
+            "DESCRIPTION": "ループ検出"
         },
         "510": {
-            "DESCRIPTION": "Not Extended"
+            "DESCRIPTION": "拡張されていない"
         },
         "511": {
-            "DESCRIPTION": "Network Authentication Required"
+            "DESCRIPTION": "ネットワーク認証が必要"
         },
         "599": {
-            "DESCRIPTION": "Network Connect Timeout Error"
+            "DESCRIPTION": "ネットワーク接続タイムアウトエラー"
         }
     },
     "TERMS_OF_SALES": {
@@ -575,46 +575,46 @@
     },
     "META": {
         "DEFAULT": {
-            "DESCRIPTION": "Elevate your Discord community with powerful and seamless moderation tools, available in multiple languages.",
-            "ABSTRACT": "Empower your Discord community with versatile, multilingual moderation solutions.",
-            "KEYWORDS": "filo bot, discord, discord bot, discord bots, moderation bot, multilingual bot, anime bot, best moderation bot discord, best discord bots for moderation, powerful discord bot"
+            "DESCRIPTION": "パワフルでシームレスなモデレーションツールで、Discord コミュニティを向上させましょう。",
+            "ABSTRACT": "多目的に使える多言語モデレーションソリューションで、Discord コミュニティを強化しましょう。",
+            "KEYWORDS": "filo ボット, discord, discord ボット, モデレーションボット, 多言語ボット, アニメボット, 最高のモデレーションボット discord, モデレーションのための最高の discord ボット, 強力なdiscord ボット"
         },
         "FEATURES": {
-            "DESCRIPTION": "Explore Filo's rich array of Discord bot features - from enhanced moderation to community engagement tools, unleash the full potential of your community management.",
-            "ABSTRACT": "Discover the full spectrum of features that Filo offers, empowering you to elevate your Discord community's management, moderation, and community engagement.",
-            "KEYWORDS": "discord bot, community management, moderation tools, community engagement, multilingual support, anti-spam, member counting, welcoming messages, security measures, customization options"
+            "DESCRIPTION": "強化されたモデレーションからコミュニティ参加ツールまで、コミュニティ管理の可能性を最大限に引き出します。",
+            "ABSTRACT": "Discordコミュニティの管理、モデレーション、コミュニティ参加を向上させるFiloのあらゆる機能をご覧ください。",
+            "KEYWORDS": "discord bot, コミュニティ管理, モデレーションツール, コミュニティ参加, 多言語サポート, アンチスパム, メンバーカウント, 歓迎メッセージ, セキュリティ対策, カスタマイズオプション"
         },
         "COOKIES_POLICY": {
-            "DESCRIPTION": "Learn how we prioritize your privacy, manage data tracking, and provide options for personalized online experiences through transparent cookie policies.",
-            "ABSTRACT": "Explore how we utilize cookies, respect user preferences, and prioritize data protection for a tailored online experience.",
-            "KEYWORDS": "cookies, data tracking, privacy settings, cookie policy, user preferences, website analytics, consent management, online experience, data protection, cookie usage"
+            "DESCRIPTION": "お客様のプライバシーを最優先し、データ追跡を管理し、透明性の高いクッキーポリシーを通じてパーソナライズされたオンライン体験のオプションを提供する方法をご覧ください。",
+            "ABSTRACT": "クッキーをどのように利用し、ユーザーの嗜好を尊重し、データ保護を優先して、お客様に合わせたオンライン体験を提供しているかをご覧ください。",
+            "KEYWORDS": "クッキー, データトラッキング, プライバシー設定, クッキーポリシー, ユーザー設定, ウェブサイト分析, 同意管理, オンライン体験, データ保護, クッキー使用法"
         },
         "TERMS_OF_SERVICE": {
-            "DESCRIPTION": "Learn about acceptable use policies, community management rules, and compliance requirements to ensure a respectful and secure Discord experience.",
-            "ABSTRACT": "Explore the details of acceptable use, community management rules, and compliance requirements for a harmonious and secure online environment.",
-            "KEYWORDS": "terms of service, user agreement, discord bot usage, community guidelines, code of conduct, acceptable use, legal terms, agreement terms, community management rules, compliance requirements"
+            "DESCRIPTION": "利用規約、コミュニティ管理ルール、コンプライアンス要件について学び、尊重された安全な Discord 体験を確保しましょう。",
+            "ABSTRACT": "調和のとれた安全なオンライン環境を実現するための利用規約、コミュニティ管理ルール、コンプライアンス要件について詳しく説明します。",
+            "KEYWORDS": "利用規約, ユーザー同意書, Discord ボット使用法, コミュニティガイドライン, 行動規範, 許容される使用, 法的条項, 同意条項, コミュニティ管理規則, コンプライアンス要件"
         },
         "PRIVACY_POLICY": {
-            "DESCRIPTION": "Learn about our commitment to transparency, consent management, and stringent measures to ensure the security of your information in compliance with data protection standards.",
-            "ABSTRACT": "Discover our practices in transparency, consent management, and stringent security measures, all aligned with data protection standards to ensure your online privacy.",
-            "KEYWORDS": "privacy policy, data protection, user information, information security, consent management, personal data, transparency, online privacy, data processing, compliance measures"
+            "DESCRIPTION": "透明性、同意の管理、データ保護基準に準拠したお客様の情報のセキュリティを確保するための厳格な措置に対する当社の取り組みについてご覧ください。",
+            "ABSTRACT": "透明性、同意管理、厳格なセキュリティ対策など、お客様のオンラインプライバシーを確保するためのデータ保護基準に準拠した当社の取り組みをご覧ください。",
+            "KEYWORDS": "プライバシーポリシー, データ保護, ユーザー情報, 情報セキュリティ, 同意管理, 個人データ, 透明性, オンラインプライバシー, データ処理, コンプライアンス対策"
         },
         "TERMS_OF_SALES": {
-            "DESCRIPTION": "Learn about our billing and refund policies, license agreements, and renewal terms to make informed decisions about your subscriptions.",
-            "ABSTRACT": "Uncover insights into billing, refund policies, license agreements, and renewal terms, empowering you to make informed decisions about your subscriptions.",
-            "KEYWORDS": "sales terms, pricing details, payment policies, subscription plans, billing information, refund policy, license agreements, premium features, renewal terms, transaction terms"
+            "DESCRIPTION": "請求と払い戻しに関するポリシー、ライセンス契約、更新条件について学び、サブスクリプションについて十分な情報を得た上で決定してください。",
+            "ABSTRACT": "請求、払い戻しポリシー、ライセンス契約、更新条件に関する洞察を明らかにし、サブスクリプションについて十分な情報に基づいた意思決定を行えるようにします。",
+            "KEYWORDS": "販売条件, 価格詳細, 支払い方針, サブスクリプションプラン, 請求情報, 返金方針, ライセンス契約, プレミアム機能, 更新条件, 取引条件"
         }
     },
     "FEATURED_COMMUNITIES": {
-        "TITLE": "Featured communities",
-        "DESCRIPTION": "Be inspired by our selection: featured communities who trust and work with Filo"
+        "TITLE": "注目のコミュニティ",
+        "DESCRIPTION": "私たちのセレクションからインスピレーションを得よう： Filo を信頼し、協力している注目のコミュニティ"
     },
     "REVIEWS": {
-        "TITLE": "What our users are saying",
-        "DESCRIPTION": "Discover the experiences of our satisfied users. Read their reviews and testimonials to see how Filo has transformed Discord communities worldwide"
+        "TITLE": "ユーザーの声",
+        "DESCRIPTION": "当社の満足したユーザーの体験をご覧ください。ユーザーのレビューや体験談を読んで, Filo が世界中の Discord コミュニティをどのように変えたかをご覧ください"
     },
     "PRIVACY_POLICY": {
-        "TITLE": "Privacy Policy",
+        "TITLE": "プライバシーポリシー",
         "DESCRIPTION": "Your privacy matters to us. Our Privacy Policy page outlines how we collect, use, and protect your data when you interact with Filo",
         "EFFECTIVE": "Effective",
         "LAST_UPDATED": "Last Updated",
