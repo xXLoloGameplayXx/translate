@@ -1,200 +1,1235 @@
 {
-  "ERROR_DESCRIPTIONS": {
-    "200": "OK",
-    "400": "Solicitud Incorrecta",
-    "401": "Sin Autorización",
-    "402": "Pago Requerido",
-    "403": "Prohibido",
-    "404": "No Encontrado",
-    "405": "Método No Permitido",
-    "406": "No Aceptable",
-    "407": "Autenticación de Proxy Requerida",
-    "408": "Tiempo de Espera Superado",
-    "409": "Conflicto",
-    "410": "Desaparecido",
-    "411": "Longitud Requerida",
-    "412": "Error de Precondicion",
-    "413": "Carga Útil Demasiado Grande",
-    "414": "Solicitud-URI Demasiado Larga",
-    "415": "Tipo de Medio no Soportado",
-    "416": "Rango Solicitado No Satisfactorio",
-    "417": "Expectativa Fallida",
-    "418": "Soy una Tetera",
-    "420": "Navegador no Compatible",
-    "421": "Solicitud Mal Dirigida",
-    "422": "Entidad no Procesable",
-    "423": "Bloqueado",
-    "424": "Error de Dependencia",
-    "425": "Demasiado Pronto",
-    "426": "Actualización Requerida",
-    "428": "Precondicion Requerida",
-    "429": "Demasiadas Solicitudes",
-    "431": "Campos de Encabezado de Solicitud Demasiado Grandes",
-    "444": "Conexión Cerrada sin Respuesta",
-    "451": "No Disponible por Razones Legales",
-    "500": "Error Interno del Servidor",
-    "501": "No Implementado",
-    "502": "Puerta de Enlace Incorrecta",
-    "503": "Servicio no Disponible",
-    "504": "Tiempo de Espera de Puerta de Enlace Agotado",
-    "505": "Versión HTTP no Compatible",
-    "506": "Variantes También Negociable",
-    "507": "Almacenamiento Insuficiente",
-    "508": "Bucle Detectado",
-    "510": "No Extendido",
-    "511": "Autenticación de Red Necesaria",
-    "599": "Error de Conexión a la Red"
-  },
-  "FILO": {
-    "CLASSIC_DESCRIPTION": "Filo es un potente bot de Discord multipropósito. Personalizable, múltiples idiomas, reportes, registros, bienvenidas y despedidas, contador de miembros, anti-invitaciones, auto-mod, anti-evasión. +190 comandos.",
-    "DESCRIPTION": "Filo es una potente bot multipropósito de Discord que sirve a los gremios de Discord desde 2019. Contando con una amplia gama de módulos de administración y moderación para facilitarte las cosas."
-  },
-  "MAIN_HEADER": {
-    "TITLE": "Filo es una potente bot multipropósito de Discord",
-    "SUBTITLE": "Contando con una amplia gama de módulos de administración y moderación para facilitarte las cosas"
-  },
-  "FEATURES": {
-    "DESCRIPTION": "¡Las mejores características para mejorar tu servidor!",
-    "MORE_INFO": "Más información sobre esta característica",
-    "REPORTS": {
-      "TITLE": "Reportes",
-      "DESCRIPTION": "¡Mejora la experiencia y profesionaliza la moderación de tu servidor permitiendo a los usuarios reportar comportamientos inapropiados!"
+    "ERROR_DESCRIPTIONS": {
+        "200": "OK",
+        "400": "Solicitud Incorrecta",
+        "401": "Sin Autorización",
+        "402": "Pago Requerido",
+        "403": "Prohibido",
+        "404": "No Encontrado",
+        "405": "Método No Permitido",
+        "406": "No Aceptable",
+        "407": "Autenticación de Proxy Requerida",
+        "408": "Tiempo de Espera Superado",
+        "409": "Conflicto",
+        "410": "Desaparecido",
+        "411": "Longitud Requerida",
+        "412": "Error de Precondicion",
+        "413": "Carga Útil Demasiado Grande",
+        "414": "Solicitud-URI Demasiado Larga",
+        "415": "Tipo de Medio no Soportado",
+        "416": "Rango Solicitado No Satisfactorio",
+        "417": "Expectativa Fallida",
+        "418": "Soy una Tetera",
+        "420": "Navegador no Compatible",
+        "421": "Solicitud Mal Dirigida",
+        "422": "Entidad no Procesable",
+        "423": "Bloqueado",
+        "424": "Error de Dependencia",
+        "425": "Demasiado Pronto",
+        "426": "Actualización Requerida",
+        "428": "Precondicion Requerida",
+        "429": "Demasiadas Solicitudes",
+        "431": "Campos de Encabezado de Solicitud Demasiado Grandes",
+        "444": "Conexión Cerrada sin Respuesta",
+        "451": "No Disponible por Razones Legales",
+        "500": "Error Interno del Servidor",
+        "501": "No Implementado",
+        "502": "Puerta de Enlace Incorrecta",
+        "503": "Servicio no Disponible",
+        "504": "Tiempo de Espera de Puerta de Enlace Agotado",
+        "505": "Versión HTTP no Compatible",
+        "506": "Variantes También Negociable",
+        "507": "Almacenamiento Insuficiente",
+        "508": "Bucle Detectado",
+        "510": "No Extendido",
+        "511": "Autenticación de Red Necesaria",
+        "599": "Error de Conexión a la Red"
     },
-    "LOGGING": {
-      "TITLE": "Registros",
-      "DESCRIPTION": "¡Registra todas las acciones realizadas por los usuarios en su servidor en un canal, lo que le permite revisarlas y filtrarlas fácilmente!"
+    "FILO": {
+        "CLASSIC_DESCRIPTION": "Filo es un potente bot de Discord multipropósito. Personalizable, múltiples idiomas, reportes, registros, bienvenidas y despedidas, contador de miembros, anti-invitaciones, auto-mod, anti-evasión. +190 comandos.",
+        "DESCRIPTION": "Filo es una potente bot multipropósito de Discord que sirve a los gremios de Discord desde 2019. Contando con una amplia gama de módulos de administración y moderación para facilitarte las cosas."
     },
-    "ANTI_INVITES": {
-      "TITLE": "Anti Invitaciones",
-      "DESCRIPTION": "¡Evita que los usuarios envíen invitaciones de sus servidores en el suyo sancionándolos automáticamente!"
+    "MAIN_HEADER": {
+        "TITLE": "Filo es una potente bot multipropósito de Discord",
+        "SUBTITLE": "Contando con una amplia gama de módulos de administración y moderación para facilitarte las cosas"
     },
-    "ANTI_SPAM": {
-      "TITLE": "Anti Spam",
-      "DESCRIPTION": "¿Cansado de spammers? ¿Tus moderadores no son suficientes? ¡Deja que Filo trate con esta clase de usuarios y tómate un poco de té mientras tanto!"
+    "FEATURES": {
+        "DESCRIPTION": "Descubre un mundo de posibilidades con las amplias funciones de Filo",
+        "MORE_INFO": "Más información sobre esta característica",
+        "REPORTS": {
+            "TITLE": "Reportes",
+            "DESCRIPTION": "Mejora la seguridad y la transparencia de su comunidad permitiendo a sus usuarios denunciar comportamientos inapropiados"
+        },
+        "LOGGING": {
+            "TITLE": "Registros",
+            "DESCRIPTION": "Mantén un registro de la actividad de tu comunidad. Registre eventos y acciones importantes para mantener la transparencia y la rendición de cuentas"
+        },
+        "ANTI_INVITES": {
+            "TITLE": "Anti Invitaciones",
+            "DESCRIPTION": "Protege tu comunidad de invitaciones no deseadas. Mantén tu comunidad enfocada y segura evitando que se compartan invitaciones no autorizadas"
+        },
+        "ANTI_SPAM": {
+            "TITLE": "Anti Spam",
+            "DESCRIPTION": "Evita que el spam interrumpa las actividades de tu comunidad. Disfruta de una experiencia comunitaria más limpia y agradable"
+        },
+        "ANTI_BAD_WORDS": {
+            "TITLE": "Anti Malas Palabras",
+            "DESCRIPTION": "Mantén un ambiente limpio y respetuoso en su comunidad. Filtre y bloquee automáticamente el lenguaje inapropiado, promoviendo un ambiente amigable y seguro"
+        },
+        "ANTI_SCAM_LINKS": {
+            "TITLE": "Anti Enlaces Estafadores",
+            "DESCRIPTION": "Mantén tu comunidad a salvo de enlaces externos no deseados. Mantén tu comunidad segura y centrada"
+        },
+        "AUTO_MODERATION": {
+            "TITLE": "Auto Moderación",
+            "DESCRIPTION": "Automatiza la seguridad y el decoro de tu comunidad. Haz cumplir sin esfuerzo las pautas de la comunidad y mantenga un ambiente acogedor"
+        },
+        "ANTI_EVASION": {
+            "TITLE": "Anti Evasión",
+            "DESCRIPTION": "Mantente un paso por delante de los usuarios disruptivos. Fortalece las defensas de tu comunidad contra los infractores de las reglas que buscan eludir las medidas de moderación"
+        },
+        "WELCOMES": {
+            "TITLE": "Bienvenidas",
+            "DESCRIPTION": "Crea un ambiente acogedor en tu comunidad. Saluda a los nuevos miembros, muestra la personalidad de tu comunidad y haz que todos se sientan como en casa"
+        },
+        "WELCOMES_ROLE": {
+            "TITLE": "Roles de Bienvenida",
+            "DESCRIPTION": "Asigna roles automáticamente a los nuevos miembros, asegurándote de que se siente instantáneamente como en casa en tu comunidad"
+        },
+        "FAREWELLS": {
+            "TITLE": "Despedidas",
+            "DESCRIPTION": "Crea una salida elegante para los miembros que se van. Despídete de los miembros que abandonan tu comunidad y mantenga vivo el espíritu de tu comunidad"
+        },
+        "MEMBER_COUNTER": {
+            "TITLE": "Contador de Miembros",
+            "DESCRIPTION": "Muestra un contador de miembros en tiempo real para celebrar hitos y monitorear el progreso de tu comunidad"
+        },
+        "ANTI_MASS_MENTIONS": {
+            "TITLE": "Anti Menciones Masivas",
+            "DESCRIPTION": "Protege tu comunidad de menciones e interrupciones excesivas. Disfruta de un entorno comunitario centrado y libre de spam"
+        },
+        "ANTI_REPEATED_TEXT": {
+            "TITLE": "Anti Texto Repetido",
+            "DESCRIPTION": "Despídete de los mensajes repetitivos y monótonos. Garantice una conversación más atractiva y agradable en tu comunidad"
+        },
+        "ANTI_EXTERNAL_LINKS": {
+            "TITLE": "Anti Enlaces Externos",
+            "DESCRIPTION": "Mantén tu comunidad a salvo de enlaces externos no deseados. Mantén un entorno comunitario seguro y centrado"
+        },
+        "TITLE": "Características",
+        "TITLE_ALTERNATIVE": "Las mejores características",
+        "DESCRIPTION_ALTERNATIVE": "Explora las mejores características para una gestión de tu comunidad eficiente con Filo",
+        "MULTI_LANGUAGE": {
+            "TITLE": "Varios Idiomas",
+            "DESCRIPTION": "Experimenta la belleza de unir comunidades de diferentes culturas e idiomas. No es sólo una característica; ¡Es nuestra misión!"
+        }
     },
-    "ANTI_BAD_WORDS": {
-      "TITLE": "Anti Malas Palabras",
-      "DESCRIPTION": "Evita que los usuarios usen malas palabras en sus mensajes... ¡A nadie le gusta tener que leer esas palabras!"
+    "STATISTICS": {
+        "TITLE": "Estadísticas",
+        "SERVERS": "Servidores",
+        "USERS": "Usuarios"
     },
-    "ANTI_SCAM_LINKS": {
-      "TITLE": "Anti Enlaces Estafadores",
-      "DESCRIPTION": "Estafadores, que personas más cansinas... ¡Ahora Filo te puede ayudar a combatir contra ese tipo de personas!"
+    "DONATE": {
+        "TITLE": "Donar a Filo",
+        "SUBTITLE": "¡Ayúdanos a mantener a Filo en línea haciendo una donación!",
+        "WARNING": "Todas las donaciones están sujetas a Términos y Condiciones.",
+        "PER_MONTH": "por mes",
+        "VAT_NOT_INCLUDED": "IVA no incluido",
+        "SUBSCRIBE": "Suscribirse",
+        "ROLE_REWARD": "Rol simbólico en nuestro servidor",
+        "FILO_SUPPORT": "Muestra tu apoyo a Filo",
+        "SOON_MORE": "Pronto™ más",
+        "PREVIOUS_PLAN_REWARD": "Todo lo del plan anterior",
+        "NICKNAME_REWARD": "Apodo personalizable en nuestro servidor",
+        "EMOJIS_REWARD": "Uso de emojis externos en nuestro servidor"
     },
-    "AUTO_MODERATION": {
-      "TITLE": "Auto Moderación",
-      "DESCRIPTION": "No permitas que existan usuarios conflictivos en su servidor, ¡esto puede afectar negativamente a la experiencia de los usuarios legítimos!"
+    "REVIEW": {
+        "TITLE": "Déjanos una reseña",
+        "SUBTITLE": "¡Demuestra cuando amas a Filo y su servicio!",
+        "DESCRIPTION": "Comparte tus pensamientos y experiencias con Filo"
     },
-    "ANTI_EVASION": {
-      "TITLE": "Anti Evasión",
-      "DESCRIPTION": "¿Has silenciado a varios usuarios y ellos han abandonado el servidor? ¡No hay problema! ¡Deja que Filo los prohíba automáticamente!"
+    "VOTE": {
+        "TITLE": "Vota por Filo",
+        "SUBTITLE": "¡Demuestra tu apoyo a Filo votando por ella!",
+        "DESCRIPTION": "Ayúdanos a crecer y mejorar votando por Filo"
+    },
+    "FRIENDLY_WEBSITES": {
+        "TITLE": "Sitios web amigos que recomendamos",
+        "SUBTITLE": "¡Sitios web amigos que ayudan a Filo a crecer!",
+        "DESCRIPTION": "Explora una lista seleccionada de sitios web que consideramos amigables y valiosos"
+    },
+    "READY": {
+        "TITLE": "¿Preparado para desbloquear todo el potencial de tu comunidad?",
+        "SUBTITLE": "¡Mejore la experiencia y profesionalice su servidor con Filo hoy mismo!",
+        "INVITE": "¡Hagámoslo!",
+        "GETTING_STARTED": "Empezando",
+        "DESCRIPTION": "Invita a Filo hoy para potenciar tu experiencia en Discord con potentes funciones de moderación y mejora de la comunidad"
+    },
+    "CALCULATOR": {
+        "TITLE": "Calculadora de permisos de Filo",
+        "VIEW_CASES": "Ver casos",
+        "EDIT_CASES": "Editar casos",
+        "MANAGE_CASES": "Gestionar casos",
+        "ADMINISTRATOR": "Administrador",
+        "BAN_MEMBERS": "Prohibir miembros",
+        "TEMPBAN_MEMBERS": "Prohibir miembros temporalmente",
+        "SOFTBAN_MEMBERS": "Prohibir suavemente miembros",
+        "UNBAN_MEMBERS": "Desprohibir miembros",
+        "KICK_MEMBERS": "Expulsar miembros",
+        "MUTE_MEMBERS": "Silenciar miembros",
+        "TEMPMUTE_MEMBERS": "Silenciar miembros temporalmente",
+        "UNMUTE_MEMBERS": "Desilenciar miembros",
+        "WARN_MEMBERS": "Advertir miembros",
+        "UNWARN_MEMBERS": "Desadvertir miembros",
+        "PURGE_WARNS": "Purgar advertencias",
+        "ADD_ROLES": "Agregar roles",
+        "REMOVE_ROLES": "Eliminar roles",
+        "PURGE_MESSAGES": "Purgar mensajes",
+        "MANAGE_NICKNAMES": "Administrar apodos",
+        "MANAGE_CHANNELS": "Administrar canales",
+        "PIN_MESSAGES": "Fijar mensajes",
+        "UNPIN_MESSAGES": "Desfijar mensaje",
+        "VIEW_HISTORY": "Ver historial",
+        "EVADE_SANCTIONS": "Evadir sanciones",
+        "REPORT_MEMBERS": "Informar miembros",
+        "REPORT_MESSAGES": "Informar mensajes",
+        "BYPASS_REPORTS_COOLDOWN": "Evitar el enfriamiento de los informes",
+        "APPROVE_REPORTS": "Aprobar informes",
+        "DENY_REPORTS": "Denegar informes",
+        "MANAGE_REPORTS": "Gestionar informes",
+        "TIMEOUT_MEMBERS": "Aislar miembros",
+        "UNTIMEOUT_MEMBERS": "Desairlar miembros"
+    },
+    "THANKS": {
+        "TITLE": "¡Bienvenido a la comunidad de Filo!",
+        "SUBTITLE": "Estamos muy agradecidos de que hayas decidido confiar en Filo.",
+        "DISCORD_REDIRECT_INFO": "Serás redirigido a nuestro servidor de Discord.",
+        "DESCRIPTION": "Estamos encantados de que hayas agregado a Filo a tu comunidad. Prepárate para experimentar el poder de Filo"
+    },
+    "FOOTER": {
+        "HELPFUL_LINKS": "Enlaces útiles",
+        "IMPORTANT_LINKS": "Enlaces importantes",
+        "ABOUT_FILO": "Acerca de Filo",
+        "ABOUT_FILO_DESCRIPTION": "Filo es una potente bot de Discord multipropósito sirviendo a las comunidades de Discord desde 2019. Cuenta con una amplia gama de módulos de administración y moderación para hacerte más fácil las cosas",
+        "COPYRIGHT": "Filobot © {{year}}. Todos los derechos reservados"
+    },
+    "GENERAL": {
+        "BLOG": "Blog",
+        "DISCORD_SERVER": "Servidor de Discord",
+        "DONATE": "Donar",
+        "FEATURES": "Características",
+        "HOME": "Inicio",
+        "INVITE": "Invitar",
+        "MORE_INFO": "Más información",
+        "PRIVACY_POLICY": "Política de Privacidad",
+        "STATUS": "Estado",
+        "TERMS": "Términos",
+        "TERMS_AND_CONDITIONS": "Términos y Condiciones",
+        "VOTE": "Votar",
+        "WIKI": "Wiki"
+    },
+    "PAGE_TITLES": {
+        "A_DISCORD_BOT": "Un Bot de Discord",
+        "CALCULATOR": "Calculadora",
+        "STATISTICS": "Estadísticas",
+        "THANKS": "Gracias",
+        "LINK_SHORTENER": "Acortador de Enlaces"
+    },
+    "LINK_SHORTENER": {
+        "TITLE": "Redirigiendo",
+        "SUBTITLE": "En unos segundos serás redirigido al enlace original",
+        "DESCRIPTION": "¡Estamos preparando las estrellas que te guiarán en tu viaje hacia la redirección definitiva!"
+    },
+    "TITLE": {
+        "VOTE": "Votar",
+        "DISCORD_SERVER": "Servidor de Discord",
+        "THANKS": "Gracias",
+        "ERROR": "Error",
+        "LINK_SHORTENER": "Acortador de enlaces",
+        "FEATURES": "Características",
+        "APPEAL": "Apelar",
+        "CONGESTED_QUEUE": "Cola congestionada",
+        "DONATE": "Donar",
+        "SYNC_ACCOUNT": "Sincronizar cuenta",
+        "GITHUB": "GitHub",
+        "TRANSLATE": "Traducir",
+        "TWITTER": "Twitter",
+        "TWITCH": "Twitch",
+        "YOUTUBE": "YouTube",
+        "CONTACT_US": "Contáctanos",
+        "REVIEW": "Reseña",
+        "APP_DIRECTORY": "Directorio de Aplicaciones",
+        "GENERIC": "{{title}} | Filo - El Bot de Discord",
+        "GENERIC_ALT": "Filo — El Bot de Discord",
+        "SERVICE_STATUS": "Estado del servicio",
+        "BLOG": "Blog",
+        "TERMS_OF_SERVICE": "Términos del Servicio",
+        "PRIVACY_POLICY": "Política de Privacidad",
+        "COOKIES_POLICY": "Política de Cookies",
+        "TERMS_OF_SALES": "Términos de Venta",
+        "HOME": "Inicio",
+        "INVITE": "Invitar",
+        "DOCUMENTATION": "Documentación",
+        "CONTACT": "Contactar"
+    },
+    "TERMS_OF_SERVICE": {
+        "COPYRIGHT": {
+            "TITLE": "Derechos de autor",
+            "FIRST_PARAGRAPH": "Generalmente aceptamos solicitudes para eliminar contenido de nuestro servicio enviando un correo electrónico a <strong><a href=\"mailto:{{email}}\">{{email}}</a></strong>. No se permite el uso, distribución, venta, publicación de cualquier contenido de nuestro servicio. Hay excepciones. Apreciamos que no utilice nuestro contenido para complementar, crear o distribuir el suyo. Todos los derechos de propiedad intelectual están reservados."
+        },
+        "RIGHTS_TO_USE_THE_SERVICE": {
+            "TITLE": "Derechos de uso del Servicio",
+            "FIRST_PARAGRAPH": "Otorgamos un derecho limitado, no exclusivo e irrevocable a utilizar el Servicio. Podemos revocar su acceso a este servicio si:",
+            "LIST": {
+                "FIRST_ELEMENT": "Tienes menos de 13 años.",
+                "SECOND_ELEMENT": "Participas en actividades ilegales, fraudulentas o de otro modo dañinas para una persona o entidad.",
+                "THIRD_ELEMENT": "Difamas, calumnias, te burlas, acosas, amenazas, intimidas o abusas de los derechos de una persona o entidad.",
+                "FOURTH_ELEMENT": "Infringes la propiedad intelectual de Filo o los servicios relacionados con Filo; tienes una comunidad de Discord en las que hay temas que violan la propiedad intelectual de Filo o los servicios relacionados con Filo. No otorgamos el derecho a utilizar los recursos de Filo. Hay excepciones.",
+                "FIFTH_ELEMENT": "Participas en la interrupción (intencional) del trabajo del personal de Filo; utilizas el Servicio para interrumpir el trabajo del personal de Filo; Utilizas las redes sociales para interrumpir el trabajo del personal de Filo.",
+                "SIXTH_ELEMENT": "Desarrollas y distribuyes material protegido por derechos de autor.",
+                "SEVENTH_ELEMENT": "Explotas, discutes, anuncias un error crítico del servicio; no informas al personal de Filo sobre un error crítico (ni realizas las acciones mencionadas anteriormente); Te niegas a darle al personal de Filo detalles sobre el error crítico encontrado.",
+                "EIGHTH_ELEMENT": "Participas en actividades de impulso pagadas (o no pagadas); eres propietario de una comunidad en la que se realizan actividades de impulso.",
+                "NINTH_ELEMENT": "Comprometes la seguridad, integridad y funcionalidad del Servicio.",
+                "TENTH_ELEMENT": "Haces un uso inadecuado del Servicio, envías publicidad a un servicio externo (o a ti mismo).",
+                "ELEVENTH_ELEMENT": "Intentas evadir una suspensión; utilizas el Servicio a pesar de estar suspendido.",
+                "TWELFTH_ELEMENT": "Utilizas los métodos de soporte ofrecidos por el personal de Filo de manera errónea e intencional."
+            },
+            "SECOND_PARAGRAPH": "Nos reservamos el derecho de modificar o suspender, temporal o permanentemente, el Servicio (o cualquier parte del mismo) con o sin previo aviso. Nos reservamos el derecho de rechazar el uso de los servicios sin previo aviso por cualquier motivo, incluyendo, entre otros, una posible violación de las condiciones. Si violas estas condiciones, nos reservamos el derecho de emitir una advertencia sobre la violación o suspender inmediatamente su cuenta que ha creado a través del Servicio ofrecido por Discord. Usted acepta que no tenemos obligación de informarle antes de suspender su(s) cuenta(s), pero que usted puede hacerlo."
+        },
+        "TITLE": "Términos del Servicio",
+        "DESCRIPTION": "Estos Términos rigen su acceso y uso de Filo y los servicios, y cualquier información, texto, gráficos u otros materiales cargados, descargados o que aparecen en los servicios (denominados colectivamente \"Contenido\"). Su acceso y uso de los servicios están condicionados a su aceptación y cumplimiento de estos Términos. Al acceder o utilizar los servicios, usted acepta estar sujeto a estos Términos.",
+        "EFFECTIVE": "Efectivo",
+        "LAST_UPDATED": "Última Actualización",
+        "DATE": "{{day}}/{{month}}/{{year}}",
+        "INTRODUCTION": {
+            "TITLE": "Introducción",
+            "FIRST_PARAGRAPH": "Estos Términos de servicio (\"Términos\") son un acuerdo legal entre Filobot (\"Nosotros\", \"Nosotros\" o \"Nuestro\") y usted (\"Usted\", \"Su\", el \"Usuario\" o el \"Usuario final\"). Al utilizar o interactuar con Filo (el \"Bot\") o el sitio web ubicado en <strong>{{url}}</strong> (el \"Sitio\") o cualquiera de sus alias, que se denominan colectivamente el \"Servicio\", usted acepta:",
+            "LIST": {
+                "FIRST_ELEMENT": "Que tienes 13 años o más.",
+                "SECOND_ELEMENT": "Si tiene la mayoría de edad en su jurisdicción o más, ha leído, comprendido y aceptado estar sujeto a los Términos.",
+                "THIRD_ELEMENT": "Si tienes entre 13 años y la mayoría de edad en su jurisdicción, tu tutor legal ha revisado y acepta estos Términos."
+            },
+            "SECOND_PARAGRAPH": "Nos reservamos el derecho, a nuestro exclusivo criterio, de modificar o revisar estos Términos en cualquier momento, y usted acepta estar sujeto a dichas modificaciones o revisiones. Cualquier cambio o modificación entrará en vigencia de inmediato y su uso continuado del Servicio constituirá su aceptación y acuerdo con dichos cambios o modificaciones. Si se opone a cualquier cambio o modificación, su único recurso será dejar de utilizar el Servicio.",
+            "THIRD_PARAGRAPH": "Nos integramos con varias plataformas (\"plataformas\") para brindarle nuestros servicios. Ninguna plataforma respalda a Filo, ni Filo respalda a estas plataformas. Discord no está afiliado a Filo."
+        },
+        "TERMS_OF_SALES": {
+            "TITLE": "Monedas virtuales, bienes virtuales y Términos de Venta",
+            "FIRST_PARAGRAPH": "El Servicio es de uso gratuito, pero podemos ofrecer servicios adicionales pagando una tarifa. Lea atentamente los <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Términos de Venta</a></strong> antes de comprar moneda virtual o productos virtuales (como se define a continuación) de Filo."
+        },
+        "THIRD_PARTY_SERVICES": {
+            "TITLE": "Servicios de Terceros",
+            "FIRST_PARAGRAPH": "Utilizamos servicios de terceros para ayudarnos a proporcionar el Servicio, pero dicho uso no indica que los respaldemos o que seamos responsables de sus acciones. Además, el Servicio puede vincularse a sitios web de terceros para facilitar la prestación de servicios. Si utilizas estos enlaces, abandonarás el Servicio. No somos responsables ni respaldamos estos sitios web de terceros ni las organizaciones que patrocinan dichos sitios web de terceros o sus productos o servicios, ya sea que estemos afiliados o no a dichos sitios web de terceros. Usted acepta que no somos responsables de ninguna pérdida o daño de cualquier tipo incurrido como resultado de dichas transacciones que pueda tener en o a través de un sitio web de terceros o como resultado de la presencia de publicidad de terceros. en el Servicio."
+        },
+        "FEEDBACKS": {
+            "TITLE": "Comentarios",
+            "FIRST_PARAGRAPH": "Agradecemos sus comentarios, ideas y sugerencias (\"Comentarios\"). Si decide enviarnos Comentarios, declara y garantiza que:",
+            "LIST": {
+                "FIRST_ELEMENT": "Tienes derecho a compartir los comentarios.",
+                "SECOND_ELEMENT": "Los Comentarios no infringen los derechos de propiedad intelectual de ningún tercero.",
+                "THIRD_ELEMENT": "Los Comentarios no contienen información confidencial o de propiedad de ningún tercero.",
+                "FOURTH_ELEMENT": "Sus opiniones no se utilizarán con fines publicitarios o de promoción de un producto o servicio, ni para ningún otro fin comercial.",
+                "FIFTH_ELEMENT": "No estamos obligados a revisar, considerar o implementar sus comentarios, pero podemos utilizarlos para cualquier propósito sin compensarle."
+            },
+            "SECOND_PARAGRAPH": "Nos reservamos el derecho de eliminar cualquier comentario que consideremos inapropiado u ofensivo. No somos responsables de la información que elija compartir con nosotros como parte de sus Comentarios ni de ninguna pérdida o daño que pueda sufrir como resultado de compartir dichos Comentarios."
+        },
+        "CONFIDENTIAL_INFORMATION": {
+            "TITLE": "Información confidencial",
+            "FIRST_PARAGRAPH": "Usted acepta que no divulgará la información confidencial de Filo sin nuestro consentimiento previo por escrito. La \"información confidencial\" incluye, entre otros, lo siguiente:",
+            "LIST": {
+                "FIRST_ELEMENT": "Cualquier software, tecnología, programación, especificaciones, materiales, directrices y documentación relacionados con el Servicio.",
+                "SECOND_ELEMENT": "Estadísticas relativas a la prestación del Servicio.",
+                "THIRD_ELEMENT": "La existencia e información sobre las funciones beta de un Servicio.",
+                "FOURTH_ELEMENT": "Cualquier otra información proporcionada por Filo que esté marcada como confidencial o que normalmente se consideraría confidencial según las circunstancias en las que se presenta."
+            },
+            "SECOND_PARAGRAPH": "La información confidencial no incluye información que usted ya conocía antes de usar el Servicio, que se vuelve pública sin culpa suya, que usted desarrolló de forma independiente o que le fue proporcionada legalmente por un tercero. Sin perjuicio de lo anterior, usted puede revelar con precisión el monto de los pagos brutos de Filo resultantes de su uso del Servicio."
+        },
+        "PRIVACY_POLICY": {
+            "TITLE": "Política de Privacidad",
+            "FIRST_PARAGRAPH": "Consulte nuestra <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Privacidad</a></strong> para obtener información sobre cómo recopilamos, utilizamos y divulgamos información de nuestros usuarios."
+        },
+        "EXPERIMENTAL_FEATURES": {
+            "TITLE": "Funciones Experimentales o Servicios en Beta",
+            "FIRST_PARAGRAPH": "Podemos ofrecerle acceso a funciones o servicios que se consideran experimentales o en estado beta (\"Funciones en Beta\"). Las Funciones en Beta pueden tener estándares de seguridad, privacidad, accesibilidad, disponibilidad y confiabilidad reducidos o diferentes, y es posible que no funcionen correctamente o en la forma en que lo haría una función o servicio disponible generalmente. Nuestra inclusión de Funciones Beta no debe interpretarse como un respaldo, garantía o recomendación de ellas por parte nuestra o de un tercero. Todas las Funciones en Beta se proporcionan \"tal cual\" y bajo su propio riesgo, y usted acepta que no tenemos ninguna responsabilidad derivada del uso o acceso a las Funciones en Beta.",
+            "SECOND_PARAGRAPH": "También podemos cancelar, suspender o modificar cualquier Función en Beta en cualquier momento sin previo aviso. También podemos decidir no hacer que una Función en Beta esté disponible de forma generalizada. Podemos agregar o eliminar Funciones Beta del Servicio en cualquier momento a nuestro exclusivo criterio. Si decide utilizar alguna Función en Beta, lo hará bajo su propio riesgo."
+        },
+        "DISCLAIMER_OF_WARRANTY": {
+            "TITLE": "Renuncia de Garantía",
+            "FIRST_PARAGRAPH": "Los servicios y los materiales del Servicio se proporcionan \"tal cual\" y \"según disponibilidad\", sin garantías de ningún tipo, ya sean expresas o implícitas, incluidas, entre otras, las garantías implícitas, adecuadas y adecuadas para cualquier tipo. Ninguna infracción. El uso del Servicio es bajo su propio riesgo. Además, aunque intentamos brindar una buena experiencia de usuario, no podemos representar ni garantizar que el Servicio siempre será seguro y estará libre de errores o que el Servicio siempre funcionará sin demoras, interrupciones o defectos. Las exenciones de responsabilidad anteriores se aplicarán en la medida permitida por la ley aplicable.",
+            "SECOND_PARAGRAPH": "No somos responsables de las interrupciones del Servicio."
+        },
+        "LIMITATION_OF_LIABILITY": {
+            "TITLE": "Limitación de Responsabilidad",
+            "FIRST_PARAGRAPH": "Usted reconoce expresamente que no seremos responsables del contenido del usuario, incluido, entre otros, su contenido, así como de la conducta difamatoria, ofensiva o ilegal de cualquier tercero y que el riesgo de daño o perjuicio de lo anterior recae enteramente en usted."
+        },
+        "INDEMNIFICATION": {
+            "TITLE": "Indemnización",
+            "FIRST_PARAGRAPH": "Usted acepta defender, indemnizar y eximir de responsabilidad a Filobot y sus subsidiarias, agentes, licenciantes, gerentes y otras compañías afiliadas, y sus empleados, contratistas, agentes, funcionarios y directores, de y contra todos y cada uno de los reclamos, daños, obligaciones y pérdidas. , pasivos, costos o deudas y gastos (incluidos, entre otros, honorarios de abogados) que surjan de:",
+            "LIST": {
+                "FIRST_ELEMENT": "Su uso y acceso al Servicio, incluidos cualquier dato o contenido transmitido o recibido por usted.",
+                "SECOND_ELEMENT": "Su violación de cualquier término de este Acuerdo, incluido, entre otros, su incumplimiento de cualquiera de las representaciones y garantías anteriores.",
+                "THIRD_ELEMENT": "Su violación de cualquier derecho de terceros, incluido, entre otros, cualquier derecho de privacidad o derechos de propiedad intelectual.",
+                "FOURTH_ELEMENT": "Su violación de cualquier ley, norma o reglamento aplicable.",
+                "FIFTH_ELEMENT": "Cualquier reclamo o daño que surja como resultado de cualquier contenido de su usuario o cualquiera que se envíe a través de su cuenta."
+            },
+            "SECOND_PARAGRAPH": "Esta obligación de defensa e indemnización sobrevivirá a este Acuerdo y a su uso del Servicio."
+        },
+        "TERMINATION": {
+            "TITLE": "Terminación",
+            "FIRST_PARAGRAPH": "Podemos terminar o suspender su acceso al Servicio en cualquier momento, incluso en caso de que usted haga un uso no autorizado real o sospechado del Servicio o que incumpla estos Términos. Si usted o Filobot cancelan su uso del Servicio, podemos eliminar cualquier contenido u otros materiales relacionados con su uso del Servicio y no seremos responsables ante usted ni ante ningún tercero por hacerlo."
+        },
+        "CONTACT": {
+            "TITLE": "Contacto",
+            "FIRST_PARAGRAPH": "Si tienes alguna pregunta sobre estos Términos, comunícate con nosotros en <strong><a href=\"mailto:{{email}}\">{{email}}</a></strong>."
+        }
+    },
+    "PRIVACY_POLICY": {
+        "LAST_UPDATED": "Última Actualización",
+        "DATE": "{{day}}/{{month}}/{{year}}",
+        "BEFORE": {
+            "FIRST_PARAGRAPH": "Filobot <em>(en adelante \"Filo\")</em> recopila algunos Datos Personales de sus Usuarios.",
+            "SECOND_PARAGRAPH": "Correo electrónico para comunicaciones en materia de Protección de Datos: <strong><a href=\"mailto:{{email}}\">{{email}}</a></strong>"
+        },
+        "TITLE": "Política de Privacidad",
+        "DESCRIPTION": "Tu privacidad nos importa. Nuestra página de Política de Privacidad describe cómo recopilamos, usamos y protegemos tus datos cuando interactúa con Filo",
+        "EFFECTIVE": "Efectivo",
+        "TYPES_OF_DATA_COLLECTED": {
+            "TITLE": "Tipos de Datos recopilados",
+            "FIRST_PARAGRAPH": "Entre las clases de Datos Personales que recopila Filo, ya sea directamente o a través de terceros, se encuentran: Rastreador; Datos de Uso; Nombre de usuario; Servidor.",
+            "SECOND_PARAGRAPH": "Los detalles completos sobre cada tipo de Datos Personales recopilados se proporcionan en las secciones dedicadas de esta política de privacidad o mediante textos explicativos específicos que se muestran antes de la recopilación de Datos.",
+            "THIRD_PARAGRAPH": "Los Datos Personales pueden ser proporcionados libremente por el Usuario o, en el caso de Datos de uso, recopilados automáticamente al utilizar Filo.",
+            "FOURTH_PARAGRAPH": "A menos que se especifique lo contrario, todos los Datos solicitados por Filo son obligatorios y el hecho de no proporcionarlos puede hacer imposible que Filo proporcione sus servicios. En los casos en que Filo indique específicamente que algunos Datos no son obligatorios, los Usuarios son libres de no comunicar estos Datos sin consecuencias para la disponibilidad o el funcionamiento del Servicio.",
+            "FIFTH_PARAGRAPH": "Los usuarios que no estén seguros de qué Datos Personales son obligatorios pueden ponerse en contacto con el Propietario.<br>Cualquier uso de Cookies (o de otras herramientas de seguimiento) por parte de Filo o por los propietarios de servicios de terceros utilizados por Filo tiene el propósito de proporcionar el Servicio requerido por el Usuario, además de cualesquiera otras finalidades descritas en el presente documento y en la <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Cookies</a></strong>.",
+            "SIXTH_PARAGRAPH": "Los usuarios son responsables de los Datos Personales de terceros obtenidos, publicados o compartidos a través de Filo."
+        },
+        "DETAILED_INFORMATION_ON_THE_PROCESSING_OF_PERSONAL_DATA": {
+            "TITLE": "Información detallada sobre el tratamiento de Datos Personales",
+            "DISPLAYING_CONTENT_FROM_EXTERNAL_PLATFORMS": {
+                "STATUSPAGE": {
+                    "TITLE": "Widget de Statuspage (Atlassian Pty Ltd)",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Datos personales recopilados</strong>: Rastreador y datos de uso.",
+                    "FIRST_PARAGRAPH": "El widget de Statuspage es un servicio de visualización de contenidos proporcionado por Atlassian Pty Ltd que permite a Filo incorporar contenidos de este tipo en sus páginas.",
+                    "PLACE_OF_PROCESSING": "<strong>Lugar de Procesamiento</strong>: Estados Unidos – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Privacidad</a></strong>."
+                },
+                "TITLE": "Mostrar contenido de plataformas externas",
+                "FIRST_PARAGRAPH": "Este tipo de servicio permite visualizar contenidos alojados en plataformas externas directamente desde las páginas de Filo e interactuar con ellas.",
+                "SECOND_PARAGRAPH": "Este tipo de servicio aún puede recopilar datos de tráfico web para las páginas donde está instalado el servicio, incluso cuando los Usuarios no lo utilizan."
+            },
+            "FIRST_PARAGRAPH": "Los Datos Personales se recopilan para las siguientes finalidades y utilizando los siguientes servicios:",
+            "ADVERTISING": {
+                "TITLE": "Publicidad",
+                "FIRST_PARAGRAPH": "Este tipo de servicio permite que los Datos del Usuario se utilicen con fines de comunicación publicitaria mostrados en forma de pancartas y otros anuncios en Filo, posiblemente basados en los intereses del Usuario.",
+                "SECOND_PARAGRAPH": "Esto no significa que todos los Datos personales se utilicen para este fin. La información y condiciones de uso se muestran a continuación.",
+                "THIRD_PARAGRAPH": "Algunos de los servicios enumerados a continuación pueden utilizar Cookies para identificar a los Usuarios o pueden utilizar la técnica de retargeting conductual, es decir, mostrar anuncios adaptados a los intereses y el comportamiento del Usuario, incluidos los detectados fuera de Filo. Para obtener más información, consulte las políticas de privacidad de los servicios correspondientes.",
+                "FOURTH_PARAGRAPH": "Además de cualquier opción de exclusión ofrecida por cualquiera de los servicios a continuación, el Usuario puede optar por no participar en el uso de cookies por parte de un servicio de terceros visitando la página de exclusión voluntaria de la <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Página de exclusión voluntaria de la Iniciativa de publicidad en red</a></strong>.",
+                "GOOGLE_ADSENSE": {
+                    "TITLE": "Google AdSense (Google Inc.)",
+                    "FIRST_PARAGRAPH": "Google AdSense es un servicio publicitario proporcionado por Google Inc. Este servicio utiliza Cookies \"Doubleclick\", que rastrea el uso de Filo y el comportamiento del Usuario en relación con los anuncios, productos y servicios ofrecidos.",
+                    "SECOND_PARAGRAPH": "El Usuario podrá decidir desactivar todas las Cookies de Doubleclick haciendo clic en: <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">myadcenter.google.com/controls</a></strong>.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Datos personales recopilados</strong>: Cookies y datos de uso.",
+                    "PLACE_OF_PROCESSING": "<strong>Lugar de procesamiento</strong>: Estados Unidos – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Privacidad</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Optar por no</a></strong>."
+                },
+                "GOOGLE_AD_MANAGER": {
+                    "TITLE": "Google Ad Manager (Google Inc.)",
+                    "FIRST_PARAGRAPH": "Google Ad Manager es un servicio de publicidad proporcionado por Google Inc. que permite al Propietario ejecutar campañas publicitarias junto con redes publicitarias externas con las que el Propietario, a menos que se especifique lo contrario en este documento, no tiene relación directa. Para optar por no ser rastreados por varias redes publicitarias, los Usuarios pueden hacer uso de <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Tus Opciones en Línea</a></strong>. Para comprender el uso que hace Google de los datos, consulte la política de socios de Google.",
+                    "SECOND_PARAGRAPH": "Este servicio utiliza Cookies \"DoubleClick\", que rastrea el uso de Filo y el comportamiento del Usuario en relación con los anuncios, productos y servicios ofrecidos.",
+                    "THITD_PARAGRAPH": "El Usuario podrá decidir desactivar todas las Cookies de DoubleClick haciendo clic en: <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">myadcenter.google.com/controls</a></strong>.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Datos personales recopilados</strong>: Cookies y datos de uso.",
+                    "PLACE_OF_PROCESSING": "<strong>Lugar de procesamiento</strong>: Estados Unidos – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Privacidad</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Optar por no</a></strong>."
+                },
+                "GOOGLE_ADS_CONVERSION_TRACKING": {
+                    "TITLE": "Google Ads conversion tracking (Google Inc.)",
+                    "FIRST_PARAGRAPH": "Google Ads conversion tracking es un servicio de análisis proporcionado por Google Inc. que conecta datos de la red publicitaria de Google Ads con acciones realizadas en Filo.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Datos personales recopilados</strong>: Cookies y datos de uso.",
+                    "PLACE_OF_PROCESSING": "<strong>Lugar de procesamiento</strong>: Estados Unidos – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Privacidad</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Optar por no</a></strong>."
+                }
+            },
+            "ANALYTICS": {
+                "TITLE": "Analíticas",
+                "FIRST_PARAGRAPH": "Los servicios contenidos en esta sección permiten al Titular monitorear y analizar el tráfico web y pueden usarse para realizar un seguimiento del comportamiento del Usuario.",
+                "GOOGLE_ANALYTICS": {
+                    "TITLE": "Google Analytics (Google Inc.)",
+                    "FIRST_PARAGRAPH": "Google Analytics es un servicio de análisis web proporcionado por Google Inc. (\"Google\"). Google utiliza los datos recopilados para rastrear y examinar el uso de Filo, preparar informes sobre sus actividades y compartirlos con otros servicios de Google.",
+                    "SECOND_PARAGRAPH": "Google podrá utilizar los Datos recopilados para contextualizar y personalizar los anuncios de su propia red publicitaria.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Datos personales recopilados</strong>: Cookies y datos de uso.",
+                    "PLACE_OF_PROCESSING": "<strong>Lugar de procesamiento</strong>: Estados Unidos – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Privacidad</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Optar por no</a></strong>."
+                }
+            },
+            "CHAT_SUPPORT": {
+                "TITLE": "Soporte por chat",
+                "FIRST_PARAGRAPH": "Este tipo de servicio permite a los Usuarios interactuar con plataformas de chat en vivo de terceros directamente desde las páginas de Filo, para contactar y ser contactados por el servicio de soporte de Filo.",
+                "CHATWOOT": {
+                    "TITLE": "Chatwoot (Chatwoot Inc.)",
+                    "FIRST_PARAGRAPH": "Chatwoot es un servicio de soporte por chat proporcionado por Chatwoot Inc.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Datos personales recopilados</strong>: Cookies; Datos comunicados durante el uso del servicio; Datos de uso.",
+                    "PLACE_OF_PROCESSING": "<strong>Lugar de procesamiento</strong>: Estados Unidos – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Privacidad</a></strong>."
+                }
+            },
+            "HOSTING_AND_BACKEND_INFRASTRUCTURE": {
+                "TITLE": "Infraestructura de alojamiento y backend",
+                "FIRST_PARAGRAPH": "Este tipo de servicio tiene el propósito de alojar datos y archivos que permitan que Filo se ejecute y distribuya, así como proporcionar una infraestructura lista para ejecutar funciones o partes específicas de Filo. Algunos de estos servicios funcionan a través de servidores distribuidos geográficamente, lo que dificulta determinar la ubicación real donde se almacenan los Datos Personales.",
+                "GALAXYGATE": {
+                    "TITLE": "GalaxyGate (GalaxyGate LLC)",
+                    "FIRST_PARAGRAPH": "GalaxyGate es un servicio de alojamiento y backend proporcionado por GalaxyGate LLC.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Datos personales recopilados</strong>: varios tipos de Datos según lo especificado en la política de privacidad del servicio.",
+                    "PLACE_OF_PROCESSING": "<strong>Lugar de procesamiento</strong>: Estados Unidos – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Privacidad</a></strong>."
+                },
+                "GOOGLE_CLOUD_PLATFORM": {
+                    "TITLE": "Google Cloud Platform (Google Inc.)",
+                    "FIRST_PARAGRAPH": "Google Cloud Platform es un servicio de alojamiento y backend proporcionado por Google Inc.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Datos personales recopilados</strong>: varios tipos de Datos según lo especificado en la política de privacidad del servicio.",
+                    "PLACE_OF_PROCESSING": "<strong>Lugar de procesamiento</strong>: Estados Unidos – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Privacidad</a></strong>."
+                },
+                "ORACLE_CLOUD": {
+                    "TITLE": "Oracle Cloud (Oracle Corporation)",
+                    "FIRST_PARAGRAPH": "Oracle Cloud es un servicio de hosting y backend proporcionado por Oracle Corporation.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Datos personales recopilados</strong>: varios tipos de Datos según lo especificado en la política de privacidad del servicio.",
+                    "PLACE_OF_PROCESSING": "<strong>Lugar de procesamiento</strong>: Estados Unidos – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Privacidad</a></strong>."
+                }
+            },
+            "INTERACTION_WITH_EXTERNAL_SOCIAL_NETWORKS_AND_PLATFORMS": {
+                "SECOND_PARAGRAPH": "La interacción y la información obtenida a través de Filo están siempre sujetas a la configuración de privacidad del Usuario para cada red social.",
+                "TITLE": "Interacción con redes sociales y plataformas externas",
+                "FIRST_PARAGRAPH": "Este tipo de servicio permite la interacción con redes sociales u otras plataformas externas directamente desde las páginas de Filo.",
+                "THIRD_PARAGRAPH": "Este tipo de servicio aún puede recopilar datos de tráfico para las páginas donde está instalado el servicio, incluso cuando los Usuarios no lo utilizan.",
+                "FOURTH_PARAGRAPH": "Se recomienda cerrar sesión en los servicios respectivos para asegurarse de que los datos procesados en Filo no se vuelvan a conectar con el perfil del Usuario.",
+                "DISCORD_WIDGET": {
+                    "TITLE": "Botón y widgets sociales de Discord (Discord Inc.)",
+                    "FIRST_PARAGRAPH": "El botón y los widgets sociales de Discord son servicios que permiten la interacción con la red social Discord proporcionados por Discord Inc.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Datos personales recopilados</strong>: Cookies y datos de uso.",
+                    "PLACE_OF_PROCESSING": "<strong>Lugar de procesamiento</strong>: Estados Unidos – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Privacidad</a></strong>."
+                }
+            },
+            "INFRASTRUCTURE_MONITORING": {
+                "TITLE": "Monitoreo de infraestructura",
+                "FIRST_PARAGRAPH": "Este tipo de servicio permite a Filo monitorear el uso y comportamiento de sus componentes para mejorar su rendimiento, operación, mantenimiento y resolución de problemas.",
+                "SECOND_PARAGRAPH": "Los Datos Personales que se procesan dependen de las características y modo de implementación de estos servicios, cuya función es filtrar las actividades de Filo.",
+                "SENTRY": {
+                    "TITLE": "Sentry (Functional Software Inc.)",
+                    "FIRST_PARAGRAPH": "Sentry es un servicio de monitoreo proporcionado por Functional Software Inc.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Datos personales recopilados</strong>: Rastreador y datos de uso.",
+                    "PLACE_OF_PROCESSING": "<strong>Lugar de procesamiento</strong>: Estados Unidos – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Privacidad</a></strong>."
+                }
+            },
+            "REGISTRATION_AND_AUTHENTICATION": {
+                "TITLE": "Registro y autenticación",
+                "FIRST_PARAGRAPH": "Al registrarse o autenticarse, los Usuarios permiten a Filo identificarlos y darles acceso a servicios dedicados.",
+                "SECOND_PARAGRAPH": "Dependiendo de lo que se describe a continuación, terceros podrán proporcionar servicios de registro y autenticación. En este caso, Filo podrá acceder a algunos Datos, almacenados por estos servicios de terceros, con fines de registro o identificación.",
+                "DISCORD_AUTH": {
+                    "TITLE": "Autenticación de Discord (Discord Inc.)",
+                    "FIST_PARAGRAPH": "Autenticación de Discord es un servicio de registro y autenticación proporcionado por Discord Inc. y está conectado a la red Discord."
+                }
+            },
+            "REMARKETING_AND_BEHAVIORAL_TARGETING": {
+                "GOOGLE_ANALYTICS_REMARKETING": {
+                    "PERSONAL_DATA_COLLECTED": "<strong>Datos personales recopilados</strong>: Cookies y datos de uso.",
+                    "TITLE": "Google Analytics Remarketing (Google Inc.)",
+                    "FIRST_PARAGRAPH": "Google Analytics Remarketing es un servicio de remarketing y de segmentación por comportamiento proporcionado por Google Inc. que conecta la actividad de seguimiento realizada por Google Analytics y sus Cookies con la red publicitaria de Google Ads y las Cookies de Doubleclick.",
+                    "PLACE_OF_PROCESSING": "<strong>Lugar de procesamiento</strong>: Estados Unidos – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Privacidad</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Optar por no</a></strong>."
+                },
+                "TITLE": "Remarketing y segmentación por comportamiento",
+                "FIRST_PARAGRAPH": "Este tipo de servicio permite a Filo y sus socios informar, optimizar y ofrecer publicidad basada en el uso anterior de Filo por parte del Usuario.",
+                "SECOND_PARAGRAPH": "Esta actividad se realiza mediante el seguimiento de los Datos de Uso y el uso de Cookies, información que se transfiere a los socios que gestionan la actividad de remarketing y segmentación por comportamiento.",
+                "THIRD_PARAGRAPH": "Además de cualquier opción de exclusión ofrecida por cualquiera de los servicios a continuación, el Usuario puede optar por no participar en el uso de cookies por parte de un servicio de terceros visitando la <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">página de exclusión voluntaria de Network Advertising Initiative</a></strong>.",
+                "GOOGLE_ADS_REMARKETING": {
+                    "TITLE": "Google Ads Remarketing (Google Inc.)",
+                    "FIRST_PARAGRAPH": "Google Ads Remarketing es un servicio de remarketing y de segmentación por comportamiento proporcionado por Google Inc. que conecta la actividad de Filo con la red publicitaria de Google Ads y las Cookies de DoubleClick.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Datos personales recopilados</strong>: Cookies y datos de uso.",
+                    "PLACE_OF_PROCESSING": "<strong>Lugar de procesamiento</strong>: Estados Unidos – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Privacidad</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Optar por no</a></strong>."
+                }
+            },
+            "TRAFFIC_OPTIMIZATION_AND_DISTRIBUTION": {
+                "CLOUDFLARE": {
+                    "PLACE_OF_PROCESSING": "<strong>Lugar de procesamiento</strong>: Estados Unidos – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Privacidad</a></strong>.",
+                    "TITLE": "Cloudflare (Cloudflare Inc.)",
+                    "FIRST_PARAGRAPH": "Cloudflare es un servicio de optimización y distribución de tráfico proporcionado por Cloudflare Inc.",
+                    "SECOND_PARAGRAPH": "La forma en que se integra Cloudflare significa que filtra todo el tráfico a través de Filo, es decir, la comunicación entre Filo y el navegador del Usuario, al tiempo que permite recopilar datos analíticos de Filo.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Datos personales recopilados</strong>: Cookies y diversos tipos de Datos según lo especificado en la política de privacidad del servicio."
+                },
+                "TITLE": "Optimización y distribución del tráfico",
+                "FIRST_PARAGRAPH": "Este tipo de servicio permite a Filo distribuir su contenido utilizando servidores ubicados en diferentes países y optimizar su rendimiento.",
+                "SECOND_PARAGRAPH": "Los Datos Personales que se procesan dependen de las características y la forma en que se implementan estos servicios. Su función es filtrar las comunicaciones entre Filo y el navegador del Usuario.",
+                "THIRD_PARAGRAPH": "Considerando la amplia distribución de este sistema, resulta difícil determinar los lugares a los que se transfieren los contenidos que pueden contener Información Personal del Usuario."
+            },
+            "SPAM_PROTECTION": {
+                "TITLE": "Protección contra el SPAM",
+                "FIRST_PARAGRAPH": "Este tipo de servicio analiza el tráfico de Filo, que potencialmente contiene Datos Personales de los Usuarios, con el fin de filtrar partes del tráfico, mensajes y contenidos que se reconocen como SPAM.",
+                "TURNSTILE": {
+                    "TITLE": "Turnstile (Cloudflare Inc.)",
+                    "FIRST_PARAGRAPH": "Turnstile es un servicio de protección contra SPAM proporcionado por Cloudflare Inc.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Datos personales recopilados</strong>: Cookies y diversos tipos de Datos según lo especificado en la política de privacidad del servicio.",
+                    "PLACE_OF_PROCESSING": "<strong>Lugar de procesamiento</strong>: Estados Unidos – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Privacidad</a></strong>."
+                }
+            },
+            "TAG_MANAGEMENT": {
+                "TITLE": "Gestión de Etiquetas",
+                "FIRST_PARAGRAPH": "Este tipo de servicio ayuda al Propietario a gestionar las etiquetas o scripts necesarios en Filo de forma centralizada.",
+                "SECOND_PARAGRAPH": "Esto da como resultado que los Datos de los Usuarios fluyan a través de estos servicios, lo que potencialmente resulta en la retención de estos Datos.",
+                "GOOGLE_TAG_MANAGER": {
+                    "TITLE": "Google Tag Manager (Google LLC)",
+                    "FIRST_PARAGRAPH": "Google Tag Manager es un servicio de administración de etiquetas proporcionado por Google LLC."
+                }
+            }
+        },
+        "MODE_AND_PLACE_OF_PROCESSING_THE_DATA": {
+            "TITLE": "Modo y lugar de procesamiento de los Datos",
+            "METHODS_OF_PROCESSING": {
+                "TITLE": "Métodos de procesamiento",
+                "FIRST_PARAGRAPH": "El Titular toma medidas de seguridad adecuadas para evitar el acceso no autorizado, la divulgación, modificación o destrucción no autorizada de los Datos.",
+                "SECOND_PARAGRAPH": "El Tratamiento de los Datos se realiza mediante ordenadores y/o herramientas informáticas, siguiendo procedimientos y modalidades organizativos estrictamente relacionados con las finalidades indicadas. Además del Titular, en algunos casos, los Datos pueden ser accesibles a ciertos tipos de personas responsables, involucradas con la operación de Filo (administración, ventas, marketing, legal, administración de sistemas) o partes externas (como terceros proveedores de servicios técnicos, carteros, proveedores de hosting, empresas informáticas, agencias de comunicación) designados, en su caso, como Encargados del Tratamiento por el Titular. La relación actualizada de dichas partes podrá ser solicitada al Titular en cualquier momento."
+            },
+            "LEGAL_BASIS_OF_PROCESSING": {
+                "TITLE": "Base jurídica del tratamiento",
+                "FIRST_PARAGRAPH": "El Titular podrá procesar Datos Personales relacionados con los Usuarios si se aplica uno de los siguientes:",
+                "LIST": {
+                    "FIRST_ELEMENT": {
+                        "FIRST_PARAGRAPH": "Cuando los Usuarios hayan dado su consentimiento para una o más finalidades específicas. Aviso: Bajo diversas legislaciones, el Titular puede estar autorizado a procesar Datos Personales hasta que el Usuario se oponga (\"opción de no participación\"), sin necesidad de consentimiento ni ninguna otra base legal. Sin embargo, esto no será de aplicación cuando el tratamiento de Datos Personales esté sujeto a la normativa europea en materia de protección de Datos Personales."
+                    },
+                    "SECOND_ELEMENT": {
+                        "FIRST_PARAGRAPH": "Cuando la obtención de Datos sea necesaria para el cumplimiento de un contrato entre el Usuario y/o cualquier otra obligación precontractual del mismo."
+                    },
+                    "THIRD_ELEMENT": {
+                        "FIRST_PARAGRAPH": "Cuando el tratamiento sea necesario para el cumplimiento de una obligación legal de obligado cumplimiento por parte del Usuario."
+                    },
+                    "FOURTH_ELEMENT": {
+                        "FIRST_PARAGRAPH": "Cuando el tratamiento esté relacionado con una tarea realizada en interés público o en el ejercicio de facultades oficiales otorgadas al Titular."
+                    },
+                    "FIFTH_ELEMENT": {
+                        "FIRST_PARAGRAPH": "Cuando el tratamiento sea necesario para la finalidad de un interés legítimo perseguido por el Titular o un tercero."
+                    }
+                },
+                "SECOND_PARAGRAPH": "En todo caso, el Titular está a su disposición para definir las bases jurídicas específicas que se aplican al tratamiento y en particular, si la obtención de Datos Personales es un requisito contractual o estatutario o un requisito necesario para formalizar un contrato."
+            },
+            "PLACE": {
+                "TITLE": "Lugar",
+                "FIRST_PARAGRAPH": "Los Datos son tratados en las oficinas operativas del Titular y en cualesquiera otros lugares donde se encuentren las partes involucradas en el tratamiento. Para obtener más información, póngase en contacto con el propietario."
+            },
+            "RETENTION_TIME": {
+                "TITLE": "Tiempo de retención",
+                "FIRST_PARAGRAPH": "Los Datos se conservan durante el tiempo necesario para prestar el servicio solicitado por el Usuario, o indicado para las finalidades señaladas en este documento, pudiendo el Usuario siempre solicitar al Titular la suspensión o eliminación de los datos."
+            }
+        },
+        "THE_USE_OF_THE_COLLECTED_DATA": {
+            "TITLE": "El uso de los datos recopilados",
+            "FIRST_PARAGRAPH": "Los Datos relativos al Usuario son recogidos para permitir al Titular la prestación de sus servicios, así como para las siguientes finalidades: Análisis, Hosting e infraestructura backend, Registro y autenticación, Publicidad, Visualización de contenidos de plataformas externas, Monitoreo de infraestructura, Interacción con redes sociales externas. Redes y plataformas, Remarketing y segmentación por comportamiento, Protección contra spam, Gestión de etiquetas y Optimización y distribución del tráfico.",
+            "SECOND_PARAGRAPH": "Los Datos Personales utilizados para cada finalidad se describen en los apartados específicos de este documento."
+        },
+        "LEGAL_BASIS_FOR_PROCESSING": {
+            "FURTHER_INFORMATION_ABOUT_RETENTION_TIME": {
+                "TITLE": "Más información sobre el tiempo de retención",
+                "FIRST_PARAGRAPH": "Los Datos Personales serán tratados y conservados durante el tiempo requerido por la finalidad para la que fueron recogidos.",
+                "SECOND_PARAGRAPH": "Por lo tanto:",
+                "LIST": {
+                    "FIRST_ELEMENT": "Los Datos Personales recopilados para fines relacionados con la ejecución de un contrato entre el Propietario y el Usuario se conservarán hasta que dicho contrato se haya ejecutado en su totalidad.",
+                    "SECOND_ELEMENT": "Los Datos Personales recopilados para los fines de los intereses legítimos del Titular se conservarán durante el tiempo necesario para cumplir dichos fines. Los usuarios pueden encontrar información específica sobre los intereses legítimos perseguidos por el Propietario en las secciones correspondientes de este documento o contactando al Propietario."
+                },
+                "THIRD_PARAGRAPH": "Se podrá permitir al Propietario conservar Datos personales durante un período más prolongado siempre que el Usuario haya dado su consentimiento para dicho procesamiento, siempre y cuando dicho consentimiento no sea retirado. Además, el Titular puede verse obligado a conservar los Datos Personales por un período más prolongado siempre que sea necesario para el cumplimiento de una obligación legal o por orden de una autoridad.",
+                "FOURTH_PARAGRAPH": "Una vez que expire el período de retención, los Datos Personales se eliminarán. Por lo tanto, el derecho de acceso, el derecho de supresión, el derecho de rectificación y el derecho a la portabilidad de los datos no podrán hacerse valer una vez transcurrido el plazo de conservación."
+            },
+            "TITLE": "Base jurídica para el tratamiento",
+            "FIRST_PARAGRAPH": "El Titular podrá procesar Datos Personales relacionados con los Usuarios si se aplica uno de los siguientes:",
+            "LIST": {
+                "FIRST_ELEMENT": "Los usuarios han dado su consentimiento para una o más finalidades específicas.",
+                "SECOND_ELEMENT": "El suministro de Datos es necesario para la ejecución de un acuerdo con el Usuario y/o para cualquier obligación precontractual del mismo.",
+                "THIRD_ELEMENT": "El tratamiento es necesario para el cumplimiento de una obligación legal a la que está sujeto el Titular.",
+                "FOURTH_ELEMENT": "El tratamiento está relacionado con una tarea que se lleva a cabo en interés público o en el ejercicio de poderes oficiales conferidos al Titular.",
+                "FIFTH_ELEMENT": "El procesamiento es necesario para los fines de los intereses legítimos perseguidos por el Titular o por un tercero."
+            },
+            "SECOND_PARAGRAPH": "En cualquier caso, el Propietario estará encantado de ayudar a aclarar la base jurídica específica que se aplica al procesamiento y, en particular, si el suministro de Datos personales es un requisito legal o contractual, o un requisito necesario para celebrar un contrato.",
+            "THE_RIGHTS_OF_USERS_BASED_ON_THE_GENERAL_DATA_PROTECTION_REGULATION": {
+                "TITLE": "Los derechos de los Usuarios en base al Reglamento General de Protección de Datos (GDPR)",
+                "FIRST_PARAGRAPH": "Los usuarios podrán ejercitar determinados derechos respecto de sus Datos tratados por el Titular.",
+                "SECOND_PARAGRAPH": "En particular, los Usuarios tienen derecho a realizar lo siguiente:",
+                "LIST": {
+                    "FIRST_ELEMENT": "Retirar su consentimiento en cualquier momento. Los usuarios tienen derecho a retirar el consentimiento cuando previamente hayan dado su consentimiento para el procesamiento de sus Datos Personales.",
+                    "SECOND_ELEMENT": "Oponerse al tratamiento de sus Datos. Los usuarios tienen derecho a oponerse al procesamiento de sus Datos si el procesamiento se realiza sobre una base legal distinta del consentimiento.",
+                    "THIRD_ELEMENT": "Acceder a sus datos. Los usuarios tienen derecho a saber si los Datos están siendo procesados por el Titular, obtener información sobre ciertos aspectos del procesamiento y obtener una copia de los Datos en proceso.",
+                    "FOURTH_ELEMENT": "Verificar y buscar rectificación. Los usuarios tienen derecho a verificar la exactitud de sus Datos y solicitar su actualización o corrección.",
+                    "FIFTH_ELEMENT": "Limitar el tratamiento de sus Datos. Los usuarios tienen derecho a restringir el procesamiento de sus Datos. En este caso, el Titular no tratará sus Datos con ninguna finalidad distinta a la de almacenarlos.",
+                    "SIXTH_ELEMENT": "Hacer que sus Datos Personales sean eliminados o eliminados de otro modo. Los usuarios tienen derecho a obtener del Titular la supresión de sus Datos.",
+                    "SEVENTH_ELEMENT": "Recibir sus Datos y hacer que se transfieran a otro responsable del tratamiento. Los usuarios tienen derecho a recibir sus Datos en un formato estructurado, de uso común y legible por máquina y, si es técnicamente posible, a transmitirlos a otro responsable del tratamiento sin ningún obstáculo.",
+                    "EIGHTH_ELEMENT": "Presenta una queja. Los usuarios tienen derecho a presentar una reclamación ante su autoridad competente en protección de datos."
+                },
+                "THIRD_PARAGRAPH": "Los usuarios también tienen derecho a conocer la base jurídica de las transferencias de Datos al extranjero, incluso a cualquier organización internacional regida por el derecho internacional público o creada por dos o más países, como la ONU, y sobre las medidas de seguridad adoptadas por el Titular para salvaguardar sus datos. Datos."
+            },
+            "DETAILS_ABOUT_THE_RIGHT_TO_OBJECT_TO_PROCESSING": {
+                "TITLE": "Detalles sobre el derecho a oponerse al procesamiento",
+                "FIRST_PARAGRAPH": "Cuando los Datos personales se procesan por un interés público, en el ejercicio de una autoridad oficial conferida al Titular o para los fines de los intereses legítimos perseguidos por el Titular, los Usuarios pueden oponerse a dicho procesamiento proporcionando un motivo relacionado con su situación particular para justificar la objeción.",
+                "SECOND_PARAGRAPH": "Los usuarios deben saber que, sin embargo, si sus Datos Personales se procesan con fines de marketing directo, pueden oponerse a ese procesamiento en cualquier momento sin dar ninguna justificación. Para saber si el Propietario está procesando Datos personales con fines de marketing directo, los Usuarios pueden consultar las secciones pertinentes de este documento."
+            },
+            "HOW_TO_EXERCISE_THESE_RIGHTS": {
+                "TITLE": "Cómo ejercer estos derechos",
+                "FIRST_PARAGRAPH": "Cualquier solicitud para ejercer los derechos del Usuario puede dirigirse al Titular a través de los datos de contacto proporcionados en este documento. Estas solicitudes podrán ejercitarse de forma gratuita y serán atendidas por el Titular con la mayor antelación posible y siempre en el plazo de un mes."
+            }
+        },
+        "INFORMATION_ON_OPTING_OUT_OF_INTEREST_BASED_ADVERTISING": {
+            "TITLE": "Información sobre cómo darse de baja de la publicidad basada en intereses",
+            "FIRST_PARAGRAPH": "Además de cualquier función de exclusión voluntaria proporcionada por cualquiera de los servicios enumerados en este documento, los usuarios pueden obtener más información sobre cómo optar por no recibir publicidad basada en intereses en la sección dedicada de la <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Cookies</a></strong>."
+        },
+        "COOKIES_POLICY": {
+            "TITLE": "Política de Cookies",
+            "FIRST_PARAGRAPH": "Filo utiliza cookies. Para obtener más información y conocer el aviso detallado de cookies, el Usuario puede consultar la <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Cookies</a></strong>."
+        },
+        "FURTHER_INFORMATION_FOR_USERS_IN_THE_EU": {
+            "TITLE": "Más información para usuarios de la Unión Europea",
+            "FIRST_PARAGRAPH": "Esta sección se aplica a todos los Usuarios de la Unión Europea, de acuerdo con el Reglamento General de Protección de Datos (el \"GDPR\") y, para dichos Usuarios, reemplaza cualquier otra información posiblemente divergente o contradictoria contenida en la política de privacidad. Puede encontrar más detalles sobre las categorías de Datos procesados, los fines del procesamiento, las categorías de destinatarios de los Datos personales, si corresponde, y más información sobre los Datos personales en la sección titulada <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Información detallada sobre el procesamiento de Datos Personales</a></strong> dentro de este documento."
+        },
+        "ADDITIONAL_INFORMATION_ABOUT_DATA_COLLECTION_AND_PROCESSING": {
+            "TITLE": "Información adicional sobre la recopilación y el procesamiento de datos",
+            "LEGAL_ACTION": {
+                "TITLE": "Acción legal",
+                "FIRST_PARAGRAPH": "Los Datos Personales del Usuario podrán ser utilizados con fines legales por el Titular en los tribunales o en las etapas previas a posibles acciones legales derivadas del uso indebido de Filo o los servicios relacionados.",
+                "SECOND_PARAGRAPH": "El Usuario declara ser consciente de que el Titular puede verse obligado a revelar datos personales a petición de las autoridades públicas."
+            },
+            "ADDITIONAL_INFORMATION_ABOUT_USER_PERSONAL_DATA": {
+                "TITLE": "Información adicional sobre los Datos Personales del Usuario",
+                "FIRST_PARAGRAPH": "Además de la información contenida en esta política de privacidad, Filo puede proporcionar al Usuario información adicional y contextual sobre servicios particulares o la recopilación y procesamiento de Datos Personales previa solicitud."
+            },
+            "SYSTEM_LOGS_AND_MAINTENANCE": {
+                "TITLE": "Registros y mantenimiento del sistema",
+                "FIRST_PARAGRAPH": "Para fines de operación y mantenimiento, Filo y cualquier servicio de terceros pueden recopilar archivos que registren la interacción con Filo (registros del sistema) y utilizar otros datos personales (como la dirección IP) para este propósito."
+            },
+            "INFORMATION_NOT_CONTAINED_IN_THIS_POLICY": {
+                "TITLE": "Información no contenida en esta política",
+                "FIRST_PARAGRAPH": "Se podrán solicitar al Titular más detalles sobre la recopilación o el procesamiento de Datos Personales en cualquier momento. Consulte la información de contacto al principio de este documento."
+            },
+            "HOW_DO_NOT_TRACK_REQUESTS_ARE_HANDLED": {
+                "TITLE": "Cómo se manejan las solicitudes de \"No rastrear\"",
+                "FIRST_PARAGRAPH": "Filo no admite solicitudes de \"No rastrear\". Para determinar si alguno de los servicios de terceros que utiliza cumple con las solicitudes de \"No rastrear\", lea sus políticas de privacidad."
+            },
+            "CHANGES_TO_THIS_PRIVACY_POLICY": {
+                "TITLE": "Cambios en esta política de privacidad",
+                "FIRST_PARAGRAPH": "El Propietario se reserva el derecho de realizar cambios a esta política de privacidad en cualquier momento notificando a sus Usuarios en esta página y posiblemente dentro de Filo y/o - en la medida en que sea técnica y legalmente posible - enviando un aviso a los Usuarios a través de cualquier información de contacto disponible. al dueño. Se recomienda encarecidamente consultar esta página con frecuencia, consultando la fecha de la última modificación que figura en la parte inferior.",
+                "SECOND_PARAGRAPH": "Si los cambios afectan las actividades de procesamiento realizadas sobre la base del consentimiento del Usuario, el Propietario deberá obtener un nuevo consentimiento del Usuario, cuando sea necesario."
+            }
+        },
+        "DEFINITIONS_AND_LEGAL_REFERENCES": {
+            "LEGAL_INFORMATION": {
+                "SECOND_PARAGRAPH": "Esta política de privacidad se relaciona únicamente con Filo, a menos que se indique lo contrario en este documento.",
+                "TITLE": "Información legal",
+                "FIRST_PARAGRAPH": "Esta declaración de privacidad ha sido elaborada en base a lo dispuesto en múltiples legislaciones, incluido el art. 13/14 del Reglamento (UE) 2016/679 (Reglamento General de Protección de Datos)."
+            },
+            "TITLE": "Definiciones y referencias legales",
+            "PERSONAL_DATA": {
+                "TITLE": "Datos Personales (o Datos)",
+                "FIRST_PARAGRAPH": "Cualquier información que directa, indirectamente o en conexión con otra información, incluido un número de identificación personal, permita la identificación o identificabilidad de una persona física."
+            },
+            "USAGE_DATA": {
+                "TITLE": "Datos de Uso",
+                "FIRST_PARAGRAPH": "Información recopilada automáticamente a través de Filo (o servicios de terceros empleados en Filo), que puede incluir: las direcciones IP o nombres de dominio de las computadoras utilizadas por los Usuarios que usan Filo, las direcciones URI (Identificador uniforme de recursos), la hora del solicitud, el método utilizado para enviar la solicitud al servidor, el tamaño del archivo recibido en respuesta, el código numérico que indica el estado de la respuesta del servidor (resultado exitoso, error, etc.), el país de origen, las características de el navegador y el sistema operativo utilizados por el Usuario, los diversos detalles de tiempo por visita (por ejemplo, el tiempo transcurrido en cada página dentro de la Aplicación) y los detalles sobre la ruta seguida dentro de la Aplicación con especial referencia a la secuencia de páginas visitadas, y otros parámetros sobre el sistema operativo del dispositivo y/o el entorno informático del Usuario."
+            },
+            "USER": {
+                "TITLE": "Usuario",
+                "FIRST_PARAGRAPH": "La persona física que utiliza Filo y que, salvo especificación en contrario, coincide con el Titular de los Datos."
+            },
+            "DATA_SUBJECT": {
+                "TITLE": "Titular de los Datos",
+                "FIRST_PARAGRAPH": "La persona natural a quien se refieren los Datos Personales."
+            },
+            "DATA_PROCESSOR": {
+                "TITLE": "Procesador de Datos (o Supervisor de Datos)",
+                "FIRST_PARAGRAPH": "La persona física o jurídica, autoridad pública, agencia u otro organismo que procesa Datos Personales en nombre del Responsable, como se describe en esta política de privacidad."
+            },
+            "DATA_CONTROLLER": {
+                "TITLE": "Controlador de Datos (o Propietario)",
+                "FIRST_PARAGRAPH": "La persona física o jurídica, autoridad pública, agencia u otro organismo que, solo o junto con otros, determina los fines y medios del procesamiento de Datos Personales, incluidas las medidas de seguridad relativas al funcionamiento y uso de Filo. El Responsable del Tratamiento, salvo que se especifique lo contrario, es el Titular de Filo."
+            },
+            "FILO": {
+                "TITLE": "Filo (o esta Aplicación)",
+                "FIRST_PARAGRAPH": "El medio por el cual se recopilan y procesan los Datos Personales del Usuario."
+            },
+            "SERVICE": {
+                "TITLE": "Servicio",
+                "FIRST_PARAGRAPH": "El servicio proporcionado por Filo como se describe en los términos relativos (si están disponibles) y en este sitio/aplicación."
+            },
+            "EUROPEAN_UNION": {
+                "TITLE": "Unión Europa (o UE)",
+                "FIRST_PARAGRAPH": "A menos que se especifique lo contrario, todas las referencias hechas en este documento a la Unión Europea incluyen todos los estados miembros actuales de la Unión Europea y el Espacio Económico Europeo."
+            },
+            "COOKIES": {
+                "TITLE": "Cookies",
+                "FIRST_PARAGRAPH": "Pequeños conjuntos de datos almacenados en el dispositivo del Usuario."
+            }
+        }
+    },
+    "COOKIES_POLICY": {
+        "BEFORE": {
+            "SECOND_PARAGRAPH": "Para simplificar, todas estas tecnologías se definen como \"rastreadores\" en este documento, a menos que exista un motivo para diferenciarlas.",
+            "THIRD_PARAGRAPH": "Por ejemplo, si bien las Cookies se pueden utilizar tanto en navegadores web como móviles, sería incorrecto hablar de Cookies en el contexto de las aplicaciones móviles, ya que son un rastreador basado en el navegador. Por este motivo, en este documento, el término Cookies solo se utiliza cuando pretende indicar específicamente ese tipo particular de Rastreador.",
+            "FOURTH_PARAGRAPH": "Algunos de los fines para los que se utilizan los Rastreadores también pueden requerir el consentimiento del Usuario. Siempre que se preste el consentimiento, éste podrá retirarse libremente en cualquier momento siguiendo las instrucciones proporcionadas en este documento.",
+            "FIFTH_PARAGRAPH": "Este sitio web sólo utiliza rastreadores que habilitan servicios proporcionados por un tercero (los llamados rastreadores de \"terceros\"). A menos que se especifique lo contrario en este documento, los proveedores externos pueden acceder a sus Rastreadores.",
+            "SIXTH_PARAGRAPH": "Los períodos de validez y caducidad de las Cookies de terceros y otros Rastreadores similares pueden variar según la vida útil establecida por el proveedor correspondiente.",
+            "FIRST_PARAGRAPH": "Este documento informa a los Usuarios sobre las tecnologías que ayudan a este Sitio Web a lograr los fines que se describen a continuación. Dichas tecnologías permiten al Propietario acceder y almacenar información (por ejemplo, mediante el uso de una Cookie) o utilizar recursos (por ejemplo, ejecutando un script) en el dispositivo de un Usuario mientras interactúa con este Sitio web."
+        },
+        "ANALYTICS": {
+            "GOOGLE_ANALYTICS": {
+                "PLACE_OF_PROCESSING": "<strong>Lugar de procesamiento</strong>: Estados Unidos – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Privacidad</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Optar por no</a></strong>.",
+                "TITLE": "Google Analytics (Google Inc.)",
+                "FIRST_PARAGRAPH": "Google Analytics es un servicio de análisis web proporcionado por Google Inc. (\"Google\"). Google utiliza los datos recopilados para rastrear y examinar el uso de este sitio web, preparar informes sobre sus actividades y compartirlos con otros servicios de Google.",
+                "SECOND_PARAGRAPH": "Google podrá utilizar los Datos recopilados para contextualizar y personalizar los anuncios de su propia red publicitaria.",
+                "PERSONAL_DATA_COLLECTED": "<strong>Datos personales recopilados</strong>: Galletas; Datos de uso."
+            },
+            "TITLE": "Analíticas",
+            "FIRST_PARAGRAPH": "Los servicios contenidos en esta sección permiten al Titular monitorear y analizar el tráfico web y pueden usarse para realizar un seguimiento del comportamiento del Usuario."
+        },
+        "SEVENTH_PARAGRAPH": "Además de lo que se especifica en las descripciones dentro de cada una de las categorías siguientes, los Usuarios pueden encontrar información más precisa y actualizada sobre la especificación de vida útil, así como cualquier otra información relevante, como la presencia de otros Rastreadores, en las políticas de privacidad vinculadas de las respectivas categorías. terceros proveedores o contactando con el Titular.",
+        "ACTIVITIES_STRICTLY_NECESSARY": {
+            "TITLE": "Actividades estrictamente necesarias para el funcionamiento de este sitio web y la prestación del Servicio",
+            "FIRST_PARAGRAPH": "Este Sitio web utiliza las denominadas Cookies \"técnicas\" y otros Rastreadores similares para llevar a cabo actividades que son estrictamente necesarias para el funcionamiento o la prestación del Servicio."
+        },
+        "THIRD_PARTY_TRACKER": {
+            "TITLE": "Rastreador de terceros",
+            "FIRST_PARAGRAPH": "Este Sitio Web utiliza Rastreadores gestionados directamente por el Propietario (los llamados Rastreadores \"propios\") y Rastreadores que habilitan servicios proporcionados por un tercero (los llamados Rastreadores \"de terceros\"). A menos que se especifique lo contrario en este documento, los proveedores externos pueden acceder a sus Rastreadores.",
+            "TRAFFIC_OPTIMIZATION_AND_DISTRIBUTION": {
+                "TITLE": "Optimización y distribución del tráfico",
+                "FIRST_PARAGRAPH": "Este tipo de servicio permite a este Sitio Web distribuir su contenido utilizando servidores ubicados en diferentes países y optimizar su rendimiento.",
+                "SECOND_PARAGRAPH": "Los Datos Personales que se procesan dependen de las características y la forma en que se implementan estos servicios. Su función es filtrar las comunicaciones entre este Sitio Web y el navegador del Usuario.",
+                "THIRD_PARAGRAPH": "Considerando la amplia distribución de este sistema, es difícil determinar los lugares a los que se transfieren los contenidos que pueden contener Información Personal del Usuario.",
+                "CLOUDFLARE": {
+                    "TITLE": "Cloudflare (Cloudflare Inc.)",
+                    "FIRST_PARAGRAPH": "Cloudflare es un servicio de optimización y distribución de tráfico proporcionado por Cloudflare Inc.<br>La forma en que se integra Cloudflare significa que filtra todo el tráfico a través de este sitio web, es decir, la comunicación entre este sitio web y el navegador del usuario, al mismo tiempo que permite datos analíticos de este Sitio web a recopilar.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Datos personales recopilados</strong>: Cookies; varios tipos de Datos según lo especificado en la política de privacidad del servicio.",
+                    "PLACE_OF_PROCESSING": "<strong>Lugar de procesamiento</strong>: Estados Unidos – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Privacidad</a></strong>."
+                }
+            },
+            "CHAT_SUPPORT": {
+                "TITLE": "Soporte por chat",
+                "FIRST_PARAGRAPH": "Este tipo de servicio permite a los Usuarios interactuar con plataformas de chat en vivo de terceros directamente desde las páginas de este Sitio Web, para contactar y ser contactados por el servicio de soporte de este Sitio Web.",
+                "CHATWOOT": {
+                    "TITLE": "Chatwoot (Chatwoot Inc.)",
+                    "FIRST_PARAGRAPH": "Chatwoot es un servicio de soporte por chat proporcionado por Chatwoot Inc.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Datos personales recopilados</strong>: Cookies; Datos comunicados durante el uso del servicio; Datos de Uso.",
+                    "PLACE_OF_PROCESSING": "<strong>Lugar de procesamiento</strong>: Estados Unidos – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Privacidad</a></strong>."
+                }
+            }
+        },
+        "HOW_TO_MANAGE_PREFENCES_AND_PROVIDE_OR_WITHDRAW_CONSENT": {
+            "TITLE": "Cómo gestionar las preferencias y dar o retirar el consentimiento",
+            "FIRST_PARAGRAPH": "Hay varias formas de gestionar las preferencias relacionadas con Tracker y de otorgar y retirar el consentimiento, cuando corresponda:",
+            "SECOND_PARAGRAPH": "Los usuarios pueden administrar las preferencias relacionadas con los Rastreadores directamente desde la configuración de su propio dispositivo, por ejemplo, impidiendo el uso o almacenamiento de los Rastreadores.",
+            "THIRD_PARAGRAPH": "Además, siempre que el uso de Rastreadores se base en el consentimiento, los Usuarios pueden otorgar o retirar dicho consentimiento configurando sus preferencias dentro del aviso de cookies o actualizando dichas preferencias en consecuencia a través del widget de privacidad de preferencias de consentimiento correspondiente, si está disponible.",
+            "FOURTH_PARAGRAPH": "También es posible, a través de las funciones relevantes del navegador o del dispositivo, eliminar los Rastreadores almacenados previamente, incluidos aquellos utilizados para recordar las preferencias de consentimiento iniciales del Usuario.",
+            "FIFTH_PARAGRAPH": "Otros rastreadores en la memoria local del navegador se pueden borrar eliminando el historial de navegación.",
+            "SIXTH_PARAGRAPH": "Con respecto a los Rastreadores de terceros, los Usuarios pueden administrar sus preferencias a través del enlace de exclusión correspondiente (cuando se proporcione), utilizando los medios indicados en la política de privacidad del tercero o comunicándose con el tercero.",
+            "LOCATING_TRACKER_SETTINGS": {
+                "TITLE": "Localizando la Configuración del Rastreador",
+                "FIRST_PARAGRAPH": "Los usuarios pueden, por ejemplo, encontrar información sobre cómo gestionar las Cookies en los navegadores más utilizados en las siguientes direcciones:",
+                "SECOND_PARAGRAPH": "Los usuarios también pueden administrar ciertas categorías de Rastreadores utilizados en aplicaciones móviles al optar por no participar a través de configuraciones relevantes del dispositivo, como la configuración de publicidad del dispositivo para dispositivos móviles o la configuración de seguimiento en general (los usuarios pueden abrir la configuración del dispositivo y buscar la configuración relevante)."
+            },
+            "CONSEQUENCES_OF_DENYING_THE_USE_OF_TRACKERS": {
+                "TITLE": "Consecuencias de negar el uso de Rastreadores",
+                "FIRST_PARAGRAPH": "Los usuarios son libres de decidir si permiten o no el uso de Rastreadores. Sin embargo, tenga en cuenta que los Rastreadores ayudan a este sitio web a brindar una mejor experiencia y funcionalidades avanzadas a los Usuarios (de acuerdo con los propósitos descritos en este documento). Por lo tanto, si el Usuario decide bloquear el uso de Rastreadores, es posible que el Propietario no pueda proporcionar funciones relacionadas."
+            }
+        },
+        "OTHER_ACTIVITIES_INVOLVING_THE_USE_OF_TRACKERS": {
+            "TITLE": "Otras actividades que implican el uso de Rastreadores",
+            "FIRST_PARAGRAPH": "Este Sitio Web utiliza Rastreadores para brindar una experiencia de usuario personalizada mejorando la calidad de las opciones de administración de preferencias y permitiendo la interacción con redes y plataformas externas.",
+            "MEASUREMENT": {
+                "TITLE": "Medición",
+                "FIRST_PARAGRAPH": "Este Sitio Web utiliza Rastreadores para medir el tráfico y analizar el comportamiento del Usuario con el objetivo de mejorar el Servicio."
+            }
+        },
+        "DEFINITIONS_AND_LEGAL_REFERENCES": {
+            "EUROPEAN_UNION": {
+                "TITLE": "Unión Europa (o UE)",
+                "FIRST_PARAGRAPH": "A menos que se especifique lo contrario, todas las referencias hechas en este documento a la Unión Europea incluyen todos los estados miembros actuales de la Unión Europea y el Espacio Económico Europeo."
+            },
+            "TITLE": "Definiciones y referencias legales",
+            "PERSONAL_DATA": {
+                "TITLE": "Datos Personales (o Datos)",
+                "FIRST_PARAGRAPH": "Cualquier información que directa, indirectamente o en conexión con otra información, incluido un número de identificación personal, permita la identificación o identificabilidad de una persona física."
+            },
+            "USAGE_DATA": {
+                "TITLE": "Datos de Uso",
+                "FIRST_PARAGRAPH": "Información recopilada automáticamente a través de este sitio web (o servicios de terceros empleados en este sitio web), que puede incluir: las direcciones IP o nombres de dominio de las computadoras utilizadas por los Usuarios que utilizan este sitio web, las direcciones URI (Identificador uniforme de recursos), el hora de la solicitud, el método utilizado para enviar la solicitud al servidor, el tamaño del archivo recibido en respuesta, el código numérico que indica el estado de la respuesta del servidor (resultado exitoso, error, etc.), el país de origen, las características del navegador y del sistema operativo utilizado por el Usuario, los distintos detalles de tiempo por visita (por ejemplo, el tiempo transcurrido en cada página dentro de la Aplicación) y los detalles sobre la ruta seguida dentro de la Aplicación con especial referencia a la secuencia de páginas visitadas y otros parámetros sobre el sistema operativo del dispositivo y/o el entorno informático del Usuario."
+            },
+            "USER": {
+                "TITLE": "Usuario",
+                "FIRST_PARAGRAPH": "La persona física que utiliza este Sitio Web y que, salvo que se especifique lo contrario, coincide con el Titular de los datos."
+            },
+            "DATA_SUBJECT": {
+                "TITLE": "Titular de los Datos",
+                "FIRST_PARAGRAPH": "La persona natural a quien se refieren los Datos Personales."
+            },
+            "DATA_PROCESSOR": {
+                "TITLE": "Procesador de Datos (o Supervisor de Datos)",
+                "FIRST_PARAGRAPH": "La persona física o jurídica, autoridad pública, agencia u otro organismo que trate Datos Personales por cuenta del Responsable, tal y como se describe en esta política de cookies."
+            },
+            "DATA_CONTROLLER": {
+                "TITLE": "Controlador de Datos (o Propietario)",
+                "FIRST_PARAGRAPH": "La persona física o jurídica, autoridad pública, agencia u otro organismo que, solo o junto con otros, determina los fines y medios del procesamiento de Datos Personales, incluidas las medidas de seguridad relativas al funcionamiento y uso de este Sitio Web. El Responsable del Tratamiento, salvo que se especifique lo contrario, es el Titular de este Sitio Web."
+            },
+            "THIS_WEBSITE": {
+                "TITLE": "Este Sitio Web (o esta Aplicación)",
+                "FIRST_PARAGRAPH": "El medio por el cual se recopilan y procesan los Datos Personales del Usuario."
+            },
+            "SERVICE": {
+                "TITLE": "Servicio",
+                "FIRST_PARAGRAPH": "El servicio proporcionado por este Sitio Web como se describe en los términos relativos (si están disponibles) y en este sitio/aplicación."
+            },
+            "COOKIES": {
+                "TITLE": "Cookies",
+                "FIRST_PARAGRAPH": "Las Cookies son Rastreadores que consisten en pequeños conjuntos de datos almacenados en el navegador del Usuario."
+            },
+            "TRACKER": {
+                "TITLE": "Rastreador",
+                "FIRST_PARAGRAPH": "Rastreador indica cualquier tecnología (por ejemplo, Cookies, identificadores únicos, balizas web, scripts integrados, etiquetas electrónicas y huellas dactilares) que permite el seguimiento de los Usuarios, por ejemplo accediendo o almacenando información en el dispositivo del Usuario."
+            },
+            "LEGAL_INFORMATION": {
+                "TITLE": "Información legal",
+                "FIRST_PARAGRAPH": "Esta política de cookies se refiere únicamente a este sitio web, salvo que se indique lo contrario en este documento."
+            }
+        },
+        "OWNER_AND_DATA_CONTROLLER": {
+            "TITLE": "Titular y Responsable del Tratamiento",
+            "FIRST_PARAGRAPH": "Correo electrónico para comunicaciones en materia de Protección de Datos: <strong><a href=\"mailto:{{email}}\">{{email}}</a></strong>",
+            "SECOND_PARAGRAPH": "Dado que el Propietario no puede controlar completamente el uso de Rastreadores de terceros a través de este Sitio web, cualquier referencia específica a Rastreadores de terceros debe considerarse indicativa. Para obtener información completa, se ruega a los Usuarios que consulten las políticas de privacidad de los respectivos servicios de terceros enumerados en este documento.",
+            "THIRD_PARAGRAPH": "Dada la complejidad objetiva que rodea a las tecnologías de seguimiento, se anima a los Usuarios a ponerse en contacto con el Propietario si desean recibir más información sobre el uso de dichas tecnologías por parte de este Sitio Web."
+        },
+        "TITLE": "Política de Cookies",
+        "DESCRIPTION": "Esta página le informa sobre nuestras políticas con respecto a la recopilación, el uso y la divulgación de información personal que recibimos de los usuarios del sitio web.",
+        "EFFECTIVE": "Efectivo",
+        "LAST_UPDATED": "Última Actualización",
+        "DATE": "{{day}}/{{month}}/{{year}}"
+    },
+    "TERMS_OF_SALES": {
+        "ORDER_SUBMISSION": {
+            "FIRST_PARAGRAPH": "Cuando completas el proceso de compra, estás haciendo una oferta para comprar el producto de Filo. Se acepta su oferta y se forma un contrato entre Filo y usted cuando Filo le envía una notificación confirmando que su pedido ha sido aceptado y el producto ha sido entregado.",
+            "TITLE": "Envío de Pedidos",
+            "SECOND_PARAGRAPH": "Filo se reserva el derecho de rechazar cualquier oferta de compra suya en cualquier momento y por cualquier motivo."
+        },
+        "TITLE": "Condiciones de Venta",
+        "DESCRIPTION": "Nuestro compromiso es garantizar claridad y equidad a lo largo de su viaje con Filo.",
+        "EFFECTIVE": "Efectivo",
+        "LAST_UPDATED": "Última Actualización",
+        "DATE": "{{day}}/{{month}}/{{year}}",
+        "INTRODUCTION": {
+            "TITLE": "Introducción",
+            "FIRST_PARAGRAPH": "Estos Términos de Ventas (\"Términos\") rigen su acceso y uso de Filo, incluido cualquier contenido, funcionalidad y servicios ofrecidos en Filo o a través de él (los \"Servicios\").",
+            "SECOND_PARAGRAPH": "Recuerda que Filo es de uso gratuito, pero también ofrecemos un plan de suscripción premium que desbloquea funciones adicionales. Al utilizar Filo, usted acepta y está de acuerdo con estar sujeto y cumplir con estos Términos y nuestra <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Privacidad</a></strong>, incorporada aquí como referencia."
+        },
+        "PAID_PRODUCTS": {
+            "TITLE": "Productos de Pago",
+            "FIRST_PARAGRAPH": "Algunos de los Productos proporcionados en Filo, como parte del Servicio, se proporcionan mediante pago.",
+            "SECOND_PARAGRAPH": "Al comprar una suscripción, aceptas pagar a Filo las tarifas de suscripción mensual o anual indicadas para ese servicio. Los pagos se cobrarán mediante prepago el día en que se registre para obtener una suscripción y cubrirán el uso de ese servicio durante un período de suscripción mensual o anual, según se indique. Las tarifas de suscripción se pueden reembolsar; puede encontrar más información sobre los reembolsos en la sección <strong><a href=\"{{url}}\">Política de Reembolso</a></strong>.",
+            "THIRD_PARAGRAPH": "A menos que notifique a Filo antes del final del período de suscripción aplicable que desea cancelar una suscripción, su suscripción se renovará automáticamente y usted nos autoriza a cobrar la tarifa de suscripción anual o mensual aplicable en ese momento para dicha suscripción (así como cualquier impuesto). utilizando cualquier tarjeta de crédito u otro mecanismo de pago que tengamos registrado para usted. Las suscripciones se pueden cancelar en cualquier momento y usted seguirá teniendo acceso al servicio hasta el final del período de suscripción."
+        },
+        "PRODUCT_DESCRIPTIONS": {
+            "TITLE": "Descripciones de Productos",
+            "FIRST_PARAGRAPH": "Filo intenta ser lo más preciso posible. Sin embargo, Filo no garantiza que las descripciones de productos u otro contenido de cualquier Servicio de Filo sean precisos, completos, confiables, actuales o estén libres de errores. Si un producto ofrecido por Filo no es como se describe, su único recurso es cancelar su suscripción.",
+            "SECOND_PARAGRAPH": "Las descripciones de los productos están sujetas a cambios sin previo aviso, a exclusivo criterio de Filo.",
+            "THIRD_PARAGRAPH": "Filo se reserva el derecho, en cualquier momento, de modificar, suspender o discontinuar la venta de cualquier producto con o sin previo aviso.",
+            "FOURTH_PARAGRAPH": "Filo no será responsable ante usted ni ante ningún tercero por cualquier modificación, cambio de precio, suspensión o interrupción de la venta de cualquier producto."
+        },
+        "PURCHASE_OF_PRODUCTS": {
+            "TITLE": "Compra de Productos",
+            "FIRST_PARAGRAPH": "Al comprar un producto, usted acepta pagar a Filo las tarifas de suscripción únicas y/o mensuales o anuales indicadas (se pueden incluir condiciones de pago adicionales en otras comunicaciones). Los pagos de suscripción se cobrarán mediante prepago el día en que se registre para una Actualización y cubrirán el uso de ese servicio durante un período de suscripción mensual o anual, según se indique. Los pagos son reembolsables; puede encontrar más información sobre los reembolsos en la sección <strong><a href=\"{{url}}\">Política de Reembolso</a></strong>."
+        },
+        "PURCHASE_PROCESS": {
+            "TITLE": "Proceso de Compra",
+            "FIRST_PARAGRAPH": "El proceso de compra es el siguiente:",
+            "LIST": {
+                "FIRST_ELEMENT": "Los usuarios seleccionan el producto que desean adquirir.",
+                "SECOND_ELEMENT": "Los usuarios son redirigidos a la página de pago.",
+                "THIRD_ELEMENT": "Los usuarios completan el proceso de pago.",
+                "FOURTH_ELEMENT": "Los usuarios reciben el producto."
+            }
+        },
+        "PRICES": {
+            "TITLE": "Precios",
+            "FIRST_PARAGRAPH": "Los usuarios son responsables de pagar todas las tarifas e impuestos aplicables asociados con la compra del producto. Incluyendo pero no limitado a:",
+            "LIST": {
+                "FIRST_ELEMENT": "Impuesto sobre el Valor Añadido (IVA).",
+                "SECOND_ELEMENT": "Cargos por envío.",
+                "THIRD_ELEMENT": "Tasas de aduana.",
+                "FOURTH_ELEMENT": "Tasas de importación.",
+                "FIFTH_ELEMENT": "Otros impuestos."
+            }
+        },
+        "PAYMENT_METHODS": {
+            "TITLE": "Métodos de Pago",
+            "FIRST_PARAGRAPH": "Filo acepta los siguientes métodos de pago:",
+            "LIST": {
+                "FIRST_ELEMENT": "Tarjeta de Crédito.",
+                "SECOND_ELEMENT": "Tarjeta de Débito.",
+                "THIRD_ELEMENT": "PayPal.",
+                "FOURTH_ELEMENT": "Otros Métodos de Pago."
+            },
+            "SECOND_PARAGRAPH": "Los métodos de pago disponibles para usted pueden cambiar según su país o región.",
+            "THIRD_PARAGRAPH": "Al enviar un pedido, usted declara y garantiza que está autorizado a utilizar el método de pago designado y nos autoriza a nosotros, o a nuestro procesador de pagos externo, a cobrar su pedido (incluidos impuestos, tarifas de envío, tarifas aduaneras, tarifas de importación y otros tarifas aplicables) a ese método de pago. Si el método de pago no se puede verificar, no es válido o no es aceptable, su pedido puede suspenderse o cancelarse.",
+            "FOURTH_PARAGRAPH": "Debe resolver cualquier problema que encontremos para poder continuar con su pedido.",
+            "FIFTH_PARAGRAPH": "Todos los pagos son procesados por procesadores de pagos de terceros. Al enviar un pedido, usted acepta estar sujeto a los términos de servicio y la política de privacidad del procesador de pagos externo."
+        },
+        "RETENTION_OF_PRODUCT_OWNERSHIP": {
+            "TITLE": "Retención de Propiedad del Producto",
+            "FIRST_PARAGRAPH": "Los productos comprados en Filo son propiedad de Filo hasta que el producto se entregue al usuario.",
+            "SECOND_PARAGRAPH": "Una vez que el producto se entrega al usuario, el usuario se convierte en propietario del producto."
+        },
+        "RETENTION_OF_USAGE_RIGHTS": {
+            "TITLE": "Retención de Derechos de Uso",
+            "FIRST_PARAGRAPH": "Los usuarios no adquieren ningún derecho a utilizar el Producto adquirido hasta que el Propietario reciba el precio total de compra."
+        },
+        "DELIVERY": {
+            "TITLE": "Entrega",
+            "DELIVERY_OF_DIGITAL_PRODUCTS": {
+                "TITLE": "Entrega de Productos Digitales",
+                "FIRST_PARAGRAPH": "A menos que se especifique lo contrario, todos los productos se entregan digitalmente. Los productos digitales se entregan a la dirección de correo electrónico asociada con su cuenta del Servicio.",
+                "SECOND_PARAGRAPH": "La entrega de productos digitales está sujeta a la disponibilidad del producto. Filo se reserva el derecho de cambiar la disponibilidad de cualquier producto en cualquier momento, sin previo aviso."
+            },
+            "PERFORMED_SERVICES": {
+                "TITLE": "Servicios Realizados",
+                "FIRST_PARAGRAPH": "A menos que se especifique lo contrario, todos los servicios se realizan de forma remota. Los servicios se prestan en la hora y fecha acordadas entre el usuario y Filo."
+            }
+        },
+        "CONTRACT_DURATION": {
+            "TITLE": "Duración del Contrato",
+            "SUBSCRIPTIONS": {
+                "TITLE": "Suscripciones",
+                "FIRST_PARAGRAPH": "Las suscripciones son válidas por el período de tiempo indicado en el momento de la compra. Los detalles sobre el tipo de suscripción y terminación se proporcionan a continuación."
+            },
+            "ONE_TIME_PURCHASES": {
+                "TITLE": "Compras Únicas",
+                "FIRST_PARAGRAPH": "Las compras únicas son válidas por el período de tiempo indicado en el momento de la compra. Los detalles sobre el tipo de suscripción y terminación se proporcionan a continuación."
+            },
+            "AUTOMATIC_RENEWAL": {
+                "TITLE": "Renovación Automática",
+                "FIRST_PARAGRAPH": "Las suscripciones se renuevan automáticamente por el mismo período de tiempo que el plazo de suscripción original. La tarifa de renovación será la misma que la tarifa del período anterior, a menos que Filo le notifique al menos 30 días antes del final del período de suscripción. La tasa de renovación se cargará automáticamente al método de pago que tenga registrado en Filo."
+            },
+            "TERMINATION": {
+                "TITLE": "Terminación",
+                "FIRST_PARAGRAPH": "Las suscripciones pueden cancelarse en cualquier momento y usted seguirá teniendo acceso al servicio hasta el final del período de suscripción."
+            }
+        },
+        "REFUND_POLICY": {
+            "TITLE": "Politica de Reembolso",
+            "FIRST_PARAGRAPH": "Las suscripciones se pueden reembolsar dentro de los 5 días posteriores a la fecha de compra. Tenga en cuenta que los reembolsos no están garantizados y están sujetos al exclusivo criterio de Filo.",
+            "SECOND_PARAGRAPH": "Filo se reserva el derecho de rechazar una solicitud de reembolso si descubrimos que la solicitud es fraudulenta o si descubrimos que el usuario está abusando de la política de reembolso.",
+            "THIRD_PARAGRAPH": "Los reembolsos son Una Oferta Única. Si solicita un reembolso por una suscripción, no podrá volver a solicitar un reembolso por la misma suscripción."
+        }
+    },
+    "ERROR": {
+        "508": {
+            "DESCRIPTION": "Bucle Detectado"
+        },
+        "510": {
+            "DESCRIPTION": "No Extendido"
+        },
+        "511": {
+            "DESCRIPTION": "Autenticación de Red Necesaria"
+        },
+        "599": {
+            "DESCRIPTION": "Error de Conexión a la Red"
+        },
+        "401": {
+            "DESCRIPTION": "Sin Autorización"
+        },
+        "402": {
+            "DESCRIPTION": "Pago Requerido"
+        },
+        "403": {
+            "DESCRIPTION": "Prohibido"
+        },
+        "404": {
+            "DESCRIPTION": "No Encontrado"
+        },
+        "405": {
+            "DESCRIPTION": "Método No Permitido"
+        },
+        "406": {
+            "DESCRIPTION": "No Aceptable"
+        },
+        "407": {
+            "DESCRIPTION": "Autenticación de Proxy Requerida"
+        },
+        "408": {
+            "DESCRIPTION": "Tiempo de Espera Superado"
+        },
+        "409": {
+            "DESCRIPTION": "Conflicto"
+        },
+        "410": {
+            "DESCRIPTION": "Desaparecido"
+        },
+        "411": {
+            "DESCRIPTION": "Longitud Requerida"
+        },
+        "412": {
+            "DESCRIPTION": "Error de Precondición"
+        },
+        "413": {
+            "DESCRIPTION": "Carga Útil Demasiado Grande"
+        },
+        "414": {
+            "DESCRIPTION": "Solicitud-URI Demasiado Larga"
+        },
+        "415": {
+            "DESCRIPTION": "Tipo de Medio no Soportado"
+        },
+        "416": {
+            "DESCRIPTION": "Rango Solicitado No Satisfactorio"
+        },
+        "417": {
+            "DESCRIPTION": "Expectativa Fallida"
+        },
+        "418": {
+            "DESCRIPTION": "Soy una Tetera"
+        },
+        "420": {
+            "DESCRIPTION": "Navegador no Compatible"
+        },
+        "421": {
+            "DESCRIPTION": "Solicitud Mal Dirigida"
+        },
+        "422": {
+            "DESCRIPTION": "Entidad no Procesable"
+        },
+        "423": {
+            "DESCRIPTION": "Bloqueado"
+        },
+        "424": {
+            "DESCRIPTION": "Error de Dependencia"
+        },
+        "425": {
+            "DESCRIPTION": "Demasiado Pronto"
+        },
+        "426": {
+            "DESCRIPTION": "Actualización Requerida"
+        },
+        "428": {
+            "DESCRIPTION": "Precondición Requerida"
+        },
+        "429": {
+            "DESCRIPTION": "Demasiadas Solicitudes"
+        },
+        "431": {
+            "DESCRIPTION": "Campos de Encabezado de Solicitud Demasiado Grandes"
+        },
+        "444": {
+            "DESCRIPTION": "Conexión Cerrada sin Respuesta"
+        },
+        "451": {
+            "DESCRIPTION": "No Disponible por Razones Legales"
+        },
+        "500": {
+            "DESCRIPTION": "Error Interno del Servidor"
+        },
+        "501": {
+            "DESCRIPTION": "No Implementado"
+        },
+        "502": {
+            "DESCRIPTION": "Puerta de Enlace Incorrecta"
+        },
+        "503": {
+            "DESCRIPTION": "Servicio no Disponible"
+        },
+        "504": {
+            "DESCRIPTION": "Tiempo de Espera de Puerta de Enlace Agotado"
+        },
+        "505": {
+            "DESCRIPTION": "Versión HTTP no Compatible"
+        },
+        "506": {
+            "DESCRIPTION": "Variantes También Negociables"
+        },
+        "507": {
+            "DESCRIPTION": "Almacenamiento Insuficiente"
+        },
+        "TITLE": "Error",
+        "200": {
+            "DESCRIPTION": "OK"
+        },
+        "400": {
+            "DESCRIPTION": "Solicitud Incorrecta"
+        }
+    },
+    "META": {
+        "DEFAULT": {
+            "DESCRIPTION": "Eleva tu comunidad de Discord con herramientas de moderación potentes y perfectas, disponible en múltiples idiomas.",
+            "ABSTRACT": "Potencia tu comunidad de Discord con soluciones de moderación versátiles y multilingües.",
+            "KEYWORDS": "filo bot, discord, bot de discord, bots de discord, bot de moderación, bot multilingüe, bot de anime, mejor bot de moderación de discord, mejores bots de moderación, bot de discord potente"
+        },
+        "FEATURES": {
+            "DESCRIPTION": "Explora la amplia gama de características del bot de Discord Filo - desde moderación potenciada hasta herramientas de participación para la comunidad, libera todo el potencia de la gestión de tu comunidad.",
+            "ABSTRACT": "Descubre el espectro completo de funciones que ofrece Filo, que te permite mejorar la gestión, moderación y la participación de tu comunidad de Discord.",
+            "KEYWORDS": "bot de discord, gestión de comunidad, herramientas de moderación, participación de la comunidad, soporte multilingüe, anti-spam, contador de miembros, mensajes de bienvenida, medidas de seguridad, opciones personalizaciones"
+        },
+        "COOKIES_POLICY": {
+            "DESCRIPTION": "Descubre cómo priorizamos su privacidad, gestionamos el seguimiento de datos y ofrecemos opciones para experiencias en línea personalizadas a través de políticas de cookies transparentes.",
+            "ABSTRACT": "Explora cómo utilizamos las cookies, respetamos las preferencias del usuario y priorizamos la protección de datos para una experiencia en línea personalizada.",
+            "KEYWORDS": "cookies, seguimiento de datos, configuración de privacidad, política de cookies, preferencias de usuario, análisis de sitios web, gestión de consentimiento, experiencia en línea, protección de datos, uso de cookies"
+        },
+        "TERMS_OF_SERVICE": {
+            "DESCRIPTION": "Aprende las políticas de uso aceptable, las reglas de gestión comunitaria y los requisitos de cumplimiento para garantizar una experiencia de Discord respetuosa y segura.",
+            "ABSTRACT": "Explora los detalles de uso aceptable, reglas de gestión comunitaria y requisitos de cumplimiento para un entorno en línea armonioso y seguro.",
+            "KEYWORDS": "términos de servicio, acuerdo de usuario, uso del bot de Discord, pautas de la comunidad, código de conducta, uso aceptable, términos legales, términos del acuerdo, reglas de administración de la comunidad, requisitos de cumplimiento"
+        },
+        "PRIVACY_POLICY": {
+            "DESCRIPTION": "Conoce nuestro compromiso con la transparencia, la gestión del consentimiento y las medidas estrictas para garantizar la seguridad de su información cumpliendo con los estándares de protección de datos.",
+            "ABSTRACT": "Descubre nuestras prácticas en materia de transparencia, gestión del consentimiento y estrictas medidas de seguridad, todas alineadas con los estándares de protección de datos para garantizar su privacidad en línea.",
+            "KEYWORDS": "política de privacidad, protección de datos, información del usuario, seguridad de la información, gestión del consentimiento, datos personales, transparencia, privacidad en línea, procesamiento de datos, medidas de cumplimiento"
+        },
+        "TERMS_OF_SALES": {
+            "DESCRIPTION": "Conoce nuestras políticas de facturación y reembolso, acuerdos de licencia y términos de renovación para tomar decisiones informadas sobre sus suscripciones.",
+            "ABSTRACT": "Descubre la información sobre facturación, políticas de reembolso, acuerdos de licencia y términos de renovación, lo que le permitirá tomar decisiones informadas sobre sus suscripciones.",
+            "KEYWORDS": "términos de venta, detalles de precios, políticas de pago, planes de suscripción, información de facturación, política de reembolso, acuerdos de licencia, funciones premium, términos de renovación, términos de transacción"
+        }
+    },
+    "BUTTON_LABELS": {
+        "FEATURES": "Características",
+        "INVITE": "Invitar",
+        "VIEW_MORE": "Ver más",
+        "GETTING_STARTED": "Empezando",
+        "DOCUMENTATION": "Documentación",
+        "DISCORD_SERVER": "Servidor de Discord",
+        "GO_HOME": "Volver al inicio"
+    },
+    "HERO": {
+        "TITLE": "Eleva tu comunidad de Discord",
+        "DESCRIPTION": "Desbloquea herramientas de moderación potentes y perfectas, disponibles en varios idiomas además de contener múltiples comandos y propósitos"
+    },
+    "FEATURED_COMMUNITIES": {
+        "TITLE": "Comunidades destacadas",
+        "DESCRIPTION": "Inspírate con nuestra selección: comunidades destacadas que confían y trabajan con Filo"
+    },
+    "FAQ": {
+        "TITLE": "Preguntas frecuentes",
+        "DESCRIPTION": "Explora nuestra sección de preguntas frecuentes para obtener soluciones rápidas a consultas comunes sobre Filo, las funciones del bot de Discord y mucho más",
+        "QUESTIONS": {
+            "FIRST": {
+                "QUESTION": "¿Qué es Filo y qué puede hacer por mi comunidad de Discord?",
+                "ANSWER": "Filo es una potente bot de Discord multipropósito diseñada para simplificar la moderación y administración de la comunidad"
+            },
+            "SECOND": {
+                "QUESTION": "¿Cómo invito a Filo a mi comunidad de Discord?",
+                "ANSWER": "¡Invitar a Filo es fácil! Simplemente haz clic en el enlace \"Invitar\" en la barra de navegación y sigue los pasos. Puedes personalizar la configuración para adaptarla a las necesidades de tu comunidad"
+            },
+            "THIRD": {
+                "QUESTION": "¿Cómo puedo obtener soporte o informar un problema sobre Filo?",
+                "ANSWER": "¡Estamos aquí para ayudar! Si tienes alguna pregunta, inquietud o necesitas ayuda, puedes unirte a nuestro servidor de soporte o contactar con nuestro equipo a través de los canales proporcionados. Estamos comprometidos a garantizar una experiencia fluida para nuestros usuarios"
+            },
+            "FOURTH": {
+                "QUESTION": "¿Filo tiene soporte multilingüe para comunidades que no hablan inglés?",
+                "ANSWER": "Sí, Filo ofrece soporte multilingüe, lo que lo hace accesible a una amplia gama de comunidades lingüísticas. Puedes configurar Filo para usar tu idioma preferido (debe estar disponible) para una experiencia más inclusiva"
+            },
+            "FIFTH": {
+                "QUESTION": "¿Puedo personalizar la configuración de moderación de Filo para adaptarla a las necesidades específicas de mi comunidad?",
+                "ANSWER": "¡Absolutamente! Filo te permite personalizar su configuración de moderación para alinearla con las reglas y requisitos de tu comunidad. Puede ajustar los filtros y la configuración para mantener un ambiente seguro y acogedor"
+            },
+            "SIXTH": {
+                "QUESTION": "¿Cuáles son algunas de las características clave que ofrece Filo para la gestión de comunidades?",
+                "ANSWER": "Filo ofrece una amplia gama de funciones, que incluyen moderación automática, soporte multilingüe, recuento de miembros, medidas antispam y más. Estas características mejoran la funcionalidad y la seguridad de la comunidad"
+            },
+            "SEVENTH": {
+                "QUESTION": "¿Cómo puede Filo ayudarme a mantener un ambiente seguro y agradable en mi comunidad?",
+                "ANSWER": "Las características de Filo incluyen herramientas para combatir el spam, proteger contra enlaces externos y administrar la seguridad de la comunidad, garantizando una experiencia de Discord positiva y segura para su comunidad"
+            },
+            "EIGHTH": {
+                "QUESTION": "¿Puedo integrar las funciones de Filo sin problemas en la configuración de mi comunidad existente o es un proceso complejo?",
+                "ANSWER": "Filo está diseñada para ser fácil de usar y de integrar en tu comunidad. El proceso de configuración es sencillo e intuitivo"
+            }
+        }
+    },
+    "REVIEWS": {
+        "TITLE": "Qué dicen nuestros usuarios",
+        "DESCRIPTION": "Descubre las experiencias de nuestros usuarios satisfechos. Lee sus reseñas y testimonios para ver cómo Filo ha transformado las comunidades de Discord en todo el mundo"
     }
-  },
-  "STATISTICS": {
-    "TITLE": "Estadísticas",
-    "SERVERS": "Servidores",
-    "USERS": "Usuarios"
-  },
-  "DONATE": {
-    "TITLE": "Donar a Filo",
-    "SUBTITLE": "¡Ayúdanos a mantener a Filo en línea haciendo una donación!",
-    "WARNING": "Todas las donaciones están sujetas a Términos y Condiciones.",
-    "PER_MONTH": "por mes",
-    "VAT_NOT_INCLUDED": "IVA no incluido",
-    "SUBSCRIBE": "Suscribirse",
-    "ROLE_REWARD": "Rol simbólico en nuestro servidor",
-    "FILO_SUPPORT": "Muestra tu apoyo a Filo",
-    "SOON_MORE": "Pronto™ más",
-    "PREVIOUS_PLAN_REWARD": "Todo lo del plan anterior",
-    "NICKNAME_REWARD": "Apodo personalizable en nuestro servidor",
-    "EMOJIS_REWARD": "Uso de emojis externos en nuestro servidor"
-  },
-  "REVIEW": {
-    "TITLE": "Déjanos una reseña",
-    "SUBTITLE": "¡Demuestra cuando amas a Filo y su servicio!"
-  },
-  "VOTE": {
-    "TITLE": "Vota por Filo",
-    "SUBTITLE": "¡Demuestra tu apoyo a Filo votando por ella!"
-  },
-  "FRIENDLY_WEBSITES": {
-    "TITLE": "Sitios web amigos",
-    "SUBTITLE": "¡Sitios web amigos que ayudan a Filo a crecer!"
-  },
-  "READY": {
-    "TITLE": "¿Preparado para dar el siguiente paso?",
-    "SUBTITLE": "¡Mejore la experiencia y profesionalice su servidor con Filo hoy mismo!",
-    "INVITE": "¡Hagámoslo!",
-    "GETTING_STARTED": "Empezando"
-  },
-  "CALCULATOR": {
-    "TITLE": "Calculadora de permisos de Filo",
-    "VIEW_CASES": "Ver casos",
-    "EDIT_CASES": "Editar casos",
-    "MANAGE_CASES": "Gestionar casos",
-    "ADMINISTRATOR": "Administrador",
-    "BAN_MEMBERS": "Prohibir miembros",
-    "TEMPBAN_MEMBERS": "Prohibir miembros temporalmente",
-    "SOFTBAN_MEMBERS": "Prohibir suavemente miembros",
-    "UNBAN_MEMBERS": "Desprohibir miembros",
-    "KICK_MEMBERS": "Expulsar miembros",
-    "MUTE_MEMBERS": "Silenciar miembros",
-    "TEMPMUTE_MEMBERS": "Silenciar miembros temporalmente",
-    "UNMUTE_MEMBERS": "Desilenciar miembros",
-    "WARN_MEMBERS": "Advertir miembros",
-    "UNWARN_MEMBERS": "Desadvertir miembros",
-    "PURGE_WARNS": "Purgar advertencias",
-    "ADD_ROLES": "Agregar roles",
-    "REMOVE_ROLES": "Eliminar roles",
-    "PURGE_MESSAGES": "Purgar mensajes",
-    "MANAGE_NICKNAMES": "Administrar apodos",
-    "MANAGE_CHANNELS": "Administrar canales",
-    "PIN_MESSAGES": "Fijar mensajes",
-    "UNPIN_MESSAGES": "Desfijar mensaje",
-    "VIEW_HISTORY": "Ver historial",
-    "EVADE_SANCTIONS": "Evadir sanciones",
-    "REPORT_MEMBERS": "Informar miembros",
-    "REPORT_MESSAGES": "Informar mensajes",
-    "BYPASS_REPORTS_COOLDOWN": "Evitar el enfriamiento de los informes",
-    "APPROVE_REPORTS": "Aprobar informes",
-    "DENY_REPORTS": "Denegar informes",
-    "MANAGE_REPORTS": "Gestionar informes",
-    "TIMEOUT_MEMBERS": "Aislar miembros",
-    "UNTIMEOUT_MEMBERS": "Desairlar miembros"
-  },
-  "THANKS": {
-    "TITLE": "¡Gracias por añadir a Filo!",
-    "SUBTITLE": "Estamos muy agradecidos de que hayas decidido confiar en Filo.",
-    "DISCORD_REDIRECT_INFO": "Serás redirigido a nuestro servidor de Discord."
-  },
-  "FOOTER": {
-    "HELPFUL_LINKS": "Enlaces Útiles",
-    "IMPORTANT_LINKS": "Enlaces Importantes",
-    "ABOUT_FILO": "Acerca de Filo"
-  },
-  "GENERAL": {
-    "BLOG": "Blog",
-    "DISCORD_SERVER": "Servidor de Discord",
-    "DONATE": "Donar",
-    "FEATURES": "Características",
-    "HOME": "Inicio",
-    "INVITE": "Invitar",
-    "MORE_INFO": "Más información",
-    "PRIVACY_POLICY": "Política de Privacidad",
-    "STATUS": "Estado",
-    "TERMS": "Términos",
-    "TERMS_AND_CONDITIONS": "Términos y Condiciones",
-    "VOTE": "Votar",
-    "WIKI": "Wiki"
-  },
-  "PAGE_TITLES": {
-    "A_DISCORD_BOT": "Un Bot de Discord",
-    "CALCULATOR": "Calculadora",
-    "STATISTICS": "Estadísticas",
-    "THANKS": "Gracias",
-    "LINK_SHORTENER": "Acortador de Enlaces"
-  },
-  "LINK_SHORTENER": {
-    "TITLE": "Redirigiendo",
-    "SUBTITLE": "En unos segundos serás redirigido al enlace original"
-  }
 }
