@@ -303,7 +303,7 @@
         "DATE": "{{day}}/{{month}}/{{year}}",
         "INTRODUCTION": {
             "TITLE": "Introducción",
-            "FIRST_PARAGRAPH": "Estos Términos de servicio (\"Términos\") son un acuerdo legal entre Filobot (\"Nosotros\", \"Nosotros\" o \"Nuestro\") y usted (\"Usted\", \"Su\", el \"Usuario\" o el \"Usuario final\"). \"). Al utilizar o interactuar con Filo (el \"Bot\") o el sitio web ubicado en <strong>{{url}}</strong> (el \"Sitio\") o cualquiera de sus alias, que se denominan colectivamente el \"Servicio\", usted acepta:",
+            "FIRST_PARAGRAPH": "Estos Términos de servicio (\"Términos\") son un acuerdo legal entre Filobot (\"Nosotros\", \"Nosotros\" o \"Nuestro\") y usted (\"Usted\", \"Su\", el \"Usuario\" o el \"Usuario final\"). Al utilizar o interactuar con Filo (el \"Bot\") o el sitio web ubicado en <strong>{{url}}</strong> (el \"Sitio\") o cualquiera de sus alias, que se denominan colectivamente el \"Servicio\", usted acepta:",
             "LIST": {
                 "FIRST_ELEMENT": "Que tienes 13 años o más.",
                 "SECOND_ELEMENT": "Si tiene la mayoría de edad en su jurisdicción o más, ha leído, comprendido y aceptado estar sujeto a los Términos.",
@@ -390,7 +390,7 @@
             "SECOND_PARAGRAPH": "Correo electrónico para comunicaciones en materia de Protección de Datos: <strong><a href=\"mailto:{{email}}\">{{email}}</a></strong>"
         },
         "TITLE": "Política de Privacidad",
-        "DESCRIPTION": "Tu privacidad nos importa. Nuestra página de Política de Privacidad describe cómo recopilamos, usamos y protegemos tus datos cuando interactúa con Filo.",
+        "DESCRIPTION": "Tu privacidad nos importa. Nuestra página de Política de Privacidad describe cómo recopilamos, usamos y protegemos tus datos cuando interactúa con Filo",
         "EFFECTIVE": "Efectivo",
         "TYPES_OF_DATA_COLLECTED": {
             "TITLE": "Tipos de Datos recopilados",
@@ -545,7 +545,7 @@
                     "SECOND_PARAGRAPH": "La forma en que se integra Cloudflare significa que filtra todo el tráfico a través de Filo, es decir, la comunicación entre Filo y el navegador del Usuario, al tiempo que permite recopilar datos analíticos de Filo.",
                     "PERSONAL_DATA_COLLECTED": "<strong>Datos personales recopilados</strong>: Cookies y diversos tipos de Datos según lo especificado en la política de privacidad del servicio."
                 },
-                "TITLE": "Optimización y distribución del tráfico.",
+                "TITLE": "Optimización y distribución del tráfico",
                 "FIRST_PARAGRAPH": "Este tipo de servicio permite a Filo distribuir su contenido utilizando servidores ubicados en diferentes países y optimizar su rendimiento.",
                 "SECOND_PARAGRAPH": "Los Datos Personales que se procesan dependen de las características y la forma en que se implementan estos servicios. Su función es filtrar las comunicaciones entre Filo y el navegador del Usuario.",
                 "THIRD_PARAGRAPH": "Considerando la amplia distribución de este sistema, resulta difícil determinar los lugares a los que se transfieren los contenidos que pueden contener Información Personal del Usuario."
@@ -773,7 +773,7 @@
         },
         "SEVENTH_PARAGRAPH": "Además de lo que se especifica en las descripciones dentro de cada una de las categorías siguientes, los Usuarios pueden encontrar información más precisa y actualizada sobre la especificación de vida útil, así como cualquier otra información relevante, como la presencia de otros Rastreadores, en las políticas de privacidad vinculadas de las respectivas categorías. terceros proveedores o contactando con el Titular.",
         "ACTIVITIES_STRICTLY_NECESSARY": {
-            "TITLE": "Actividades estrictamente necesarias para el funcionamiento de este sitio web y la prestación del Servicio.",
+            "TITLE": "Actividades estrictamente necesarias para el funcionamiento de este sitio web y la prestación del Servicio",
             "FIRST_PARAGRAPH": "Este Sitio web utiliza las denominadas Cookies \"técnicas\" y otros Rastreadores similares para llevar a cabo actividades que son estrictamente necesarias para el funcionamiento o la prestación del Servicio."
         },
         "THIRD_PARTY_TRACKER": {
