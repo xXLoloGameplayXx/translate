@@ -1098,6 +1098,16 @@
             "DESCRIPTION": "Learn about our billing and refund policies, license agreements, and renewal terms to make informed decisions about your subscriptions.",
             "ABSTRACT": "Uncover insights into billing, refund policies, license agreements, and renewal terms, empowering you to make informed decisions about your subscriptions.",
             "KEYWORDS": "sales terms, pricing details, payment policies, subscription plans, billing information, refund policy, license agreements, premium features, renewal terms, transaction terms"
+        },
+        "SERVICE_STATUS": {
+            "DESCRIPTION": "Stay informed about Filo's service status, maintenance schedules, and updates to ensure a seamless and uninterrupted Discord experience.",
+            "ABSTRACT": "Keep up to date with Filo's service status, maintenance schedules, and updates to ensure a smooth and uninterrupted Discord experience.",
+            "KEYWORDS": "service status, maintenance schedules, service updates, discord bot status, discord bot maintenance, discord bot updates, service interruptions, discord service status"
+        },
+        "BLOG": {
+            "DESCRIPTION": "Stay updated on the latest news, feature releases, and community highlights with Filo's blog, your go-to source for all things Discord.",
+            "ABSTRACT": "Stay informed about the latest news, feature releases, and community highlights with Filo's blog, your ultimate source for all things Discord.",
+            "KEYWORDS": "discord news, feature releases, community highlights, discord bot updates, blog posts, discord community, discord bot features, discord bot news, discord bot community"
         }
     },
     "BUTTON_LABELS": {
