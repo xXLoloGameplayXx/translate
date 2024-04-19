@@ -1173,14 +1173,14 @@
             "KEYWORDS": "términos de venta, detalles de precios, políticas de pago, planes de suscripción, información de facturación, política de reembolso, acuerdos de licencia, funciones premium, términos de renovación, términos de transacción"
         },
         "SERVICE_STATUS": {
-            "DESCRIPTION": "Stay informed about Filo's service status, maintenance schedules, and updates to ensure a seamless and uninterrupted Discord experience.",
-            "ABSTRACT": "Keep up to date with Filo's service status, maintenance schedules, and updates to ensure a smooth and uninterrupted Discord experience.",
-            "KEYWORDS": "service status, maintenance schedules, service updates, discord bot status, discord bot maintenance, discord bot updates, service interruptions, discord service status"
+            "DESCRIPTION": "Manténgase informado sobre el estado del servicio de Filo, los calendarios de mantenimiento y las actualizaciones para garantizar una experiencia en Discord fluida y sin interrupciones.",
+            "ABSTRACT": "Manténgase al día sobre el estado del servicio de Filo, los programas de mantenimiento y las actualizaciones para garantizar una experiencia en Discord fluida y sin interrupciones.",
+            "KEYWORDS": "estado del servicio, calendario de mantenimientos, actualizaciones del servicio, estado del bot de discord, mantenimiento del bot de discord, actualizaciones del bot de discord, interrupciones del servicio, estado del servicio de discord"
         },
         "BLOG": {
-            "DESCRIPTION": "Stay updated on the latest news, feature releases, and community highlights with Filo's blog, your go-to source for all things Discord.",
-            "ABSTRACT": "Stay informed about the latest news, feature releases, and community highlights with Filo's blog, your ultimate source for all things Discord.",
-            "KEYWORDS": "discord news, feature releases, community highlights, discord bot updates, blog posts, discord community, discord bot features, discord bot news, discord bot community"
+            "DESCRIPTION": "Mantente al día de las últimas noticias, novedades y lo más destacado de la comunidad con el blog de Filo, tu fuente de referencia para todo lo relacionado con Discord.",
+            "ABSTRACT": "Mantente informado sobre las últimas noticias, novedades y lo más destacado de la comunidad con el blog de Filo, tu fuente definitiva para todo lo relacionado con Discord.",
+            "KEYWORDS": "noticias de discord, novedades, noticias de la comunidad, actualizaciones del bot de discord, entradas del blog, comunidad de discord, funciones del bot de discord, noticias del bot de discord, comunidad del bot de discord"
         }
     },
     "BUTTON_LABELS": {
