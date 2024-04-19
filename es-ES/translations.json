@@ -1171,6 +1171,16 @@
             "DESCRIPTION": "Conoce nuestras políticas de facturación y reembolso, acuerdos de licencia y términos de renovación para tomar decisiones informadas sobre sus suscripciones.",
             "ABSTRACT": "Descubre la información sobre facturación, políticas de reembolso, acuerdos de licencia y términos de renovación, lo que le permitirá tomar decisiones informadas sobre sus suscripciones.",
             "KEYWORDS": "términos de venta, detalles de precios, políticas de pago, planes de suscripción, información de facturación, política de reembolso, acuerdos de licencia, funciones premium, términos de renovación, términos de transacción"
+        },
+        "SERVICE_STATUS": {
+            "DESCRIPTION": "Stay informed about Filo's service status, maintenance schedules, and updates to ensure a seamless and uninterrupted Discord experience.",
+            "ABSTRACT": "Keep up to date with Filo's service status, maintenance schedules, and updates to ensure a smooth and uninterrupted Discord experience.",
+            "KEYWORDS": "service status, maintenance schedules, service updates, discord bot status, discord bot maintenance, discord bot updates, service interruptions, discord service status"
+        },
+        "BLOG": {
+            "DESCRIPTION": "Stay updated on the latest news, feature releases, and community highlights with Filo's blog, your go-to source for all things Discord.",
+            "ABSTRACT": "Stay informed about the latest news, feature releases, and community highlights with Filo's blog, your ultimate source for all things Discord.",
+            "KEYWORDS": "discord news, feature releases, community highlights, discord bot updates, blog posts, discord community, discord bot features, discord bot news, discord bot community"
         }
     },
     "BUTTON_LABELS": {
