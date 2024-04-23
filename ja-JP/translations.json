@@ -580,8 +580,8 @@
             "KEYWORDS": "filo ボット, discord, discord ボット, モデレーションボット, 多言語ボット, アニメボット, 最高のモデレーションボット discord, モデレーションのための最高の discord ボット, 強力なdiscord ボット"
         },
         "FEATURES": {
-            "DESCRIPTION": "強化されたモデレーションからコミュニティ参加ツールまで、コミュニティ管理の可能性を最大限に引き出します。",
-            "ABSTRACT": "Discordコミュニティの管理、モデレーション、コミュニティ参加を向上させるFiloのあらゆる機能をご覧ください。",
+            "DESCRIPTION": "強化されたモデレーションからコミュニティ参加ツールに至るまで、Filo の豊富な Discord ボット機能を探索し、コミュニティ管理の可能性を最大限に引き出します。",
+            "ABSTRACT": "Filo が提供するあらゆる機能を発見し、Discord コミュニティの管理、モデレーション、コミュニティへの参加を向上させることができます。",
             "KEYWORDS": "discord bot, コミュニティ管理, モデレーションツール, コミュニティ参加, 多言語サポート, アンチスパム, メンバーカウント, 歓迎メッセージ, セキュリティ対策, カスタマイズオプション"
         },
         "COOKIES_POLICY": {
@@ -605,14 +605,14 @@
             "KEYWORDS": "販売条件, 価格詳細, 支払い方針, サブスクリプションプラン, 請求情報, 返金方針, ライセンス契約, プレミアム機能, 更新条件, 取引条件"
         },
         "SERVICE_STATUS": {
-            "DESCRIPTION": "Stay informed about Filo's service status, maintenance schedules, and updates to ensure a seamless and uninterrupted Discord experience.",
-            "ABSTRACT": "Keep up to date with Filo's service status, maintenance schedules, and updates to ensure a smooth and uninterrupted Discord experience.",
-            "KEYWORDS": "service status, maintenance schedules, service updates, discord bot status, discord bot maintenance, discord bot updates, service interruptions, discord service status"
+            "DESCRIPTION": "シームレスで中断のない Discord エクスペリエンスを確保するために、Filo のサービス ステータス、メンテナンス スケジュール、アップデートに関する最新情報を入手してください。",
+            "ABSTRACT": "Filo のサービス ステータス、メンテナンス スケジュール、アップデートを常に最新の状態に保ち、スムーズで中断のない Discord エクスペリエンスを確保します。",
+            "KEYWORDS": "サービスステータス, メンテナンススケジュール, サービスアップデート, Discord ボットステータス, Discord ボットメンテナンス, Discord ボットアップデート, サービス中断, Discord サービスステータス"
         },
         "BLOG": {
-            "DESCRIPTION": "Stay updated on the latest news, feature releases, and community highlights with Filo's blog, your go-to source for all things Discord.",
-            "ABSTRACT": "Stay informed about the latest news, feature releases, and community highlights with Filo's blog, your ultimate source for all things Discord.",
-            "KEYWORDS": "discord news, feature releases, community highlights, discord bot updates, blog posts, discord community, discord bot features, discord bot news, discord bot community"
+            "DESCRIPTION": "Discord に関するすべての情報源である Filo のブログで、最新ニュース、機能リリース、コミュニティ ハイライトの最新情報を入手してください。",
+            "ABSTRACT": "Discord に関するすべての究極の情報源である Filo のブログで、最新ニュース、機能リリース、コミュニティのハイライトに関する最新情報を入手してください。",
+            "KEYWORDS": "Discord ニュース, 機能リリース, コミュニティ ハイライト, Discord ボット更新, ブログ投稿, Discord コミュニティ, Discord ボット機能, Discord ボット ニュース, Discord ボット コミュニティ"
         }
     },
     "FEATURED_COMMUNITIES": {
@@ -625,123 +625,123 @@
     },
     "PRIVACY_POLICY": {
         "TITLE": "プライバシーポリシー",
-        "DESCRIPTION": "Your privacy matters to us. Our Privacy Policy page outlines how we collect, use, and protect your data when you interact with Filo",
-        "EFFECTIVE": "Effective",
-        "LAST_UPDATED": "Last Updated",
+        "DESCRIPTION": "お客様のプライバシーは当社にとって重要です。当社のプライバシーポリシーのページでは、お客様がフィロとやり取りする際に当社がどのようにお客様のデータを収集、使用、保護するかについて概説しています。",
+        "EFFECTIVE": "効果的",
+        "LAST_UPDATED": "最終更新日",
         "DATE": "{{month}}/{{day}}/{{year}}",
         "BEFORE": {
-            "FIRST_PARAGRAPH": "Filobot <em>(hereinafter \"Filo\")</em> collects some Personal Data from its Users.",
-            "SECOND_PARAGRAPH": "Email for communications regarding Data Protection: <strong><a href=\"mailto:{{email}}\">{{email}}</a></strong>"
+            "FIRST_PARAGRAPH": "Filobot <em>（以下「Filo」）</em> は、ユーザーからいくつかの個人データを収集します。",
+            "SECOND_PARAGRAPH": "データ保護に関する連絡用Eメール： <strong><a href=\"mailto:{{email}}\">{{email}}</a></strong>"
         },
         "TYPES_OF_DATA_COLLECTED": {
-            "TITLE": "Types of Data collected",
-            "FIRST_PARAGRAPH": "Among the types of Personal Data that Filo collects, by itself or through third parties, there are: Tracker; Usage Data; Username; Server.",
-            "SECOND_PARAGRAPH": "Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.",
-            "THIRD_PARAGRAPH": "Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using Filo.",
-            "FOURTH_PARAGRAPH": "Unless specified otherwise, all Data requested by Filo is mandatory and failure to provide this Data may make it impossible for Filo to provide its services. In cases where Filo specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service.",
-            "FIFTH_PARAGRAPH": "Users who are uncertain about which Personal Data is mandatory are welcome to contact the Owner.<br>Any use of Cookies – or of other tracking tools — by Filo or by the owners of third-party services used by Filo serves the purpose of providing the Service required by the User, in addition to any other purposes described in the present document and in the <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Cookies Policy</a></strong>.",
-            "SIXTH_PARAGRAPH": "Users are responsible for any third-party Personal Data obtained, published or shared through Filo."
+            "TITLE": "収集したデータの種類",
+            "FIRST_PARAGRAPH": "フィロが自らまたは第三者を通じて収集する個人データの種類には、以下のものがあります：トラッカー、使用データ、ユーザー名、サーバー。",
+            "SECOND_PARAGRAPH": "収集される個人データの各タイプに関する完全な詳細は、本プライバシーポリシーの専用セクション、またはデータ収集の前に表示される特定の説明テキストで提供されます。",
+            "THIRD_PARAGRAPH": "個人データは、ユーザーによって自由に提供されるか、または使用データの場合は、Filo の使用時に自動的に収集されます。",
+            "FOURTH_PARAGRAPH": "別段の定めがない限り、フィロが要求するすべてのデータは必須であり、このデータを提供しない場合、フィロがサービスを提供できなくなる可能性があります。フィロが一部のデータが必須ではないことを明示している場合、利用者は、サービスの可用性または機能に影響を及ぼすことなく、このデータを伝達しない自由があります。",
+            "FIFTH_PARAGRAPH": "どの個人データが必須であるかわからないユーザーは、所有者に問い合わせることを歓迎します。<br>Filo または Filo が使用するサードパーティ サービスの所有者による Cookie またはその他の追跡ツールの使用は、次の目的を果たします。 本文書および本書に記載されているその他の目的に加えて、ユーザーが必要とするサービス <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">クッキーポリシー</a></strong>.",
+            "SIXTH_PARAGRAPH": "ユーザーは、フィロを通じて取得、公開、または共有される第三者の個人データについて責任を負うものとします。"
         },
         "MODE_AND_PLACE_OF_PROCESSING_THE_DATA": {
-            "TITLE": "Mode and place of processing the Data",
+            "TITLE": "データ処理の方法および場所",
             "METHODS_OF_PROCESSING": {
-                "TITLE": "Methods of processing",
-                "FIRST_PARAGRAPH": "The Owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.",
-                "SECOND_PARAGRAPH": "The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of Filo (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Owner at any time."
+                "TITLE": "加工方法",
+                "FIRST_PARAGRAPH": "所有者は、データへの不正アクセス、開示、変更、または不正破棄を防止するために、適切なセキュリティ対策を講じるものとします。",
+                "SECOND_PARAGRAPH": "データ処理は、コンピュータおよび/またはITツールを使用して、指示された目的に厳密に関連する組織的手順および様式に従って行われます。場合によっては、管理者に加えて、フィロの運営に関与する特定の種類の担当者（管理、営業、マーケティング、法務、システム管理）または管理者がデータ処理者として任命した外部の関係者（第三者の技術サービスプロバイダー、メールキャリア、ホスティングプロバイダー、IT企業、通信代理店など）がデータにアクセスできることがあります。これらの関係者の最新のリストは、いつでも管理者に請求することができます。"
             },
             "LEGAL_BASIS_OF_PROCESSING": {
-                "TITLE": "Legal basis of processing",
-                "FIRST_PARAGRAPH": "The Owner may process Personal Data relating to Users if one of the following applies:",
+                "TITLE": "処理の法的根拠",
+                "FIRST_PARAGRAPH": "管理者は、以下のいずれかに該当する場合、利用者に関する個人データを処理することができるものとします：",
                 "LIST": {
                     "FIRST_ELEMENT": {
-                        "FIRST_PARAGRAPH": "When the Users have given their consent for one or more specific purposes. Notice: Under various different legislations, the Holder may be authorized to process Personal Data until the User objects to it (\"non-participation option\"), without the need for consent or any other legal basis. However, this will not be applicable when the processing of Personal Data is subject to European regulations on the protection of Personal Data."
+                        "FIRST_PARAGRAPH": "利用者が1つまたは複数の特定の目的について同意した場合。通知さまざまな法律により、保有者は、利用者が異議を申し立てるまで（「不参加オプション」）、同意またはその他の法的根拠を必要とせずに、個人データを処理する権限を付与される場合があります。ただし、個人データの処理が個人データの保護に関する欧州規則の対象となる場合は、この限りではありません。"
                     },
                     "SECOND_ELEMENT": {
-                        "FIRST_PARAGRAPH": "When obtaining Data is necessary for the fulfillment of a contract between the User and/or any other pre-contractual obligation thereof."
+                        "FIRST_PARAGRAPH": "ユーザーとの契約および/またはその他の契約前の義務の履行のためにデータを取得する必要がある場合。"
                     },
                     "THIRD_ELEMENT": {
-                        "FIRST_PARAGRAPH": "When the treatment is necessary for the fulfillment of a legal obligation of obligatory fulfillment on the part of the User."
+                        "FIRST_PARAGRAPH": "利用者側に義務付けられた法的義務の履行のために必要な場合。"
                     },
                     "FOURTH_ELEMENT": {
-                        "FIRST_PARAGRAPH": "When the treatment is related to a task carried out in the public interest or in the exercise of official powers granted to the Holder."
+                        "FIRST_PARAGRAPH": "公益のために実施される業務または保有者に付与された公的権限の行使に関連する場合。"
                     },
                     "FIFTH_ELEMENT": {
-                        "FIRST_PARAGRAPH": "When the treatment is necessary for the purpose of a legitimate interest pursued by the Owner or a third party."
+                        "FIRST_PARAGRAPH": "管理者または第三者が追求する正当な利益のために必要な場合。"
                     }
                 },
-                "SECOND_PARAGRAPH": "In any case, the Owner is at your disposal to define the specific legal bases that apply to the treatment and in particular, if the obtaining of Personal Data is a contractual or statutory requirement or a necessary requirement to formalize a contract."
+                "SECOND_PARAGRAPH": "いずれの場合においても、個人情報の取得が契約上または法令上の要件である場合、または契約を正式に締結するために必要な要件である場合、個人情報の取り扱いに適用される特定の法的根拠を定めることは、管理者の自由裁量に委ねられます。"
             },
             "PLACE": {
-                "TITLE": "Place",
-                "FIRST_PARAGRAPH": "The Data is processed at the Owner's operating offices and in any other places where the parties involved with the processing are located. For further information, please contact the Owner."
+                "TITLE": "場所",
+                "FIRST_PARAGRAPH": "本データは、所有者の事業所および本データ処理に関与する関係者が所在するその他の場所で処理されます。詳細については、オーナーにお問い合わせください。"
             },
             "RETENTION_TIME": {
-                "TITLE": "Retention time",
-                "FIRST_PARAGRAPH": "The Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request that the Owner suspend or remove the data."
+                "TITLE": "保持時間",
+                "FIRST_PARAGRAPH": "データは、利用者が要求したサービスを提供するために必要な期間、または本書に記載された目的のために保管され、利用者はいつでもデータの一時停止または削除を所有者に要求することができます。"
             }
         },
         "DEFINITIONS_AND_LEGAL_REFERENCES": {
             "EUROPEAN_UNION": {
-                "TITLE": "European Union (or EU)",
-                "FIRST_PARAGRAPH": "Unless otherwise specified, all references made within this document to the European Union include all current member states to the European Union and the European Economic Area."
+                "TITLE": "欧州連合（EU）",
+                "FIRST_PARAGRAPH": "別段の定めがない限り、本文書において欧州連合（EU）に言及する場合はすべて、欧州連合（EU）および欧州経済地域（EEA）の現加盟国を含むものとする。"
             },
             "FILO": {
-                "FIRST_PARAGRAPH": "The means by which the Personal Data of the User is collected and processed.",
-                "TITLE": "Filo (or this Application)"
+                "FIRST_PARAGRAPH": "ユーザーの個人データが収集され、処理される手段。",
+                "TITLE": "Filo（または本アプリ）"
             },
             "SERVICE": {
-                "TITLE": "Service",
-                "FIRST_PARAGRAPH": "The service provided by Filo as described in the relative terms (if available) and on this site/application."
+                "TITLE": "サービス",
+                "FIRST_PARAGRAPH": "相対条件 (利用可能な場合) およびこのサイト/アプリケーションで説明されているように、Filo によって提供されるサービス。"
             },
-            "TITLE": "Definitions and legal references",
+            "TITLE": "定義と参考文献",
             "PERSONAL_DATA": {
-                "TITLE": "Personal Data (or Data)",
-                "FIRST_PARAGRAPH": "Any information that directly, indirectly, or in connection with other information — including a personal identification number — allows for the identification or identifiability of a natural person."
+                "TITLE": "個人データ (またはデータ)",
+                "FIRST_PARAGRAPH": "直接、間接的に、または他の情報（個人識別番号を含む）と関連して、自然人の識別または特定を可能にするすべての情報。"
             },
             "USAGE_DATA": {
-                "TITLE": "Usage Data",
-                "FIRST_PARAGRAPH": "Information collected automatically through Filo (or third-party services employed in Filo), which can include: the IP addresses or domain names of the computers utilized by the Users who use Filo, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment."
+                "TITLE": "使用データ",
+                "FIRST_PARAGRAPH": "Filo (または Filo で使用されるサードパーティ サービス) を通じて自動的に収集される情報。これには、Filo を使用するユーザーが使用するコンピュータの IP アドレスまたはドメイン名、URI アドレス (Uniform Resource Identifier)、アクセス時刻などが含まれます。 リクエスト、サーバーにリクエストを送信するために使用されたメソッド、応答として受信したファイルのサイズ、サーバーの応答ステータス (成功、エラーなど) を示す数値コード、生成国、機能 ユーザーが使用したブラウザとオペレーティング システム、訪問ごとのさまざまな時間の詳細 (アプリケーション内の各ページに費やした時間など)、および訪問したページの順序を特に参照したアプリケーション内でたどったパスに関する詳細、 およびデバイスのオペレーティング システムおよび/またはユーザーの IT 環境に関するその他のパラメーター。"
             },
             "USER": {
-                "TITLE": "User",
-                "FIRST_PARAGRAPH": "The individual using Filo who, unless otherwise specified, coincides with the Data Subject."
+                "TITLE": "ユーザー",
+                "FIRST_PARAGRAPH": "別段の指定がない限り、データ主体と一致する Filo を使用する個人。"
             },
             "DATA_SUBJECT": {
-                "TITLE": "Data Subject",
-                "FIRST_PARAGRAPH": "The natural person to whom the Personal Data refers."
+                "TITLE": "データ対象",
+                "FIRST_PARAGRAPH": "個人データが参照する自然人。"
             },
             "DATA_PROCESSOR": {
-                "TITLE": "Data Processor (or Data Supervisor)",
-                "FIRST_PARAGRAPH": "The natural or legal person, public authority, agency or other body which processes Personal Data on behalf of the Controller, as described in this privacy policy."
+                "TITLE": "データ処理者（またはデータ監督者）",
+                "FIRST_PARAGRAPH": "本プライバシーポリシーに記載されているとおり、管理者に代わって個人データを処理する自然人または法人、公的機関、代理店またはその他の団体。"
             },
             "DATA_CONTROLLER": {
-                "TITLE": "Data Controller (or Owner)",
-                "FIRST_PARAGRAPH": "The natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of Personal Data, including the security measures concerning the operation and use of Filo. The Data Controller, unless otherwise specified, is the Owner of Filo."
+                "TITLE": "データ管理者（または所有者）",
+                "FIRST_PARAGRAPH": "Filo の運用と使用に関するセキュリティ対策を含む、個人データの処理の目的と手段を単独で、または他者と共同で決定する自然人、法人、公的機関、機関、またはその他の団体。 特に指定がない限り、データ管理者は Filo の所有者です。"
             },
             "COOKIES": {
-                "TITLE": "Cookies",
-                "FIRST_PARAGRAPH": "Small sets of data stored in the User's device."
+                "TITLE": "クッキー",
+                "FIRST_PARAGRAPH": "ユーザーのデバイスに保存されている小さなデータセット。"
             },
             "LEGAL_INFORMATION": {
-                "TITLE": "Legal information",
-                "FIRST_PARAGRAPH": "This privacy statement has been prepared based on provisions of multiple legislations, including Art. 13/14 of Regulation (EU) 2016/679 (General Data Protection Regulation).",
-                "SECOND_PARAGRAPH": "This privacy policy relates solely to Filo, if not stated otherwise within this document."
+                "TITLE": "法的情報",
+                "FIRST_PARAGRAPH": "本プライバシーステートメントは、EU規則2016/679（一般データ保護規則）第13/14条を含む複数の法律の規定に基づいて作成されています。Regulation (EU) 2016/679 (General Data Protection Regulation)の第13/14条を含む複数の法律の規定に基づいて作成されています。",
+                "SECOND_PARAGRAPH": "このプライバシー ポリシーは、本書内に特に記載がない限り、Filo にのみ関連します。"
             }
         },
         "THE_USE_OF_THE_COLLECTED_DATA": {
-            "TITLE": "The use of the collected Data",
-            "FIRST_PARAGRAPH": "The Data concerning the User is collected to allow the Owner to provide its services, as well as for the following purposes: Analytics, Hosting and backend infrastructure, Registration and authentication, Advertising, Displaying content from external platforms, Infrastructure monitoring, Interaction with external social networks and platforms, Remarketing and behavioral targeting, SPAM protection, Tag Management and Traffic optimization and distribution.",
-            "SECOND_PARAGRAPH": "The Personal Data used for each purpose is outlined in the specific sections of this document."
+            "TITLE": "収集したデータの使用",
+            "FIRST_PARAGRAPH": "ユーザーに関するデータは、管理者がサービスを提供するため、および以下の目的のために収集されます：アナリティクス、ホスティングおよびバックエンドインフラ、登録および認証、広告、外部プラットフォームからのコンテンツ表示、インフラモニタリング、外部ソーシャルネットワークおよびプラットフォームとの相互作用、リマーケティングおよび行動ターゲティング、スパム保護、タグ管理、トラフィックの最適化および配信。",
+            "SECOND_PARAGRAPH": "各目的に使用される個人データの概要は、本書の各セクションに記載されています。"
         },
         "DETAILED_INFORMATION_ON_THE_PROCESSING_OF_PERSONAL_DATA": {
-            "TITLE": "Detailed information on the processing of Personal Data",
-            "FIRST_PARAGRAPH": "Personal Data is collected for the following purposes and using the following services:",
+            "TITLE": "個人データの処理に関する詳細情報",
+            "FIRST_PARAGRAPH": "個人情報は、以下の目的で、以下のサービスを利用して収集されます：",
             "ADVERTISING": {
-                "TITLE": "Advertising",
-                "FIRST_PARAGRAPH": "This type of service allows User Data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on Filo, possibly based on User interests.",
-                "SECOND_PARAGRAPH": "This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.",
-                "THIRD_PARAGRAPH": "Some of the services listed below may use Cookies to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User's interests and behavior, including those detected outside Filo. For more information, please check the privacy policies of the relevant services.",
-                "FOURTH_PARAGRAPH": "In addition to any opt-out offered by any of the services below, the User may opt out of a third-party service's use of cookies by visiting the <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Network Advertising Initiative opt-out page</a></strong>.",
+                "TITLE": "広告",
+                "FIRST_PARAGRAPH": "この種のサービスでは、バナーやその他の広告の形でFilo上に表示される広告コミュニケーションの目的で、場合によってはユーザーの関心に基づいてユーザーデータを利用することができます。",
+                "SECOND_PARAGRAPH": "これは、すべての個人データがこの目的のために利用されることを意味するものではありません。利用目的は以下の通りです。",
+                "THIRD_PARAGRAPH": "以下のサービスの中には、Cookieを使用してユーザーを識別するものや、行動ターゲティング手法（フィーロ以外で検出されたものも含め、ユーザーの興味や行動に合わせた広告を表示する手法）を使用するものがあります。詳細については、関連するサービスのプライバシーポリシーをご確認ください。",
+                "FOURTH_PARAGRAPH": "以下のサービスのいずれかによって提供されるオプトアウトに加えて、ユーザーは、 <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Network Advertising Initiative のオプトアウト ページ</a></strong>.",
                 "GOOGLE_ADSENSE": {
                     "TITLE": "Google AdSense (Google Inc.)",
                     "FIRST_PARAGRAPH": "Google AdSense is an advertising service provided by Google Inc. This service uses the \"Doubleclick\" Cookies, which tracks use of Filo and User behavior concerning ads, products and services offered.",
@@ -916,31 +916,31 @@
         },
         "LEGAL_BASIS_FOR_PROCESSING": {
             "FURTHER_INFORMATION_ABOUT_RETENTION_TIME": {
-                "FOURTH_PARAGRAPH": "Once the retention period expires, Personal Data shall be deleted. Therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period.",
-                "TITLE": "Further information about retention time",
-                "FIRST_PARAGRAPH": "Personal Data shall be processed and stored for as long as required by the purpose they have been collected for.",
-                "SECOND_PARAGRAPH": "Therefore:",
+                "FOURTH_PARAGRAPH": "保持期間が満了すると、個人データは削除されます。したがって、アクセス権、抹消権、修正権およびデータ・ポータビリティの権利は、保存期間終了後は行使することができません。",
+                "TITLE": "保持時間に関する詳細情報",
+                "FIRST_PARAGRAPH": "個人データは、収集された目的によって必要とされる期間、処理および保管されるものとします。",
+                "SECOND_PARAGRAPH": "したがって：",
                 "LIST": {
-                    "FIRST_ELEMENT": "Personal Data collected for purposes related to the performance of a contract between the Owner and the User shall be retained until such contract has been fully performed.",
-                    "SECOND_ELEMENT": "Personal Data collected for the purposes of the Owner's legitimate interests shall be retained as long as needed to fulfill such purposes. Users may find specific information regarding the legitimate interests pursued by the Owner within the relevant sections of this document or by contacting the Owner."
+                    "FIRST_ELEMENT": "管理者と利用者との間の契約の履行に関連する目的で収集された個人データは、当該契約が完全に履行されるまで保管されるものとします。",
+                    "SECOND_ELEMENT": "管理者の正当な利益のために収集された個人データは、当該目的の達成に必要な限り保持されるものとします。管理者が追求する正当な利益に関する具体的な情報は、本文書の該当箇所に記載されているか、管理者にお問い合わせください。"
                 },
-                "THIRD_PARAGRAPH": "The Owner may be allowed to retain Personal Data for a longer period whenever the User has given consent to such processing, as long as such consent is not withdrawn. Furthermore, the Owner may be obliged to retain Personal Data for a longer period whenever required to do so for the performance of a legal obligation or upon order of an authority."
+                "THIRD_PARAGRAPH": "管理者は、利用者が当該処理に同意した場合、当該同意が撤回されない限り、個人データをより長期間保持することができるものとします。さらに、管理者は、法的義務の履行または当局の命令により、個人データをより長期間保持する義務を負う場合があります。"
             },
             "THE_RIGHTS_OF_USERS_BASED_ON_THE_GENERAL_DATA_PROTECTION_REGULATION": {
-                "TITLE": "The rights of Users based on the General Data Protection Regulation (GDPR)",
-                "FIRST_PARAGRAPH": "Users may exercise certain rights regarding their Data processed by the Owner.",
-                "SECOND_PARAGRAPH": "In particular, Users have the right to do the following:",
+                "TITLE": "一般データ保護規則（GDPR）に基づく利用者の権利",
+                "FIRST_PARAGRAPH": "利用者は、管理者によって処理された自己のデータに関して、一定の権利を行使することができます。",
+                "SECOND_PARAGRAPH": "特に、利用者は以下の権利を有します：",
                 "LIST": {
-                    "FIRST_ELEMENT": "Withdraw their consent at any time. Users have the right to withdraw consent where they have previously given their consent to the processing of their Personal Data.",
-                    "SECOND_ELEMENT": "Object to processing of their Data. Users have the right to object to the processing of their Data if the processing is carried out on a legal basis other than consent.",
-                    "THIRD_ELEMENT": "Access their Data. Users have the right to learn if Data is being processed by the Owner, obtain disclosure regarding certain aspects of the processing and obtain a copy of the Data undergoing processing.",
-                    "FOURTH_ELEMENT": "Verify and seek rectification. Users have the right to verify the accuracy of their Data and ask for it to be updated or corrected.",
-                    "FIFTH_ELEMENT": "Restrict the processing of their Data. Users have the right to restrict the processing of their Data. In this case, the Owner will not process their Data for any purpose other than storing it.",
-                    "SIXTH_ELEMENT": "Have their Personal Data deleted or otherwise removed. Users have the right to obtain the erasure of their Data from the Owner.",
-                    "SEVENTH_ELEMENT": "Receive their Data and have it transferred to another controller. Users have the right to receive their Data in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance.",
-                    "EIGHTH_ELEMENT": "Lodge a complaint. Users have the right to bring a claim before their competent data protection authority."
+                    "FIRST_ELEMENT": "いつでも同意を撤回する利用者は、過去に個人データの処理に同意した場合、同意を撤回する権利を有します。",
+                    "SECOND_ELEMENT": "データ処理に対する異議申し立てデータ処理が同意以外の法的根拠に基づいて行われる場合、利用者はデータ処理に反対する権利を有します。",
+                    "THIRD_ELEMENT": "データへのアクセス利用者は、所有者によってデータが処理されているかどうかを知る権利、処理の特定の側面に関する開示を受ける権利、および処理中のデータのコピーを取得する権利を有します。",
+                    "FOURTH_ELEMENT": "検証および修正要求利用者は、自己のデータの正確性を確認し、更新または訂正を求める権利を有します。",
+                    "FIFTH_ELEMENT": "データ処理の制限利用者は、自己のデータ処理を制限する権利を有します。この場合、所有者は、保存以外の目的で利用者のデータを処理することはありません。",
+                    "SIXTH_ELEMENT": "個人データの削除または他の方法による削除利用者は、自己のデータの消去をオーナーから求める権利を有します。",
+                    "SEVENTH_ELEMENT": "データの受領および他の管理者への転送利用者は、構造化され、一般的に使用され、機械が読み取り可能なフォーマットでデータを受け取る権利、および技術的に可能な場合は、支障なく別の管理者にデータを転送してもらう権利を有します。",
+                    "EIGHTH_ELEMENT": "苦情の申し立て利用者は、管轄のデータ保護当局に苦情を申し立てる権利を有します。"
                 },
-                "THIRD_PARAGRAPH": "Users are also entitled to learn about the legal basis for Data transfers abroad including to any international organization governed by public international law or set up by two or more countries, such as the UN, and about the security measures taken by the Owner to safeguard their Data."
+                "THIRD_PARAGRAPH": "また、利用者は、国連など、国際公法に準拠する、または2カ国以上によって設立された国際機関を含む、海外へのデータ移転の法的根拠、および利用者のデータを保護するために所有者が講じたセキュリティ措置について知る権利を有します。"
             },
             "TITLE": "Legal basis for processing",
             "FIRST_PARAGRAPH": "The Owner may process Personal Data relating to Users if one of the following applies:",
@@ -948,52 +948,52 @@
                 "FIRST_ELEMENT": "Users have given their consent for one or more specific purposes.",
                 "SECOND_ELEMENT": "Provision of Data is necessary for the performance of an agreement with the User and/or for any pre-contractual obligations thereof.",
                 "THIRD_ELEMENT": "Processing is necessary for compliance with a legal obligation to which the Owner is subject.",
-                "FOURTH_ELEMENT": "Processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in the Owner.",
-                "FIFTH_ELEMENT": "Processing is necessary for the purposes of the legitimate interests pursued by the Owner or by a third party."
+                "FOURTH_ELEMENT": "公益のため、または所有者に与えられた公的権限の行使のために行われる業務に関連する処理。",
+                "FIFTH_ELEMENT": "所有者または第三者が追求する正当な利益のために処理が必要な場合。"
             },
-            "SECOND_PARAGRAPH": "In any case, the Owner will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.",
+            "SECOND_PARAGRAPH": "いずれの場合においても、管理者は、処理に適用される具体的な法的根拠、特に個人データの提供が法令上または契約上の要件であるかどうか、または契約を締結するために必要な要件であるかどうかを明確にするために、喜んで協力いたします。",
             "DETAILS_ABOUT_THE_RIGHT_TO_OBJECT_TO_PROCESSING": {
-                "TITLE": "Details about the right to object to processing",
-                "FIRST_PARAGRAPH": "Where Personal Data is processed for a public interest, in the exercise of an official authority vested in the Owner or for the purposes of the legitimate interests pursued by the Owner, Users may object to such processing by providing a ground related to their particular situation to justify the objection.",
-                "SECOND_PARAGRAPH": "Users must know that, however, should their Personal Data be processed for direct marketing purposes, they can object to that processing at any time without providing any justification. To learn, whether the Owner is processing Personal Data for direct marketing purposes, Users may refer to the relevant sections of this document."
+                "TITLE": "処理に異議を唱える権利の詳細",
+                "FIRST_PARAGRAPH": "公益のため、管理者に帰属する公的権限の行使のため、または管理者が追求する正当な利益のために個人データが処理される場合、利用者は、自己の特定の状況に関連する理由を提示して異議を申し立てることができます。",
+                "SECOND_PARAGRAPH": "ただし、利用者は、利用者の個人データがダイレクト・マーケティング目的で処理された場合、正当な理由を提示することなく、いつでもその処理に異議を唱えることができることを知る必要があります。所有者がダイレクト・マーケティング目的で個人データを処理しているかどうかについては、本書の該当箇所を参照してください。"
             },
             "HOW_TO_EXERCISE_THESE_RIGHTS": {
-                "TITLE": "How to exercise these rights",
-                "FIRST_PARAGRAPH": "Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. These requests can be exercised free of charge and will be addressed by the Owner as early as possible and always within one month."
+                "TITLE": "これらの権利の行使方法",
+                "FIRST_PARAGRAPH": "利用者の権利行使の要請は、本書に記載された連絡先を通じて、オーナーに対して行うことができます。これらの要求は無料で行使することができ、所有者は可能な限り早期に、常に1ヶ月以内に対応します。"
             }
         },
         "ADDITIONAL_INFORMATION_ABOUT_DATA_COLLECTION_AND_PROCESSING": {
-            "TITLE": "Additional information about Data collection and processing",
+            "TITLE": "データ収集と処理に関する追加情報",
             "LEGAL_ACTION": {
-                "TITLE": "Legal action",
-                "FIRST_PARAGRAPH": "The User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of Filo or the related services.",
-                "SECOND_PARAGRAPH": "The User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities."
+                "TITLE": "法的措置",
+                "FIRST_PARAGRAPH": "ユーザーの個人データは、法廷で、または Filo または関連サービスの不適切な使用から生じる可能性のある法的措置につながる段階で、所有者によって法的目的で使用される場合があります。",
+                "SECOND_PARAGRAPH": "利用者は、公的機関からの要請により、個人情報の開示を求められる場合があることを認識するものとします。"
             },
             "ADDITIONAL_INFORMATION_ABOUT_USER_PERSONAL_DATA": {
-                "TITLE": "Additional information about User's Personal Data",
-                "FIRST_PARAGRAPH": "In addition to the information contained in this privacy policy, Filo may provide the User with additional and contextual information concerning particular services or the collection and processing of Personal Data upon request."
+                "TITLE": "ユーザーの個人情報に関する追加情報",
+                "FIRST_PARAGRAPH": "このプライバシー ポリシーに含まれる情報に加えて、Filo はリクエストに応じて、特定のサービスまたは個人データの収集と処理に関する追加のコンテキスト情報をユーザーに提供する場合があります。"
             },
             "SYSTEM_LOGS_AND_MAINTENANCE": {
-                "TITLE": "System logs and maintenance",
-                "FIRST_PARAGRAPH": "For operation and maintenance purposes, Filo and any third-party services may collect files that record interaction with Filo (System logs) use other Personal Data (such as the IP Address) for this purpose."
+                "TITLE": "システムログとメンテナンス",
+                "FIRST_PARAGRAPH": "運用およびメンテナンスの目的で、Filo およびサードパーティのサービスは、Filo との対話を記録するファイル (システム ログ) を収集する場合があり、この目的のために他の個人データ (IP アドレスなど) を使用します。"
             },
             "INFORMATION_NOT_CONTAINED_IN_THIS_POLICY": {
-                "TITLE": "Information not contained in this policy",
-                "FIRST_PARAGRAPH": "More details concerning the collection or processing of Personal Data may be requested from the Owner at any time. Please see the contact information at the beginning of this document."
+                "TITLE": "本ポリシーに記載されていない情報",
+                "FIRST_PARAGRAPH": "個人データの収集または処理に関する詳細は、いつでもオーナーに請求することができます。本書冒頭の連絡先をご参照ください。"
             },
             "HOW_DO_NOT_TRACK_REQUESTS_ARE_HANDLED": {
-                "TITLE": "How \"Do Not Track\" requests are handled",
-                "FIRST_PARAGRAPH": "Filo does not support \"Do Not Track\" requests. To determine whether any of the third-party services it uses honor the \"Do Not Track\" requests, please read their privacy policies."
+                "TITLE": "「Do Not Track」リクエストの処理方法",
+                "FIRST_PARAGRAPH": "Filo は「Do Not Track」リクエストをサポートしていません。 使用しているサードパーティ サービスが「Do Not Track」リクエストに従うかどうかを判断するには、そのプライバシー ポリシーをお読みください。"
             },
             "CHANGES_TO_THIS_PRIVACY_POLICY": {
-                "TITLE": "Changes to this privacy policy",
-                "FIRST_PARAGRAPH": "The Owner reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page and possibly within Filo and/or - as far as technically and legally feasible - sending a notice to Users via any contact information available to the Owner. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom.",
-                "SECOND_PARAGRAPH": "Should the changes affect processing activities performed on the basis of the User's consent, the Owner shall collect new consent from the User, where required."
+                "TITLE": "プライバシーポリシーの変更",
+                "FIRST_PARAGRAPH": "所有者は、このページおよび場合によっては Filo 内でユーザーに通知するか、技術的および法的に可能な限り、入手可能な連絡先情報を介してユーザーに通知を送信することにより、いつでもこのプライバシー ポリシーを変更する権利を留保します。 オーナーへ。 このページを頻繁にチェックし、下部にリストされている最終変更日を参照することを強くお勧めします。",
+                "SECOND_PARAGRAPH": "変更が利用者の同意に基づいて行われる処理活動に影響を及ぼす場合、管理者は、必要に応じて利用者から新たな同意を収集するものとします。"
             }
         }
     },
     "COOKIES_POLICY": {
-        "TITLE": "Cookies Policy",
+        "TITLE": "クッキーポリシー",
         "DESCRIPTION": "This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Website.",
         "EFFECTIVE": "Effective",
         "LAST_UPDATED": "Last Updated",
