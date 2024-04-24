@@ -54,54 +54,54 @@
         "SUBTITLE": "Doté d'un large éventail de modules d'administration et de modération pour vous faciliter les choses"
     },
     "FEATURES": {
-        "DESCRIPTION": "Les meilleures fonctionnalités pour améliorer votre serveur !",
+        "DESCRIPTION": "Découvrez un monde de possibilités grâce aux fonctionnalités étendues de Filo",
         "MORE_INFO": "Plus d'informations sur cette fonctionnalité",
         "REPORTS": {
             "TITLE": "Signalements",
-            "DESCRIPTION": "Améliorez l'expérience et professionnalisez la modération de votre serveur en permettant aux utilisateurs de signaler des comportements inappropriés !"
+            "DESCRIPTION": "Améliorez la sécurité et la transparence de votre communauté en permettant à vos utilisateurs de signaler un comportement inapproprié"
         },
         "LOGGING": {
             "TITLE": "Logs",
             "DESCRIPTION": "Enregistrez toutes les actions effectuées par les utilisateurs de votre serveur dans un salon, ce qui vous permet de les examiner et de les filtrer facilement !"
         },
         "ANTI_INVITES": {
-            "TITLE": "Anti Invites",
-            "DESCRIPTION": "Empêchez les utilisateurs d'envoyer des invitations vers d'autres serveurs dans le vôtre en les sanctionnant automatiquement !"
+            "TITLE": "Anti Invitations",
+            "DESCRIPTION": "Protégez votre communauté des invitations indésirables. Gardez votre communauté concentrée et sécurisée en empêchant le partage d'invitations non autorisées"
         },
         "ANTI_SPAM": {
             "TITLE": "Anti Spam",
-            "DESCRIPTION": "Fatigué des spammeurs ? Vos modérateurs ne sont pas assez nombreux ? Laissez Filo s'occuper de cette catégorie d'utilisateurs et partagez un thé en attendant !"
+            "DESCRIPTION": "Empêchez le spam de perturber les activités de votre communauté. Profitez d'une expérience communautaire plus propre et plus agréable"
         },
         "ANTI_BAD_WORDS": {
             "TITLE": "Anti Mots Grossiers",
-            "DESCRIPTION": "Empêchez les utilisateurs d'utiliser des mots grossiers dans leurs messages... Personne n'aime avoir à lire ces mots !"
+            "DESCRIPTION": "Maintenez un environnement propre et respectueux dans votre communauté. Filtrez et bloquez automatiquement les propos inappropriés, favorisant ainsi un environnement convivial et sûr."
         },
         "ANTI_SCAM_LINKS": {
             "TITLE": "Anti Liens Frauduleux",
-            "DESCRIPTION": "Les arnaqueurs, des gens fatigants... Désormais, Filo peut vous aider à lutter contre ce type de personnes !"
+            "DESCRIPTION": "Protégez votre communauté des escroqueries potentielles et des liens frauduleux. Gardez votre communauté sûre et sécurisée"
         },
         "AUTO_MODERATION": {
             "TITLE": "Auto Modération",
-            "DESCRIPTION": "Ne permettez pas à des utilisateurs malintentionnés d'exister sur votre serveur, cela peut affecter négativement l'expérience des utilisateurs légitimes !"
+            "DESCRIPTION": "Automatisez la sécurité et le décorum de votre communauté. Appliquer sans effort les directives de la communauté et maintenir un environnement accueillant"
         },
         "ANTI_EVASION": {
             "TITLE": "Anti Évasion",
-            "DESCRIPTION": "Vous avez rendu muets plusieurs utilisateurs et ils ont quitté le serveur ? Pas de problème! Laissez Filo bannir automatiquement ces utilisateurs !"
+            "DESCRIPTION": "Gardez une longueur d'avance sur les utilisateurs perturbateurs. Renforcez les défenses de votre communauté contre les contrevenants aux règles cherchant à contourner les mesures de modération"
         },
-        "TITLE": "Features",
-        "TITLE_ALTERNATIVE": "The best features",
-        "DESCRIPTION_ALTERNATIVE": "Explore the finest features for efficient community management with Filo",
+        "TITLE": "Fonctionnalités",
+        "TITLE_ALTERNATIVE": "Les meilleures fonctionnalités",
+        "DESCRIPTION_ALTERNATIVE": "Explorez les meilleures fonctionnalités pour une gestion de communauté efficace avec Filo",
         "MULTI_LANGUAGE": {
             "TITLE": "Multi Language",
-            "DESCRIPTION": "Experience the beauty of bringing communities from different cultures and languages together. It's not just a feature; it's our mission!"
+            "DESCRIPTION": "Découvrez la beauté de rassembler des communautés de cultures et de langues différentes. Ce n'est pas seulement une fonctionnalité ; c'est notre mission !"
         },
         "WELCOMES": {
             "TITLE": "Welcomes",
-            "DESCRIPTION": "Create a welcoming atmosphere in your community. Greet new members, show your community's personality, and make everyone feel right at home"
+            "DESCRIPTION": "Créez une atmosphère accueillante dans votre communauté. Accueillez les nouveaux membres, montrez la personnalité de votre communauté et faites en sorte que chacun se sente comme chez lui"
         },
         "WELCOMES_ROLE": {
             "TITLE": "Welcomes Role",
-            "DESCRIPTION": "Automatically assign roles to new members, ensuring they feel instantly at home in your community"
+            "DESCRIPTION": "Attribuez automatiquement des rôles aux nouveaux membres, garantissant qu'ils se sentent instantanément à l'aise dans votre communauté"
         },
         "FAREWELLS": {
             "TITLE": "Farewells",
@@ -112,16 +112,16 @@
             "DESCRIPTION": "Display real-time member counts to celebrate milestones and monitor your community's progress"
         },
         "ANTI_MASS_MENTIONS": {
-            "TITLE": "Anti Mass Mentions",
-            "DESCRIPTION": "Protect your community from excessive mentions and disruptions. Enjoy a spam-free and focused community environment"
+            "TITLE": "Anti Mentions Excessives",
+            "DESCRIPTION": "Protégez votre communauté des mentions excessives et des perturbations. Profitez d'un environnement communautaire ciblé et sans spam"
         },
         "ANTI_REPEATED_TEXT": {
-            "TITLE": "Anti Repeated Text",
-            "DESCRIPTION": "Say goodbye to repetitive and monotonous messages. Ensure more engaging and enjoyable conversation in your community"
+            "TITLE": "Anti Textes Répétés",
+            "DESCRIPTION": "Dites adieu aux messages répétitifs et monotones. Garantissez une conversation plus engageante et agréable dans votre communauté"
         },
         "ANTI_EXTERNAL_LINKS": {
-            "TITLE": "Anti External Links",
-            "DESCRIPTION": "Keep your community safe from unwanted external links. Maintain a secure and focused community environment"
+            "TITLE": "Anti Liens Externes",
+            "DESCRIPTION": "Protégez votre communauté des liens externes indésirables. Maintenez un environnement communautaire sécurisé et ciblé"
         }
     },
     "STATISTICS": {
@@ -146,7 +146,7 @@
     "REVIEW": {
         "TITLE": "Laissez-nous un commentaire",
         "SUBTITLE": "Montrez à quel point vous aimez Filo et son service !",
-        "DESCRIPTION": "Share your thoughts and experiences with Filo"
+        "DESCRIPTION": "Partagez vos réflexions et expériences avec Filo"
     },
     "VOTE": {
         "TITLE": "Voter pour Filo",
@@ -154,16 +154,16 @@
         "DESCRIPTION": "Help us grow and improve by voting for Filo"
     },
     "FRIENDLY_WEBSITES": {
-        "TITLE": "Sites web conviviaux",
+        "TITLE": "Sites web conviviaux que nous recommandons",
         "SUBTITLE": "Des sites web conviviaux qui aident Filo à se développer !",
-        "DESCRIPTION": "Explore a curated list of websites that we consider friendly and valuable"
+        "DESCRIPTION": "Explorez notre liste de sites Web que nous considérons conviviaux et précieux"
     },
     "READY": {
-        "TITLE": "Prêt à passer à l'étape suivante ?",
+        "TITLE": "Prêt à débloquer tout le potentiel de votre communauté ?",
         "SUBTITLE": "Améliorez l'expérience et professionnalisez votre serveur avec Filo dès aujourd'hui !",
         "INVITE": "C'est parti !",
         "GETTING_STARTED": "Premiers Pas",
-        "DESCRIPTION": "Invite Filo today to supercharge your Discord experience with powerful moderation and community-enhancing features"
+        "DESCRIPTION": "Invitez Filo aujourd'hui afin de dynamiser votre expérience Discord avec de puissantes fonctionnalités de modération et d'amélioration de la communauté"
     },
     "CALCULATOR": {
         "TITLE": "Calculateur de permissions de Filo",
@@ -204,7 +204,7 @@
         "TITLE": "Merci d'avoir ajouté Filo!",
         "SUBTITLE": "Nous sommes très heureux que vous ayez décidé de faire confiance à Filo.",
         "DISCORD_REDIRECT_INFO": "Vous serez redirigé vers notre serveur Discord.",
-        "DESCRIPTION": "We're thrilled you've added Filo to your community. Get ready to experience the power of Filo"
+        "DESCRIPTION": "Nous sommes ravis que vous ayez ajouté Filo à votre communauté. Préparez-vous à découvrir la puissance de Filo"
     },
     "FOOTER": {
         "HELPFUL_LINKS": "Liens Utiles",
@@ -238,7 +238,7 @@
     "LINK_SHORTENER": {
         "TITLE": "Redirection en cours",
         "SUBTITLE": "Vous serez redirigé vers le lien original dans quelques secondes",
-        "DESCRIPTION": "We are preparing the stars that will guide you on your journey towards the definitive redirection!"
+        "DESCRIPTION": "Nous préparons les étoiles qui vous guideront dans votre voyage vers la redirection définitive !"
     },
     "COOKIES_POLICY": {
         "HOW_TO_MANAGE_PREFENCES_AND_PROVIDE_OR_WITHDRAW_CONSENT": {
@@ -586,7 +586,7 @@
                 "FIRST_PARAGRAPH": "Les abonnements sont valables pour la période indiquée au moment de l'achat. Les détails concernant le type d'abonnement et la résiliation sont fournis ci-dessous."
             },
             "ONE_TIME_PURCHASES": {
-                "TITLE": "One-Time Purchases",
+                "TITLE": "Achats Uniques",
                 "FIRST_PARAGRAPH": "Les achats uniques sont valables pour la période indiquée au moment de l'achat. Les détails concernant le type d'abonnement et la résiliation sont fournis ci-dessous."
             },
             "AUTOMATIC_RENEWAL": {
@@ -611,12 +611,12 @@
         "FEATURES": "Fonctionnalités",
         "INVITE": "Inviter",
         "VIEW_MORE": "Voir plus",
-        "GETTING_STARTED": "Getting started",
+        "GETTING_STARTED": "C'est parti",
         "DOCUMENTATION": "Documentation"
     },
     "HERO": {
-        "TITLE": "Elevate your Discord community",
-        "DESCRIPTION": "Débloquez des outils de modération puissants et transparents, disponibles dans plusieurs langues et contenant des commandes et des objectifs multiples."
+        "TITLE": "Élevez votre communauté Discord",
+        "DESCRIPTION": "Débloquez des outils de modération puissants et transparents, disponibles dans plusieurs langues, et contenant plusieurs commandes et objectifs"
     },
     "FAQ": {
         "QUESTIONS": {
@@ -625,62 +625,62 @@
                 "ANSWER": "Inviting Filo is easy! Just click the \"Invite\" link in the navigation bar and follow the steps. You can customize its settings to fit your community's needs"
             },
             "FIRST": {
-                "QUESTION": "What is Filo, and what can it do for my Discord community?",
+                "QUESTION": "Qu'est-ce que Filo et que peut-il faire pour ma communauté Discord ?",
                 "ANSWER": "Filo is a powerful multipurpose Discord bot designed to simplify community moderation and administration"
             },
             "THIRD": {
-                "QUESTION": "How can I get support or report an issue with Filo?",
-                "ANSWER": "We're here to help! If you have any questions, concerns, or need assistance, you can join our support server or contact our team through the provided channels. We're committed to ensuring a smooth experience for our users"
+                "QUESTION": "Comment puis-je obtenir de l'aide ou signaler un problème avec Filo ?",
+                "ANSWER": "Nous sommes là pour vous aider ! Si vous avez des questions, des préoccupations ou avez besoin d'aide, vous pouvez rejoindre notre serveur d'assistance ou contacter notre équipe via d'autres moyens. Nous nous engageons à garantir une expérience fluide à nos utilisateurs"
             },
             "FOURTH": {
-                "QUESTION": "Does Filo have multilingual support for non-English-speaking communities?",
-                "ANSWER": "Yes, Filo offers multilingual support, making it accessible to a wide range of language communities. You can configure Filo to use your preferred language (must be available) for a more inclusive experience"
+                "QUESTION": "Filo propose-t-il un support multilingue pour les communautés non anglophones ?",
+                "ANSWER": "Oui, Filo offre un support multilingue, le rendant accessible à un large éventail de communautés linguistiques. Vous pouvez configurer Filo pour utiliser votre langue préférée (si elle est disponible) pour une expérience plus inclusive"
             },
             "FIFTH": {
-                "QUESTION": "Can I customize Filo's moderation settings to suit my community's specific needs?",
-                "ANSWER": "Absolutely! Filo allows you to customize its moderation settings to align with your community's rules and requirements. You can fine-tune the filters and settings to maintain a safe and welcoming environment"
+                "QUESTION": "Puis-je personnaliser les paramètres de modération de Filo pour les adapter aux besoins spécifiques de ma communauté ?*",
+                "ANSWER": "Absolument ! Filo vous permet de personnaliser ses paramètres de modération pour les aligner sur les règles et exigences de votre communauté. Vous pouvez affiner les filtres et les paramètres pour maintenir un environnement sûr et accueillant"
             },
             "SIXTH": {
-                "QUESTION": "What are some key features that Filo offers for community management?",
-                "ANSWER": "Filo provides a wide range of features, including automatic moderation, multilingual support, member counting, anti-spam measures, and more. These features enhance community functionality and safety"
+                "QUESTION": "Quelles sont les fonctionnalités clés proposées par Filo pour la gestion de communauté ?",
+                "ANSWER": "Filo offre un large éventail de fonctionnalités, notamment la modération automatique, la prise en charge multilingue, le comptage des membres, les mesures anti-spam, etc. Ces fonctionnalités améliorent la fonctionnalité et la sécurité de la communauté"
             },
             "SEVENTH": {
-                "QUESTION": "How can Filo help me maintain a safe and enjoyable environment in my community?",
-                "ANSWER": "Filo's features include tools to combat spam, protect against external links, and manage community security, ensuring a positive and secure Discord experience for your community"
+                "QUESTION": "Comment Filo peut-il m'aider à maintenir un environnement sûr et agréable dans ma communauté ?",
+                "ANSWER": "Les fonctionnalités de Filo incluent des outils pour lutter contre le spam, se protéger contre les liens externes et gérer la sécurité de la communauté, garantissant ainsi une expérience Discord positive et sécurisée pour votre communauté"
             },
             "EIGHTH": {
-                "QUESTION": "Can I integrate Filo's features seamlessly into my existing community setup, or is it a complex process?",
-                "ANSWER": "Filo is designed to be user-friendly and easy to integrate into your community. The setup process is straightforward and intuitive"
+                "QUESTION": "Puis-je intégrer les fonctionnalités de Filo de manière transparente dans la configuration de ma communauté existante, ou s'agit-il d'un processus complexe ?",
+                "ANSWER": "Filo est conçu pour être convivial et facile à intégrer dans votre communauté. Le processus de configuration est simple et intuitif"
             }
         },
-        "TITLE": "Frequently asked questions",
-        "DESCRIPTION": "Explore our FAQ section for quick solutions to common queries about Filo, Discord bot features, and much more"
+        "TITLE": "Questions fréquemment posées",
+        "DESCRIPTION": "Explorez notre section FAQ pour des solutions rapides aux questions courantes sur Filo, les fonctionnalités du bot Discord et bien plus encore."
     },
     "ERROR": {
         "406": {
-            "DESCRIPTION": "Not Acceptable"
+            "DESCRIPTION": "Pas Acceptable"
         },
-        "TITLE": "Error",
+        "TITLE": "Erreur",
         "200": {
             "DESCRIPTION": "OK"
         },
         "400": {
-            "DESCRIPTION": "Bad Request"
+            "DESCRIPTION": "Mauvaise Requête"
         },
         "401": {
-            "DESCRIPTION": "Unauthorized"
+            "DESCRIPTION": "Non autorisé"
         },
         "402": {
-            "DESCRIPTION": "Payment Required"
+            "DESCRIPTION": "Paiement Requis"
         },
         "403": {
-            "DESCRIPTION": "Forbidden"
+            "DESCRIPTION": "Interdit"
         },
         "404": {
-            "DESCRIPTION": "Not Found"
+            "DESCRIPTION": "Introuvable"
         },
         "405": {
-            "DESCRIPTION": "Method Not Allowed"
+            "DESCRIPTION": "Méthode Non Autorisée"
         },
         "407": {
             "DESCRIPTION": "Proxy Authentication Required"
@@ -812,7 +812,7 @@
         "FEATURES": "Fonctionnalités",
         "APPEAL": "Appel",
         "CONGESTED_QUEUE": "File d'attente saturée",
-        "DONATE": "Donner",
+        "DONATE": "Faire un don",
         "SYNC_ACCOUNT": "Synchroniser le compte",
         "GITHUB": "GitHub",
         "TRANSLATE": "Traduire",
@@ -832,61 +832,61 @@
         "FEATURES": {
             "DESCRIPTION": "Explorez la riche gamme de fonctionnalités du bot Discord Filo - de la modération améliorée aux outils d'engagement communautaire, libérez tout le potentiel de votre gestion de communauté.",
             "ABSTRACT": "Découvrez l'ensemble des fonctionnalités offertes par Filo, qui vous permettent d'améliorer la gestion, la modération et l'engagement de votre communauté Discord.",
-            "KEYWORDS": "discord bot, community management, moderation tools, community engagement, multilingual support, anti-spam, member counting, welcoming messages, security measures, customization options"
+            "KEYWORDS": "bot discord, gestion de communauté, outils de modération, engagement de la communauté, support multilingue, anti-spam, compteur de membres, messages de bienvenue, mesures de sécurité, options personnalisables"
         },
         "COOKIES_POLICY": {
             "DESCRIPTION": "Découvrez comment nous donnons la priorité à votre vie privée, gérons le suivi des données et offrons des options pour des expériences en ligne personnalisées grâce à des politiques transparentes en matière de cookies.",
             "ABSTRACT": "Découvrez comment nous utilisons les cookies, respectons les préférences des utilisateurs et donnons la priorité à la protection des données pour une expérience sur mesure.",
-            "KEYWORDS": "cookies, data tracking, privacy settings, cookie policy, user preferences, website analytics, consent management, online experience, data protection, cookie usage"
+            "KEYWORDS": "cookies, suivi de données, paramètres de confidentialité, politique des cookies, préférences utilisateur, analyses de site, management du consentement, expérience en ligne, protection des données, usage des cookies"
         },
         "TERMS_OF_SERVICE": {
             "DESCRIPTION": "Découvrez les politiques d'utilisation acceptables, les règles de gestion de la communauté et les exigences de conformité pour garantir une expérience Discord respectueuse et sécurisée.",
-            "ABSTRACT": "Explore the details of acceptable use, community management rules, and compliance requirements for a harmonious and secure online environment.",
+            "ABSTRACT": "Explorez les détails de l'utilisation acceptable de vos données, les règles de gestion de communauté et les exigences de conformité pour un environnement en ligne harmonieux et sécurisé.",
             "KEYWORDS": "terms of service, user agreement, discord bot usage, community guidelines, code of conduct, acceptable use, legal terms, agreement terms, community management rules, compliance requirements"
         },
         "PRIVACY_POLICY": {
-            "DESCRIPTION": "Learn about our commitment to transparency, consent management, and stringent measures to ensure the security of your information in compliance with data protection standards.",
-            "ABSTRACT": "Discover our practices in transparency, consent management, and stringent security measures, all aligned with data protection standards to ensure your online privacy.",
+            "DESCRIPTION": "Découvrez notre engagement en matière de transparence, de gestion du consentement et de mesures strictes pour garantir la sécurité de vos informations conformément aux normes de protection des données.",
+            "ABSTRACT": "Découvrez nos pratiques en matière de transparence, de gestion du consentement et de mesures de sécurité strictes, toutes alignées sur les normes de protection des données pour garantir votre confidentialité en ligne.",
             "KEYWORDS": "privacy policy, data protection, user information, information security, consent management, personal data, transparency, online privacy, data processing, compliance measures"
         },
         "TERMS_OF_SALES": {
-            "DESCRIPTION": "Learn about our billing and refund policies, license agreements, and renewal terms to make informed decisions about your subscriptions.",
+            "DESCRIPTION": "Découvrez nos politiques de facturation et de remboursement, nos contrats de licence et nos conditions de renouvellement pour prendre des décisions éclairées concernant vos abonnements.",
             "ABSTRACT": "Uncover insights into billing, refund policies, license agreements, and renewal terms, empowering you to make informed decisions about your subscriptions.",
             "KEYWORDS": "sales terms, pricing details, payment policies, subscription plans, billing information, refund policy, license agreements, premium features, renewal terms, transaction terms"
         },
         "SERVICE_STATUS": {
-            "DESCRIPTION": "Stay informed about Filo's service status, maintenance schedules, and updates to ensure a seamless and uninterrupted Discord experience.",
-            "ABSTRACT": "Keep up to date with Filo's service status, maintenance schedules, and updates to ensure a smooth and uninterrupted Discord experience.",
+            "DESCRIPTION": "Restez informé de l'état du service de Filo, des calendriers de maintenance et des mises à jour pour garantir une expérience Discord transparente et ininterrompue.",
+            "ABSTRACT": "Tenez-vous au courant de l'état du service, des calendriers de maintenance et des mises à jour de Filo pour garantir une expérience Discord fluide et ininterrompue.",
             "KEYWORDS": "service status, maintenance schedules, service updates, discord bot status, discord bot maintenance, discord bot updates, service interruptions, discord service status"
         },
         "BLOG": {
-            "DESCRIPTION": "Stay updated on the latest news, feature releases, and community highlights with Filo's blog, your go-to source for all things Discord.",
-            "ABSTRACT": "Stay informed about the latest news, feature releases, and community highlights with Filo's blog, your ultimate source for all things Discord.",
+            "DESCRIPTION": "Restez informé des dernières actualités, des nouveautés et des faits marquants de la communauté grâce au blog de Filo, votre source incontournable pour tout ce qui concerne Discord.",
+            "ABSTRACT": "Restez informé des dernières nouvelles, des nouveautés et des faits marquants de la communauté avec le blog de Filo, votre source ultime pour tout ce qui concerne Discord.",
             "KEYWORDS": "discord news, feature releases, community highlights, discord bot updates, blog posts, discord community, discord bot features, discord bot news, discord bot community"
         }
     },
     "FEATURED_COMMUNITIES": {
-        "TITLE": "Featured communities",
-        "DESCRIPTION": "Be inspired by our selection: featured communities who trust and work with Filo"
+        "TITLE": "Communautés en vedette",
+        "DESCRIPTION": "Laissez-vous inspirer par notre sélection : des communautés en vedette qui font confiance et travaillent avec Filo"
     },
     "REVIEWS": {
-        "TITLE": "What our users are saying",
-        "DESCRIPTION": "Discover the experiences of our satisfied users. Read their reviews and testimonials to see how Filo has transformed Discord communities worldwide"
+        "TITLE": "Ce que disent nos utilisateurs",
+        "DESCRIPTION": "Découvrez les expériences de nos utilisateurs satisfaits. Lisez leurs critiques et témoignages pour voir comment Filo a transformé les communautés Discord du monde entier"
     },
     "PRIVACY_POLICY": {
-        "TITLE": "Privacy Policy",
-        "DESCRIPTION": "Your privacy matters to us. Our Privacy Policy page outlines how we collect, use, and protect your data when you interact with Filo",
+        "TITLE": "Politique de Confidentialité",
+        "DESCRIPTION": "Votre vie privée nous tient à cœur. Notre page Politique de Confidentialité explique comment nous collectons, utilisons et protégeons vos données lorsque vous interagissez avec Filo.",
         "EFFECTIVE": "Effective",
-        "LAST_UPDATED": "Last Updated",
+        "LAST_UPDATED": "Dernière mise à jour",
         "DATE": "{{month}}/{{day}}/{{year}}",
         "BEFORE": {
-            "FIRST_PARAGRAPH": "Filobot <em>(hereinafter \"Filo\")</em> collects some Personal Data from its Users.",
-            "SECOND_PARAGRAPH": "Email for communications regarding Data Protection: <strong><a href=\"mailto:{{email}}\">{{email}}</a></strong>"
+            "FIRST_PARAGRAPH": "Filobot <em>(ci-après « Filo »)</em> collecte certaines Données Personnelles auprès de ses Utilisateurs.",
+            "SECOND_PARAGRAPH": "E-mail pour les communications concernant la protection des données : <strong><a href=\"mailto:{{email}}\">{{email}}</a></strong>"
         },
         "TYPES_OF_DATA_COLLECTED": {
-            "TITLE": "Types of Data collected",
-            "FIRST_PARAGRAPH": "Among the types of Personal Data that Filo collects, by itself or through third parties, there are: Tracker; Usage Data; Username; Server.",
-            "SECOND_PARAGRAPH": "Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.",
+            "TITLE": "Types de Données collectées",
+            "FIRST_PARAGRAPH": "Parmi les types de données personnelles que Filo collecte, directement ou en recourant à des tiers, figurent : Tracker ; Données d'Utilisation; Nom d'Utilisateur; Serveur.",
+            "SECOND_PARAGRAPH": "Des détails complets sur chaque type de Données Personnelles collectées sont fournis dans les sections dédiées de cette politique de confidentialité ou par des textes d'explication spécifiques affichés avant la collecte des Données.",
             "THIRD_PARAGRAPH": "Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using Filo.",
             "FOURTH_PARAGRAPH": "Unless specified otherwise, all Data requested by Filo is mandatory and failure to provide this Data may make it impossible for Filo to provide its services. In cases where Filo specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service.",
             "FIFTH_PARAGRAPH": "Users who are uncertain about which Personal Data is mandatory are welcome to contact the Owner.<br>Any use of Cookies – or of other tracking tools — by Filo or by the owners of third-party services used by Filo serves the purpose of providing the Service required by the User, in addition to any other purposes described in the present document and in the <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Cookies Policy</a></strong>.",
@@ -896,8 +896,8 @@
             "TITLE": "Mode and place of processing the Data",
             "METHODS_OF_PROCESSING": {
                 "TITLE": "Methods of processing",
-                "FIRST_PARAGRAPH": "The Owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.",
-                "SECOND_PARAGRAPH": "The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of Filo (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Owner at any time."
+                "FIRST_PARAGRAPH": "Le Propriétaire prend les mesures de sécurité appropriées pour empêcher l'accès, la divulgation, la modification ou la destruction non autorisée des Données.",
+                "SECOND_PARAGRAPH": "Le traitement des données est effectué à l'aide d'ordinateurs et/ou d'outils informatiques, selon des procédures et des modes d'organisation strictement liés aux finalités indiquées. Outre le Propriétaire, dans certains cas, les Données peuvent être accessibles à certains types de personnes responsables, impliquées dans le fonctionnement de Filo (administration, ventes, marketing, juridique, administration du système) ou à des parties externes (telles que des tiers prestataires techniques, facteurs, hébergeurs, sociétés informatiques, agences de communication) désignés, le cas échéant, comme sous-traitants par le Propriétaire. La liste actualisée de ces intervenants pourra être demandée à tout moment au Propriétaire."
             },
             "LEGAL_BASIS_OF_PROCESSING": {
                 "TITLE": "Legal basis of processing",
