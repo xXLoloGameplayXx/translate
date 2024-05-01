@@ -62,7 +62,7 @@
         },
         "LOGGING": {
             "TITLE": "ロギング",
-            "DESCRIPTION": "コミュニティの活動を追跡重要なイベントや行動を記録し、透明性と説明責任を維持します。"
+            "DESCRIPTION": "コミュニティの活動を追跡重要なイベントや行動を記録し、透明性と説明責任を維持します"
         },
         "ANTI_INVITES": {
             "TITLE": "アンチインビテーション",
@@ -74,7 +74,7 @@
         },
         "ANTI_BAD_WORDS": {
             "TITLE": "アンチ悪口",
-            "DESCRIPTION": "コミュニティの清潔で礼儀正しい環境を維持します。不適切な言葉を自動的にフィルタリングしてブロックし、友好的で安全な環境を促進します。"
+            "DESCRIPTION": "コミュニティの清潔で礼儀正しい環境を維持します。不適切な言葉を自動的にフィルタリングしてブロックし、友好的で安全な環境を促進します"
         },
         "ANTI_SCAM_LINKS": {
             "TITLE": "詐欺対策リンク集",
@@ -97,27 +97,27 @@
         },
         "WELCOMES": {
             "TITLE": "歓迎",
-            "DESCRIPTION": "コミュニティに歓迎の雰囲気を作りましょう。新しい会員に挨拶し、コミュニティの個性を示し、誰もがくつろげるようにしましょう。"
+            "DESCRIPTION": "コミュニティに歓迎の雰囲気を作りましょう。新しい会員に挨拶し、コミュニティの個性を示し、誰もがくつろげるようにしましょう"
         },
         "WELCOMES_ROLE": {
             "TITLE": "歓迎される役割",
-            "DESCRIPTION": "新しいメンバーに自動的に役割を割り当て、コミュニティですぐにくつろげるようにします。"
+            "DESCRIPTION": "新しいメンバーに自動的に役割を割り当て、コミュニティですぐにくつろげるようにします"
         },
         "FAREWELLS": {
             "TITLE": "お別れ",
-            "DESCRIPTION": "退会する会員のために、礼儀正しい退会を演出しましょう。コミュニティを去る会員に別れを告げ、コミュニティ精神を維持する。"
+            "DESCRIPTION": "退会する会員のために、礼儀正しい退会を演出しましょう。コミュニティを去る会員に別れを告げ、コミュニティ精神を維持する"
         },
         "MEMBER_COUNTER": {
             "TITLE": "会員カウンター",
-            "DESCRIPTION": "リアルタイムの会員数を表示し、マイルストーンを祝い、コミュニティの進捗状況をモニターする。"
+            "DESCRIPTION": "リアルタイムの会員数を表示し、マイルストーンを祝い、コミュニティの進捗状況をモニターする"
         },
         "ANTI_MASS_MENTIONS": {
             "TITLE": "アンチ・マス・メンション",
-            "DESCRIPTION": "過剰な言及や混乱からコミュニティを守る。スパムのない集中的なコミュニティ環境をお楽しみください。"
+            "DESCRIPTION": "過剰な言及や混乱からコミュニティを守る。スパムのない集中的なコミュニティ環境をお楽しみください"
         },
         "ANTI_REPEATED_TEXT": {
             "TITLE": "繰り返しテキスト対策",
-            "DESCRIPTION": "繰り返しの単調なメッセージとはおさらばしましょう。コミュニティでの会話をより魅力的で楽しいものに。"
+            "DESCRIPTION": "繰り返しの単調なメッセージとはおさらばしましょう。コミュニティでの会話をより魅力的で楽しいものに"
         },
         "ANTI_EXTERNAL_LINKS": {
             "TITLE": "外部リンク対策",
@@ -151,19 +151,19 @@
     "VOTE": {
         "TITLE": "Filo に投票する",
         "SUBTITLE": "Filo に投票することで、Filo への支持を表明してください！",
-        "DESCRIPTION": "Filo に投票することで、私たちの成長と向上に貢献してください。"
+        "DESCRIPTION": "Filo に投票することで、私たちの成長と向上に貢献してください"
     },
     "FRIENDLY_WEBSITES": {
         "TITLE": "お勧めのフレンドリーなウェブサイト",
         "SUBTITLE": "Filo の成長を支えるフレンドリーなウェブサイト！",
-        "DESCRIPTION": "私たちが友好的で価値があると考えるウェブサイトの厳選されたリストをご覧ください。"
+        "DESCRIPTION": "私たちが友好的で価値があると考えるウェブサイトの厳選されたリストをご覧ください"
     },
     "READY": {
         "TITLE": "地域の潜在能力を最大限に引き出す準備はできていますか？",
         "SUBTITLE": "今すぐ Filo を使って、体験を高め、サーバーをプロフェッショナルにしましょう！",
         "INVITE": "やってみましょう！",
         "GETTING_STARTED": "入門編",
-        "DESCRIPTION": "今すぐ Filo を招待して、強力なモデレーションとコミュニティ強化機能で Discord 体験をスーパーチャージしましょう。"
+        "DESCRIPTION": "今すぐ Filo を招待して、強力なモデレーションとコミュニティ強化機能で Discord 体験をスーパーチャージしましょう"
     },
     "CALCULATOR": {
         "TITLE": "Filo のパーミッション計算機",
@@ -204,14 +204,14 @@
         "TITLE": "Filo のコミュニティへようこそ!",
         "SUBTITLE": "Filo を信頼することを決めていただき、大変感謝しております。",
         "DISCORD_REDIRECT_INFO": "Discord サーバーにリダイレクトされます。",
-        "DESCRIPTION": "Filo をあなたのコミュニティに加えていただき、感激しています。 Filo のパワーを体験してください。"
+        "DESCRIPTION": "Filo をあなたのコミュニティに加えていただき、感激しています。 Filo のパワーを体験してください"
     },
     "FOOTER": {
-        "HELPFUL_LINKS": "お役立ちリンク集",
+        "HELPFUL_LINKS": "お役立ちリンク",
         "IMPORTANT_LINKS": "重要なリンク",
         "ABOUT_FILO": "Filo について",
-        "ABOUT_FILO_DESCRIPTION": "Filo is a powerful multipurpose Discord bot serving Discord guilds since 2019. Featuring a wide range of admin and moderation modules to make things easier for you",
-        "COPYRIGHT": "Filobot © {{year}}. All rights reserved"
+        "ABOUT_FILO_DESCRIPTION": "Filo は、2019 年から Discord ギルドにサービスを提供している強力な多目的 Discord ボットです。あなたのために物事を簡単にするための幅広い管理およびモデレーションモジュールを備えています",
+        "COPYRIGHT": "Filobot ©{{year}} 。 すべての権利予約"
     },
     "GENERAL": {
         "BLOG": "ブログ",
@@ -293,11 +293,11 @@
             },
             "FIRST": {
                 "QUESTION": "Filo とは何ですか？ Discord コミュニティのために何ができますか？",
-                "ANSWER": "Filo は、コミュニティのモデレーションと管理を簡素化するために設計された強力な多目的 Discord ボットです。"
+                "ANSWER": "Filo は、コミュニティのモデレーションと管理を簡素化するために設計された強力な多目的 Discord ボットです"
             },
             "THIRD": {
                 "QUESTION": "Filo のサポートを受けたり、問題を報告したりするにはどうすればよいですか？",
-                "ANSWER": "私たちがお手伝いします！ご質問、ご不明な点がある場合、またはサポートが必要な場合は、サポートサーバーに参加するか、提供されているチャネルを通じて私たちのチームに連絡することができます。ユーザーの皆様にスムーズな体験をお約束します。"
+                "ANSWER": "私たちがお手伝いします！ご質問、ご不明な点がある場合、またはサポートが必要な場合は、サポートサーバーに参加するか、提供されているチャネルを通じて私たちのチームに連絡することができます。ユーザーの皆様にスムーズな体験をお約束します"
             },
             "FOURTH": {
                 "QUESTION": "Filo では、英語を母国語としないコミュニティに対する多言語サポートはありますか?",
@@ -305,19 +305,19 @@
             },
             "FIFTH": {
                 "QUESTION": "自分のコミュニティ固有のニーズに合わせて Filo のモデレーション設定をカスタマイズできますか？",
-                "ANSWER": "もちろんです！ Filo では、コミュニティのルールや要件に合わせてモデレーション設定をカスタマイズすることができます。フィルタと設定を微調整して、安全で居心地の良い環境を維持することができます。"
+                "ANSWER": "もちろんです！ Filo では、コミュニティのルールや要件に合わせてモデレーション設定をカスタマイズすることができます。フィルタと設定を微調整して、安全で居心地の良い環境を維持することができます"
             },
             "SIXTH": {
                 "QUESTION": "Filo がコミュニティ管理のために提供する主な機能は何ですか？",
-                "ANSWER": "Filo は、自動モデレーション、多言語サポート、メンバーカウント、スパム対策など、幅広い機能を提供しています。これらの機能は、コミュニティの機能性と安全性を高めます。"
+                "ANSWER": "Filo は、自動モデレーション、多言語サポート、メンバーカウント、スパム対策など、幅広い機能を提供しています。これらの機能は、コミュニティの機能性と安全性を高めます"
             },
             "SEVENTH": {
                 "QUESTION": "Filo は、私のコミュニティで安全で楽しい環境を維持するために、どのようなお手伝いができますか？",
-                "ANSWER": "Filo の機能には、スパム対策、外部リンクからの保護、コミュニティのセキュリティ管理などのツールが含まれており、コミュニティにポジティブで安全な Discord 体験を保証します。"
+                "ANSWER": "Filo の機能には、スパム対策、外部リンクからの保護、コミュニティのセキュリティ管理などのツールが含まれており、コミュニティにポジティブで安全な Discord 体験を保証します"
             },
             "EIGHTH": {
                 "QUESTION": "Filo の機能を既存のコミュニティ設定にシームレスに統合できますか、それとも複雑なプロセスが必要ですか？",
-                "ANSWER": "Filo は、ユーザーフレンドリーで、コミュニティに簡単に統合できるように設計されています。セットアップのプロセスは簡単で直感的です。"
+                "ANSWER": "Filo は、ユーザーフレンドリーで、コミュニティに簡単に統合できるように設計されています。セットアップのプロセスは簡単で直感的です"
             }
         },
         "TITLE": "よくある質問",
@@ -460,117 +460,117 @@
     },
     "TERMS_OF_SALES": {
         "DELIVERY": {
-            "TITLE": "Delivery",
+            "TITLE": "配送",
             "DELIVERY_OF_DIGITAL_PRODUCTS": {
-                "TITLE": "Delivery of Digital Products",
-                "FIRST_PARAGRAPH": "Unless otherwise specified, all products are delivered digitally. Digital products are delivered to the email address associated with your account for the Service.",
-                "SECOND_PARAGRAPH": "Delivery of digital products is subject to the availability of the product. Filo reserves the right to change the availability of any product at any time, without notice."
+                "TITLE": "デジタル製品の配信",
+                "FIRST_PARAGRAPH": "別段の定めがない限り、すべての商品はデジタル配信されます。デジタル製品は、本サービスのアカウントに関連付けられた電子メールアドレスに配信されます。",
+                "SECOND_PARAGRAPH": "デジタル製品の配送は、製品の在庫状況によって異なります。 Filo は、予告なくいつでも製品の在庫状況を変更する権利を留保します。"
             },
             "PERFORMED_SERVICES": {
-                "TITLE": "Performed Services",
-                "FIRST_PARAGRAPH": "Unless otherwise specified, all services are performed remotely. Services are performed at the time and date agreed upon by the user and Filo."
+                "TITLE": "実施サービス",
+                "FIRST_PARAGRAPH": "特に指定がない限り、すべてのサービスはリモートで実行されます。 サービスは、ユーザーと Filo が合意した日時に実行されます。"
             }
         },
         "CONTRACT_DURATION": {
-            "TITLE": "Contract Duration",
+            "TITLE": "契約期間",
             "SUBSCRIPTIONS": {
-                "TITLE": "Subscriptions",
-                "FIRST_PARAGRAPH": "Subscriptions are valid for the period of time indicated at the time of purchase. Details regarding the type of subscription and termination are provided below."
+                "TITLE": "サブスクリプション",
+                "FIRST_PARAGRAPH": "サブスクリプションは、購入時に指定された期間有効です。サブスクリプションの種類と終了に関する詳細は、以下に記載されています。"
             },
             "ONE_TIME_PURCHASES": {
-                "TITLE": "One-Time Purchases",
-                "FIRST_PARAGRAPH": "One-time purchases are valid for the period of time indicated at the time of purchase. Details regarding the type of subscription and termination are provided below."
+                "TITLE": "1回限りの購入",
+                "FIRST_PARAGRAPH": "1回限りの購入は、購入時に示された期間有効です。サブスクリプションの種類と終了に関する詳細は、以下に記載されています。"
             },
             "AUTOMATIC_RENEWAL": {
-                "TITLE": "Automatic Renewal",
-                "FIRST_PARAGRAPH": "Subscriptions automatically renew for the same period of time as the original subscription term. The renewal rate will be the same as the prior term's rate, unless Filo notifies you at least 30 days prior to the end of the subscription term. The renewal rate will be charged automatically to the payment method you have on file with Filo."
+                "TITLE": "自動更新",
+                "FIRST_PARAGRAPH": "サブスクリプションは、元のサブスクリプション期間と同じ期間自動的に更新されます。 Filo がサブスクリプション期間終了の少なくとも 30 日前に通知しない限り、更新料金は前の期間の料金と同じになります。 更新料金は、Filo に登録されている支払い方法に自動的に請求されます。"
             },
             "TERMINATION": {
-                "TITLE": "Termination",
-                "FIRST_PARAGRAPH": "Subscriptions can be terminated at any time, and you will continue to have access to the service through the end of the subscription period."
+                "TITLE": "終了",
+                "FIRST_PARAGRAPH": "サブスクリプションはいつでも終了することができ、サブスクリプション期間の終了までサービスを利用し続けることができます。"
             }
         },
-        "TITLE": "Terms of Sales",
-        "DESCRIPTION": "Our commitment is to ensure clarity and fairness throughout your journey with Filo.",
-        "EFFECTIVE": "Effective",
-        "LAST_UPDATED": "Last Updated",
+        "TITLE": "販売条件",
+        "DESCRIPTION": "私たちの取り組みは、Filo との旅全体を通して明確さと公平性を確保することです。",
+        "EFFECTIVE": "効果的",
+        "LAST_UPDATED": "最終更新日",
         "DATE": "{{month}}/{{day}}/{{year}}",
         "INTRODUCTION": {
-            "TITLE": "Introduction",
-            "FIRST_PARAGRAPH": "These Terms of Sales (\"Terms\") govern your access to and use of Filo, including any content, functionality, and services offered on or through Filo (the \"Services\").",
-            "SECOND_PARAGRAPH": "Remember that Filo is free to use, but we also offer a premium subscription plan that unlocks additional features. By using Filo, you accept and agree to be bound and abide by these Terms and our <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong>, incorporated herein by reference."
+            "TITLE": "はじめに",
+            "FIRST_PARAGRAPH": "本販売条件（「条件」）は、Filo 上で、または Filo を通じて提供されるコンテンツ、機能、およびサービス（「サービス」）を含む、 Filo へのアクセスおよび Filo の使用を規定します。",
+            "SECOND_PARAGRAPH": "Filo は無料で使用できますが、追加機能をアンロックするプレミアム購読プランも提供していることを忘れないでください。Filo を使用することにより、お客様は、本規約および当社の <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">プライバシーポリシー</a></strong> に拘束され、遵守することを承諾し、同意するものとします。"
         },
         "PAID_PRODUCTS": {
-            "TITLE": "Paid Products",
-            "FIRST_PARAGRAPH": "Some of the Products provided on Filo, as part of the Service, are provided on the basis of payment.",
-            "SECOND_PARAGRAPH": "By purchasing a subscription, you agree to pay Filo the monthly or annual subscription fees indicated for that service. Payments will be charged on a pre-pay basis on the day you sign up for a subscription and will cover the use of that service for a monthly or annual subscription period as indicated. Subscription fees can be refunded, more information about refunds can be found in the <strong><a href=\"{{url}}\">Refund Policy</a></strong> section.",
-            "THIRD_PARAGRAPH": "Unless you notify Filo before the end of the applicable subscription period that you want to cancel a subscription, your subscription will automatically renew and you authorize us to collect the then-applicable annual or monthly subscription fee for such subscription (as well as any taxes) using any credit card or another payment mechanism we have on record for you. Subscriptions can be canceled at any time, and you will continue to have access to the service through the end of the subscription period."
+            "TITLE": "有料商品",
+            "FIRST_PARAGRAPH": "本サービスの一環として Filo で提供される商品の一部は、支払いに基づいて提供されます。",
+            "SECOND_PARAGRAPH": "サブスクリプションを購入すると、そのサービスに対して示された月額または年額のサブスクリプション料金を Filo に支払うことに同意したことになります。 支払いは、サブスクリプションにサインアップした日に前払いベースで請求され、示されている月次または年次サブスクリプション期間中のサービスの使用がカバーされます。 サブスクリプション料金は返金できます。返金に関する詳細については、<strong><a href=\"{{url}}\">払い戻しポリシー</a></strong> をご覧ください。",
+            "THIRD_PARAGRAPH": "該当するサブスクリプション期間の終了前にサブスクリプションをキャンセルしたい旨を Filo に通知しない限り、サブスクリプションは自動的に更新され、お客様は当社が当該サブスクリプションに対してその時点で適用される年間または月額サブスクリプション料金 (および税金) を徴収することを承認します。 クレジット カードまたは当社がお客様のために記録している別の支払いメカニズムを使用します。 サブスクリプションはいつでもキャンセルでき、サブスクリプション期間の終了までサービスに引き続きアクセスできます。"
         },
         "PRODUCT_DESCRIPTIONS": {
-            "TITLE": "Product Descriptions",
-            "FIRST_PARAGRAPH": "Filo attempts to be as accurate as possible. However, Filo does not warrant that product descriptions or other content of any Filo Service is accurate, complete, reliable, current, or error-free. If a product offered by Filo itself is not as described, your sole remedy is to cancel your subscription.",
-            "SECOND_PARAGRAPH": "Descriptions of the products are subject to change without notice, at the sole discretion of Filo.",
-            "THIRD_PARAGRAPH": "Filo reserves the right, at any time, to modify, suspend, or discontinue the sale of any product with or without notice.",
-            "FOURTH_PARAGRAPH": "Filo shall not be liable to you or to any third-party for any modification, price change, suspension, or discontinuance of the sale of any product."
+            "TITLE": "商品説明",
+            "FIRST_PARAGRAPH": "Filo はできるだけ正確に表現しようと努めています。 ただし、Filo は、Filo サービスの製品説明またはその他のコンテンツが正確、完全、信頼性があり、最新であるか、エラーがないことを保証しません。 Filo 自体が提供する製品が説明と異なる場合、唯一の救済策はサブスクリプションをキャンセルすることです。",
+            "SECOND_PARAGRAPH": "製品の説明は、Filo の独自の裁量により、予告なく変更される場合があります。",
+            "THIRD_PARAGRAPH": "Filo は、予告の有無にかかわらず、いつでも製品を変更、一時停止、または販売中止する権利を留保します。",
+            "FOURTH_PARAGRAPH": "Filo は、製品の変更、価格変更、一時停止、販売中止について、お客様または第三者に対して責任を負わないものとします。"
         },
         "PAYMENT_METHODS": {
             "LIST": {
-                "FOURTH_ELEMENT": "Other Payment Methods.",
-                "FIRST_ELEMENT": "Credit Card.",
-                "SECOND_ELEMENT": "Debit Card.",
-                "THIRD_ELEMENT": "PayPal."
+                "FOURTH_ELEMENT": "その他の支払い方法。",
+                "FIRST_ELEMENT": "クレジットカード。",
+                "SECOND_ELEMENT": "デビットカード。",
+                "THIRD_ELEMENT": "ペイパル。"
             },
-            "TITLE": "Payment Methods",
-            "FIRST_PARAGRAPH": "Filo accepts the following payment methods:",
-            "SECOND_PARAGRAPH": "The payment methods available to you may change depending on your country or region.",
-            "THIRD_PARAGRAPH": "By submitting an order, you represent and warrant that you are authorized to use the designated payment method and authorize us, or our third-party payment processor, to charge your order (including taxes, delivery fees, customs fees, import fees, and other applicable fees) to that payment method. If the payment method cannot be verified, is invalid, or is otherwise not acceptable, your order may be suspended or canceled.",
-            "FOURTH_PARAGRAPH": "You must resolve any problem we encounter in order to proceed with your order.",
-            "FIFTH_PARAGRAPH": "All payments are processed by third-party payment processors. By submitting an order, you agree to be bound by the terms of service and privacy policy of the third-party payment processor."
+            "TITLE": "支払い方法",
+            "FIRST_PARAGRAPH": "Filo は以下のお支払い方法をご利用いただけます：",
+            "SECOND_PARAGRAPH": "ご利用いただけるお支払い方法は、お住まいの国や地域によって異なる場合があります。",
+            "THIRD_PARAGRAPH": "注文を送信することにより、お客様は、指定された支払方法を使用する権限があることを表明し、保証し、当社または当社の第三者支払処理業者がお客様の注文（税金、配送料、通関手数料、輸入手数料、およびその他の適用される手数料を含む）をその支払方法に請求することを承認するものとします。支払方法が確認できない場合、無効な場合、またはその他の方法で承認されない場合、お客様の注文は中断またはキャンセルされることがあります。",
+            "FOURTH_PARAGRAPH": "注文を続行するためには、当社が遭遇した問題を解決する必要があります。",
+            "FIFTH_PARAGRAPH": "すべての支払いは、第三者の支払処理業者によって処理されます。注文を送信することにより、お客様は第三者の支払処理業者のサービス利用規約およびプライバシーポリシーに拘束されることに同意するものとします。"
         },
         "PURCHASE_OF_PRODUCTS": {
-            "TITLE": "Purchase of Products",
-            "FIRST_PARAGRAPH": "By purchasing a product, you agree to pay Filo the one-time and/or monthly or annual subscription fees indicated (additional payment terms may be included in other communications). Subscription payments will be charged on a pre-pay basis on the day you sign up for an Upgrade and will cover the use of that service for a monthly or annual subscription period as indicated. Payments are refundable, more information about refunds can be found in the <strong><a href=\"{{url}}\">Refund Policy</a></strong> section."
+            "TITLE": "商品購入",
+            "FIRST_PARAGRAPH": "製品を購入することにより、示されている 1 回限りのおよび/または毎月または年間のサブスクリプション料金を Filo に支払うことに同意したことになります (追加の支払い条件が他の通信に含まれる場合があります)。 サブスクリプションの支払いは、アップグレードにサインアップした日に前払いベースで請求され、示されている月次または年次のサブスクリプション期間におけるサービスの使用がカバーされます。 支払いは返金可能です。返金に関する詳細については、 <strong><a href=\"{{url}}\">払い戻しポリシー</a></strong> をご覧ください。"
         },
         "PURCHASE_PROCESS": {
-            "TITLE": "Purchase Process",
-            "FIRST_PARAGRAPH": "The purchase process is as follows:",
+            "TITLE": "購入プロセス",
+            "FIRST_PARAGRAPH": "購入の流れは以下の通り：",
             "LIST": {
-                "FIRST_ELEMENT": "Users select the product they want to purchase.",
-                "SECOND_ELEMENT": "Users are redirected to the payment page.",
-                "THIRD_ELEMENT": "Users complete the payment process.",
-                "FOURTH_ELEMENT": "Users receive the product."
+                "FIRST_ELEMENT": "ユーザーは購入したい商品を選択する。",
+                "SECOND_ELEMENT": "ユーザーは支払いページにリダイレクトされます。",
+                "THIRD_ELEMENT": "利用者は支払い手続きを完了する。",
+                "FOURTH_ELEMENT": "ユーザーは製品を受け取る。"
             }
         },
         "ORDER_SUBMISSION": {
-            "TITLE": "Order Submission",
-            "FIRST_PARAGRAPH": "When you complete the purchase process, you are making an offer to purchase the product from Filo. Your offer is accepted and a contract is formed between Filo and you when Filo sends you an notification confirming that your order has been accepted and the product has been delivered.",
-            "SECOND_PARAGRAPH": "Filo reserves the right to reject any offer to purchase by you at any time and for any reason."
+            "TITLE": "注文の提出",
+            "FIRST_PARAGRAPH": "購入プロセスを完了すると、Filo から製品の購入を申し出たことになります。 あなたの注文が受理され、製品が配達されたことを確認する通知を Filo が送信した時点で、あなたのオファーは受け入れられ、Filo とあなたとの間で契約が成立します。",
+            "SECOND_PARAGRAPH": "Filo は、いつでも理由の如何を問わず、お客様による購入の申し出を拒否する権利を留保します。"
         },
         "PRICES": {
-            "TITLE": "Prices",
-            "FIRST_PARAGRAPH": "Users are responsible for paying all fees and applicable taxes associated with the purchase of the product. Including but not limited to:",
+            "TITLE": "価格",
+            "FIRST_PARAGRAPH": "利用者は、製品の購入に関連するすべての手数料および適用される税金を支払う責任を負うものとします。以下を含みますが、これに限定されません：",
             "LIST": {
-                "FIRST_ELEMENT": "Value Added Tax (VAT).",
-                "SECOND_ELEMENT": "Delivery fees.",
-                "THIRD_ELEMENT": "Customs fees.",
-                "FOURTH_ELEMENT": "Import fees.",
-                "FIFTH_ELEMENT": "Other taxes."
+                "FIRST_ELEMENT": "付加価値税（VAT）。",
+                "SECOND_ELEMENT": "配送料。",
+                "THIRD_ELEMENT": "通関手数料。",
+                "FOURTH_ELEMENT": "輸入手数料。",
+                "FIFTH_ELEMENT": "その他の税金。"
             }
         },
         "RETENTION_OF_PRODUCT_OWNERSHIP": {
-            "TITLE": "Retention of Product Ownership",
-            "FIRST_PARAGRAPH": "Products purchased from Filo are owned by Filo until the product is delivered to the user.",
-            "SECOND_PARAGRAPH": "Once the product is delivered to the user, the user becomes the owner of the product."
+            "TITLE": "製品所有権の保持",
+            "FIRST_PARAGRAPH": "Filo から購入した商品は、ユーザーに引き渡されるまでは Filo が所有します。",
+            "SECOND_PARAGRAPH": "製品がユーザーに引き渡されると、ユーザーはその製品の所有者となる。"
         },
         "RETENTION_OF_USAGE_RIGHTS": {
-            "TITLE": "Retention of Usage Rights",
-            "FIRST_PARAGRAPH": "Users don't acquire any rights to use the purchased Product until the total purchase price is received by the Owner."
+            "TITLE": "利用権の保持",
+            "FIRST_PARAGRAPH": "利用者は、購入代金の全額がオーナーに入金されるまで、購入した商品を使用する権利を取得しないものとします。"
         },
         "REFUND_POLICY": {
-            "TITLE": "Refund Policy",
-            "FIRST_PARAGRAPH": "Subscriptions can be refunded within 5 days of the purchase date. Keep in mind that refunds are not guaranteed and are subject to the sole discretion of Filo.",
-            "SECOND_PARAGRAPH": "Filo reserves the right to refuse a refund request if we find that the request is fraudulent or if we find that the user is abusing the refund policy.",
-            "THIRD_PARAGRAPH": "Refunds are a One-Time-Only offer. If you request a refund for a subscription, you will not be able to request a refund for the same subscription again."
+            "TITLE": "返金ポリシー",
+            "FIRST_PARAGRAPH": "サブスクリプションは購入日から 5 日以内であれば返金できます。 返金は保証されず、Filo の独自の裁量に従うことに注意してください。",
+            "SECOND_PARAGRAPH": "Filo は、リクエストが不正であると判明した場合、またはユーザーが返金ポリシーを悪用していると判明した場合、返金リクエストを拒否する権利を留保します。",
+            "THIRD_PARAGRAPH": "払い戻しは1回限りです。払い戻しを請求された場合、再度同じサブスクリプションの払い戻しを請求することはできません。"
         }
     },
     "META": {
@@ -625,7 +625,7 @@
     },
     "PRIVACY_POLICY": {
         "TITLE": "プライバシーポリシー",
-        "DESCRIPTION": "お客様のプライバシーは当社にとって重要です。当社のプライバシーポリシーのページでは、お客様がフィロとやり取りする際に当社がどのようにお客様のデータを収集、使用、保護するかについて概説しています。",
+        "DESCRIPTION": "お客様のプライバシーは当社にとって重要です。当社のプライバシーポリシーのページでは、お客様がフィロとやり取りする際に当社がどのようにお客様のデータを収集、使用、保護するかについて概説しています",
         "EFFECTIVE": "効果的",
         "LAST_UPDATED": "最終更新日",
         "DATE": "{{month}}/{{day}}/{{year}}",
@@ -635,19 +635,19 @@
         },
         "TYPES_OF_DATA_COLLECTED": {
             "TITLE": "収集したデータの種類",
-            "FIRST_PARAGRAPH": "フィロが自らまたは第三者を通じて収集する個人データの種類には、以下のものがあります：トラッカー、使用データ、ユーザー名、サーバー。",
+            "FIRST_PARAGRAPH": "Filo が独自または第三者を通じて収集する個人データの種類には、次のものがあります。 使用状況データ。 ユーザー名; サーバ。",
             "SECOND_PARAGRAPH": "収集される個人データの各タイプに関する完全な詳細は、本プライバシーポリシーの専用セクション、またはデータ収集の前に表示される特定の説明テキストで提供されます。",
             "THIRD_PARAGRAPH": "個人データは、ユーザーによって自由に提供されるか、または使用データの場合は、Filo の使用時に自動的に収集されます。",
-            "FOURTH_PARAGRAPH": "別段の定めがない限り、フィロが要求するすべてのデータは必須であり、このデータを提供しない場合、フィロがサービスを提供できなくなる可能性があります。フィロが一部のデータが必須ではないことを明示している場合、利用者は、サービスの可用性または機能に影響を及ぼすことなく、このデータを伝達しない自由があります。",
-            "FIFTH_PARAGRAPH": "どの個人データが必須であるかわからないユーザーは、所有者に問い合わせることを歓迎します。<br>Filo または Filo が使用するサードパーティ サービスの所有者による Cookie またはその他の追跡ツールの使用は、次の目的を果たします。 本文書および本書に記載されているその他の目的に加えて、ユーザーが必要とするサービス <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">クッキーポリシー</a></strong>.",
-            "SIXTH_PARAGRAPH": "ユーザーは、フィロを通じて取得、公開、または共有される第三者の個人データについて責任を負うものとします。"
+            "FOURTH_PARAGRAPH": "別段の指定がない限り、Filo が要求するすべてのデータは必須であり、このデータを提供しないと、Filo がサービスを提供できなくなる可能性があります。 一部のデータは必須ではないと Filo が明確に述べた場合、ユーザーは、サービスの可用性または機能に影響を与えることなく、このデータを通信しない自由があります。",
+            "FIFTH_PARAGRAPH": "どの個人データが必須であるかわからないユーザーは、所有者に問い合わせることを歓迎します。<br>Filo または Filo が使用するサードパーティ サービスの所有者による Cookie またはその他の追跡ツールの使用は、次の目的を果たします。 本文書および <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Cookie ポリシー</a></strong> に記載されているその他の目的に加えて、ユーザーが必要とするサービス。",
+            "SIXTH_PARAGRAPH": "ユーザーは、Filo を通じて取得、公開、または共有されたサードパーティの個人データに対して責任を負います。"
         },
         "MODE_AND_PLACE_OF_PROCESSING_THE_DATA": {
             "TITLE": "データ処理の方法および場所",
             "METHODS_OF_PROCESSING": {
                 "TITLE": "加工方法",
                 "FIRST_PARAGRAPH": "所有者は、データへの不正アクセス、開示、変更、または不正破棄を防止するために、適切なセキュリティ対策を講じるものとします。",
-                "SECOND_PARAGRAPH": "データ処理は、コンピュータおよび/またはITツールを使用して、指示された目的に厳密に関連する組織的手順および様式に従って行われます。場合によっては、管理者に加えて、フィロの運営に関与する特定の種類の担当者（管理、営業、マーケティング、法務、システム管理）または管理者がデータ処理者として任命した外部の関係者（第三者の技術サービスプロバイダー、メールキャリア、ホスティングプロバイダー、IT企業、通信代理店など）がデータにアクセスできることがあります。これらの関係者の最新のリストは、いつでも管理者に請求することができます。"
+                "SECOND_PARAGRAPH": "データ処理は、指定された目的に厳密に関連する組織手順およびモードに従って、コンピューターおよび/または IT 対応ツールを使用して実行されます。 場合によっては、所有者に加えて、Filo の運営に関わる特定の種類の担当者 (管理、営業、マーケティング、法務、システム管理) または外部関係者 (サードパーティなど) がデータにアクセスできる場合があります。 必要に応じて、所有者によってデータ処理者として任命されたテクニカル サービス プロバイダー、メール キャリア、ホスティング プロバイダー、IT 企業、通信機関など）。 これらの当事者の更新されたリストは、いつでも所有者に要求できます。"
             },
             "LEGAL_BASIS_OF_PROCESSING": {
                 "TITLE": "処理の法的根拠",
@@ -738,181 +738,181 @@
             "FIRST_PARAGRAPH": "個人情報は、以下の目的で、以下のサービスを利用して収集されます：",
             "ADVERTISING": {
                 "TITLE": "広告",
-                "FIRST_PARAGRAPH": "この種のサービスでは、バナーやその他の広告の形でFilo上に表示される広告コミュニケーションの目的で、場合によってはユーザーの関心に基づいてユーザーデータを利用することができます。",
+                "FIRST_PARAGRAPH": "このタイプのサービスでは、おそらくユーザーの興味に基づいて、Filo 上にバナーやその他の広告の形で表示される広告コミュニケーション目的でユーザー データを利用することができます。",
                 "SECOND_PARAGRAPH": "これは、すべての個人データがこの目的のために利用されることを意味するものではありません。利用目的は以下の通りです。",
-                "THIRD_PARAGRAPH": "以下のサービスの中には、Cookieを使用してユーザーを識別するものや、行動ターゲティング手法（フィーロ以外で検出されたものも含め、ユーザーの興味や行動に合わせた広告を表示する手法）を使用するものがあります。詳細については、関連するサービスのプライバシーポリシーをご確認ください。",
+                "THIRD_PARAGRAPH": "以下にリストされているサービスの一部は、ユーザーを識別するために Cookie を使用する場合や、行動リターゲティング技術を使用する場合があります。つまり、Filo の外部で検出されたものも含め、ユーザーの興味や行動に合わせた広告を表示する場合があります。 詳細については、関連サービスのプライバシー ポリシーをご確認ください。",
                 "FOURTH_PARAGRAPH": "以下のサービスのいずれかによって提供されるオプトアウトに加えて、ユーザーは、 <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Network Advertising Initiative のオプトアウト ページ</a></strong>.",
                 "GOOGLE_ADSENSE": {
                     "TITLE": "Google AdSense (Google Inc.)",
-                    "FIRST_PARAGRAPH": "Google AdSense is an advertising service provided by Google Inc. This service uses the \"Doubleclick\" Cookies, which tracks use of Filo and User behavior concerning ads, products and services offered.",
-                    "SECOND_PARAGRAPH": "Users may decide to disable all the Doubleclick Cookies by clicking on: <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">myadcenter.google.com/controls</a></strong>.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Cookies and Usage Data.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Opt Out</a></strong>."
+                    "FIRST_PARAGRAPH": "Google AdSense は、 Google Inc. が提供する広告サービスです。このサービスは「ダブルクリック」 Cookie を使用しており、 Filo の利用状況や広告、製品、提供サービスに関するユーザーの行動を追跡します。",
+                    "SECOND_PARAGRAPH": "ユーザーは、次をクリックしてすべての Doubleclick Cookie を無効にすることができます： <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">myadcenter.google.com/controls</a></strong>.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>収集される個人データ</strong>： クッキーと利用データ。",
+                    "PLACE_OF_PROCESSING": "<strong>加工場所</strong>： アメリカ – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">プライバシーポリシー</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">身を引く</a></strong>."
                 },
                 "GOOGLE_AD_MANAGER": {
                     "TITLE": "Google Ad Manager (Google Inc.)",
-                    "FIRST_PARAGRAPH": "Google Ad Manager is an advertising service provided by Google Inc. that allows the Owner to run advertising campaigns in conjunction with external advertising networks that the Owner, unless otherwise specified in this document, has no direct relationship with. In order to opt out from being tracked by various advertising networks, Users may make use of <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Your Online Choices</a></strong>. In order to understand Google's use of data, consult Google's partner policy.",
-                    "SECOND_PARAGRAPH": "This service uses the \"DoubleClick\" Cookies, which tracks use of Filo and User behavior concerning ads, products and services offered.",
-                    "THITD_PARAGRAPH": "Users may decide to disable all the DoubleClick Cookies by clicking on: <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">myadcenter.google.com/controls</a></strong>.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Cookies and Usage Data.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Opt Out</a></strong>."
+                    "FIRST_PARAGRAPH": "Google Ad Manager は、Google Inc. が提供する広告サービスであり、管理者が外部の広告ネットワークと連携して広告キャンペーンを行うことを可能にします。様々な広告ネットワークによる追跡をオプトアウトするために、利用者は <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">オンラインでの選択肢</a></strong> を利用することができます。Google によるデータの使用について理解するには、Google のパートナーポリシーを参照してください。",
+                    "SECOND_PARAGRAPH": "このサービスは、広告、製品、および提供されるサービスに関する Filo の使用およびユーザーの行動を追跡する「DoubleClick」Cookie を使用しています。",
+                    "THITD_PARAGRAPH": "ユーザーは、次をクリックしてすべての Doubleclick Cookie を無効にすることができます： <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">myadcenter.google.com/controls</a></strong>.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>収集される個人データ</strong>： クッキーと利用データ。",
+                    "PLACE_OF_PROCESSING": "<strong>加工場所</strong>： アメリカ – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">プライバシーポリシー</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">身を引く</a></strong>."
                 },
                 "GOOGLE_ADS_CONVERSION_TRACKING": {
                     "TITLE": "Google Ads conversion tracking (Google Inc.)",
-                    "FIRST_PARAGRAPH": "Google Ads conversion tracking is an analytics service provided by Google Inc. that connects data from the Google Ads advertising network with actions performed on Filo.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Cookies and Usage Data.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Opt Out</a></strong>."
+                    "FIRST_PARAGRAPH": "Google Ads のコンバージョントラッキングは、Google Inc. が提供する分析サービスであり、Google Ads の広告ネットワークからのデータと Filo 上で実行されたアクションを結びつけるものです。",
+                    "PERSONAL_DATA_COLLECTED": "<strong>収集される個人データ</strong>： クッキーと利用データ。",
+                    "PLACE_OF_PROCESSING": "<strong>加工場所</strong>： アメリカ – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">プライバシーポリシー</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">身を引く</a></strong>."
                 }
             },
             "ANALYTICS": {
-                "TITLE": "Analytics",
-                "FIRST_PARAGRAPH": "The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.",
+                "TITLE": "アナリティクス",
+                "FIRST_PARAGRAPH": "このセクションに含まれるサービスは、管理者がウェブトラフィックを監視および分析することを可能にし、ユーザーの行動を追跡するために使用することができます。",
                 "GOOGLE_ANALYTICS": {
                     "TITLE": "Google Analytics (Google Inc.)",
-                    "FIRST_PARAGRAPH": "Google Analytics is a web analysis service provided by Google Inc. (\"Google\"). Google utilizes the Data collected to track and examine the use of Filo, to prepare reports on its activities and share them with other Google services.",
-                    "SECOND_PARAGRAPH": "Google may use the Data collected to contextualize and personalize the ads of its own advertising network.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Cookies and Usage Data.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Opt Out</a></strong>."
+                    "FIRST_PARAGRAPH": "Google Analytics は、Google Inc.（以下「Google」）が提供するウェブ解析サービスです。Google は、収集したデータを使用して、Filo の使用を追跡および調査し、その活動に関するレポートを作成し、他の Google サービスと共有します。",
+                    "SECOND_PARAGRAPH": "Google は、収集したデータを使用して、自社の広告ネットワークの広告を文脈に合わせてパーソナライズすることがあります。",
+                    "PERSONAL_DATA_COLLECTED": "<strong>収集される個人データ</strong>： クッキーと利用データ。",
+                    "PLACE_OF_PROCESSING": "<strong>加工場所</strong>： アメリカ – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">プライバシーポリシー</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">身を引く</a></strong>."
                 }
             },
             "CHAT_SUPPORT": {
-                "TITLE": "Chat support",
-                "FIRST_PARAGRAPH": "This type of service allows Users to interact with third-party live chat platforms directly from the pages of Filo, for contacting and being contacted by Filo support service.",
+                "TITLE": "チャットサポート",
+                "FIRST_PARAGRAPH": "この種類のサービスにより、ユーザーは、Filo サポートサービスに連絡したり、Filo サポートサービスから連絡を受けたりするために、Filo のページからサードパーティのライブチャットプラットフォームと直接対話することができます。",
                 "CHATWOOT": {
                     "TITLE": "Chatwoot (Chatwoot Inc.)",
-                    "FIRST_PARAGRAPH": "Chatwoot is a chat support service provided by Chatwoot Inc.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Cookies; Data communicated while using the service; Usage Data.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong>."
+                    "FIRST_PARAGRAPH": "Chatwoot は Chatwoot Inc. が提供するチャットサポートサービスです。",
+                    "PERSONAL_DATA_COLLECTED": "<strong>収集される個人データ</strong>：クッキー（Cookies）; サービス利用中に通信されたデータ; 利用データ。",
+                    "PLACE_OF_PROCESSING": "<strong>処理場所</strong>： アメリカ <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">プライバシーポリシー</a></strong>."
                 }
             },
             "DISPLAYING_CONTENT_FROM_EXTERNAL_PLATFORMS": {
-                "TITLE": "Displaying content from external platforms",
-                "FIRST_PARAGRAPH": "This type of service allows you to view content hosted on external platforms directly from the pages of Filo and interact with them.",
-                "SECOND_PARAGRAPH": "This type of service might still collect web traffic data for the pages where the service is installed, even when Users do not use it.",
+                "TITLE": "外部プラットフォームからのコンテンツ表示",
+                "FIRST_PARAGRAPH": "このタイプのサービスでは、Filo のページから外部のプラットフォームでホストされているコンテンツを直接表示し、それらと対話することができます。",
+                "SECOND_PARAGRAPH": "この種のサービスは、利用者がサービスを使用していない場合でも、サービスがインストールされているページのウェブトラフィックデータを収集する可能性があります。",
                 "STATUSPAGE": {
                     "TITLE": "Statuspage widget (Atlassian Pty Ltd)",
-                    "FIRST_PARAGRAPH": "Statuspage widget is a content visualization service provided by Atlassian Pty Ltd that allows Filo to incorporate content of this kind on its pages.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Tracker and Usage Data.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong>."
+                    "FIRST_PARAGRAPH": "Statuspage ウィジェットは、Atlassian Pty Ltd が提供するコンテンツ視覚化サービスで、Filo のページにこの種のコンテンツを組み込むことができます。",
+                    "PERSONAL_DATA_COLLECTED": "<strong>収集される個人データ</strong>：トラッカーと利用データ。",
+                    "PLACE_OF_PROCESSING": "<strong>処理場所</strong>： アメリカ <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">プライバシーポリシー</a></strong>."
                 }
             },
             "HOSTING_AND_BACKEND_INFRASTRUCTURE": {
-                "TITLE": "Hosting and backend infrastructure",
-                "FIRST_PARAGRAPH": "This type of service has the purpose of hosting Data and files that enable Filo to run and be distributed as well as to provide a ready-made infrastructure to run specific features or parts of Filo. Some of these services work through geographically distributed servers, making it difficult to determine the actual location where the Personal Data are stored.",
+                "TITLE": "ホスティングとバックエンド・インフラ",
+                "FIRST_PARAGRAPH": "この種のサービスは、Filo の実行および配布を可能にするデータおよびファイルをホスティングすること、ならびに Filo の特定の機能または部分を実行するための既製のインフラストラクチャを提供することを目的としています。これらのサービスの一部は、地理的に分散されたサーバーを介して動作するため、個人データが保存されている実際の場所を特定することは困難です。",
                 "GALAXYGATE": {
                     "TITLE": "GalaxyGate (GalaxyGate LLC)",
-                    "FIRST_PARAGRAPH": "GalaxyGate is a hosting and backend service provided by GalaxyGate LLC.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: various types of Data as specified in the privacy policy of the service.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong>."
+                    "FIRST_PARAGRAPH": "GalaxyGate は GalaxyGate LLC が提供するホスティングおよびバックエンドサービスです。",
+                    "PERSONAL_DATA_COLLECTED": "<strong>収集される個人データ</strong>： サービスのプライバシーポリシーに明記されている様々な種類のデータ。",
+                    "PLACE_OF_PROCESSING": "<strong>処理場所</strong>： アメリカ <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">プライバシーポリシー</a></strong>."
                 },
                 "GOOGLE_CLOUD_PLATFORM": {
                     "TITLE": "Google Cloud Platform (Google Inc.)",
-                    "FIRST_PARAGRAPH": "Google Cloud Platform is a hosting and backend service provided by Google Inc.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: various types of Data as specified in the privacy policy of the service.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong>."
+                    "FIRST_PARAGRAPH": "Google Cloud Platform は、Google Inc. が提供するホスティングとバックエンドのサービスである。",
+                    "PERSONAL_DATA_COLLECTED": "<strong>収集される個人データ</strong>： サービスのプライバシーポリシーに明記されている様々な種類のデータ。",
+                    "PLACE_OF_PROCESSING": "<strong>処理場所</strong>： アメリカ <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">プライバシーポリシー</a></strong>."
                 },
                 "ORACLE_CLOUD": {
                     "TITLE": "Oracle Cloud (Oracle Corporation)",
-                    "FIRST_PARAGRAPH": "Oracle Cloud is a hosting and backend service provided by Oracle Corporation.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: various types of Data as specified in the privacy policy of the service.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong>."
+                    "FIRST_PARAGRAPH": "Oracle Cloud は、Oracle Corporation が提供するホスティングおよびバックエンド サービスです。",
+                    "PERSONAL_DATA_COLLECTED": "<strong>収集される個人データ</strong>： サービスのプライバシーポリシーに明記されている様々な種類のデータ。",
+                    "PLACE_OF_PROCESSING": "<strong>処理場所</strong>： アメリカ <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">プライバシーポリシー</a></strong>."
                 }
             },
             "INFRASTRUCTURE_MONITORING": {
-                "TITLE": "Infrastructure monitoring",
-                "FIRST_PARAGRAPH": "This type of service allows Filo to monitor the use and behavior of its components so its performance, operation, maintenance and troubleshooting can be improved.",
-                "SECOND_PARAGRAPH": "Which Personal Data are processed depends on the characteristics and mode of implementation of these services, whose function is to filter the activities of Filo.",
+                "TITLE": "インフラ監視",
+                "FIRST_PARAGRAPH": "この種のサービスにより、Filo はコンポーネントの使用と動作を監視できるため、パフォーマンス、操作、メンテナンス、トラブルシューティングを改善することができます。",
+                "SECOND_PARAGRAPH": "どの個人データが処理されるかは、Filo のアクティビティをフィルタリングする機能を持つこれらのサービスの特性と実装モードによって異なります。",
                 "SENTRY": {
                     "TITLE": "Sentry (Functional Software Inc.)",
-                    "FIRST_PARAGRAPH": "Sentry is a monitoring service provided by Functional Software Inc.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Tracker and Usage Data.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong>."
+                    "FIRST_PARAGRAPH": "Sentry は Functional Software Inc. が提供するモニタリングサービスです。",
+                    "PERSONAL_DATA_COLLECTED": "<strong>収集される個人データ</strong>：トラッカーと利用データ。",
+                    "PLACE_OF_PROCESSING": "<strong>処理場所</strong>： アメリカ <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">プライバシーポリシー</a></strong>."
                 }
             },
             "INTERACTION_WITH_EXTERNAL_SOCIAL_NETWORKS_AND_PLATFORMS": {
-                "TITLE": "Interaction with external social networks and platforms",
-                "FIRST_PARAGRAPH": "This type of service allows interaction with social networks or other external platforms directly from the pages of Filo.",
-                "SECOND_PARAGRAPH": "The interaction and information obtained through Filo are always subject to the User's privacy settings for each social network.",
-                "THIRD_PARAGRAPH": "This type of service might still collect traffic data for the pages where the service is installed, even when Users do not use it.",
-                "FOURTH_PARAGRAPH": "It is recommended to log out from the respective services in order to make sure that the processed data on Filo isn't being connected back to the User's profile.",
+                "TITLE": "外部のソーシャル・ネットワークやプラットフォームとの交流",
+                "FIRST_PARAGRAPH": "このタイプのサービスでは、Filo のページからソーシャルネットワークやその他の外部プラットフォームと直接やり取りすることができます。",
+                "SECOND_PARAGRAPH": "Filo を通じて得られる交流および情報は、各ソーシャルネットワークにおけるユーザーのプライバシー設定に常に従うものとします。",
+                "THIRD_PARAGRAPH": "この種のサービスは、利用者がサービスを利用していない場合でも、サービスがインストールされているページのトラフィックデータを収集する場合があります。",
+                "FOURTH_PARAGRAPH": "Filo 上の処理されたデータがユーザーのプロファイルに接続されていないことを確認するために、それぞれのサービスからログアウトすることをお勧めします。",
                 "DISCORD_WIDGET": {
-                    "TITLE": "Discord button and social widgets (Discord Inc.)",
-                    "FIRST_PARAGRAPH": "The Discord button and social widgets are services allowing interaction with the Discord social network provided by Discord Inc.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Cookies and Usage Data.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong>."
+                    "TITLE": "Discord ボタンとソーシャルウィジェット （Discord Inc.）",
+                    "FIRST_PARAGRAPH": "Discord ボタンおよびソーシャルウィジェットは、Discord Inc. が提供する Discord ソーシャルネットワークとの交流を可能にするサービスです。",
+                    "PERSONAL_DATA_COLLECTED": "<strong>収集される個人データ</strong>： クッキーと利用データ。",
+                    "PLACE_OF_PROCESSING": "<strong>処理場所</strong>： アメリカ <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">プライバシーポリシー</a></strong>."
                 }
             },
             "REGISTRATION_AND_AUTHENTICATION": {
-                "TITLE": "Registration and authentication",
-                "FIRST_PARAGRAPH": "By registering or authenticating, Users allow Filo to identify them and give them access to dedicated services.",
-                "SECOND_PARAGRAPH": "Depending on what is described below, third parties may provide registration and authentication services. In this case, Filo will be able to access some Data, stored by these third-party services, for registration or identification purposes.",
+                "TITLE": "登録と認証",
+                "FIRST_PARAGRAPH": "登録または認証することにより、ユーザーは、Filo がユーザーを識別し、専用のサービスにアクセスできるようになります。",
+                "SECOND_PARAGRAPH": "以下に説明する内容に応じて、サードパーティが登録および認証サービスを提供する場合があります。 この場合、Filo は登録または識別の目的で、これらのサードパーティのサービスによって保存された一部のデータにアクセスできるようになります。",
                 "DISCORD_AUTH": {
-                    "TITLE": "Discord Authentication (Discord Inc.)",
-                    "FIST_PARAGRAPH": "Discord Authentication is a registration and authentication service provided by Discord Inc. and is connected to the Discord network."
+                    "TITLE": "Discord 認証 （Discord Inc.）",
+                    "FIST_PARAGRAPH": "Discord 認証 は、Discord Inc. が提供する、Discord ネットワークに接続された登録および認証サービスです。"
                 }
             },
             "REMARKETING_AND_BEHAVIORAL_TARGETING": {
-                "TITLE": "Remarketing and behavioral targeting",
-                "FIRST_PARAGRAPH": "This type of service allows Filo and its partners to inform, optimize and serve advertising based on past use of Filo by the User.",
-                "SECOND_PARAGRAPH": "This activity is performed by tracking Usage Data and by using Cookies, information that is transferred to the partners that manage the remarketing and behavioral targeting activity.",
-                "THIRD_PARAGRAPH": "In addition to any opt-out offered by any of the services below, the User may opt out of a third-party service's use of cookies by visiting the <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Network Advertising Initiative opt-out page</a></strong>.",
+                "TITLE": "リマーケティングと行動ターゲティング",
+                "FIRST_PARAGRAPH": "この種のサービスにより、Filo およびそのパートナーは、ユーザーによる過去の Filo の使用に基づいて、情報を提供し、最適化し、広告を提供することができます。",
+                "SECOND_PARAGRAPH": "この活動は、利用データを追跡し、クッキーを使用することによって行われ、その情報は、リマーケティングおよび行動ターゲティング活動を管理するパートナーに転送されます。",
+                "THIRD_PARAGRAPH": "以下のサービスのいずれかによって提供されるオプトアウトに加えて、ユーザーは、 <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Network Advertising Initiative のオプトアウト ページ</a></strong>.",
                 "GOOGLE_ADS_REMARKETING": {
                     "TITLE": "Google Ads Remarketing (Google Inc.)",
-                    "FIRST_PARAGRAPH": "Google Ads Remarketing is a remarketing and behavioral targeting service provided by Google Inc. that connects the activity of Filo with the Google Ads advertising network and the DoubleClick Cookies.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Cookies and Usage Data.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Opt Out</a></strong>."
+                    "FIRST_PARAGRAPH": "Google Ads Remarketingは、Google Inc. が提供するリマーケティングおよび行動ターゲティング サービスで、Filo のアクティビティを Google Ads 広告ネットワークおよび DoubleClick Cookie と結び付けます。",
+                    "PERSONAL_DATA_COLLECTED": "<strong>収集される個人データ</strong>： クッキーと利用データ。",
+                    "PLACE_OF_PROCESSING": "<strong>加工場所</strong>： アメリカ – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">プライバシーポリシー</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">身を引く</a></strong>."
                 },
                 "GOOGLE_ANALYTICS_REMARKETING": {
                     "TITLE": "Google Analytics Remarketing (Google Inc.)",
-                    "FIRST_PARAGRAPH": "Google Analytics Remarketing is a remarketing and behavioral targeting service provided by Google Inc. that connects the tracking activity performed by Google Analytics and its Cookies with the Google Ads advertising network and the Doubleclick Cookies.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Cookies and Usage Data.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Opt Out</a></strong>."
+                    "FIRST_PARAGRAPH": "Google Analytics Remarketing は、Google Inc. が提供するリマーケティングおよび行動ターゲティング サービスで、Google Analytics およびその Cookie によって実行される追跡アクティビティを Google 広告広告ネットワークおよび Doubleclick Cookie に接続します。",
+                    "PERSONAL_DATA_COLLECTED": "<strong>収集される個人データ</strong>： クッキーと利用データ。",
+                    "PLACE_OF_PROCESSING": "<strong>加工場所</strong>: アメリカ – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">プライバシーポリシー</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">身を引く</a></strong>."
                 }
             },
             "SPAM_PROTECTION": {
-                "TITLE": "SPAM protection",
-                "FIRST_PARAGRAPH": "This type of service analyzes the traffic of Filo, potentially containing Users' Personal Data, with the purpose of filtering it from parts of traffic, messages and content that are recognized as SPAM.",
+                "TITLE": "SPAM プロテクション",
+                "FIRST_PARAGRAPH": "このタイプのサービスは、ユーザーの個人データが含まれる可能性がある Filo のトラフィックを分析し、スパムとして認識されるトラフィック、メッセージ、コンテンツの一部からトラフィックをフィルタリングします。",
                 "TURNSTILE": {
                     "TITLE": "Turnstile (Cloudflare Inc.)",
-                    "FIRST_PARAGRAPH": "Turnstile is a SPAM protection service provided by Cloudflare Inc.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Cookies and various types of Data as specified in the privacy policy of the service.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong>."
+                    "FIRST_PARAGRAPH": "Turnstile は Cloudflare Inc. が提供する迷惑メール対策サービスです。",
+                    "PERSONAL_DATA_COLLECTED": "<strong>収集される個人データ</strong>： クッキー（Cookie）およびサービスのプライバシーポリシーに規定されている各種データ。",
+                    "PLACE_OF_PROCESSING": "<strong>処理場所</strong>： アメリカ <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">プライバシーポリシー</a></strong>."
                 }
             },
             "TAG_MANAGEMENT": {
-                "TITLE": "Tag Management",
-                "FIRST_PARAGRAPH": "This type of service helps the Owner to manage the tags or scripts needed on Filo in a centralized fashion.",
-                "SECOND_PARAGRAPH": "This results in the Users' Data flowing through these services, potentially resulting in the retention of this Data.",
+                "TITLE": "タグ管理",
+                "FIRST_PARAGRAPH": "この種のサービスは、オーナーが Filo で必要なタグやスクリプトを一元的に管理するのに役立ちます。",
+                "SECOND_PARAGRAPH": "その結果、利用者のデータがこれらのサービスを経由することになり、このデータが保持される可能性があります。",
                 "GOOGLE_TAG_MANAGER": {
                     "TITLE": "Google Tag Manager (Google LLC)",
-                    "FIRST_PARAGRAPH": "Google Tag Manager is a tag management service provided by Google LLC."
+                    "FIRST_PARAGRAPH": "Google Tag Manager は、Google LLC が提供するタグ管理サービスです。"
                 }
             },
             "TRAFFIC_OPTIMIZATION_AND_DISTRIBUTION": {
-                "TITLE": "Traffic optimization and distribution",
-                "FIRST_PARAGRAPH": "This type of service allows Filo to distribute their content using servers located across different countries and to optimize their performance.",
-                "SECOND_PARAGRAPH": "Which Personal Data are processed depends on the characteristics and the way these services are implemented. Their function is to filter communications between Filo and the User's browser.",
-                "THIRD_PARAGRAPH": "Considering the widespread distribution of this system, it is difficult to determine the locations to which the contents that may contain Personal Information User are transferred.",
+                "TITLE": "トラフィックの最適化と分配",
+                "FIRST_PARAGRAPH": "このようなサービスにより、Filo はさまざまな国に配置されたサーバーを使用してコンテンツを配信し、パフォーマンスを最適化することができます。",
+                "SECOND_PARAGRAPH": "どの個人データが処理されるかは、これらのサービスの特性と実装方法によって異なります。 それらの機能は、Filo とユーザーのブラウザ間の通信をフィルタリングすることです。",
+                "THIRD_PARAGRAPH": "本システムが広く普及していることを考慮すると、個人情報利用者を含む可能性のあるコンテンツの転送先を特定することは困難です。",
                 "CLOUDFLARE": {
                     "TITLE": "Cloudflare (Cloudflare Inc.)",
-                    "FIRST_PARAGRAPH": "Cloudflare is a traffic optimization and distribution service provided by Cloudflare Inc.",
-                    "SECOND_PARAGRAPH": "The way Cloudflare is integrated means that it filters all the traffic through Filo, i.e., communication between Filo and the User's browser, while also allowing analytical data from Filo to be collected.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Cookies and various types of Data as specified in the privacy policy of the service.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong>."
+                    "FIRST_PARAGRAPH": "Cloudflare は、Cloudflare Inc. が提供するトラフィック最適化・配信サービスです。",
+                    "SECOND_PARAGRAPH": "Cloudflare が統合されている方法とは、Filo を経由するすべてのトラフィック、すなわち Filo とユーザーのブラウザ間の通信をフィルタリングすると同時に、Filo からの分析データを収集できるようにすることを意味します。",
+                    "PERSONAL_DATA_COLLECTED": "<strong>収集される個人データ</strong>： クッキー（Cookie）およびサービスのプライバシーポリシーに規定されている各種データ。",
+                    "PLACE_OF_PROCESSING": "<strong>処理場所</strong>： アメリカ <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">プライバシーポリシー</a></strong>."
                 }
             }
         },
         "INFORMATION_ON_OPTING_OUT_OF_INTEREST_BASED_ADVERTISING": {
-            "TITLE": "Information on opting out of interest-based advertising",
-            "FIRST_PARAGRAPH": "In addition to any opt-out feature provided by any of the services listed in this document, Users may learn more on how to generally opt out of interest-based advertising within the dedicated section of the <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Cookies Policy</a></strong>."
+            "TITLE": "興味に基づく広告のオプトアウトに関する情報",
+            "FIRST_PARAGRAPH": "この文書に記載されているサービスによって提供されるオプトアウト機能に加えて、ユーザーは、<strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Cookie ポリシー</a></strong> の専用セクション内で興味に基づく広告を一般的にオプトアウトする方法について詳しく知ることができます。"
         },
         "COOKIES_POLICY": {
-            "TITLE": "Cookies Policy",
-            "FIRST_PARAGRAPH": "Filo uses Cookies. To learn more and for a detailed cookie notice, the User may consult the <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Cookies Policy</a></strong>."
+            "TITLE": "クッキーポリシー",
+            "FIRST_PARAGRAPH": "Filo はクッキーを使用します。詳細およびクッキーの詳細については、<strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Cookie ポリシー</a></strong> を参照してください。"
         },
         "FURTHER_INFORMATION_FOR_USERS_IN_THE_EU": {
-            "TITLE": "Further Information for Users in the European Union",
-            "FIRST_PARAGRAPH": "This section applies to all Users in the European Union, according to the General Data Protection Regulation (the \"GDPR\"), and, for such Users, supersedes any other possibly divergent or conflicting information contained in the privacy policy. Further details regarding the categories of Data processed, the purposes of processing, the categories of recipients of the Personal Data, if any, and further information about Personal Data can be found in the section titled <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Detailed information on the processing of Personal Data</a></strong> within this document."
+            "TITLE": "欧州連合（EU）ユーザー向け情報",
+            "FIRST_PARAGRAPH": "このセクションは、一般データ保護規則 （「GDPR」） に従い、欧州連合内のすべてのユーザーに適用され、そのようなユーザーについては、プライバシーポリシーに含まれる、他の可能性のある乖離または矛盾する情報に優先します。処理されるデータのカテゴリー、処理の目的、個人データの受領者のカテゴリー（もしあれば）、および個人データに関する詳細情報は、本文書内の <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">個人データの処理に関する詳細情報</a></strong> と題されたセクションに記載されています。"
         },
         "LEGAL_BASIS_FOR_PROCESSING": {
             "FURTHER_INFORMATION_ABOUT_RETENTION_TIME": {
@@ -942,12 +942,12 @@
                 },
                 "THIRD_PARAGRAPH": "また、利用者は、国連など、国際公法に準拠する、または2カ国以上によって設立された国際機関を含む、海外へのデータ移転の法的根拠、および利用者のデータを保護するために所有者が講じたセキュリティ措置について知る権利を有します。"
             },
-            "TITLE": "Legal basis for processing",
-            "FIRST_PARAGRAPH": "The Owner may process Personal Data relating to Users if one of the following applies:",
+            "TITLE": "処理の法的根拠",
+            "FIRST_PARAGRAPH": "管理者は、以下のいずれかに該当する場合、利用者に関する個人データを処理することができるものとします：",
             "LIST": {
-                "FIRST_ELEMENT": "Users have given their consent for one or more specific purposes.",
-                "SECOND_ELEMENT": "Provision of Data is necessary for the performance of an agreement with the User and/or for any pre-contractual obligations thereof.",
-                "THIRD_ELEMENT": "Processing is necessary for compliance with a legal obligation to which the Owner is subject.",
+                "FIRST_ELEMENT": "利用者は、1つまたは複数の特定の目的のために同意を与えています。",
+                "SECOND_ELEMENT": "データの提供は、ユーザーとの契約の履行および／または契約前の義務のために必要です。",
+                "THIRD_ELEMENT": "所有者が従うべき法的義務を遵守するために必要な処理。",
                 "FOURTH_ELEMENT": "公益のため、または所有者に与えられた公的権限の行使のために行われる業務に関連する処理。",
                 "FIFTH_ELEMENT": "所有者または第三者が追求する正当な利益のために処理が必要な場合。"
             },
@@ -994,252 +994,252 @@
     },
     "COOKIES_POLICY": {
         "TITLE": "クッキーポリシー",
-        "DESCRIPTION": "This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Website.",
-        "EFFECTIVE": "Effective",
-        "LAST_UPDATED": "Last Updated",
+        "DESCRIPTION": "このページでは、本ウェブサイトの利用者からお預かりする個人情報の収集、使用、開示に関する当社の方針をお知らせします。",
+        "EFFECTIVE": "効果的",
+        "LAST_UPDATED": "最終更新日",
         "DATE": "{{month}}/{{day}}/{{year}}",
         "BEFORE": {
-            "FIRST_PARAGRAPH": "This document informs Users about the technologies that help this Website to achieve the purposes described below. Such technologies allow the Owner to access and store information (for example by using a Cookie) or use resources (for example by running a script) on a User's device as they interact with this Website.",
-            "SECOND_PARAGRAPH": "For simplicity, all such technologies are defined as \"Trackers\" within this document – unless there is a reason to differentiate.",
-            "THIRD_PARAGRAPH": "For example, while Cookies can be used on both web and mobile browsers, it would be inaccurate to talk about Cookies in the context of mobile apps as they are a browser-based Tracker. For this reason, within this document, the term Cookies is only used where it is specifically meant to indicate that particular type of Tracker.",
-            "FOURTH_PARAGRAPH": "Some of the purposes for which Trackers are used may also require the User's consent. Whenever consent is given, it can be freely withdrawn at any time following the instructions provided in this document.",
-            "FIFTH_PARAGRAPH": "This Website only uses Trackers that enable services provided by a third-party (so-called \"third-party\" Trackers). Unless otherwise specified within this document, third-party providers may access their Trackers.",
-            "SIXTH_PARAGRAPH": "The validity and expiration periods of third-party Cookies and other similar Trackers may vary depending on the lifetime set by the relevant provider."
+            "FIRST_PARAGRAPH": "本文書は、本ウェブサイトが以下に記載する目的を達成するのに役立つ技術について利用者にお知らせするものです。このような技術により、管理者は、利用者が本ウェブサイトとやりとりする際に、利用者のデバイス上の情報（クッキーの使用など）にアクセスし保存したり、リソース（スクリプトの実行など）を使用したりすることができます。",
+            "SECOND_PARAGRAPH": "簡略化のため、区別する理由がない限り、このような技術はすべて「トラッカー」と定義する。",
+            "THIRD_PARAGRAPH": "例えば、Cookie はウェブブラウザとモバイルブラウザの両方で使用できますが、モバイルアプリはブラウザベースのトラッカーであるため、Cookie についてモバイルアプリの文脈で語るのは不正確です。このため、本文書では、Cookies という用語は、特定のタイプの Tracker を示すために特別に意図された場合にのみ使用します。",
+            "FOURTH_PARAGRAPH": "トラッカーが使用される目的の中には、利用者の同意を必要とするものもあります。同意がなされた場合はいつでも、この文書に記載された指示に従って自由に撤回することができます。",
+            "FIFTH_PARAGRAPH": "本ウェブサイトでは、第三者が提供するサービスを可能にするトラッカー（いわゆる「第三者」トラッカー）のみを使用しています。本文書内に別段の定めがない限り、第三者提供者はそのトラッカーにアクセスすることができます。",
+            "SIXTH_PARAGRAPH": "サードパーティの Cookie およびその他類似のトラッカーの有効期間および有効期限は、関連するプロバイダが設定する有効期間によって異なる場合があります。"
         },
-        "SEVENTH_PARAGRAPH": "In addition to what's specified in the descriptions within each of the categories below, Users may find more precise and updated information regarding lifetime specification as well as any other relevant information — such as the presence of other Trackers — in the linked privacy policies of the respective third-party providers or by contacting the Owner.",
+        "SEVENTH_PARAGRAPH": "利用者は、以下の各カテゴリ内の説明に明記されていることに加え、各サードパーティプロバイダのリンク先のプライバシーポリシー、または管理者に連絡することにより、寿命仕様に関するより正確かつ最新の情報、およびその他の関連情報（他のトラッカーの存在など）を見つけることができます。",
         "ACTIVITIES_STRICTLY_NECESSARY": {
-            "TITLE": "Activities strictly necessary for the operation of this Website and delivery of the Service",
-            "FIRST_PARAGRAPH": "This Website uses so-called \"technical\" Cookies and other similar Trackers to carry out activities that are strictly necessary for the operation or delivery of the Service."
+            "TITLE": "本サイトの運営および本サービスの提供に必要な活動",
+            "FIRST_PARAGRAPH": "本ウェブサイトは、サービスの運営または提供に厳密に必要な活動を実施するために、いわゆる「技術的」クッキーおよびその他類似のトラッカーを使用します。"
         },
         "THIRD_PARTY_TRACKER": {
-            "TITLE": "Third-party Tracker",
-            "FIRST_PARAGRAPH": "This Website uses Trackers managed directly by the Owner (so-called \"first-party\" Trackers) and Trackers that enable services provided by a third-party (so-called \"third-party\" Trackers). Unless otherwise specified within this document, third-party providers may access their Trackers.",
+            "TITLE": "サードパーティ・トラッカー",
+            "FIRST_PARAGRAPH": "本ウェブサイトでは、管理者が直接管理するトラッカー（いわゆる「ファーストパーティ」トラッカー）および第三者が提供するサービスを有効にするトラッカー（いわゆる「サードパーティ」トラッカー）を使用しています。本規約に別段の定めがない限り、第三者のトラッカーにアクセスすることがあります。",
             "TRAFFIC_OPTIMIZATION_AND_DISTRIBUTION": {
-                "TITLE": "Traffic optimization and distribution",
-                "FIRST_PARAGRAPH": "This type of service allows this Website to distribute their content using servers located across different countries and to optimize their performance.",
-                "SECOND_PARAGRAPH": "Which Personal Data are processed depends on the characteristics and the way these services are implemented. Their function is to filter communications between this Website and the User's browser.",
-                "THIRD_PARAGRAPH": "Considering the widespread distribution of this system, it is difficult to determine the locations to which the contents that may contain Personal Information of the User are transferred.",
+                "TITLE": "トラフィックの最適化と分配",
+                "FIRST_PARAGRAPH": "この種のサービスにより、本ウェブサイトは、異なる国に配置されたサーバーを使用してコンテンツを配信し、そのパフォーマンスを最適化することができます。",
+                "SECOND_PARAGRAPH": "どの個人データが処理されるかは、これらのサービスの特徴および実施方法によって異なります。これらのサービスの機能は、本ウェブサイトとユーザーのブラウザ間の通信をフィルタリングすることです。",
+                "THIRD_PARAGRAPH": "本システムが広く普及していることを考慮すると、個人情報利用者を含む可能性のあるコンテンツの転送先を特定することは困難です。",
                 "CLOUDFLARE": {
                     "TITLE": "Cloudflare (Cloudflare Inc.)",
-                    "FIRST_PARAGRAPH": "Cloudflare is a traffic optimization and distribution service provided by Cloudflare Inc.<br>The way Cloudflare is integrated means that it filters all the traffic through this Website, i.e., communication between this Website and the User's browser, while also allowing analytical data from this Website to be collected.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Cookies; various types of Data as specified in the privacy policy of the service.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong>."
+                    "FIRST_PARAGRAPH": "Cloudflare は、Cloudflare Inc. が提供するトラフィックの最適化および配信サービスです。<br>Cloudflare が統合される方法は、この Web サイトを介したすべてのトラフィック、つまり、この Web サイトとユーザーのブラウザ間の通信をフィルタリングすると同時に、そこからの分析データも許可することを意味します。 収集されるウェブサイト。",
+                    "PERSONAL_DATA_COLLECTED": "<strong>収集される個人データ</strong>： クッキー(Cookie)、サービスのプライバシーポリシーに明記されている様々な種類のデータ。",
+                    "PLACE_OF_PROCESSING": "<strong>処理場所</strong>： アメリカ <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">プライバシーポリシー</a></strong>."
                 }
             },
             "CHAT_SUPPORT": {
-                "TITLE": "Chat support",
-                "FIRST_PARAGRAPH": "This type of service allows Users to interact with third-party live chat platforms directly from the pages of this Website, for contacting and being contacted by this Website support service.",
+                "TITLE": "チャットサポート",
+                "FIRST_PARAGRAPH": "このタイプのサービスにより、利用者は本ウェブサイトのページから直接第三者のライブチャットプラットフォームと対話し、本ウェブサイトのサポートサービスに連絡したり、連絡を受けたりすることができます。",
                 "CHATWOOT": {
                     "TITLE": "Chatwoot (Chatwoot Inc.)",
-                    "FIRST_PARAGRAPH": "Chatwoot is a chat support service provided by Chatwoot Inc.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Cookies; Data communicated while using the service; Usage Data.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong>."
+                    "FIRST_PARAGRAPH": "Chatwoot は Chatwoot Inc. が提供するチャットサポートサービスです。",
+                    "PERSONAL_DATA_COLLECTED": "<strong>収集される個人データ</strong>：クッキー（Cookies）; サービス利用中に通信されたデータ; 利用データ。",
+                    "PLACE_OF_PROCESSING": "<strong>処理場所</strong>： アメリカ <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">プライバシーポリシー</a></strong>."
                 }
             }
         },
         "DEFINITIONS_AND_LEGAL_REFERENCES": {
             "LEGAL_INFORMATION": {
-                "FIRST_PARAGRAPH": "This cookies policy relates solely to this Website, if not stated otherwise within this document.",
-                "TITLE": "Legal information"
+                "FIRST_PARAGRAPH": "本クッキーポリシーは、本文書に別段の記載がない限り、当ウェブサイトにのみ適用されます。",
+                "TITLE": "法的情報"
             },
-            "TITLE": "Definitions and legal references",
+            "TITLE": "定義と参考文献",
             "PERSONAL_DATA": {
-                "TITLE": "Personal Data (or Data)",
-                "FIRST_PARAGRAPH": "Any information that directly, indirectly, or in connection with other information — including a personal identification number — allows for the identification or identifiability of a natural person."
+                "TITLE": "個人データ",
+                "FIRST_PARAGRAPH": "直接、間接的に、または他の情報（個人識別番号を含む）と関連して、自然人の識別または特定を可能にするすべての情報。"
             },
             "USAGE_DATA": {
-                "TITLE": "Usage Data",
-                "FIRST_PARAGRAPH": "Information collected automatically through this Website (or third-party services employed in this Website), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Website, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment."
+                "TITLE": "使用データ",
+                "FIRST_PARAGRAPH": "本ウェブサイト（または本ウェブサイトで採用されている第三者サービス）を通じて自動的に収集される情報には、本ウェブサイトを利用するユーザーが使用するコンピュータのIPアドレスまたはドメイン名、URI アドレス（Uniform Resource Identifier）、リクエストの時刻、リクエストをサーバーに送信するために使用された方法、応答として受信したファイルのサイズ、サーバーからの回答のステータスを示す数値コード（成功した結果、エラーなど）が含まれます。)、発信国、ユーザーが使用するブラウザとオペレーティングシステムの機能、1回の訪問にかかる様々な時間の詳細(例、アプリケーション内の各ページに費やされた時間など）、訪問したページの順序を特に参照しながらアプリケーション内でたどった経路に関する詳細、デバイスのオペレーティングシステムおよび/またはユーザーのIT環境に関するその他のパラメータ。"
             },
             "TRACKER": {
-                "FIRST_PARAGRAPH": "Tracker indicates any technology - e.g Cookies, unique identifiers, web beacons, embedded scripts, e-tags and fingerprinting - that enables the tracking of Users, for example by accessing or storing information on the User's device.",
-                "TITLE": "Tracker"
+                "FIRST_PARAGRAPH": "トラッカーとは、Cookie、固有識別子、ウェブビーコン、埋め込みスクリプト、eタグ、フィンガープリンティングなど、ユーザーのデバイスにアクセスしたり情報を保存したりすることで、ユーザーの追跡を可能にする技術を指します。",
+                "TITLE": "トラッカー"
             },
             "USER": {
-                "TITLE": "User",
-                "FIRST_PARAGRAPH": "The individual using this Website who, unless otherwise specified, coincides with the Data Subject."
+                "TITLE": "ユーザー",
+                "FIRST_PARAGRAPH": "本ウェブサイトを利用する個人で、別段の定めがない限り、データ主体と一致します。"
             },
             "DATA_SUBJECT": {
-                "TITLE": "Data Subject",
-                "FIRST_PARAGRAPH": "The natural person to whom the Personal Data refers."
+                "TITLE": "データ対象",
+                "FIRST_PARAGRAPH": "個人データが参照する自然人。"
             },
             "DATA_PROCESSOR": {
-                "TITLE": "Data Processor (or Data Supervisor)",
-                "FIRST_PARAGRAPH": "The natural or legal person, public authority, agency or other body which processes Personal Data on behalf of the Controller, as described in this cookies policy."
+                "TITLE": "データ処理者（またはデータ監督者）",
+                "FIRST_PARAGRAPH": "本クッキーポリシーに記載されているとおり、管理者に代わって個人データを処理する自然人または法人、公的機関、代理店またはその他の団体。"
             },
             "DATA_CONTROLLER": {
-                "TITLE": "Data Controller (or Owner)",
-                "FIRST_PARAGRAPH": "The natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of Personal Data, including the security measures concerning the operation and use of this Website. The Data Controller, unless otherwise specified, is the Owner of this Website."
+                "TITLE": "データ管理者（または所有者）",
+                "FIRST_PARAGRAPH": "単独で、または他者と共同で、本ウェブサイトの運営および使用に関するセキュリティ対策を含む個人データの処理の目的および手段を決定する自然人または法人、公的機関、代理店またはその他の団体。データ管理者は、別段の定めがない限り、本ウェブサイトの所有者です。"
             },
             "THIS_WEBSITE": {
-                "TITLE": "This Website (or this Application)",
-                "FIRST_PARAGRAPH": "The means by which the Personal Data of the User is collected and processed."
+                "TITLE": "本ウェブサイト（または本アプリ）",
+                "FIRST_PARAGRAPH": "ユーザーの個人データが収集され、処理される手段。"
             },
             "SERVICE": {
-                "TITLE": "Service",
-                "FIRST_PARAGRAPH": "The service provided by this Website as described in the relative terms (if available) and on this site/application."
+                "TITLE": "サービス",
+                "FIRST_PARAGRAPH": "相対規約（ある場合）および本サイト/アプリケーションに記載されている、本ウェブサイトが提供するサービス。"
             },
             "EUROPEAN_UNION": {
-                "TITLE": "European Union (or EU)",
-                "FIRST_PARAGRAPH": "Unless otherwise specified, all references made within this document to the European Union include all current member states to the European Union and the European Economic Area."
+                "TITLE": "欧州連合（EU）",
+                "FIRST_PARAGRAPH": "別段の定めがない限り、本文書において欧州連合（EU）に言及する場合はすべて、欧州連合（EU）および欧州経済地域（EEA）の現加盟国を含むものとする。"
             },
             "COOKIES": {
-                "TITLE": "Cookies",
-                "FIRST_PARAGRAPH": "Cookies are Trackers consisting of small sets of data stored in the User's browser."
+                "TITLE": "クッキー",
+                "FIRST_PARAGRAPH": "クッキーは、ユーザーのブラウザに保存される小さなデータセットからなるトラッカーです。"
             }
         },
         "OTHER_ACTIVITIES_INVOLVING_THE_USE_OF_TRACKERS": {
-            "TITLE": "Other activities involving the use of Trackers",
-            "FIRST_PARAGRAPH": "This Website uses Trackers to provide a personalized user experience by improving the quality of preference management options, and by enabling interaction with external networks and platforms.",
+            "TITLE": "トラッカーを使用するその他の活動",
+            "FIRST_PARAGRAPH": "本ウェブサイトは、嗜好管理オプションの質を向上させ、外部ネットワークおよびプラットフォームとの相互作用を可能にすることにより、パーソナライズされたユーザー体験を提供するためにトラッカーを使用します。",
             "MEASUREMENT": {
-                "TITLE": "Measurement",
-                "FIRST_PARAGRAPH": "This Website uses Trackers to measure traffic and analyze User behavior with the goal of improving the Service."
+                "TITLE": "測定",
+                "FIRST_PARAGRAPH": "本ウェブサイトは、トラフィックを計測し、本サービスを改善する目的でユーザーの行動を分析するためにトラッカーを使用します。"
             }
         },
         "ANALYTICS": {
-            "TITLE": "Analytics",
-            "FIRST_PARAGRAPH": "The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.",
+            "TITLE": "アナリティクス",
+            "FIRST_PARAGRAPH": "このセクションに含まれるサービスは、管理者がウェブトラフィックを監視および分析することを可能にし、ユーザーの行動を追跡するために使用することができます。",
             "GOOGLE_ANALYTICS": {
                 "TITLE": "Google Analytics (Google Inc.)",
-                "FIRST_PARAGRAPH": "Google Analytics is a web analysis service provided by Google Inc. (\"Google\"). Google utilizes the Data collected to track and examine the use of this Website, to prepare reports on its activities and share them with other Google services.",
-                "SECOND_PARAGRAPH": "Google may use the Data collected to contextualize and personalize the ads of its own advertising network.",
-                "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Cookies; Usage Data.",
-                "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Opt Out</a></strong>."
+                "FIRST_PARAGRAPH": "Google Analytics は、Google Inc.（以下「Google」）が提供するウェブ解析サービスです。Google は、収集したデータを利用して本ウェブサイトの利用状況を追跡・調査し、その活動に関するレポートを作成し、Google の他のサービスと共有します。",
+                "SECOND_PARAGRAPH": "Google は、収集したデータを使用して、自社の広告ネットワークの広告を文脈に合わせてパーソナライズすることがあります。",
+                "PERSONAL_DATA_COLLECTED": "<strong>収集される個人データ</strong>： クッキー、利用データ。",
+                "PLACE_OF_PROCESSING": "<strong>加工場所</strong>： アメリカ – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">プライバシーポリシー</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">身を引く</a></strong>."
             }
         },
         "HOW_TO_MANAGE_PREFENCES_AND_PROVIDE_OR_WITHDRAW_CONSENT": {
-            "TITLE": "How to manage preferences and provide or withdraw consent",
-            "FIRST_PARAGRAPH": "There are various ways to manage Tracker related preferences and to provide and withdraw consent, where relevant:",
-            "SECOND_PARAGRAPH": "Users can manage preferences related to Trackers from directly within their own device settings, for example, by preventing the use or storage of Trackers.",
-            "THIRD_PARAGRAPH": "Additionally, whenever the use of Trackers is based on consent, Users can provide or withdraw such consent by setting their preferences within the cookie notice or by updating such preferences accordingly via the relevant consent-preferences privacy widget, if available.",
-            "FOURTH_PARAGRAPH": "It is also possible, via relevant browser or device features, to delete previously stored Trackers, including those used to remember the User's initial consent preferences.",
-            "FIFTH_PARAGRAPH": "Other Trackers in the browser's local memory may be cleared by deleting the browsing history.",
-            "SIXTH_PARAGRAPH": "With regard to any third-party Trackers, Users can manage their preferences via the related opt-out link (where provided), by using the means indicated in the third party's privacy policy, or by contacting the third party.",
+            "TITLE": "プリファレンスの管理および同意の提供または撤回方法",
+            "FIRST_PARAGRAPH": "トラッカーに関連するプリファレンスを管理し、必要に応じて同意を提供したり撤回したりするには、さまざまな方法があります：",
+            "SECOND_PARAGRAPH": "ユーザーは、トラッカーの使用や保存を防ぐなど、トラッカーに関連する設定を自身のデバイス設定内で直接管理することができます。",
+            "THIRD_PARAGRAPH": "さらに、トラッカーの使用が同意に基づいている場合、利用者は、Cookie 通知内で設定を行うか、または関連する同意-設定プライバシーウィジェットが利用可能な場合はそれを介して適宜設定を更新することにより、そのような同意を提供または撤回することができます。",
+            "FOURTH_PARAGRAPH": "また、関連するブラウザまたはデバイスの機能により、ユーザーの最初の同意設定を記憶するために使用されたものを含め、過去に保存されたトラッカーを削除することも可能です。",
+            "FIFTH_PARAGRAPH": "ブラウザのローカルメモリにあるその他のトラッカーは、閲覧履歴を削除することで消去できます。",
+            "SIXTH_PARAGRAPH": "第三者のトラッカーに関しては、ユーザーは、関連するオプトアウト・リンク（提供されている場合）、第三者のプライバシー・ポリシーに示された手段を使用すること、または第三者に連絡することにより、設定を管理することができます。",
             "LOCATING_TRACKER_SETTINGS": {
-                "TITLE": "Locating Tracker Settings",
-                "FIRST_PARAGRAPH": "Users can, for example, find information about how to manage Cookies in the most commonly used browsers at the following addresses:",
-                "SECOND_PARAGRAPH": "Users may also manage certain categories of Trackers used on mobile apps by opting out through relevant device settings such as the device advertising settings for mobile devices, or tracking settings in general (Users may open the device settings and look for the relevant setting)."
+                "TITLE": "トラッカーの設定を探す",
+                "FIRST_PARAGRAPH": "ユーザーは、例えば、最も一般的に使用されているブラウザでクッキーを管理する方法に関する情報を以下のアドレスで見つけることができます：",
+                "SECOND_PARAGRAPH": "また、ユーザーは、モバイルデバイスのデバイス広告設定、またはトラッキング設定全般などの関連するデバイス設定を通じてオプトアウトすることにより、モバイルアプリで使用される特定のカテゴリのトラッカーを管理することができます（ユーザーは、デバイス設定を開き、関連する設定を探すことができます）。"
             },
             "CONSEQUENCES_OF_DENYING_THE_USE_OF_TRACKERS": {
-                "TITLE": "Consequences of denying the use of Trackers",
-                "FIRST_PARAGRAPH": "Users are free to decide whether or not to allow the use of Trackers. However, please note that Trackers help this Website to provide a better experience and advanced functionalities to Users (in line with the purposes outlined in this document). Therefore, if the User chooses to block the use of Trackers, the Owner may be unable to provide related features."
+                "TITLE": "トラッカー使用拒否の結果",
+                "FIRST_PARAGRAPH": "トラッカーの利用を許可するか否かは、利用者の自由です。ただし、トラッカーは、本ウェブサイトが利用者によりよい体験と高度な機能を提供するために役立つものであることにご留意ください（本書に記載されている目的に沿ったものです）。したがって、利用者がトラッカーの利用を拒否することを選択した場合、管理者は関連する機能を提供できなくなる可能性があります。"
             }
         },
         "OWNER_AND_DATA_CONTROLLER": {
-            "TITLE": "Owner and Data Controller",
-            "FIRST_PARAGRAPH": "Email for communications regarding Data Protection: <strong><a href=\"mailto:{{email}}\">{{email}}</a></strong>",
-            "SECOND_PARAGRAPH": "Since the use of third-party Trackers through this Website cannot be fully controlled by the Owner, any specific references to third-party Trackers are to be considered indicative. In order to obtain complete information, Users are kindly requested to consult the privacy policies of the respective third-party services listed in this document.",
-            "THIRD_PARAGRAPH": "Given the objective complexity surrounding tracking technologies, Users are encouraged to contact the Owner should they wish to receive any further information on the use of such technologies by this Website."
+            "TITLE": "オーナー兼データ管理者",
+            "FIRST_PARAGRAPH": "データ保護に関する連絡用Eメール： <strong><a href=\"mailto:{{email}}\">{{email}}</a></strong>",
+            "SECOND_PARAGRAPH": "本ウェブサイトを通じた第三者トラッカーの使用は、管理者によって完全に制御することができないため、第三者トラッカーに関する特定の言及は、示唆的なものとみなされます。完全な情報を得るために、利用者は、この文書に記載されている各第三者サービスのプライバシーポリシーを参照してください。",
+            "THIRD_PARAGRAPH": "トラッキング技術を取り巻く客観的な複雑性を考慮し、本ウェブサイトによるトラッキング技術の使用に関する詳細情報を希望する場合は、管理者に連絡することをお勧めします。"
         }
     },
     "TERMS_OF_SERVICE": {
-        "TITLE": "Terms of Service",
+        "TITLE": "利用規約",
         "FEEDBACKS": {
             "LIST": {
-                "SECOND_ELEMENT": "The Feedback don't infringe the intellectual property rights of any third party.",
-                "FIRST_ELEMENT": "You have the right to share the Feedback.",
-                "THIRD_ELEMENT": "The Feedback don't contain confidential or proprietary information of any third party.",
-                "FOURTH_ELEMENT": "Your views won't be used for the purpose of advertising or promoting a product or service, or for any other commercial purpose.",
-                "FIFTH_ELEMENT": "We aren't obligated to review, consider, or implement your Feedback, but we may use your Feedback for any purpose without compensation to you."
+                "SECOND_ELEMENT": "本フィードバックは、第三者の知的財産権を侵害していないこと。",
+                "FIRST_ELEMENT": "あなたにはフィードバックを共有する権利があります。",
+                "THIRD_ELEMENT": "フィードバックには、いかなる第三者の機密情報または専有情報も含まれていません。",
+                "FOURTH_ELEMENT": "あなたの意見は、製品やサービスの広告や宣伝、その他の商業目的のために使用されることはありません。",
+                "FIFTH_ELEMENT": "当社は、お客様のフィードバックを確認、検討、実施する義務を負うものではありませんが、お客様に対して対価を支払うことなく、いかなる目的にもお客様のフィードバックを使用することができます。"
             },
-            "FIRST_PARAGRAPH": "We appreciate your feedback, ideas, suggestions (\"Feedback\"). If you decide to send us Feedback, you declare and guarantee that:",
-            "TITLE": "Feedbacks",
-            "SECOND_PARAGRAPH": "We reserve the right to remove any Feedback that we consider to be inappropriate or offensive. We aren't responsible for the information you choose to share with us as part of your Feedback or for any loss or damage you may suffer as a result of sharing such Feedback."
+            "FIRST_PARAGRAPH": "私たちはあなたのフィードバック、アイデア、提案（「フィードバック」）に感謝します。フィードバックをお送りいただく場合、お客様は以下のことを宣言し、保証するものとします：",
+            "TITLE": "フィードバック",
+            "SECOND_PARAGRAPH": "当社は、不適切または攻撃的であると判断したフィードバックを削除する権利を留保します。当社は、お客様がフィードバックの一部として当社と共有することを選択した情報、またはそのようなフィードバックを共有した結果お客様が被る可能性のある損失または損害について責任を負いません。"
         },
-        "DESCRIPTION": "These Terms govern your access to and use of Filo and the services, and any information, text, graphics, or other materials uploaded, downloaded or appearing on the services (collectively referred to as \"Content\"). Your access to and use of the services are conditioned on your acceptance of and compliance with these Terms. By accessing or using the services you agree to be bound by these Terms.",
-        "EFFECTIVE": "Effective",
-        "LAST_UPDATED": "Last Updated",
+        "DESCRIPTION": "本規約は、Filo およびサービスへのアクセスおよび使用、ならびにサービス上にアップロード、ダウンロード、または表示される情報、テキスト、グラフィックス、またはその他の素材 (総称して「コンテンツ」といいます) に適用されます。 サービスへのアクセスと使用は、これらの規約に同意し、遵守することが条件となります。 サービスにアクセスまたは使用すると、これらの規約に拘束されることに同意したことになります。",
+        "EFFECTIVE": "効果的",
+        "LAST_UPDATED": "最終更新日",
         "DATE": "{{month}}/{{day}}/{{year}}",
         "INTRODUCTION": {
-            "TITLE": "Introduction",
-            "FIRST_PARAGRAPH": "These Terms of Service (\"Terms\"), are a legal agreement between Filobot (\"Us\", \"We\" or \"Our\") and you (\"You\", \"Your\", the \"User\", or the \"End User\"). By using or interacting with Filo (the \"Bot\") or the website located at <strong>{{url}}</strong> (the \"Site\") or any of its aliases, which are collectively referred to as the \"Service\", you agree:",
+            "TITLE": "はじめに",
+            "FIRST_PARAGRAPH": "これらの利用規約 (「規約」) は、Filobot (「当社」、「私たち」、または「弊社」) とお客様 (「あなた」、「あなたの」、「ユーザー」、または「エンドユーザー」) の間の法的合意です。 \")。 Filo (「ボット」)、<strong>{{url}}</strong> にある Web サイト (「サイト」)、またはそのエイリアスのいずれかを使用または操作することにより、これらを総称して「サービス」と呼びます \"、 あなたが同意する：",
             "LIST": {
-                "FIRST_ELEMENT": "That you are 13 years of age or older.",
-                "SECOND_ELEMENT": "If you are the age of majority in your jurisdiction or over, that you have read, understood, and accept to be bound by the Terms.",
-                "THIRD_ELEMENT": "If you are between 13 and the age of majority in your jurisdiction, that your legal guardian has reviewed and agrees to these Terms."
+                "FIRST_ELEMENT": "13歳以上であること。",
+                "SECOND_ELEMENT": "あなたが管轄区域の成人またはそれ以上の年齢である場合、あなたが本規約を読み、理解し、本規約に拘束されることを承諾したこと。",
+                "THIRD_ELEMENT": "お客様が13歳以上である場合、お客様の法定後見人が本規約を確認し、同意していること。"
             },
-            "SECOND_PARAGRAPH": "We reserve the right, at our sole discretion, to modify or revise these Terms at any time, and you agree to be bound by such modifications or revisions. Any such change or modification will be effective immediately, and your continued use of the Service will constite your acceptance of, and agreement to, such changes or modifications. If you object to any change or modification, your sole recourse shall be to cease using the Service.",
-            "THIRD_PARAGRAPH": "We integrate with various platforms (\"platforms\") to provide you with our services. Neither platform endorses Filo, nor does Filo endorse these platforms. Discord isn't affiliated with Filo."
+            "SECOND_PARAGRAPH": "当社は、当社の単独の裁量により、いつでも本規約を変更または修正する権利を留保し、お客様はかかる変更または修正に拘束されることに同意するものとします。そのような変更または修正は直ちに有効となり、お客様が引き続き本サービスを利用することにより、お客様はそのような変更または修正を受け入れ、それに同意したものとみなされます。ユーザーが変更または修正に異議を唱えた場合、ユーザーの唯一の手段は本サービスの利用を中止することです。",
+            "THIRD_PARAGRAPH": "当社は、当社のサービスをお客様に提供するために、さまざまなプラットフォーム（以下、「プラットフォーム」）と統合しています。いずれのプラットフォームもFiloを支持しておらず、Filo もこれらのプラットフォームを支持していません。Discord は Filo と提携していません。"
         },
         "RIGHTS_TO_USE_THE_SERVICE": {
-            "TITLE": "Rights to use the Service",
-            "FIRST_PARAGRAPH": "We grant limited, non-exclusive and irrevocable right to use the Service. We can revoke your access to this service if:",
+            "TITLE": "本サービスを利用する権利",
+            "FIRST_PARAGRAPH": "当社は、本サービスを利用する限定的、非独占的かつ取消不能な権利を付与します。以下の場合、当社はお客様の本サービスへのアクセスを取り消すことができます：",
             "LIST": {
-                "FIRST_ELEMENT": "You are under 13 years old.",
-                "SECOND_ELEMENT": "You engage in illegal, fraudulent, or otherwise harmful activities to a person or entity.",
-                "THIRD_ELEMENT": "You defame, slander, mock, harass, threaten, intimidate, or abuse the rights of a person or entity.",
-                "FOURTH_ELEMENT": "You infringe Filo's intellectual property or services related to Filo; you have a Discord community in which there are subjects that violate Filo's intellectual property or services related to Filo. We don't grant the right to use Filo's resources. There are exceptions.",
-                "FIFTH_ELEMENT": "You participate in the (intentional) interruption of the work of the Filo's staff; you use the Service to interrupt the work of Filo's staff; you use social networks to interrupt the work of Filo's staff.",
-                "SIXTH_ELEMENT": "You develop and distribute copyrighted material.",
-                "SEVENTH_ELEMENT": "You exploit, argue, announce a critical service error; you don't inform Filo's staff of a critical error (and perform the actions mentioned above); you refuse to give Filo's staff details about the critical error found.",
-                "EIGHTH_ELEMENT": "You participate in paid (or unpaid) boost activities; you own a community on which boost activities are performed.",
-                "NINTH_ELEMENT": "You compromise the security, integrity, functionality of the Service.",
-                "TENTH_ELEMENT": "You make inappropriate use of the Service, sent advertising to an external service (or yourself).",
-                "ELEVENTH_ELEMENT": "You try to evade a suspension; you use the Service despite being suspended.",
-                "TWELFTH_ELEMENT": "You use the support methods offered by Filo's staff in an erroneous and intentional manner."
+                "FIRST_ELEMENT": "あなたは13歳未満です。",
+                "SECOND_ELEMENT": "個人または団体に対し、違法行為、詐欺行為、またはその他の有害な行為を行うこと。",
+                "THIRD_ELEMENT": "個人または団体の権利を中傷、中傷、嘲笑、嫌がらせ、脅迫、または濫用する行為。",
+                "FOURTH_ELEMENT": "Filo の知的財産または Filo に関連するサービスを侵害した場合。 Filo の知的財産または Filo に関連するサービスを侵害する主題が存在する Discord コミュニティがあります。 私たちはフィロのリソースを使用する権利を与えません。 例外もあります。",
+                "FIFTH_ELEMENT": "あなたは、フィロのスタッフの仕事の（意図的な）中断に参加します。 あなたが本サービスを利用して、Filo のスタッフの作業を中断した場合。 あなたはソーシャル ネットワークを使用して、Filo のスタッフの仕事を中断します。",
+                "SIXTH_ELEMENT": "著作権で保護された素材を開発し、配布する。",
+                "SEVENTH_ELEMENT": "重大なサービスエラーを悪用し、議論し、発表します。 Filo のスタッフに重大なエラーを通知しません (そして上記のアクションを実行しません)。 あなたは、見つかった重大なエラーについての詳細をフィロのスタッフに伝えることを拒否しました。",
+                "EIGHTH_ELEMENT": "有給（または無給）のブースト活動に参加している、ブースト活動が行われるコミュニティを所有している。",
+                "NINTH_ELEMENT": "本サービスのセキュリティ、完全性、機能性を損なうこと。",
+                "TENTH_ELEMENT": "本サービスを不適切に利用し、外部サービス（または自分自身）に広告を送信した場合。",
+                "ELEVENTH_ELEMENT": "利用停止処分を免れようとした場合、利用停止処分を受けているにもかかわらず本サービスを利用した場合。",
+                "TWELFTH_ELEMENT": "あなたは、Filo のスタッフが提供するサポート方法を誤った意図的な方法で使用しています。"
             },
-            "SECOND_PARAGRAPH": "We reserve the right to modify or suspend, temporarily or permanently, the Service (or any part thereof) with or without notice. We reserve the right to reject the use of the services without notification for any reason, including, but not limited to, a possible violation of the conditions. If you violate these conditions, we reserve the right to issue a warning regarding the violation or immediately suspend your account that you have created through the Service offered by Discord. You agree that we have no obligation to inform you before suspending your account(s), but that you may do so."
+            "SECOND_PARAGRAPH": "当社は、通知の有無にかかわらず、本サービス（またはその一部）を一時的または永続的に変更または停止する権利を留保します。当社は、条件違反の可能性を含むがこれに限定されないいかなる理由によっても、通知なしにサービスの利用を拒否する権利を留保します。利用者が本条件に違反した場合、当社は違反に関する警告を発する権利、または利用者がDiscordが提供するサービスを通じて作成したアカウントを直ちに停止する権利を留保します。利用者は、当社が利用者のアカウントを停止する前に利用者に通知する義務を負わないことに同意するものとします。"
         },
         "TERMS_OF_SALES": {
-            "TITLE": "Virtual currencies, virtual goods, and Terms of Sales",
-            "FIRST_PARAGRAPH": "The Service is free to use, but we may offer additional services for a fee. Please read the <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Terms of Sales</a></strong> carefully before purchasing Virtual Currency or Virtual Goods (as defined below) from Filo."
+            "TITLE": "仮想通貨、仮想商品、販売条件",
+            "FIRST_PARAGRAPH": "本サービスの利用は無料ですが、有料で追加サービスを提供する場合があります。 Filoから仮想通貨または仮想商品（以下に定義）を購入する前に、 <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">販売規約</a></strong> をよくお読みください。"
         },
         "THIRD_PARTY_SERVICES": {
-            "TITLE": "Third-party Services",
-            "FIRST_PARAGRAPH": "We use third-party services to help us provide the Service, but such use doesn't indicate that we endorse them or are responsible or liable for their actions. In addition, the Service may link to third-party websites to facilitate its provision of services to you. If you use these links, you will leave the Service. We aren't responsible for nor do we endorse these third-party websites or the organizations sponsoring such third-party websites or their products or services, whether or not we are affiliated with such third-party websites. You agree that we aren't responsible or liable for any loss or damage of any sort incurred as a result of any such dealings you may have on or through a third-party website or as a result of the presence of any third-party advertising on the Service."
+            "TITLE": "サードパーティ・サービス",
+            "FIRST_PARAGRAPH": "当社は、本サービスを提供するために第三者のサービスを利用していますが、かかる利用は、当社がかかる第三者のサービスを推奨していること、またはかかる第三者の行為に対して責任もしくは義務を負うことを意味するものではありません。また、本サービスは、お客様へのサービス提供を促進するために、第三者のウェブサイトにリンクする場合があります。これらのリンクを使用する場合は、本サービスを離れることになります。当社は、これらの第三者のウェブサイト、当該第三者のウェブサイトを後援する組織、またはそれらの製品もしくはサービスについて、当社が当該第三者のウェブサイトと提携しているか否かを問わず、責任を負わず、また推奨もしません。利用者は、利用者が第三者のウェブサイト上で、または第三者のウェブサイトを通じて行った取引、または本サービス上の第三者の広告の存在の結果として発生したいかなる種類の損失または損害についても、当社が責任を負わないことに同意するものとします。"
         },
         "CONFIDENTIAL_INFORMATION": {
-            "TITLE": "Confidential Information",
-            "FIRST_PARAGRAPH": "You agree that you won't disclose Filo's confidential information without our prior written consent. \"Confidential information\" includes, but isn't limited to, the following:",
+            "TITLE": "機密情報",
+            "FIRST_PARAGRAPH": "お客様は、事前の書面による同意がない限り、Filo の機密情報を開示しないことに同意するものとします。 「機密情報」には以下が含まれますが、これらに限定されません。",
             "LIST": {
-                "FIRST_ELEMENT": "Any software, technology, programming, specifications, materials, guidelines and documentation relating to the Service.",
-                "SECOND_ELEMENT": "Statistics relating to the performance of the Service.",
-                "THIRD_ELEMENT": "The existence of, and information about, beta features in a Service.",
-                "FOURTH_ELEMENT": "Any other information made available by Filo that is marked confidential or would normally be considered confidential under the circumstances in which it is presented."
+                "FIRST_ELEMENT": "本サービスに関連するソフトウェア、技術、プログラミング、仕様書、資料、ガイドラインおよび文書。",
+                "SECOND_ELEMENT": "本サービスのパフォーマンスに関する統計。",
+                "THIRD_ELEMENT": "サービスにおけるベータ機能の存在、およびベータ機能に関する情報。",
+                "FOURTH_ELEMENT": "Filo によって提供される、機密としてマークされている、または提示される状況下で通常機密とみなされるその他の情報。"
             },
-            "SECOND_PARAGRAPH": "Confidential information doesn't include information that you already knew prior to your use of the Service, that becomes public through no fault of yours, that was independently developed by you, or that was lawfully given to you by a third party. Notwithstanding the foregoing, you may accurately disclose the amount of Filo's gross payments resulting from your use of the Service."
+            "SECOND_PARAGRAPH": "機密情報には、サービスの使用前に既に知っていた情報、お客様の過失なく公開された情報、お客様が独自に開発した情報、または第三者から合法的に提供された情報は含まれません。 上記にかかわらず、お客様は、本サービスの使用に起因する Filo の総支払額を正確に開示することができます。"
         },
         "COPYRIGHT": {
-            "TITLE": "Copyright",
-            "FIRST_PARAGRAPH": "We generally accept requests to remove content from our service by sending an email to <strong><a href=\"mailto:{{email}}\">{{email}}</a></strong>. The use, distribution, sale, publication of any content of our service isn't allowed. There are exceptions. We appreciate that you don't use our content to supplement, create or distribute yours. All intellectual property rights are reserved."
+            "TITLE": "著作権",
+            "FIRST_PARAGRAPH": "弊社は通常、<strong><a href=\"mailto:{{email}}\">{{email}}</a></strong> 宛てに電子メールを送信することで、弊社サービスからのコンテンツの削除要求を受け付けます。私たちのサービスのいかなるコンテンツの使用、配布、販売、出版も許可されていません。例外もあります。私たちは、あなたが私たちのコンテンツを使用して、あなたのコンテンツを補足、作成、または配布しないことを感謝します。すべての知的財産権は留保されています。"
         },
         "PRIVACY_POLICY": {
-            "TITLE": "Privacy Policy",
-            "FIRST_PARAGRAPH": "Please refer to our <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong> for information on how we collect, use and disclose information from our users."
+            "TITLE": "プライバシーポリシー",
+            "FIRST_PARAGRAPH": "当社のユーザーからの情報の収集、使用および開示方法については、 <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">プライバシーポリシー</a></strong> をご参照ください。"
         },
         "EXPERIMENTAL_FEATURES": {
-            "TITLE": "Experimental Features or Beta Services",
-            "FIRST_PARAGRAPH": "We may offer you access to features or services that are considered experimental or in a beta state (\"Beta Features\"). Beta Features may have reduced or different security, privacy, accessibility, availability and reliability standards, and may not operate correctly or in the way that a generally available feature or service would operate. Our inclusion of Beta Features shouldn't be construed as an endorsement, guarantee, warranty, or recommendation of them by us or any third party. All Beta Features are provided \"as is\" and at your own risk, and you agree that we have no liability arising from your use of or access to any Beta Features.",
-            "SECOND_PARAGRAPH": "We may also terminate, suspend, or modify any Beta Features at any time without prior notice to you. We may also decide not to make a Beta Feature generally available. We may add or remove Beta Features from the Service at any time in our sole discretion. If you decide to use any Beta Features, you do so at your sole risk."
+            "TITLE": "実験的機能またはベータ版サービス",
+            "FIRST_PARAGRAPH": "当社は、実験的またはベータ版とみなされる機能またはサービス（以下「ベータ版機能」）へのアクセスをお客様に提供する場合があります。ベータ版機能は、セキュリティ、プライバシー、アクセシビリティ、可用性、および信頼性の基準が低下または異なる可能性があり、一般的に利用可能な機能またはサービスと同様に正しく動作しない可能性があります。当社がベータ機能を含めることは、当社または第三者によるそれらの推奨、保証、または推奨として解釈されるべきではありません。すべてのベータ機能は「現状のまま」、お客様ご自身の責任において提供されるものであり、お客様は、ベータ機能の使用またはアクセスから生じるいかなる責任も当社が負わないことに同意するものとします。",
+            "SECOND_PARAGRAPH": "また、当社は、お客様に事前に通知することなく、いつでもベータ機能を終了、一時停止、または変更することができます。また、ベータ機能を一般的に利用可能にしないことを決定する場合もあります。当社は、独自の裁量により、いつでも本サービスからベータ機能を追加または削除することができます。ベータ版機能の利用を決定した場合、利用者は自己の責任においてこれを行うものとします。"
         },
         "INDEMNIFICATION": {
             "LIST": {
-                "FIFTH_ELEMENT": "Any claim or damages that arise as a result of any of your user content or any that is submitted via your account.",
-                "FIRST_ELEMENT": "Your use of and access to the Service, including any data or content transmitted or received by you.",
-                "SECOND_ELEMENT": "Your violation of any term of this Agreement, including without limitation your breach of any of the representations and warranties above.",
-                "THIRD_ELEMENT": "Your violation of any third-party right, including without limitation any right of privacy or intellectual property rights.",
-                "FOURTH_ELEMENT": "Your violation of any applicable law, rule or regulation."
+                "FIFTH_ELEMENT": "利用者のユーザーコンテンツまたは利用者のアカウントを通じて提出されたコンテンツの結果として生じるあらゆる請求または損害。",
+                "FIRST_ELEMENT": "お客様が送信または受信したデータまたはコンテンツを含む、お客様の本サービスの使用および本サービスへのアクセス。",
+                "SECOND_ELEMENT": "お客様による本契約のいずれかの条項の違反（上記の表明および保証のいずれかの違反を含みますが、これに限定されません）。",
+                "THIRD_ELEMENT": "プライバシー権または知的財産権を含むがこれに限定されない、第三者の権利の侵害。",
+                "FOURTH_ELEMENT": "適用される法律、規則または規制に違反した場合。"
             },
-            "SECOND_PARAGRAPH": "This defense and indemnification obligation will survive this Agreement and your use of the Service.",
-            "TITLE": "Indemnification",
-            "FIRST_PARAGRAPH": "You agree to defend, indemnify and hold harmless Filobot and its subsidiaries, agents, licensors, managers, and other affiliated companies, and their employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees) arising from:"
+            "SECOND_PARAGRAPH": "この防御および補償義務は、本契約およびお客様の本サービスの使用後も存続します。",
+            "TITLE": "補償",
+            "FIRST_PARAGRAPH": "お客様は、Filobot とその子会社、代理店、ライセンサー、マネージャー、およびその他の関連会社、およびその従業員、請負業者、代理店、役員および取締役を、あらゆる請求、損害、義務、損失から防御し、補償し、免責することに同意するものとします。 、以下に起因する負債、費用または負債、および費用（弁護士費用を含むがこれらに限定されない）。"
         },
         "DISCLAIMER_OF_WARRANTY": {
-            "TITLE": "Disclaimer of Warranty",
-            "FIRST_PARAGRAPH": "The services and the materials of the Service are provided \"as is\" and \"as available\", without any warranties of any kind, either express or implied, including, but not limited, implied warranties, suitable and suitable for any kind. No infringement. Use of the Service is at your sole risk. Further, even though we try to provide a good user experience, we can't and don't represent or guarantee that the Service will always be safe and error-free or that the Service will always operate with no delays, interruptions or defects. The foregoing disclaimers will apply to the extent permitted by applicable law.",
-            "SECOND_PARAGRAPH": "We aren't responsible for outages of the Service."
+            "TITLE": "免責事項",
+            "FIRST_PARAGRAPH": "本サービスおよび本サービスの素材は、「現状有姿」および「利用可能な状態」で提供され、明示または黙示を問わず、いかなる種類の保証（黙示の保証、適切性、適性を含みますが、これらに限定されません。侵害はありません。本サービスの利用は、お客様ご自身の責任で行ってください。さらに、当社が良好なユーザーエクスペリエンスを提供しようと努めていても、本サービスが常に安全でエラーがないこと、または本サービスが常に遅延、中断、欠陥なく運営されることを表明または保証することはできませんし、表明または保証しません。前述の免責事項は、適用される法律で認められる範囲内で適用されます。",
+            "SECOND_PARAGRAPH": "当社は、本サービスの停止について責任を負いません。"
         },
         "LIMITATION_OF_LIABILITY": {
-            "TITLE": "Limitation of Liability",
-            "FIRST_PARAGRAPH": "You expressly acknowledge that we won't be responsible for user content, including without limitation its content, as well as for defamatory, offensive or illegal conduct of any third party and that the risk of damage or prejudice of the foregoing rests entirely with you."
+            "TITLE": "責任の制限",
+            "FIRST_PARAGRAPH": "利用者は、当社が利用者のコンテンツ（その内容を含むがこれに限定されない）、および第三者の中傷的、攻撃的、または違法な行為について責任を負わないこと、および前述の損害または不利益のリスクはすべて利用者にあることを明示的に認識するものとします。"
         },
         "TERMINATION": {
-            "TITLE": "Termination",
-            "FIRST_PARAGRAPH": "We may terminate or suspend your access to the Service at any time, including in the event of your actual or suspected unauthorized use of the Service or non-compliance with these Terms. If you or Filobot terminate your use of the Service, we may delete any content or other materials relating to your use of the Service and we will have no liability to you or any third party for doing so."
+            "TITLE": "終了",
+            "FIRST_PARAGRAPH": "当社は、お客様によるサービスの実際の不正使用または不正使用の疑い、または本規約の不遵守の場合を含め、いつでもお客様のサービスへのアクセスを終了または一時停止することができます。 お客様または Filobot がサービスの使用を終了した場合、当社はお客様のサービスの使用に関連するコンテンツまたはその他のマテリアルを削除することができますが、当社はこれについてお客様または第三者に対して一切の責任を負いません。"
         },
         "CONTACT": {
-            "TITLE": "Contact",
-            "FIRST_PARAGRAPH": "If you have any questions about these Terms, please contact us at <strong><a href=\"mailto:{{email}}\">{{email}}</a></strong>."
+            "TITLE": "連絡先",
+            "FIRST_PARAGRAPH": "本規約についてご質問がある場合は、<strong><a href=\"mailto:{{email}}\">{{email}}</a></strong> までご連絡ください。"
         }
     }
 }
