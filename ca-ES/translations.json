@@ -784,38 +784,38 @@
     },
     "META": {
         "COOKIES_POLICY": {
-            "ABSTRACT": "Explore how we utilize cookies, respect user preferences, and prioritize data protection for a tailored online experience.",
-            "DESCRIPTION": "Learn how we prioritize your privacy, manage data tracking, and provide options for personalized online experiences through transparent cookie policies.",
-            "KEYWORDS": "cookies, data tracking, privacy settings, cookie policy, user preferences, website analytics, consent management, online experience, data protection, cookie usage"
+            "ABSTRACT": "Exploreu com utilitzem les cookies, respecteu les preferències de l'usuari i prioritzeu la protecció de dades per a una experiència online personalitzada.",
+            "DESCRIPTION": "Aprèn com prioritzem la teva privacitat, gestionem el seguiment de dades i proporcionem opcions per a experiències personalitzades en línia a través de polítiques de cookies transparents.",
+            "KEYWORDS": "Cookies, seguiment de dades, configuració de privacitat, política de cookies, preferències d'usuari, anàlisi de llocs web, gestió de consentiment, experiència en línia, protecció de dades, ús de cookies"
         },
         "DEFAULT": {
-            "DESCRIPTION": "Elevate your Discord community with powerful and seamless moderation tools, available in multiple languages.",
-            "ABSTRACT": "Empower your Discord community with versatile, multilingual moderation solutions.",
-            "KEYWORDS": "filo bot, discord, discord bot, discord bots, moderation bot, multilingual bot, anime bot, best moderation bot discord, best discord bots for moderation, powerful discord bot"
+            "DESCRIPTION": "Eleva la teva comunitat de Discord amb eines de moderació potents i perfectes, disponible en múltiples idiomes.",
+            "ABSTRACT": "Potència la teva comunitat de Discord amb solucions de moderació versàtils i multilingües",
+            "KEYWORDS": "filo bot, discord, bot de discord, bots de discord, bot de moderació, bot multilingüe, bot d'animi, millor bot de moderació de discord, millors bots de moderació, bot de discord potent"
         },
         "FEATURES": {
-            "DESCRIPTION": "Explore Filo's rich array of Discord bot features - from enhanced moderation to community engagement tools, unleash the full potential of your community management.",
-            "ABSTRACT": "Discover the full spectrum of features that Filo offers, empowering you to elevate your Discord community's management, moderation, and community engagement.",
-            "KEYWORDS": "discord bot, community management, moderation tools, community engagement, multilingual support, anti-spam, member counting, welcoming messages, security measures, customization options"
+            "DESCRIPTION": "Explora l'àmplia gamma de característiques del bot de Discord Filo - des de moderació potenciada fins a eines de participació per a la comunitat, allibera tot el potèncial de la gestió de la teva comunitat.",
+            "ABSTRACT": "Descobreix l'espectre complet de funcions que ofereix Filo, que et permet millorar la gestió, moderació i la participació de la teva comunitat de Discord.",
+            "KEYWORDS": "bot de discord, gestió de comunitat, eines de moderació, participació de la comunitat, suport multilingüe, anti-spam, comptador de membres, missatges de benvinguda, mesures de seguretat, opcions personalitzacions"
         },
         "TERMS_OF_SERVICE": {
-            "DESCRIPTION": "Learn about acceptable use policies, community management rules, and compliance requirements to ensure a respectful and secure Discord experience.",
-            "ABSTRACT": "Explore the details of acceptable use, community management rules, and compliance requirements for a harmonious and secure online environment.",
-            "KEYWORDS": "terms of service, user agreement, discord bot usage, community guidelines, code of conduct, acceptable use, legal terms, agreement terms, community management rules, compliance requirements"
+            "DESCRIPTION": "Conèixer les polítiques d'ús acceptables, les normes de gestió de la comunitat i els requisits de compliment per garantir una experiència respectuosa i segura de Discord.",
+            "ABSTRACT": "Explora els detalls d'ús acceptable, les normes de gestió de la comunitat i els requisits de compliment per a un entorn en línia harmoniós i segur.",
+            "KEYWORDS": "condicions del servei, acord d'usuari, ús del bot de discord, directrius de la comunitat, codi de conducta, ús acceptable, termes legals, termes d'acord, normes de gestió de la comunitat, requisits de compliment"
         },
         "PRIVACY_POLICY": {
-            "DESCRIPTION": "Learn about our commitment to transparency, consent management, and stringent measures to ensure the security of your information in compliance with data protection standards.",
-            "ABSTRACT": "Discover our practices in transparency, consent management, and stringent security measures, all aligned with data protection standards to ensure your online privacy.",
-            "KEYWORDS": "privacy policy, data protection, user information, information security, consent management, personal data, transparency, online privacy, data processing, compliance measures"
+            "DESCRIPTION": "Coneix el nostre compromís amb la transparència, la gestió del consentiment i les mesures estrictes per garantir la seguretat de la teva informació en compliment de les normes de protecció de dades.",
+            "ABSTRACT": "Descobreix les nostres pràctiques en transparència, gestió del consentiment i estrictes mesures de seguretat, tot això alineat amb els estàndards de protecció de dades per garantir la teva privacitat en línia.",
+            "KEYWORDS": "política de privacitat, protecció de dades, informació de l'usuari, seguretat de la informació, gestió del consentiment, dades personals, transparència, privacitat en línia, tractament de dades, mesures de compliment"
         },
         "TERMS_OF_SALES": {
-            "DESCRIPTION": "Learn about our billing and refund policies, license agreements, and renewal terms to make informed decisions about your subscriptions.",
-            "ABSTRACT": "Uncover insights into billing, refund policies, license agreements, and renewal terms, empowering you to make informed decisions about your subscriptions.",
-            "KEYWORDS": "sales terms, pricing details, payment policies, subscription plans, billing information, refund policy, license agreements, premium features, renewal terms, transaction terms"
+            "DESCRIPTION": "Coneix les nostres polítiques de facturació i reemborsament, els acords de llicència i els termes de renovació per prendre decisions informades sobre les teves subscripcions.",
+            "ABSTRACT": "Descobreix informació sobre la facturació, les polítiques de reemborsament, els acords de llicència i els termes de renovació, i et capacita per prendre decisions informades sobre les teves subscripcions.",
+            "KEYWORDS": "condicions de venda, detalls de preus, polítiques de pagament, plans de subscripció, informació de facturació, política de reemborsament, acords de llicència, funcions premium, condicions de renovació, condicions de transacció"
         },
         "SERVICE_STATUS": {
-            "DESCRIPTION": "Stay informed about Filo's service status, maintenance schedules, and updates to ensure a seamless and uninterrupted Discord experience.",
-            "ABSTRACT": "Keep up to date with Filo's service status, maintenance schedules, and updates to ensure a smooth and uninterrupted Discord experience.",
+            "DESCRIPTION": "Mantingui's informat sobre l'estat del servei de Filo, els horaris de manteniment i les actualitzacions per garantir una experiència de Discord sense fissures i ininterrompuda.",
+            "ABSTRACT": "Estigues al dia de l'estat del servei de Filo, els horaris de manteniment i les actualitzacions per garantir una experiència de Discord suau i ininterrompuda.",
             "KEYWORDS": "service status, maintenance schedules, service updates, discord bot status, discord bot maintenance, discord bot updates, service interruptions, discord service status"
         },
         "BLOG": {
@@ -825,36 +825,36 @@
         }
     },
     "TITLE": {
-        "GENERIC": "{{title}} | Filo — The Discord Bot",
-        "GENERIC_ALT": "Filo — The Discord Bot",
-        "SERVICE_STATUS": "Service status",
-        "VOTE": "Vote",
+        "GENERIC": "{{title}} | Filo — El Bot de Discord",
+        "GENERIC_ALT": "Filo — El Bot de Discord",
+        "SERVICE_STATUS": "Estat del servei",
+        "VOTE": "Vota",
         "BLOG": "Blog",
-        "TERMS_OF_SERVICE": "Terms of Service",
-        "PRIVACY_POLICY": "Privacy Policy",
-        "COOKIES_POLICY": "Cookies Policy",
-        "TERMS_OF_SALES": "Terms of Sales",
-        "HOME": "Home",
-        "INVITE": "Invite",
-        "DOCUMENTATION": "Documentation",
-        "CONTACT": "Contact",
-        "DISCORD_SERVER": "Discord server",
-        "THANKS": "Thanks",
+        "TERMS_OF_SERVICE": "Terminis del Servei",
+        "PRIVACY_POLICY": "Política de Privacitat",
+        "COOKIES_POLICY": "Política de Cookies",
+        "TERMS_OF_SALES": "Terminis de Venda",
+        "HOME": "Inici",
+        "INVITE": "Convidar",
+        "DOCUMENTATION": "Documentació",
+        "CONTACT": "Contactar",
+        "DISCORD_SERVER": "Servidor de Discord",
+        "THANKS": "Gràcies",
         "ERROR": "Error",
-        "LINK_SHORTENER": "Link shortener",
-        "FEATURES": "Features",
-        "APPEAL": "Appeal",
-        "CONGESTED_QUEUE": "Congested queue",
-        "DONATE": "Donate",
-        "SYNC_ACCOUNT": "Sync account",
+        "LINK_SHORTENER": "Acortador d'enllaços",
+        "FEATURES": "Característiques",
+        "APPEAL": "Apel·lar",
+        "CONGESTED_QUEUE": "Cua congestionada",
+        "DONATE": "Donar",
+        "SYNC_ACCOUNT": "Sincronitzar compte",
         "GITHUB": "GitHub",
-        "TRANSLATE": "Translate",
+        "TRANSLATE": "Traduir",
         "TWITTER": "Twitter",
         "TWITCH": "Twitch",
         "YOUTUBE": "YouTube",
-        "CONTACT_US": "Contact us",
-        "REVIEW": "Review",
-        "APP_DIRECTORY": "App directory"
+        "CONTACT_US": "Contacta'ns",
+        "REVIEW": "Ressenya",
+        "APP_DIRECTORY": "Directori d'Aplicacions"
     },
     "BUTTON_LABELS": {
         "FEATURES": "Features",
