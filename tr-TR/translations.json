@@ -54,74 +54,74 @@
         "SUBTITLE": "İşlerinizi kolaylaştırmak için çok çeşitli yönetici ve moderasyon modüllerine sahip"
     },
     "FEATURES": {
-        "DESCRIPTION": "Sunucunuzu geliştirmek için en iyi özellikler!",
+        "DESCRIPTION": "Filo'nun kapsamlı özellikleri ile bir olasılıklar dünyasını keşfedin",
         "MORE_INFO": "Bu özellik hakkında daha fazla bilgi",
         "REPORTS": {
             "TITLE": "Raporlar",
-            "DESCRIPTION": "Kullanıcıların uygunsuz davranışları bildirmesine izin vererek deneyimi geliştirin ve sunucu moderasyonunuzu profesyonelleştirin!"
+            "DESCRIPTION": "Kullanıcılarınızın uygunsuz davranışları bildirmesine olanak tanıyarak topluluğunuzun güvenliğini ve şeffaflığını artırın"
         },
         "LOGGING": {
             "TITLE": "Günlük kaydı",
-            "DESCRIPTION": "Sunucunuzdaki kullanıcılar tarafından gerçekleştirilen tüm eylemleri bir kanala kaydederek bunları kolayca incelemenizi ve filtrelemenizi sağlar!"
+            "DESCRIPTION": "Topluluğunuzun faaliyetlerini takip edin. Şeffaflığı ve hesap verebilirliği korumak için önemli olayları ve eylemleri kaydedin"
         },
         "ANTI_INVITES": {
             "TITLE": "Anti Davetiyeler",
-            "DESCRIPTION": "Kullanıcıları otomatik olarak yaptırıma tabi tutarak sunucularınızdan kendi sunucularınıza davet göndermelerini önleyin!"
+            "DESCRIPTION": "Topluluğunuzu istenmeyen davetlerden koruyun. İzinsiz davet paylaşımını önleyerek topluluğunuzun odaklanmasını ve güvenliğini sağlayın"
         },
         "ANTI_SPAM": {
             "TITLE": "Anti Spam",
-            "DESCRIPTION": "Spam gönderenlerden bıktınız mı? Moderatörleriniz yeterli değil mi? Bırakın Filo bu kullanıcı sınıfıyla ilgilensin ve bu arada biraz çay içsin!"
+            "DESCRIPTION": "Spam'in topluluğunuzun faaliyetlerini aksatmasını önleyin. Daha temiz, daha keyifli bir topluluk deneyiminin keyfini çıkarın"
         },
         "ANTI_BAD_WORDS": {
             "TITLE": "Anti Kötü Sözler",
-            "DESCRIPTION": "Kullanıcıların mesajlarında kötü kelimeler kullanmasını önleyin... Kimse bu kelimeleri okumak zorunda kalmaktan hoşlanmaz!"
+            "DESCRIPTION": "Topluluğunuzda temiz ve saygılı bir ortam sağlayın. Uygunsuz dili otomatik olarak filtreleyip engelleyerek dostane ve güvenli bir ortamı teşvik edin"
         },
         "ANTI_SCAM_LINKS": {
             "TITLE": "Dolandırıcılık Karşıtı Bağlantılar",
-            "DESCRIPTION": "Dolandırıcılar, ne yorucu insanlar... Artık Filo bu tür insanlarla savaşmanıza yardımcı olabilir!"
+            "DESCRIPTION": "Topluluğunuzu olası dolandırıcılıklardan ve sahte bağlantılardan koruyun. Topluluğunuzu güvende ve emniyette tutun"
         },
         "AUTO_MODERATION": {
             "TITLE": "Otomatik Moderasyon",
-            "DESCRIPTION": "Sunucunuzda çakışan kullanıcıların bulunmasına izin vermeyin, bu yasal kullanıcıların deneyimini olumsuz etkileyebilir!"
+            "DESCRIPTION": "Topluluğunuzun güvenliğini ve adabını otomatikleştirin. Topluluk kurallarını zahmetsizce uygulayın ve sıcak bir ortam sağlayın"
         },
         "ANTI_EVASION": {
             "TITLE": "Anti Kaçınma",
-            "DESCRIPTION": "Birkaç kullanıcıyı sessize aldınız ve onlar sunucuyu terk mi etti? Hiç sorun değil! Filo'nun bu kullanıcıları otomatik olarak yasaklamasına izin verin!"
+            "DESCRIPTION": "Yıkıcı kullanıcıların bir adım önünde olun. Denetim önlemlerini atlatmak isteyen kural ihlalcilerine karşı topluluğunuzun savunmasını güçlendirin"
         },
         "WELCOMES": {
-            "TITLE": "Welcomes",
-            "DESCRIPTION": "Create a welcoming atmosphere in your community. Greet new members, show your community's personality, and make everyone feel right at home"
+            "TITLE": "Hoş geldiniz",
+            "DESCRIPTION": "Topluluğunuzda sıcak bir atmosfer yaratın. Yeni üyeleri selamlayın, topluluğunuzun kişiliğini gösterin ve herkesin kendini evinde hissetmesini sağlayın"
         },
-        "TITLE": "Features",
-        "TITLE_ALTERNATIVE": "The best features",
-        "DESCRIPTION_ALTERNATIVE": "Explore the finest features for efficient community management with Filo",
+        "TITLE": "Özellikler",
+        "TITLE_ALTERNATIVE": "En iyi özellikler",
+        "DESCRIPTION_ALTERNATIVE": "Filo ile verimli topluluk yönetimi için en iyi özellikleri keşfedin",
         "MULTI_LANGUAGE": {
-            "TITLE": "Multi Language",
-            "DESCRIPTION": "Experience the beauty of bringing communities from different cultures and languages together. It's not just a feature; it's our mission!"
+            "TITLE": "Çoklu Dil",
+            "DESCRIPTION": "Farklı kültürlerden ve dillerden toplulukları bir araya getirmenin güzelliğini yaşayın. Bu sadece bir özellik değil; bu bizim misyonumuz!"
         },
         "WELCOMES_ROLE": {
-            "TITLE": "Welcomes Role",
-            "DESCRIPTION": "Automatically assign roles to new members, ensuring they feel instantly at home in your community"
+            "TITLE": "Rolü Karşılıyor",
+            "DESCRIPTION": "Yeni üyelere otomatik olarak roller atayın ve topluluğunuzda kendilerini anında evlerinde hissetmelerini sağlayın"
         },
         "FAREWELLS": {
-            "TITLE": "Farewells",
-            "DESCRIPTION": "Create a gracious exit for departing members. Bid farewell to members leaving your community and keep the community spirit alive"
+            "TITLE": "Vedalar",
+            "DESCRIPTION": "Ayrılan üyeler için nazik bir çıkış yaratın. Topluluğunuzdan ayrılan üyelere veda edin ve topluluk ruhunu canlı tutun"
         },
         "MEMBER_COUNTER": {
-            "TITLE": "Member Counter",
-            "DESCRIPTION": "Display real-time member counts to celebrate milestones and monitor your community's progress"
+            "TITLE": "Üye Sayacı",
+            "DESCRIPTION": "Kilometre taşlarını kutlamak ve topluluğunuzun ilerlemesini izlemek için gerçek zamanlı üye sayılarını görüntüleyin"
         },
         "ANTI_MASS_MENTIONS": {
-            "TITLE": "Anti Mass Mentions",
-            "DESCRIPTION": "Protect your community from excessive mentions and disruptions. Enjoy a spam-free and focused community environment"
+            "TITLE": "Kitle Karşıtı Sözler",
+            "DESCRIPTION": "Topluluğunuzu aşırı bahsedenlerden ve kesintilerden koruyun. Spam içermeyen ve odaklanmış bir topluluk ortamının keyfini çıkarın"
         },
         "ANTI_REPEATED_TEXT": {
-            "TITLE": "Anti Repeated Text",
-            "DESCRIPTION": "Say goodbye to repetitive and monotonous messages. Ensure more engaging and enjoyable conversation in your community"
+            "TITLE": "Tekrarlanan Metin Karşıtı",
+            "DESCRIPTION": "Tekrarlayan ve monoton mesajlara elveda deyin. Topluluğunuzda daha ilgi çekici ve keyifli sohbetler sağlayın"
         },
         "ANTI_EXTERNAL_LINKS": {
-            "TITLE": "Anti External Links",
-            "DESCRIPTION": "Keep your community safe from unwanted external links. Maintain a secure and focused community environment"
+            "TITLE": "Anti Harici Bağlantılar",
+            "DESCRIPTION": "Topluluğunuzu istenmeyen dış bağlantılara karşı güvende tutun. Güvenli ve odaklanmış bir topluluk ortamı sağlayın"
         }
     },
     "STATISTICS": {
@@ -146,24 +146,24 @@
     "REVIEW": {
         "TITLE": "Bize bir yorum bırakın",
         "SUBTITLE": "Filo'yu ve hizmetini ne kadar sevdiğinizi gösterin!",
-        "DESCRIPTION": "Share your thoughts and experiences with Filo"
+        "DESCRIPTION": "Düşüncelerinizi ve deneyimlerinizi Filo ile paylaşın"
     },
     "VOTE": {
         "TITLE": "Filo'ya oy verin",
         "SUBTITLE": "Filo'ya desteğinizi ona oy vererek gösterin!",
-        "DESCRIPTION": "Help us grow and improve by voting for Filo"
+        "DESCRIPTION": "Filo'ya oy vererek büyümemize ve gelişmemize yardımcı olun"
     },
     "FRIENDLY_WEBSITES": {
-        "TITLE": "Dost web siteleri",
+        "TITLE": "Önerdiğimiz dost web siteleri",
         "SUBTITLE": "Filo'nun büyümesine yardımcı olan dost web siteleri!",
-        "DESCRIPTION": "Explore a curated list of websites that we consider friendly and valuable"
+        "DESCRIPTION": "Dost ve değerli olduğunu düşündüğümüz web sitelerinin seçilmiş bir listesini keşfedin"
     },
     "READY": {
-        "TITLE": "Bir sonraki adımı atmaya hazır mısınız?",
+        "TITLE": "Toplumunuzun tüm potansiyelini ortaya çıkarmaya hazır mısınız?",
         "SUBTITLE": "Bugün Filo ile deneyiminizi geliştirin ve sunucunuzu profesyonelleştirin!",
         "INVITE": "Hadi yapalım şu işi!",
         "GETTING_STARTED": "Başlarken",
-        "DESCRIPTION": "Invite Filo today to supercharge your Discord experience with powerful moderation and community-enhancing features"
+        "DESCRIPTION": "Discord deneyiminizi güçlü moderasyon ve topluluk geliştirme özellikleriyle güçlendirmek için Filo'yu bugün davet edin"
     },
     "CALCULATOR": {
         "TITLE": "Filo'nun İzin Hesaplayıcısı",
@@ -201,17 +201,17 @@
         "UNTIMEOUT_MEMBERS": "Untimeout üyeleri"
     },
     "THANKS": {
-        "TITLE": "Filo'yu eklediğiniz için teşekkürler!",
+        "TITLE": "Filo's topluluğuna hoş geldiniz!",
         "SUBTITLE": "Filo'ya güvenmeye karar verdiğiniz için çok minnettarız.",
         "DISCORD_REDIRECT_INFO": "Discord sunucumuza yönlendirileceksiniz.",
-        "DESCRIPTION": "We're thrilled you've added Filo to your community. Get ready to experience the power of Filo"
+        "DESCRIPTION": "Filo'yu topluluğunuza kattığınız için çok heyecanlıyız. Filo'nun gücünü deneyimlemeye hazır olun"
     },
     "FOOTER": {
-        "HELPFUL_LINKS": "Yararlı Bağlantılar",
-        "IMPORTANT_LINKS": "Önemli Bağlantılar",
+        "HELPFUL_LINKS": "Yararlı bağlantılar",
+        "IMPORTANT_LINKS": "Önemli bağlantılar",
         "ABOUT_FILO": "Filo Hakkında",
-        "ABOUT_FILO_DESCRIPTION": "Filo is a powerful multipurpose Discord bot serving Discord guilds since 2019. Featuring a wide range of admin and moderation modules to make things easier for you",
-        "COPYRIGHT": "Filobot © {{year}}. All rights reserved"
+        "ABOUT_FILO_DESCRIPTION": "Filo, 2019'dan beri Discord loncalarına hizmet veren güçlü, çok amaçlı bir Discord botudur. İşlerinizi kolaylaştırmak için çok çeşitli yönetici ve moderasyon modüllerine sahiptir",
+        "COPYRIGHT": "Filobot © {{year}}. Tüm hakları saklıdır"
     },
     "GENERAL": {
         "BLOG": "Blog",
@@ -238,172 +238,172 @@
     "LINK_SHORTENER": {
         "TITLE": "Yönlendirme",
         "SUBTITLE": "Birkaç saniye içinde orijinal bağlantıya yönlendirileceksiniz",
-        "DESCRIPTION": "We are preparing the stars that will guide you on your journey towards the definitive redirection!"
+        "DESCRIPTION": "Kesin yönlendirmeye doğru yolculuğunuzda size rehberlik edecek yıldızları hazırlıyoruz!"
     },
     "ERROR": {
         "506": {
-            "DESCRIPTION": "Variant Also Negotiates"
+            "DESCRIPTION": "Varyant da Pazarlık Yapıyor"
         },
         "507": {
-            "DESCRIPTION": "Insufficient Storage"
+            "DESCRIPTION": "Yetersiz Depolama"
         },
         "505": {
-            "DESCRIPTION": "HTTP Version Not Supported"
+            "DESCRIPTION": "HTTP Sürümü Desteklenmiyor"
         },
         "421": {
-            "DESCRIPTION": "Misdirected Request"
+            "DESCRIPTION": "Yanlış Yönlendirilmiş Talep"
         },
         "422": {
-            "DESCRIPTION": "Unprocessable Entity"
+            "DESCRIPTION": "İşlenemez Varlık"
         },
         "423": {
-            "DESCRIPTION": "Locked"
+            "DESCRIPTION": "Kilitli"
         },
         "424": {
-            "DESCRIPTION": "Failed Dependency"
+            "DESCRIPTION": "Başarısız Bağımlılık"
         },
         "425": {
-            "DESCRIPTION": "Too Early"
+            "DESCRIPTION": "Çok Erken"
         },
         "426": {
-            "DESCRIPTION": "Upgrade Required"
+            "DESCRIPTION": "Yükseltme Gerekli"
         },
         "428": {
-            "DESCRIPTION": "Precondition Required"
+            "DESCRIPTION": "Ön Koşul Gerekli"
         },
         "429": {
-            "DESCRIPTION": "Too Many Request"
+            "DESCRIPTION": "Çok Fazla Talep"
         },
         "431": {
-            "DESCRIPTION": "Request Header Fields Too Large"
+            "DESCRIPTION": "İstek Üstbilgi Alanları Çok Büyük"
         },
         "444": {
-            "DESCRIPTION": "Connection Closed Without Response"
+            "DESCRIPTION": "Bağlantı Yanıt Verilmeden Kapatıldı"
         },
         "451": {
-            "DESCRIPTION": "Unavailable For Legal Reasons"
+            "DESCRIPTION": "Yasal Nedenlerle Kullanılamıyor"
         },
         "500": {
-            "DESCRIPTION": "Internal Server Error"
+            "DESCRIPTION": "Dahili Sunucu Hatası"
         },
         "501": {
-            "DESCRIPTION": "Not Implemented"
+            "DESCRIPTION": "Uygulanmadı"
         },
         "502": {
-            "DESCRIPTION": "Bad Gateway"
+            "DESCRIPTION": "Kötü Geçit"
         },
         "503": {
-            "DESCRIPTION": "Service Unavailable"
+            "DESCRIPTION": "Hizmet Kullanılamıyor"
         },
         "504": {
-            "DESCRIPTION": "Gateway Timeout"
+            "DESCRIPTION": "Ağ Geçidi Zaman Aşımı"
         },
         "508": {
-            "DESCRIPTION": "Loop Detected"
+            "DESCRIPTION": "Döngü Algılandı"
         },
         "510": {
-            "DESCRIPTION": "Not Extended"
+            "DESCRIPTION": "Uzatılmamış"
         },
         "511": {
-            "DESCRIPTION": "Network Authentication Required"
+            "DESCRIPTION": "Ağ Kimlik Doğrulaması Gerekli"
         },
         "599": {
-            "DESCRIPTION": "Network Connect Timeout Error"
+            "DESCRIPTION": "Ağ Bağlantısı Zaman Aşımı Hatası"
         },
-        "TITLE": "Error",
+        "TITLE": "Hata",
         "200": {
-            "DESCRIPTION": "OK"
+            "DESCRIPTION": "TAMAM."
         },
         "400": {
-            "DESCRIPTION": "Bad Request"
+            "DESCRIPTION": "Kötü İstek"
         },
         "401": {
-            "DESCRIPTION": "Unauthorized"
+            "DESCRIPTION": "Yetkisiz"
         },
         "402": {
-            "DESCRIPTION": "Payment Required"
+            "DESCRIPTION": "Ödeme Gerekli"
         },
         "403": {
-            "DESCRIPTION": "Forbidden"
+            "DESCRIPTION": "Yasak"
         },
         "404": {
-            "DESCRIPTION": "Not Found"
+            "DESCRIPTION": "Bulunamadı"
         },
         "405": {
-            "DESCRIPTION": "Method Not Allowed"
+            "DESCRIPTION": "Yönteme İzin Verilmiyor"
         },
         "406": {
-            "DESCRIPTION": "Not Acceptable"
+            "DESCRIPTION": "Kabul Edilemez"
         },
         "407": {
-            "DESCRIPTION": "Proxy Authentication Required"
+            "DESCRIPTION": "Proxy Kimlik Doğrulaması Gerekli"
         },
         "408": {
-            "DESCRIPTION": "Request Timeout"
+            "DESCRIPTION": "İstek Zaman Aşımı"
         },
         "409": {
-            "DESCRIPTION": "Conflict"
+            "DESCRIPTION": "Çatışma"
         },
         "410": {
-            "DESCRIPTION": "Gone"
+            "DESCRIPTION": "Gitti"
         },
         "411": {
-            "DESCRIPTION": "Length Required"
+            "DESCRIPTION": "Gerekli Uzunluk"
         },
         "412": {
-            "DESCRIPTION": "Precondition Failed"
+            "DESCRIPTION": "Önkoşul Başarısız"
         },
         "413": {
-            "DESCRIPTION": "Payload Too Large"
+            "DESCRIPTION": "Yük Çok Büyük"
         },
         "414": {
-            "DESCRIPTION": "Request-URI Too Long"
+            "DESCRIPTION": "Request-URI Çok Uzun"
         },
         "415": {
-            "DESCRIPTION": "Unsupported Media Type"
+            "DESCRIPTION": "Desteklenmeyen Ortam Türü"
         },
         "416": {
-            "DESCRIPTION": "Requested Range Not Satisfiable"
+            "DESCRIPTION": "Talep Edilen Aralık Uygun Değil"
         },
         "417": {
-            "DESCRIPTION": "Expectation Failed"
+            "DESCRIPTION": "Beklenti Başarısız Oldu"
         },
         "418": {
-            "DESCRIPTION": "I'm a teapot"
+            "DESCRIPTION": "Ben bir çaydanlığım"
         },
         "420": {
-            "DESCRIPTION": "Unsupported Browser"
+            "DESCRIPTION": "Desteklenmeyen Tarayıcı"
         }
     },
     "TITLE": {
         "YOUTUBE": "YouTube",
-        "CONTACT_US": "Contact us",
-        "REVIEW": "Review",
-        "APP_DIRECTORY": "App directory",
-        "GENERIC": "{{title}} | Filo — The Discord Bot",
-        "GENERIC_ALT": "Filo — The Discord Bot",
-        "SERVICE_STATUS": "Service status",
-        "VOTE": "Vote",
+        "CONTACT_US": "Bize ulaşın",
+        "REVIEW": "İnceleme",
+        "APP_DIRECTORY": "Uygulama dizini",
+        "GENERIC": "{{title}} | Filo - Discord Botu",
+        "GENERIC_ALT": "Filo - Discord Botu",
+        "SERVICE_STATUS": "Hizmet durumu",
+        "VOTE": "Oylama",
         "BLOG": "Blog",
-        "TERMS_OF_SERVICE": "Terms of Service",
-        "PRIVACY_POLICY": "Privacy Policy",
-        "COOKIES_POLICY": "Cookies Policy",
-        "TERMS_OF_SALES": "Terms of Sales",
-        "HOME": "Home",
-        "INVITE": "Invite",
-        "DOCUMENTATION": "Documentation",
-        "CONTACT": "Contact",
-        "DISCORD_SERVER": "Discord server",
-        "THANKS": "Thanks",
-        "ERROR": "Error",
-        "LINK_SHORTENER": "Link shortener",
-        "FEATURES": "Features",
-        "APPEAL": "Appeal",
-        "CONGESTED_QUEUE": "Congested queue",
-        "DONATE": "Donate",
-        "SYNC_ACCOUNT": "Sync account",
+        "TERMS_OF_SERVICE": "Hizmet Koşulları",
+        "PRIVACY_POLICY": "Gizlilik Politikası",
+        "COOKIES_POLICY": "Çerez Politikası",
+        "TERMS_OF_SALES": "Satış Koşulları",
+        "HOME": "Ev",
+        "INVITE": "Davetiye",
+        "DOCUMENTATION": "Dokümantasyon",
+        "CONTACT": "İletişim",
+        "DISCORD_SERVER": "Discord sunucusu",
+        "THANKS": "Teşekkürler",
+        "ERROR": "Hata",
+        "LINK_SHORTENER": "Bağlantı kısaltıcı",
+        "FEATURES": "Özellikler",
+        "APPEAL": "İtiraz",
+        "CONGESTED_QUEUE": "Yoğun kuyruk",
+        "DONATE": "Bağış Yapın",
+        "SYNC_ACCOUNT": "Hesap senkronizasyonu",
         "GITHUB": "GitHub",
-        "TRANSLATE": "Translate",
+        "TRANSLATE": "Tercüme et",
         "TWITTER": "Twitter",
         "TWITCH": "Twitch"
     },
@@ -411,834 +411,834 @@
         "PAYMENT_METHODS": {
             "LIST": {
                 "THIRD_ELEMENT": "PayPal.",
-                "FOURTH_ELEMENT": "Other Payment Methods.",
-                "FIRST_ELEMENT": "Credit Card.",
-                "SECOND_ELEMENT": "Debit Card."
+                "FOURTH_ELEMENT": "Diğer Ödeme Yöntemleri.",
+                "FIRST_ELEMENT": "Kredi kartı.",
+                "SECOND_ELEMENT": "Banka Kartı."
             },
-            "TITLE": "Payment Methods",
-            "FIRST_PARAGRAPH": "Filo accepts the following payment methods:",
-            "SECOND_PARAGRAPH": "The payment methods available to you may change depending on your country or region.",
-            "THIRD_PARAGRAPH": "By submitting an order, you represent and warrant that you are authorized to use the designated payment method and authorize us, or our third-party payment processor, to charge your order (including taxes, delivery fees, customs fees, import fees, and other applicable fees) to that payment method. If the payment method cannot be verified, is invalid, or is otherwise not acceptable, your order may be suspended or canceled.",
-            "FOURTH_PARAGRAPH": "You must resolve any problem we encounter in order to proceed with your order.",
-            "FIFTH_PARAGRAPH": "All payments are processed by third-party payment processors. By submitting an order, you agree to be bound by the terms of service and privacy policy of the third-party payment processor."
+            "TITLE": "Ödeme Yöntemleri",
+            "FIRST_PARAGRAPH": "Filo aşağıdaki ödeme yöntemlerini kabul etmektedir:",
+            "SECOND_PARAGRAPH": "Kullanabileceğiniz ödeme yöntemleri ülkenize veya bölgenize bağlı olarak değişebilir.",
+            "THIRD_PARAGRAPH": "Bir sipariş göndererek, belirlenen ödeme yöntemini kullanmaya yetkili olduğunuzu ve bize veya üçüncü taraf ödeme işlemcimize siparişinizi (vergiler, teslimat ücretleri, gümrük ücretleri, ithalat ücretleri ve diğer geçerli ücretler dahil) bu ödeme yönteminden tahsil etme yetkisi verdiğinizi beyan ve garanti edersiniz. Ödeme yönteminin doğrulanamaması, geçersiz olması veya başka bir şekilde kabul edilemez olması durumunda siparişiniz askıya alınabilir veya iptal edilebilir.",
+            "FOURTH_PARAGRAPH": "Siparişinize devam edebilmemiz için karşılaştığımız herhangi bir sorunu çözmeniz gerekmektedir.",
+            "FIFTH_PARAGRAPH": "Tüm ödemeler üçüncü taraf ödeme işlemcileri tarafından işlenir. Bir sipariş göndererek, üçüncü taraf ödeme işlemcisinin hizmet şartlarına ve gizlilik politikasına tabi olmayı kabul etmiş olursunuz."
         },
-        "TITLE": "Terms of Sales",
-        "DESCRIPTION": "Our commitment is to ensure clarity and fairness throughout your journey with Filo.",
-        "EFFECTIVE": "Effective",
-        "LAST_UPDATED": "Last Updated",
+        "TITLE": "Satış Koşulları",
+        "DESCRIPTION": "Taahhüdümüz, Filo ile olan yolculuğunuz boyunca açıklık ve adaleti sağlamaktır.",
+        "EFFECTIVE": "Etkili",
+        "LAST_UPDATED": "Son Güncelleme",
         "DATE": "{{month}}/{{day}}/{{year}}",
         "INTRODUCTION": {
-            "TITLE": "Introduction",
-            "FIRST_PARAGRAPH": "These Terms of Sales (\"Terms\") govern your access to and use of Filo, including any content, functionality, and services offered on or through Filo (the \"Services\").",
-            "SECOND_PARAGRAPH": "Remember that Filo is free to use, but we also offer a premium subscription plan that unlocks additional features. By using Filo, you accept and agree to be bound and abide by these Terms and our <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong>, incorporated herein by reference."
+            "TITLE": "Giriş",
+            "FIRST_PARAGRAPH": "Bu Satış Koşulları (\"Koşullar\"), Filo'da veya Filo aracılığıyla sunulan tüm içerik, işlevsellik ve hizmetler (\"Hizmetler\") dahil olmak üzere Filo'ya erişiminizi ve Filo'yu kullanımınızı yönetir.",
+            "SECOND_PARAGRAPH": "Filo'yu kullanmanın ücretsiz olduğunu, ancak ek özelliklerin kilidini açan bir premium abonelik planı da sunduğumuzu unutmayın. Filo'yu kullanarak, bu Koşullara ve bizim Koşullarımıza bağlı kalmayı ve bunlara uymayı kabul edersiniz. <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Gizlilik Politikası</a></strong>burada referans olarak verilmiştir."
         },
         "PAID_PRODUCTS": {
-            "TITLE": "Paid Products",
-            "FIRST_PARAGRAPH": "Some of the Products provided on Filo, as part of the Service, are provided on the basis of payment.",
-            "SECOND_PARAGRAPH": "By purchasing a subscription, you agree to pay Filo the monthly or annual subscription fees indicated for that service. Payments will be charged on a pre-pay basis on the day you sign up for a subscription and will cover the use of that service for a monthly or annual subscription period as indicated. Subscription fees can be refunded, more information about refunds can be found in the <strong><a href=\"{{url}}\">Refund Policy</a></strong> section.",
-            "THIRD_PARAGRAPH": "Unless you notify Filo before the end of the applicable subscription period that you want to cancel a subscription, your subscription will automatically renew and you authorize us to collect the then-applicable annual or monthly subscription fee for such subscription (as well as any taxes) using any credit card or another payment mechanism we have on record for you. Subscriptions can be canceled at any time, and you will continue to have access to the service through the end of the subscription period."
+            "TITLE": "Ücretli Ürünler",
+            "FIRST_PARAGRAPH": "Hizmetin bir parçası olarak Filo'da sağlanan Ürünlerin bazıları ödeme esasına göre sağlanmaktadır.",
+            "SECOND_PARAGRAPH": "Bir abonelik satın alarak, Filo'ya söz konusu hizmet için belirtilen aylık veya yıllık abonelik ücretlerini ödemeyi kabul edersiniz. Ödemeler, bir aboneliğe kaydolduğunuz gün ön ödeme esasına göre tahsil edilecek ve belirtilen aylık veya yıllık abonelik süresi boyunca söz konusu hizmetin kullanımını kapsayacaktır. Abonelik ücretleri iade edilebilir, iadeler hakkında daha fazla bilgi için <strong><a href=\"{{url}}\">Para İadesi Politikası</a></strong> Bölüm.",
+            "THIRD_PARAGRAPH": "Geçerli abonelik süresinin bitiminden önce Filo'ya bir aboneliği iptal etmek istediğinizi bildirmediğiniz sürece, aboneliğiniz otomatik olarak yenilenecek ve söz konusu abonelik için o zaman geçerli olan yıllık veya aylık abonelik ücretini (ve ayrıca tüm vergileri) herhangi bir kredi kartını veya sizin için kaydettiğimiz başka bir ödeme mekanizmasını kullanarak tahsil etmemize izin vereceksiniz. Abonelikler herhangi bir zamanda iptal edilebilir ve abonelik süresinin sonuna kadar hizmete erişmeye devam edersiniz."
         },
         "PRODUCT_DESCRIPTIONS": {
-            "TITLE": "Product Descriptions",
-            "FIRST_PARAGRAPH": "Filo attempts to be as accurate as possible. However, Filo does not warrant that product descriptions or other content of any Filo Service is accurate, complete, reliable, current, or error-free. If a product offered by Filo itself is not as described, your sole remedy is to cancel your subscription.",
-            "SECOND_PARAGRAPH": "Descriptions of the products are subject to change without notice, at the sole discretion of Filo.",
-            "THIRD_PARAGRAPH": "Filo reserves the right, at any time, to modify, suspend, or discontinue the sale of any product with or without notice.",
-            "FOURTH_PARAGRAPH": "Filo shall not be liable to you or to any third-party for any modification, price change, suspension, or discontinuance of the sale of any product."
+            "TITLE": "Ürün Açıklamaları",
+            "FIRST_PARAGRAPH": "Filo mümkün olduğunca doğru olmaya çalışır. Ancak Filo, ürün açıklamalarının veya herhangi bir Filo Hizmetinin diğer içeriğinin doğru, eksiksiz, güvenilir, güncel veya hatasız olduğunu garanti etmez. Filo tarafından sunulan bir ürün açıklandığı gibi değilse, tek çözüm yolunuz aboneliğinizi iptal etmektir.",
+            "SECOND_PARAGRAPH": "Ürünlerin açıklamaları, tamamen Filo'nun takdirine bağlı olarak önceden haber verilmeksizin değiştirilebilir.",
+            "THIRD_PARAGRAPH": "Filo, herhangi bir zamanda, bildirimde bulunarak veya bulunmaksızın herhangi bir ürünün satışını değiştirme, askıya alma veya durdurma hakkını saklı tutar.",
+            "FOURTH_PARAGRAPH": "Filo, herhangi bir ürünün satışında herhangi bir değişiklik, fiyat değişikliği, askıya alma veya durdurma nedeniyle size veya herhangi bir üçüncü tarafa karşı sorumlu olmayacaktır."
         },
         "PURCHASE_OF_PRODUCTS": {
-            "TITLE": "Purchase of Products",
-            "FIRST_PARAGRAPH": "By purchasing a product, you agree to pay Filo the one-time and/or monthly or annual subscription fees indicated (additional payment terms may be included in other communications). Subscription payments will be charged on a pre-pay basis on the day you sign up for an Upgrade and will cover the use of that service for a monthly or annual subscription period as indicated. Payments are refundable, more information about refunds can be found in the <strong><a href=\"{{url}}\">Refund Policy</a></strong> section."
+            "TITLE": "Ürünlerin Satın Alınması",
+            "FIRST_PARAGRAPH": "Bir ürün satın alarak, Filo'ya belirtilen tek seferlik ve/veya aylık veya yıllık abonelik ücretlerini ödemeyi kabul edersiniz (ek ödeme koşulları diğer iletişimlerde yer alabilir). Abonelik ödemeleri, bir Yükseltme için kaydolduğunuz gün ön ödeme esasına göre tahsil edilecek ve belirtilen aylık veya yıllık abonelik süresi boyunca bu hizmetin kullanımını kapsayacaktır. Ödemeler iade edilebilir, iadeler hakkında daha fazla bilgi için <strong><a href=\"{{url}}\">Para İadesi Politikası</a></strong> Bölüm."
         },
         "RETENTION_OF_PRODUCT_OWNERSHIP": {
-            "FIRST_PARAGRAPH": "Products purchased from Filo are owned by Filo until the product is delivered to the user.",
-            "TITLE": "Retention of Product Ownership",
-            "SECOND_PARAGRAPH": "Once the product is delivered to the user, the user becomes the owner of the product."
+            "FIRST_PARAGRAPH": "Filo'dan satın alınan ürünler, ürün kullanıcıya teslim edilene kadar Filo'ya aittir.",
+            "TITLE": "Ürün Sahipliğinin Elde Tutulması",
+            "SECOND_PARAGRAPH": "Ürün kullanıcıya teslim edildiğinde, kullanıcı ürünün sahibi olur."
         },
         "PURCHASE_PROCESS": {
-            "TITLE": "Purchase Process",
-            "FIRST_PARAGRAPH": "The purchase process is as follows:",
+            "TITLE": "Satın Alma Süreci",
+            "FIRST_PARAGRAPH": "Satın alma süreci aşağıdaki gibidir:",
             "LIST": {
-                "FIRST_ELEMENT": "Users select the product they want to purchase.",
-                "SECOND_ELEMENT": "Users are redirected to the payment page.",
-                "THIRD_ELEMENT": "Users complete the payment process.",
-                "FOURTH_ELEMENT": "Users receive the product."
+                "FIRST_ELEMENT": "Kullanıcılar satın almak istedikleri ürünü seçerler.",
+                "SECOND_ELEMENT": "Kullanıcılar ödeme sayfasına yönlendirilir.",
+                "THIRD_ELEMENT": "Kullanıcılar ödeme işlemini tamamlar.",
+                "FOURTH_ELEMENT": "Kullanıcılar ürünü teslim alır."
             }
         },
         "ORDER_SUBMISSION": {
-            "TITLE": "Order Submission",
-            "FIRST_PARAGRAPH": "When you complete the purchase process, you are making an offer to purchase the product from Filo. Your offer is accepted and a contract is formed between Filo and you when Filo sends you an notification confirming that your order has been accepted and the product has been delivered.",
-            "SECOND_PARAGRAPH": "Filo reserves the right to reject any offer to purchase by you at any time and for any reason."
+            "TITLE": "Sipariş Gönderimi",
+            "FIRST_PARAGRAPH": "Satın alma işlemini tamamladığınızda, ürünü Filo'dan satın almak için bir teklifte bulunmuş olursunuz. Filo size siparişinizin kabul edildiğini ve ürünün teslim edildiğini teyit eden bir bildirim gönderdiğinde teklifiniz kabul edilir ve Filo ile aranızda bir sözleşme oluşur.",
+            "SECOND_PARAGRAPH": "Filo, herhangi bir zamanda ve herhangi bir nedenle tarafınızdan yapılan herhangi bir satın alma teklifini reddetme hakkını saklı tutar."
         },
         "PRICES": {
-            "TITLE": "Prices",
-            "FIRST_PARAGRAPH": "Users are responsible for paying all fees and applicable taxes associated with the purchase of the product. Including but not limited to:",
+            "TITLE": "Fiyatlar",
+            "FIRST_PARAGRAPH": "Kullanıcılar, ürünün satın alınmasıyla ilgili tüm ücretleri ve geçerli vergileri ödemekle yükümlüdür. Aşağıdakiler dahil ancak bunlarla sınırlı değildir:",
             "LIST": {
-                "FIRST_ELEMENT": "Value Added Tax (VAT).",
-                "SECOND_ELEMENT": "Delivery fees.",
-                "THIRD_ELEMENT": "Customs fees.",
-                "FOURTH_ELEMENT": "Import fees.",
-                "FIFTH_ELEMENT": "Other taxes."
+                "FIRST_ELEMENT": "Katma Değer Vergisi (KDV).",
+                "SECOND_ELEMENT": "Teslimat ücretleri.",
+                "THIRD_ELEMENT": "Gümrük ücretleri.",
+                "FOURTH_ELEMENT": "İthalat ücretleri.",
+                "FIFTH_ELEMENT": "Diğer vergiler."
             }
         },
         "RETENTION_OF_USAGE_RIGHTS": {
-            "TITLE": "Retention of Usage Rights",
-            "FIRST_PARAGRAPH": "Users don't acquire any rights to use the purchased Product until the total purchase price is received by the Owner."
+            "TITLE": "Kullanım Haklarının Saklı Tutulması",
+            "FIRST_PARAGRAPH": "Kullanıcılar, toplam satın alma bedeli Mal Sahibi tarafından alınana kadar satın alınan Ürünü kullanmak için herhangi bir hak elde etmezler."
         },
         "DELIVERY": {
-            "TITLE": "Delivery",
+            "TITLE": "Teslimat",
             "DELIVERY_OF_DIGITAL_PRODUCTS": {
-                "TITLE": "Delivery of Digital Products",
-                "FIRST_PARAGRAPH": "Unless otherwise specified, all products are delivered digitally. Digital products are delivered to the email address associated with your account for the Service.",
-                "SECOND_PARAGRAPH": "Delivery of digital products is subject to the availability of the product. Filo reserves the right to change the availability of any product at any time, without notice."
+                "TITLE": "Dijital Ürünlerin Teslimi",
+                "FIRST_PARAGRAPH": "Aksi belirtilmedikçe, tüm ürünler dijital olarak teslim edilir. Dijital ürünler, Hizmet hesabınızla ilişkili e-posta adresine teslim edilir.",
+                "SECOND_PARAGRAPH": "Dijital ürünlerin teslimatı, ürünün mevcudiyetine tabidir. Filo, herhangi bir ürünün mevcudiyetini herhangi bir zamanda, bildirimde bulunmaksızın değiştirme hakkını saklı tutar."
             },
             "PERFORMED_SERVICES": {
-                "TITLE": "Performed Services",
-                "FIRST_PARAGRAPH": "Unless otherwise specified, all services are performed remotely. Services are performed at the time and date agreed upon by the user and Filo."
+                "TITLE": "Gerçekleştirilen Hizmetler",
+                "FIRST_PARAGRAPH": "Aksi belirtilmedikçe, tüm hizmetler uzaktan gerçekleştirilir. Hizmetler, kullanıcı ve Filo tarafından kararlaştırılan saat ve tarihte gerçekleştirilir."
             }
         },
         "CONTRACT_DURATION": {
-            "TITLE": "Contract Duration",
+            "TITLE": "Sözleşme Süresi",
             "SUBSCRIPTIONS": {
-                "TITLE": "Subscriptions",
-                "FIRST_PARAGRAPH": "Subscriptions are valid for the period of time indicated at the time of purchase. Details regarding the type of subscription and termination are provided below."
+                "TITLE": "Abonelikler",
+                "FIRST_PARAGRAPH": "Abonelikler, satın alma sırasında belirtilen süre boyunca geçerlidir. Abonelik türü ve fesih ile ilgili ayrıntılar aşağıda verilmiştir."
             },
             "ONE_TIME_PURCHASES": {
-                "TITLE": "One-Time Purchases",
-                "FIRST_PARAGRAPH": "One-time purchases are valid for the period of time indicated at the time of purchase. Details regarding the type of subscription and termination are provided below."
+                "TITLE": "Tek Seferlik Alımlar",
+                "FIRST_PARAGRAPH": "Tek seferlik satın alımlar, satın alım sırasında belirtilen süre boyunca geçerlidir. Abonelik türü ve fesih ile ilgili ayrıntılar aşağıda verilmiştir."
             },
             "AUTOMATIC_RENEWAL": {
-                "TITLE": "Automatic Renewal",
-                "FIRST_PARAGRAPH": "Subscriptions automatically renew for the same period of time as the original subscription term. The renewal rate will be the same as the prior term's rate, unless Filo notifies you at least 30 days prior to the end of the subscription term. The renewal rate will be charged automatically to the payment method you have on file with Filo."
+                "TITLE": "Otomatik Yenileme",
+                "FIRST_PARAGRAPH": "Abonelikler, orijinal abonelik dönemiyle aynı süre için otomatik olarak yenilenir. Filo, abonelik süresinin bitiminden en az 30 gün önce sizi bilgilendirmediği sürece, yenileme ücreti önceki dönemin ücreti ile aynı olacaktır. Yenileme ücreti, Filo'da kayıtlı ödeme yönteminizden otomatik olarak tahsil edilecektir."
             },
             "TERMINATION": {
-                "TITLE": "Termination",
-                "FIRST_PARAGRAPH": "Subscriptions can be terminated at any time, and you will continue to have access to the service through the end of the subscription period."
+                "TITLE": "Fesih",
+                "FIRST_PARAGRAPH": "Abonelikler herhangi bir zamanda sonlandırılabilir ve abonelik süresinin sonuna kadar hizmete erişmeye devam edersiniz."
             }
         },
         "REFUND_POLICY": {
-            "TITLE": "Refund Policy",
-            "FIRST_PARAGRAPH": "Subscriptions can be refunded within 5 days of the purchase date. Keep in mind that refunds are not guaranteed and are subject to the sole discretion of Filo.",
-            "SECOND_PARAGRAPH": "Filo reserves the right to refuse a refund request if we find that the request is fraudulent or if we find that the user is abusing the refund policy.",
-            "THIRD_PARAGRAPH": "Refunds are a One-Time-Only offer. If you request a refund for a subscription, you will not be able to request a refund for the same subscription again."
+            "TITLE": "Para İadesi Politikası",
+            "FIRST_PARAGRAPH": "Abonelikler, satın alma tarihinden itibaren 5 gün içinde iade edilebilir. Geri ödemelerin garanti edilmediğini ve tamamen Filo'nun takdirine bağlı olduğunu unutmayın.",
+            "SECOND_PARAGRAPH": "Filo, talebin hileli olduğunu tespit edersek veya kullanıcının iade politikasını kötüye kullandığını tespit edersek iade talebini reddetme hakkını saklı tutar.",
+            "THIRD_PARAGRAPH": "Para iadeleri tek seferlik bir tekliftir. Bir abonelik için para iadesi talep ederseniz, aynı abonelik için tekrar para iadesi talep edemezsiniz."
         }
     },
     "PRIVACY_POLICY": {
-        "DESCRIPTION": "Your privacy matters to us. Our Privacy Policy page outlines how we collect, use, and protect your data when you interact with Filo",
-        "EFFECTIVE": "Effective",
-        "TITLE": "Privacy Policy",
-        "LAST_UPDATED": "Last Updated",
+        "DESCRIPTION": "Gizliliğiniz bizim için önemlidir. Gizlilik Politikası sayfamız, Filo ile etkileşimde bulunduğunuzda verilerinizi nasıl topladığımızı, kullandığımızı ve koruduğumuzu özetlemektedir",
+        "EFFECTIVE": "Etkili",
+        "TITLE": "Gizlilik Politikası",
+        "LAST_UPDATED": "Son Güncelleme",
         "DATE": "{{month}}/{{day}}/{{year}}",
         "DETAILED_INFORMATION_ON_THE_PROCESSING_OF_PERSONAL_DATA": {
             "ADVERTISING": {
                 "GOOGLE_ADS_CONVERSION_TRACKING": {
                     "TITLE": "Google Ads conversion tracking (Google Inc.)",
-                    "FIRST_PARAGRAPH": "Google Ads conversion tracking is an analytics service provided by Google Inc. that connects data from the Google Ads advertising network with actions performed on Filo.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Cookies and Usage Data.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Opt Out</a></strong>."
+                    "FIRST_PARAGRAPH": "Google Ads conversion tracking, Google Inc. tarafından sağlanan ve Google Ads reklam ağındaki verileri Filo'da gerçekleştirilen eylemlerle ilişkilendiren bir analiz hizmetidir.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Toplanan Kişisel Ver</strong>iler: Çerezler ve Kullanım Verileri.",
+                    "PLACE_OF_PROCESSING": "<strong>İşleme yeri</strong>: Amerika Birleşik Devletleri - <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Gizlilik Politikası</a></strong> - <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Opt Out</a></strong>."
                 },
-                "TITLE": "Advertising",
-                "FIRST_PARAGRAPH": "This type of service allows User Data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on Filo, possibly based on User interests.",
-                "SECOND_PARAGRAPH": "This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.",
-                "THIRD_PARAGRAPH": "Some of the services listed below may use Cookies to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User's interests and behavior, including those detected outside Filo. For more information, please check the privacy policies of the relevant services.",
-                "FOURTH_PARAGRAPH": "In addition to any opt-out offered by any of the services below, the User may opt out of a third-party service's use of cookies by visiting the <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Network Advertising Initiative opt-out page</a></strong>.",
+                "TITLE": "Reklamcılık",
+                "FIRST_PARAGRAPH": "Bu tür bir hizmet, Kullanıcı Verilerinin, muhtemelen Kullanıcı ilgi alanlarına dayalı olarak Filo'da afişler ve diğer reklamlar şeklinde görüntülenen reklam iletişimi amacıyla kullanılmasına olanak tanır.",
+                "SECOND_PARAGRAPH": "Bu, tüm Kişisel Verilerin bu amaçla kullanıldığı anlamına gelmez. Bilgi ve kullanım koşulları aşağıda gösterilmiştir.",
+                "THIRD_PARAGRAPH": "Aşağıda listelenen hizmetlerden bazıları, Kullanıcıları tanımlamak için Çerezleri kullanabilir veya davranışsal yeniden hedefleme tekniğini kullanabilir, yani Filo dışında tespit edilenler de dahil olmak üzere Kullanıcının ilgi alanlarına ve davranışlarına göre uyarlanmış reklamlar görüntüleyebilir. Daha fazla bilgi için lütfen ilgili hizmetlerin gizlilik politikalarını kontrol edin.",
+                "FOURTH_PARAGRAPH": "Aşağıdaki hizmetlerden herhangi biri tarafından sunulan herhangi bir devre dışı bırakmaya ek olarak, Kullanıcı, üçüncü taraf bir hizmetin çerez kullanımını şu adresi ziyaret ederek devre dışı bırakabilir <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Network Advertising Initiative devre dışı bırakma sayfası</a></strong>.",
                 "GOOGLE_ADSENSE": {
                     "TITLE": "Google AdSense (Google Inc.)",
-                    "FIRST_PARAGRAPH": "Google AdSense is an advertising service provided by Google Inc. This service uses the \"Doubleclick\" Cookies, which tracks use of Filo and User behavior concerning ads, products and services offered.",
-                    "SECOND_PARAGRAPH": "Users may decide to disable all the Doubleclick Cookies by clicking on: <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">myadcenter.google.com/controls</a></strong>.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Cookies and Usage Data.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Opt Out</a></strong>."
+                    "FIRST_PARAGRAPH": "Google AdSense, Google Inc. tarafından sağlanan bir reklam hizmetidir. Bu hizmet, Filo'nun kullanımını ve sunulan reklamlar, ürünler ve hizmetlerle ilgili Kullanıcı davranışını izleyen \"Doubleclick\" Çerezlerini kullanır.",
+                    "SECOND_PARAGRAPH": "Kullanıcılar, üzerine tıklayarak tüm Çift Tıklama Çerezlerini devre dışı bırakmaya karar verebilirler: <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">myadcenter.google.com/controls</a></strong>.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Toplanan Kişisel Ver</strong>iler: Çerezler ve Kullanım Verileri.",
+                    "PLACE_OF_PROCESSING": "<strong>İşleme yeri</strong>: Amerika Birleşik Devletleri - <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Gizlilik Politikası</a></strong> - <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Opt Out</a></strong>."
                 },
                 "GOOGLE_AD_MANAGER": {
                     "TITLE": "Google Ad Manager (Google Inc.)",
-                    "FIRST_PARAGRAPH": "Google Ad Manager is an advertising service provided by Google Inc. that allows the Owner to run advertising campaigns in conjunction with external advertising networks that the Owner, unless otherwise specified in this document, has no direct relationship with. In order to opt out from being tracked by various advertising networks, Users may make use of <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Your Online Choices</a></strong>. In order to understand Google's use of data, consult Google's partner policy.",
-                    "SECOND_PARAGRAPH": "This service uses the \"DoubleClick\" Cookies, which tracks use of Filo and User behavior concerning ads, products and services offered.",
-                    "THITD_PARAGRAPH": "Users may decide to disable all the DoubleClick Cookies by clicking on: <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">myadcenter.google.com/controls</a></strong>.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Cookies and Usage Data.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Opt Out</a></strong>."
+                    "FIRST_PARAGRAPH": "Google Ad Manager, Google Inc. tarafından sağlanan ve Sahibinin, bu belgede aksi belirtilmedikçe, doğrudan bir ilişkisi olmadığı harici reklam ağlarıyla birlikte reklam kampanyaları yürütmesine olanak tanıyan bir reklam hizmetidir. Çeşitli reklam ağları tarafından izlenmeyi devre dışı bırakmak için Kullanıcılar aşağıdakileri kullanabilir <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Çevrimiçi Seçenekleriniz</a></strong>. Google'ın veri kullanımını anlamak için Google'ın iş ortağı politikasına bakın.",
+                    "SECOND_PARAGRAPH": "Bu hizmet, Filo'nun kullanımını ve sunulan reklamlar, ürünler ve hizmetlerle ilgili Kullanıcı davranışını izleyen \"DoubleClick\" Çerezlerini kullanır.",
+                    "THITD_PARAGRAPH": "Kullanıcılar, üzerine tıklayarak tüm DoubleClick Çerezlerini devre dışı bırakmaya karar verebilirler: <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">myadcenter.google.com/controls</a></strong>.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Toplanan Kişisel Ver</strong>iler: Çerezler ve Kullanım Verileri.",
+                    "PLACE_OF_PROCESSING": "<strong>İşleme yeri</strong>: Amerika Birleşik Devletleri - <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Gizlilik Politikası</a></strong> - <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Opt Out</a></strong>."
                 }
             },
-            "TITLE": "Detailed information on the processing of Personal Data",
-            "FIRST_PARAGRAPH": "Personal Data is collected for the following purposes and using the following services:",
+            "TITLE": "Kişisel Verilerin işlenmesine ilişkin detaylı bilgi",
+            "FIRST_PARAGRAPH": "Kişisel Veriler aşağıdaki amaçlarla ve aşağıdaki hizmetler kullanılarak toplanmaktadır:",
             "ANALYTICS": {
-                "TITLE": "Analytics",
-                "FIRST_PARAGRAPH": "The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.",
+                "TITLE": "Analitik",
+                "FIRST_PARAGRAPH": "Bu bölümde yer alan hizmetler, Sahibinin web trafiğini izlemesini ve analiz etmesini sağlar ve Kullanıcı davranışını takip etmek için kullanılabilir.",
                 "GOOGLE_ANALYTICS": {
                     "TITLE": "Google Analytics (Google Inc.)",
-                    "FIRST_PARAGRAPH": "Google Analytics is a web analysis service provided by Google Inc. (\"Google\"). Google utilizes the Data collected to track and examine the use of Filo, to prepare reports on its activities and share them with other Google services.",
-                    "SECOND_PARAGRAPH": "Google may use the Data collected to contextualize and personalize the ads of its own advertising network.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Cookies and Usage Data.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Opt Out</a></strong>."
+                    "FIRST_PARAGRAPH": "Google Analytics, Google Inc. (\"Google\") tarafından sağlanan bir web analiz hizmetidir. Google, Filo'nun kullanımını takip etmek ve incelemek, faaliyetleri hakkında raporlar hazırlamak ve diğer Google hizmetleri ile paylaşmak için toplanan Verileri kullanır.",
+                    "SECOND_PARAGRAPH": "Google, toplanan Verileri kendi reklam ağının reklamlarını bağlamsallaştırmak ve kişiselleştirmek için kullanabilir.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Toplanan Kişisel Ver</strong>iler: Çerezler ve Kullanım Verileri.",
+                    "PLACE_OF_PROCESSING": "<strong>İşleme yeri</strong>: Amerika Birleşik Devletleri - <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Gizlilik Politikası</a></strong> - <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Opt Out</a></strong>."
                 }
             },
             "CHAT_SUPPORT": {
-                "TITLE": "Chat support",
-                "FIRST_PARAGRAPH": "This type of service allows Users to interact with third-party live chat platforms directly from the pages of Filo, for contacting and being contacted by Filo support service.",
+                "TITLE": "Sohbet desteği",
+                "FIRST_PARAGRAPH": "Bu hizmet türü, Kullanıcıların Filo destek hizmetiyle iletişime geçmek ve bu hizmetle iletişime geçmek için doğrudan Filo sayfalarından üçüncü taraf canlı sohbet platformlarıyla etkileşime girmesine olanak tanır.",
                 "CHATWOOT": {
                     "TITLE": "Chatwoot (Chatwoot Inc.)",
-                    "FIRST_PARAGRAPH": "Chatwoot is a chat support service provided by Chatwoot Inc.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Cookies; Data communicated while using the service; Usage Data.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong>."
+                    "FIRST_PARAGRAPH": "Chatwoot, Chatwoot Inc. tarafından sağlanan bir sohbet destek hizmetidir.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Toplanan Kişisel Veriler</strong>: Çerezler; Hizmeti kullanırken iletilen veriler; Kullanım Verileri.",
+                    "PLACE_OF_PROCESSING": "<strong>İşleme yeri</strong>: Amerika Birleşik Devletleri - <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Gizlilik Politikası</a></strong>."
                 }
             },
             "DISPLAYING_CONTENT_FROM_EXTERNAL_PLATFORMS": {
-                "TITLE": "Displaying content from external platforms",
-                "FIRST_PARAGRAPH": "This type of service allows you to view content hosted on external platforms directly from the pages of Filo and interact with them.",
-                "SECOND_PARAGRAPH": "This type of service might still collect web traffic data for the pages where the service is installed, even when Users do not use it.",
+                "TITLE": "Harici platformlardan içerik görüntüleme",
+                "FIRST_PARAGRAPH": "Bu hizmet türü, harici platformlarda barındırılan içeriği doğrudan Filo sayfalarından görüntülemenize ve bunlarla etkileşime girmenize olanak tanır.",
+                "SECOND_PARAGRAPH": "Bu tür bir hizmet, Kullanıcılar kullanmasa bile, hizmetin yüklü olduğu sayfalar için web trafiği verilerini toplamaya devam edebilir.",
                 "STATUSPAGE": {
-                    "TITLE": "Statuspage widget (Atlassian Pty Ltd)",
-                    "FIRST_PARAGRAPH": "Statuspage widget is a content visualization service provided by Atlassian Pty Ltd that allows Filo to incorporate content of this kind on its pages.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Tracker and Usage Data.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong>."
+                    "TITLE": "Statuspage widget'ı (Atlassian Pty Ltd)",
+                    "FIRST_PARAGRAPH": "Statuspage widget'ı, Atlassian Pty Ltd tarafından sağlanan ve Filo'nun sayfalarına bu türden içerikler eklemesine olanak tanıyan bir içerik görselleştirme hizmetidir.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Toplanan Kişisel Ver</strong>iler: İzleyici ve Kullanım Verileri.",
+                    "PLACE_OF_PROCESSING": "<strong>İşleme yeri</strong>: Amerika Birleşik Devletleri - <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Gizlilik Politikası</a></strong>."
                 }
             },
             "INFRASTRUCTURE_MONITORING": {
                 "SENTRY": {
                     "TITLE": "Sentry (Functional Software Inc.)",
-                    "FIRST_PARAGRAPH": "Sentry is a monitoring service provided by Functional Software Inc.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Tracker and Usage Data.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong>."
+                    "FIRST_PARAGRAPH": "Sentry, Functional Software Inc. tarafından sağlanan bir izleme hizmetidir.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Toplanan Kişisel Ver</strong>iler: İzleyici ve Kullanım Verileri.",
+                    "PLACE_OF_PROCESSING": "<strong>İşleme yeri</strong>: Amerika Birleşik Devletleri - <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Gizlilik Politikası</a></strong>."
                 },
-                "TITLE": "Infrastructure monitoring",
-                "FIRST_PARAGRAPH": "This type of service allows Filo to monitor the use and behavior of its components so its performance, operation, maintenance and troubleshooting can be improved.",
-                "SECOND_PARAGRAPH": "Which Personal Data are processed depends on the characteristics and mode of implementation of these services, whose function is to filter the activities of Filo."
+                "TITLE": "Altyapı izleme",
+                "FIRST_PARAGRAPH": "Bu tür bir hizmet, Filo'nun bileşenlerinin kullanımını ve davranışını izlemesine olanak tanır, böylece performansı, çalışması, bakımı ve sorun gidermesi iyileştirilebilir.",
+                "SECOND_PARAGRAPH": "Hangi Kişisel Verilerin işleneceği, işlevi Filo'nun faaliyetlerini filtrelemek olan bu hizmetlerin özelliklerine ve uygulama şekline bağlıdır."
             },
             "HOSTING_AND_BACKEND_INFRASTRUCTURE": {
-                "TITLE": "Hosting and backend infrastructure",
-                "FIRST_PARAGRAPH": "This type of service has the purpose of hosting Data and files that enable Filo to run and be distributed as well as to provide a ready-made infrastructure to run specific features or parts of Filo. Some of these services work through geographically distributed servers, making it difficult to determine the actual location where the Personal Data are stored.",
+                "TITLE": "Barındırma ve arka uç altyapısı",
+                "FIRST_PARAGRAPH": "Bu hizmet türü, Filo'nun çalışmasını ve dağıtılmasını sağlayan Veri ve dosyaları barındırmanın yanı sıra Filo'nun belirli özelliklerini veya bölümlerini çalıştırmak için hazır bir altyapı sağlama amacına sahiptir. Bu hizmetlerden bazıları coğrafi olarak dağıtılmış sunucular aracılığıyla çalışır ve Kişisel Verilerin depolandığı gerçek konumu belirlemeyi zorlaştırır.",
                 "GALAXYGATE": {
                     "TITLE": "GalaxyGate (GalaxyGate LLC)",
-                    "FIRST_PARAGRAPH": "GalaxyGate is a hosting and backend service provided by GalaxyGate LLC.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: various types of Data as specified in the privacy policy of the service.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong>."
+                    "FIRST_PARAGRAPH": "GalaxyGate, GalaxyGate LLC tarafından sağlanan bir barındırma ve arka uç hizmetidir.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Toplanan Kişisel Veriler</strong>: hizmetin gizlilik politikasında belirtilen çeşitli Veri türleri.",
+                    "PLACE_OF_PROCESSING": "<strong>İşleme yeri</strong>: Amerika Birleşik Devletleri - <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Gizlilik Politikası</a></strong>."
                 },
                 "GOOGLE_CLOUD_PLATFORM": {
                     "TITLE": "Google Cloud Platform (Google Inc.)",
-                    "FIRST_PARAGRAPH": "Google Cloud Platform is a hosting and backend service provided by Google Inc.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: various types of Data as specified in the privacy policy of the service.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong>."
+                    "FIRST_PARAGRAPH": "Google Cloud Platform, Google Inc. tarafından sağlanan bir barındırma ve arka uç hizmetidir.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Toplanan Kişisel Veriler</strong>: hizmetin gizlilik politikasında belirtilen çeşitli Veri türleri.",
+                    "PLACE_OF_PROCESSING": "<strong>İşleme yeri</strong>: Amerika Birleşik Devletleri - <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Gizlilik Politikası</a></strong>."
                 },
                 "ORACLE_CLOUD": {
                     "TITLE": "Oracle Cloud (Oracle Corporation)",
-                    "FIRST_PARAGRAPH": "Oracle Cloud is a hosting and backend service provided by Oracle Corporation.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: various types of Data as specified in the privacy policy of the service.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong>."
+                    "FIRST_PARAGRAPH": "Oracle Cloud, Oracle Corporation tarafından sağlanan bir barındırma ve arka uç hizmetidir.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Toplanan Kişisel Veriler</strong>: hizmetin gizlilik politikasında belirtilen çeşitli Veri türleri.",
+                    "PLACE_OF_PROCESSING": "<strong>İşleme yeri</strong>: Amerika Birleşik Devletleri - <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Gizlilik Politikası</a></strong>."
                 }
             },
             "INTERACTION_WITH_EXTERNAL_SOCIAL_NETWORKS_AND_PLATFORMS": {
-                "TITLE": "Interaction with external social networks and platforms",
-                "FIRST_PARAGRAPH": "This type of service allows interaction with social networks or other external platforms directly from the pages of Filo.",
-                "SECOND_PARAGRAPH": "The interaction and information obtained through Filo are always subject to the User's privacy settings for each social network.",
-                "THIRD_PARAGRAPH": "This type of service might still collect traffic data for the pages where the service is installed, even when Users do not use it.",
-                "FOURTH_PARAGRAPH": "It is recommended to log out from the respective services in order to make sure that the processed data on Filo isn't being connected back to the User's profile.",
+                "TITLE": "Harici sosyal ağlar ve platformlarla etkileşim",
+                "FIRST_PARAGRAPH": "Bu tür bir hizmet, doğrudan Filo sayfalarından sosyal ağlarla veya diğer harici platformlarla etkileşime izin verir.",
+                "SECOND_PARAGRAPH": "Filo aracılığıyla elde edilen etkileşim ve bilgiler her zaman Kullanıcının her bir sosyal ağ için gizlilik ayarlarına tabidir.",
+                "THIRD_PARAGRAPH": "Bu tür bir hizmet, Kullanıcılar kullanmasa bile hizmetin yüklü olduğu sayfalar için trafik verilerini toplamaya devam edebilir.",
+                "FOURTH_PARAGRAPH": "Filo'da işlenen verilerin Kullanıcı profiline geri bağlanmadığından emin olmak için ilgili hizmetlerden çıkış yapılması önerilir.",
                 "DISCORD_WIDGET": {
-                    "TITLE": "Discord button and social widgets (Discord Inc.)",
-                    "FIRST_PARAGRAPH": "The Discord button and social widgets are services allowing interaction with the Discord social network provided by Discord Inc.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Cookies and Usage Data.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong>."
+                    "TITLE": "Discord düğmesi ve sosyal widget'lar (Discord Inc.)",
+                    "FIRST_PARAGRAPH": "Discord düğmesi ve sosyal widget'lar Discord Inc. tarafından sağlanan Discord sosyal ağı ile etkileşime izin veren hizmetlerdir.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Toplanan Kişisel Ver</strong>iler: Çerezler ve Kullanım Verileri.",
+                    "PLACE_OF_PROCESSING": "<strong>İşleme yeri</strong>: Amerika Birleşik Devletleri - <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Gizlilik Politikası</a></strong>."
                 }
             },
             "REGISTRATION_AND_AUTHENTICATION": {
-                "TITLE": "Registration and authentication",
-                "FIRST_PARAGRAPH": "By registering or authenticating, Users allow Filo to identify them and give them access to dedicated services.",
-                "SECOND_PARAGRAPH": "Depending on what is described below, third parties may provide registration and authentication services. In this case, Filo will be able to access some Data, stored by these third-party services, for registration or identification purposes.",
+                "TITLE": "Kayıt ve kimlik doğrulama",
+                "FIRST_PARAGRAPH": "Kullanıcılar, kayıt olarak veya kimlik doğrulaması yaparak Filo'nun kendilerini tanımlamasına ve özel hizmetlere erişim sağlamasına izin verir.",
+                "SECOND_PARAGRAPH": "Aşağıda açıklananlara bağlı olarak, üçüncü taraflar kayıt ve kimlik doğrulama hizmetleri sağlayabilir. Bu durumda Filo, kayıt veya tanımlama amacıyla bu üçüncü taraf hizmetleri tarafından depolanan bazı Verilere erişebilecektir.",
                 "DISCORD_AUTH": {
-                    "TITLE": "Discord Authentication (Discord Inc.)",
-                    "FIST_PARAGRAPH": "Discord Authentication is a registration and authentication service provided by Discord Inc. and is connected to the Discord network."
+                    "TITLE": "Discord Kimlik Doğrulama (Discord Inc.)",
+                    "FIST_PARAGRAPH": "Discord Authentication, Discord Inc. tarafından sağlanan bir kayıt ve kimlik doğrulama hizmetidir ve Discord ağına bağlıdır."
                 }
             },
             "REMARKETING_AND_BEHAVIORAL_TARGETING": {
-                "TITLE": "Remarketing and behavioral targeting",
-                "FIRST_PARAGRAPH": "This type of service allows Filo and its partners to inform, optimize and serve advertising based on past use of Filo by the User.",
-                "SECOND_PARAGRAPH": "This activity is performed by tracking Usage Data and by using Cookies, information that is transferred to the partners that manage the remarketing and behavioral targeting activity.",
-                "THIRD_PARAGRAPH": "In addition to any opt-out offered by any of the services below, the User may opt out of a third-party service's use of cookies by visiting the <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Network Advertising Initiative opt-out page</a></strong>.",
+                "TITLE": "Yeniden pazarlama ve davranışsal hedefleme",
+                "FIRST_PARAGRAPH": "Bu tür bir hizmet, Filo ve ortaklarının, Kullanıcı tarafından Filo'nun geçmiş kullanımına dayalı olarak reklamları bilgilendirmesine, optimize etmesine ve sunmasına olanak tanır.",
+                "SECOND_PARAGRAPH": "Bu faaliyet, Kullanım Verileri izlenerek ve yeniden pazarlama ve davranışsal hedefleme faaliyetini yöneten ortaklara aktarılan bilgiler olan Çerezler kullanılarak gerçekleştirilir.",
+                "THIRD_PARAGRAPH": "Aşağıdaki hizmetlerden herhangi biri tarafından sunulan devre dışı bırakma seçeneklerine ek olarak, Kullanıcı, üçüncü taraf bir hizmetin çerez kullanımını aşağıdaki adresleri ziyaret ederek devre dışı bırakabilir <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Network Advertising Initiative devre dışı bırakma sayfası</a></strong>.",
                 "GOOGLE_ADS_REMARKETING": {
                     "TITLE": "Google Ads Remarketing (Google Inc.)",
-                    "FIRST_PARAGRAPH": "Google Ads Remarketing is a remarketing and behavioral targeting service provided by Google Inc. that connects the activity of Filo with the Google Ads advertising network and the DoubleClick Cookies.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Cookies and Usage Data.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Opt Out</a></strong>."
+                    "FIRST_PARAGRAPH": "Google Ads Remarketing, Google Inc. tarafından sağlanan ve Filo'nun faaliyetlerini Google Ads reklam ağına ve DoubleClick Çerezlerine bağlayan bir yeniden pazarlama ve davranışsal hedefleme hizmetidir.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Toplanan Kişisel Ver</strong>iler: Çerezler ve Kullanım Verileri.",
+                    "PLACE_OF_PROCESSING": "<strong>İşleme yeri</strong>: Amerika Birleşik Devletleri - <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Gizlilik Politikası</a></strong> - <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Opt Out</a></strong>."
                 },
                 "GOOGLE_ANALYTICS_REMARKETING": {
                     "TITLE": "Google Analytics Remarketing (Google Inc.)",
-                    "FIRST_PARAGRAPH": "Google Analytics Remarketing is a remarketing and behavioral targeting service provided by Google Inc. that connects the tracking activity performed by Google Analytics and its Cookies with the Google Ads advertising network and the Doubleclick Cookies.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Cookies and Usage Data.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Opt Out</a></strong>."
+                    "FIRST_PARAGRAPH": "Google Analytics Remarketing, Google Inc. tarafından sağlanan ve Google Analytics ve Çerezleri tarafından gerçekleştirilen izleme faaliyetini Google Ads reklam ağı ve Doubleclick Çerezleri ile bağlayan bir yeniden pazarlama ve davranışsal hedefleme hizmetidir.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Toplanan Kişisel Ver</strong>iler: Çerezler ve Kullanım Verileri.",
+                    "PLACE_OF_PROCESSING": "<strong>İşleme yeri</strong>: Amerika Birleşik Devletleri - <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Gizlilik Politikası</a></strong> - <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Opt Out</a></strong>."
                 }
             },
             "SPAM_PROTECTION": {
-                "TITLE": "SPAM protection",
-                "FIRST_PARAGRAPH": "This type of service analyzes the traffic of Filo, potentially containing Users' Personal Data, with the purpose of filtering it from parts of traffic, messages and content that are recognized as SPAM.",
+                "TITLE": "SPAM koruması",
+                "FIRST_PARAGRAPH": "Bu tür bir hizmet, potansiyel olarak Kullanıcıların Kişisel Verilerini içeren Filo trafiğini, SPAM olarak tanınan trafik, mesaj ve içerik bölümlerinden filtrelemek amacıyla analiz eder.",
                 "TURNSTILE": {
                     "TITLE": "Turnstile (Cloudflare Inc.)",
-                    "FIRST_PARAGRAPH": "Turnstile is a SPAM protection service provided by Cloudflare Inc.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Cookies and various types of Data as specified in the privacy policy of the service.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong>."
+                    "FIRST_PARAGRAPH": "Turnstile, Cloudflare Inc. tarafından sağlanan bir SPAM koruma hizmetidir.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Toplanan Kişisel Veriler</strong>: Çerezler ve hizmetin gizlilik politikasında belirtilen çeşitli Veri türleri.",
+                    "PLACE_OF_PROCESSING": "<strong>İşleme yeri</strong>: Amerika Birleşik Devletleri - <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Gizlilik Politikası</a></strong>."
                 }
             },
             "TAG_MANAGEMENT": {
-                "TITLE": "Tag Management",
-                "FIRST_PARAGRAPH": "This type of service helps the Owner to manage the tags or scripts needed on Filo in a centralized fashion.",
-                "SECOND_PARAGRAPH": "This results in the Users' Data flowing through these services, potentially resulting in the retention of this Data.",
+                "TITLE": "Etiket Yönetimi",
+                "FIRST_PARAGRAPH": "Bu tür bir hizmet, Sahibinin Filo'da ihtiyaç duyulan etiketleri veya komut dosyalarını merkezi bir şekilde yönetmesine yardımcı olur.",
+                "SECOND_PARAGRAPH": "Bu, Kullanıcı Verilerinin bu hizmetler üzerinden akmasına ve potansiyel olarak bu Verilerin saklanmasına neden olur.",
                 "GOOGLE_TAG_MANAGER": {
                     "TITLE": "Google Tag Manager (Google LLC)",
-                    "FIRST_PARAGRAPH": "Google Tag Manager is a tag management service provided by Google LLC."
+                    "FIRST_PARAGRAPH": "Google Tag Manager, Google LLC tarafından sağlanan bir etiket yönetimi hizmetidir."
                 }
             },
             "TRAFFIC_OPTIMIZATION_AND_DISTRIBUTION": {
-                "TITLE": "Traffic optimization and distribution",
-                "FIRST_PARAGRAPH": "This type of service allows Filo to distribute their content using servers located across different countries and to optimize their performance.",
-                "SECOND_PARAGRAPH": "Which Personal Data are processed depends on the characteristics and the way these services are implemented. Their function is to filter communications between Filo and the User's browser.",
-                "THIRD_PARAGRAPH": "Considering the widespread distribution of this system, it is difficult to determine the locations to which the contents that may contain Personal Information User are transferred.",
+                "TITLE": "Trafik optimizasyonu ve dağıtımı",
+                "FIRST_PARAGRAPH": "Bu tür bir hizmet, Filo'nun içeriklerini farklı ülkelerde bulunan sunucuları kullanarak dağıtmasına ve performanslarını optimize etmesine olanak tanır.",
+                "SECOND_PARAGRAPH": "Hangi Kişisel Verilerin işleneceği, bu hizmetlerin özelliklerine ve uygulanma şekline bağlıdır. İşlevleri, Filo ile Kullanıcının tarayıcısı arasındaki iletişimi filtrelemektir.",
+                "THIRD_PARAGRAPH": "Bu sistemin yaygın dağılımı göz önünde bulundurulduğunda, Kişisel Bilgi Kullanıcısı içerebilecek içeriklerin hangi lokasyonlara aktarıldığını tespit etmek güçtür.",
                 "CLOUDFLARE": {
                     "TITLE": "Cloudflare (Cloudflare Inc.)",
-                    "FIRST_PARAGRAPH": "Cloudflare is a traffic optimization and distribution service provided by Cloudflare Inc.",
-                    "SECOND_PARAGRAPH": "The way Cloudflare is integrated means that it filters all the traffic through Filo, i.e., communication between Filo and the User's browser, while also allowing analytical data from Filo to be collected.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Cookies and various types of Data as specified in the privacy policy of the service.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong>."
+                    "FIRST_PARAGRAPH": "Cloudflare, Cloudflare Inc. tarafından sağlanan bir trafik optimizasyon ve dağıtım hizmetidir.",
+                    "SECOND_PARAGRAPH": "Cloudflare'in entegre edilme şekli, Filo üzerinden geçen tüm trafiği, yani Filo ile Kullanıcının tarayıcısı arasındaki iletişimi filtrelediği ve aynı zamanda Filo'dan analitik verilerin toplanmasına izin verdiği anlamına gelir.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Toplanan Kişisel Veriler</strong>: Çerezler ve hizmetin gizlilik politikasında belirtilen çeşitli Veri türleri.",
+                    "PLACE_OF_PROCESSING": "<strong>İşleme yeri</strong>: Amerika Birleşik Devletleri - <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Gizlilik Politikası</a></strong>."
                 }
             }
         },
         "BEFORE": {
-            "FIRST_PARAGRAPH": "Filobot <em>(hereinafter \"Filo\")</em> collects some Personal Data from its Users.",
-            "SECOND_PARAGRAPH": "Email for communications regarding Data Protection: <strong><a href=\"mailto:{{email}}\">{{email}}</a></strong>"
+            "FIRST_PARAGRAPH": "Filobot <em>(bundan böyle \"Filo\" olarak anılacaktır)</em>, Kullanıcılarından bazı Kişisel Veriler toplamaktadır.",
+            "SECOND_PARAGRAPH": "Veri Koruma ile ilgili iletişimler için e-posta: <strong><a href=\"mailto:{{email}}\">{{email}}</a></strong>"
         },
         "TYPES_OF_DATA_COLLECTED": {
-            "TITLE": "Types of Data collected",
-            "FIRST_PARAGRAPH": "Among the types of Personal Data that Filo collects, by itself or through third parties, there are: Tracker; Usage Data; Username; Server.",
-            "SECOND_PARAGRAPH": "Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.",
-            "THIRD_PARAGRAPH": "Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using Filo.",
-            "FOURTH_PARAGRAPH": "Unless specified otherwise, all Data requested by Filo is mandatory and failure to provide this Data may make it impossible for Filo to provide its services. In cases where Filo specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service.",
-            "FIFTH_PARAGRAPH": "Users who are uncertain about which Personal Data is mandatory are welcome to contact the Owner.<br>Any use of Cookies – or of other tracking tools — by Filo or by the owners of third-party services used by Filo serves the purpose of providing the Service required by the User, in addition to any other purposes described in the present document and in the <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Cookies Policy</a></strong>.",
-            "SIXTH_PARAGRAPH": "Users are responsible for any third-party Personal Data obtained, published or shared through Filo."
+            "TITLE": "Toplanan Veri Türleri",
+            "FIRST_PARAGRAPH": "Filo'nun kendisi veya üçüncü taraflar aracılığıyla topladığı Kişisel Veri türleri arasında şunlar yer almaktadır: İzleyici; Kullanım Verileri; Kullanıcı Adı; Sunucu.",
+            "SECOND_PARAGRAPH": "Toplanan her bir Kişisel Veri türüne ilişkin eksiksiz ayrıntılar, bu gizlilik politikasının ilgili bölümlerinde veya Veri toplamadan önce görüntülenen belirli açıklama metinlerinde sağlanır.",
+            "THIRD_PARAGRAPH": "Kişisel Veriler Kullanıcı tarafından serbestçe sağlanabilir veya Kullanım Verileri durumunda Filo kullanılırken otomatik olarak toplanabilir.",
+            "FOURTH_PARAGRAPH": "Aksi belirtilmedikçe, Filo tarafından talep edilen tüm Veriler zorunludur ve bu Verilerin sağlanmaması Filo'nun hizmetlerini sunmasını imkansız hale getirebilir. Filo'nun bazı Verilerin zorunlu olmadığını özellikle belirttiği durumlarda, Kullanıcılar, Hizmetin kullanılabilirliği veya işleyişi üzerinde herhangi bir sonuç doğurmaksızın bu Verileri iletmemekte serbesttir.",
+            "FIFTH_PARAGRAPH": "Hangi Kişisel Verilerin zorunlu olduğundan emin olmayan Kullanıcılar, Sahibi ile iletişime geçebilirler.<br>Filo veya Filo tarafından kullanılan üçüncü taraf hizmetlerinin sahipleri tarafından Çerezlerin veya diğer izleme araçlarının herhangi bir şekilde kullanılması, bu belgede açıklanan diğer amaçlara ek olarak Kullanıcı tarafından talep edilen Hizmeti sağlama amacına hizmet eder. <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Çerez Politikası</a></strong>.",
+            "SIXTH_PARAGRAPH": "Kullanıcılar, Filo aracılığıyla elde edilen, yayınlanan veya paylaşılan tüm üçüncü taraf Kişisel Verilerinden sorumludur."
         },
         "MODE_AND_PLACE_OF_PROCESSING_THE_DATA": {
-            "TITLE": "Mode and place of processing the Data",
+            "TITLE": "Verilerin işlenme şekli ve yeri",
             "METHODS_OF_PROCESSING": {
-                "TITLE": "Methods of processing",
-                "FIRST_PARAGRAPH": "The Owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.",
-                "SECOND_PARAGRAPH": "The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of Filo (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Owner at any time."
+                "TITLE": "İşleme yöntemleri",
+                "FIRST_PARAGRAPH": "Mal Sahibi, Verilere yetkisiz erişim, ifşa, değişiklik veya yetkisiz imhayı önlemek için uygun güvenlik önlemlerini alır.",
+                "SECOND_PARAGRAPH": "Veri işleme, kesinlikle belirtilen amaçlarla ilgili organizasyonel prosedürler ve modlar izlenerek bilgisayarlar ve/veya BT özellikli araçlar kullanılarak gerçekleştirilir. Sahibine ek olarak, bazı durumlarda, Verilere, Filo'nun (yönetim, satış, pazarlama, hukuk, sistem yönetimi) veya harici tarafların (üçüncü taraf teknik servis sağlayıcıları, posta taşıyıcıları, barındırma sağlayıcıları, BT şirketleri, iletişim ajansları gibi) işleyişine dahil olan belirli türdeki sorumlu kişiler tarafından erişilebilir. gerekirse, Sahip tarafından Veri İşleyicileri olarak atanır. Bu tarafların güncellenmiş listesi herhangi bir zamanda Sahibinden talep edilebilir."
             },
             "LEGAL_BASIS_OF_PROCESSING": {
-                "TITLE": "Legal basis of processing",
-                "FIRST_PARAGRAPH": "The Owner may process Personal Data relating to Users if one of the following applies:",
+                "TITLE": "İşlemenin yasal dayanağı",
+                "FIRST_PARAGRAPH": "Aşağıdakilerden biri geçerliyse, Mal Sahibi Kullanıcılarla ilgili Kişisel Verileri işleyebilir:",
                 "LIST": {
                     "FIRST_ELEMENT": {
-                        "FIRST_PARAGRAPH": "When the Users have given their consent for one or more specific purposes. Notice: Under various different legislations, the Holder may be authorized to process Personal Data until the User objects to it (\"non-participation option\"), without the need for consent or any other legal basis. However, this will not be applicable when the processing of Personal Data is subject to European regulations on the protection of Personal Data."
+                        "FIRST_PARAGRAPH": "Kullanıcılar bir veya daha fazla özel amaç için onay verdiklerinde. Bildirim: Çeşitli farklı mevzuatlar kapsamında, Tutucu, Kullanıcı itiraz edene kadar (\"katılmama seçeneği\"), rıza veya başka bir yasal dayanağa ihtiyaç duymadan Kişisel Verileri işleme yetkisine sahip olabilir. Ancak, Kişisel Verilerin işlenmesi Kişisel Verilerin korunmasına ilişkin Avrupa düzenlemelerine tabi olduğunda bu durum geçerli olmayacaktır."
                     },
                     "SECOND_ELEMENT": {
-                        "FIRST_PARAGRAPH": "When obtaining Data is necessary for the fulfillment of a contract between the User and/or any other pre-contractual obligation thereof."
+                        "FIRST_PARAGRAPH": "Kullanıcı ile aramızdaki bir sözleşmenin ve/veya diğer herhangi bir sözleşme öncesi yükümlülüğün yerine getirilmesi için Verilerin elde edilmesi gerekli olduğunda."
                     },
                     "THIRD_ELEMENT": {
-                        "FIRST_PARAGRAPH": "When the treatment is necessary for the fulfillment of a legal obligation of obligatory fulfillment on the part of the User."
+                        "FIRST_PARAGRAPH": "Kullanıcı tarafından yerine getirilmesi zorunlu olan yasal bir yükümlülüğün yerine getirilmesi için işlemin gerekli olduğu durumlarda."
                     },
                     "FOURTH_ELEMENT": {
-                        "FIRST_PARAGRAPH": "When the treatment is related to a task carried out in the public interest or in the exercise of official powers granted to the Holder."
+                        "FIRST_PARAGRAPH": "Muamele, kamu yararına yürütülen bir görevle ilgili olduğunda veya Sahibine verilen resmi yetkilerin kullanılmasıyla ilgili olduğunda."
                     },
                     "FIFTH_ELEMENT": {
-                        "FIRST_PARAGRAPH": "When the treatment is necessary for the purpose of a legitimate interest pursued by the Owner or a third party."
+                        "FIRST_PARAGRAPH": "Tedavi, Mal Sahibi veya üçüncü bir tarafça takip edilen meşru bir menfaat amacıyla gerekli olduğunda."
                     }
                 },
-                "SECOND_PARAGRAPH": "In any case, the Owner is at your disposal to define the specific legal bases that apply to the treatment and in particular, if the obtaining of Personal Data is a contractual or statutory requirement or a necessary requirement to formalize a contract."
+                "SECOND_PARAGRAPH": "Her durumda, Kişisel Verilerin elde edilmesi sözleşmeye dayalı veya yasal bir gereklilik veya bir sözleşmeyi resmileştirmek için gerekli bir gereklilik ise, özellikle tedavi için geçerli olan belirli yasal dayanakları tanımlamak için Mal Sahibi sizin emrinizdedir."
             },
             "PLACE": {
-                "TITLE": "Place",
-                "FIRST_PARAGRAPH": "The Data is processed at the Owner's operating offices and in any other places where the parties involved with the processing are located. For further information, please contact the Owner."
+                "TITLE": "Yer",
+                "FIRST_PARAGRAPH": "Veriler, Sahibinin işletme ofislerinde ve işleme dahil olan tarafların bulunduğu diğer yerlerde işlenir. Daha fazla bilgi için lütfen Sahibiyle iletişime geçin."
             },
             "RETENTION_TIME": {
-                "TITLE": "Retention time",
-                "FIRST_PARAGRAPH": "The Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request that the Owner suspend or remove the data."
+                "TITLE": "Saklama süresi",
+                "FIRST_PARAGRAPH": "Veriler, Kullanıcı tarafından talep edilen hizmeti sağlamak için gerekli olan süre boyunca veya bu belgede belirtilen amaçlarla saklanır ve Kullanıcı her zaman Sahibin verileri askıya almasını veya kaldırmasını talep edebilir."
             }
         },
         "THE_USE_OF_THE_COLLECTED_DATA": {
-            "TITLE": "The use of the collected Data",
-            "FIRST_PARAGRAPH": "The Data concerning the User is collected to allow the Owner to provide its services, as well as for the following purposes: Analytics, Hosting and backend infrastructure, Registration and authentication, Advertising, Displaying content from external platforms, Infrastructure monitoring, Interaction with external social networks and platforms, Remarketing and behavioral targeting, SPAM protection, Tag Management and Traffic optimization and distribution.",
-            "SECOND_PARAGRAPH": "The Personal Data used for each purpose is outlined in the specific sections of this document."
+            "TITLE": "Toplanan Verilerin kullanımı",
+            "FIRST_PARAGRAPH": "Kullanıcı ile ilgili Veriler, Sahibinin hizmetlerini sunmasına izin vermek ve aşağıdaki amaçlar için toplanır: Analitik, Barındırma ve arka uç altyapısı, Kayıt ve kimlik doğrulama, Reklam, Harici platformlardan içerik görüntüleme, Altyapı izleme, Harici sosyal ağlar ve platformlarla etkileşim, Yeniden pazarlama ve davranışsal hedefleme, SPAM koruması, Etiket Yönetimi ve Trafik optimizasyonu ve dağıtımı.",
+            "SECOND_PARAGRAPH": "Her bir amaç için kullanılan Kişisel Veriler, bu belgenin belirli bölümlerinde ana hatlarıyla belirtilmiştir."
         },
         "LEGAL_BASIS_FOR_PROCESSING": {
             "LIST": {
-                "THIRD_ELEMENT": "Processing is necessary for compliance with a legal obligation to which the Owner is subject.",
-                "FIRST_ELEMENT": "Users have given their consent for one or more specific purposes.",
-                "SECOND_ELEMENT": "Provision of Data is necessary for the performance of an agreement with the User and/or for any pre-contractual obligations thereof.",
-                "FOURTH_ELEMENT": "Processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in the Owner.",
-                "FIFTH_ELEMENT": "Processing is necessary for the purposes of the legitimate interests pursued by the Owner or by a third party."
+                "THIRD_ELEMENT": "İşleme, Sahibin tabi olduğu yasal bir yükümlülüğe uymak için gereklidir.",
+                "FIRST_ELEMENT": "Kullanıcılar bir veya daha fazla özel amaç için onay vermişlerdir.",
+                "SECOND_ELEMENT": "Verilerin sağlanması, Kullanıcı ile yapılan bir sözleşmenin ifası ve/veya sözleşme öncesi yükümlülükler için gereklidir.",
+                "FOURTH_ELEMENT": "İşleme, kamu yararına veya Sahibine verilen resmi yetkinin kullanılmasıyla gerçekleştirilen bir görevle ilgilidir.",
+                "FIFTH_ELEMENT": "İşleme, Mal Sahibi veya üçüncü bir tarafça takip edilen meşru menfaatlerin amaçları için gereklidir."
             },
-            "TITLE": "Legal basis for processing",
-            "FIRST_PARAGRAPH": "The Owner may process Personal Data relating to Users if one of the following applies:",
-            "SECOND_PARAGRAPH": "In any case, the Owner will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.",
+            "TITLE": "İşleme için yasal dayanak",
+            "FIRST_PARAGRAPH": "Aşağıdakilerden biri geçerliyse, Mal Sahibi Kullanıcılarla ilgili Kişisel Verileri işleyebilir:",
+            "SECOND_PARAGRAPH": "Her durumda, Mal Sahibi, işleme için geçerli olan belirli yasal dayanağı ve özellikle Kişisel Verilerin sağlanmasının yasal veya sözleşmeye dayalı bir gereklilik olup olmadığını veya bir sözleşmeye girmek için gerekli bir gereklilik olup olmadığını açıklığa kavuşturmaya memnuniyetle yardımcı olacaktır.",
             "FURTHER_INFORMATION_ABOUT_RETENTION_TIME": {
-                "TITLE": "Further information about retention time",
-                "FIRST_PARAGRAPH": "Personal Data shall be processed and stored for as long as required by the purpose they have been collected for.",
-                "SECOND_PARAGRAPH": "Therefore:",
+                "TITLE": "Bekletme süresi hakkında daha fazla bilgi",
+                "FIRST_PARAGRAPH": "Kişisel Veriler, toplandıkları amaç için gerekli olan süre kadar işlenecek ve saklanacaktır.",
+                "SECOND_PARAGRAPH": "Bu yüzden:",
                 "LIST": {
-                    "FIRST_ELEMENT": "Personal Data collected for purposes related to the performance of a contract between the Owner and the User shall be retained until such contract has been fully performed.",
-                    "SECOND_ELEMENT": "Personal Data collected for the purposes of the Owner's legitimate interests shall be retained as long as needed to fulfill such purposes. Users may find specific information regarding the legitimate interests pursued by the Owner within the relevant sections of this document or by contacting the Owner."
+                    "FIRST_ELEMENT": "Mal Sahibi ile Kullanıcı arasındaki bir sözleşmenin ifasıyla ilgili amaçlarla toplanan Kişisel Veriler, söz konusu sözleşme tamamen ifa edilene kadar saklanacaktır.",
+                    "SECOND_ELEMENT": "Sahibinin meşru menfaatleri için toplanan Kişisel Veriler, bu amaçları yerine getirmek için gerekli olduğu sürece saklanacaktır. Kullanıcılar, bu belgenin ilgili bölümlerinde veya Mal Sahibi ile iletişime geçerek Mal Sahibi tarafından izlenen meşru menfaatlere ilişkin özel bilgileri bulabilirler."
                 },
-                "THIRD_PARAGRAPH": "The Owner may be allowed to retain Personal Data for a longer period whenever the User has given consent to such processing, as long as such consent is not withdrawn. Furthermore, the Owner may be obliged to retain Personal Data for a longer period whenever required to do so for the performance of a legal obligation or upon order of an authority.",
-                "FOURTH_PARAGRAPH": "Once the retention period expires, Personal Data shall be deleted. Therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period."
+                "THIRD_PARAGRAPH": "Kullanıcı söz konusu işleme için onay verdiğinde, söz konusu onay geri çekilmediği sürece, Sahibin Kişisel Verileri daha uzun bir süre saklamasına izin verilebilir. Ayrıca, yasal bir yükümlülüğün yerine getirilmesi için veya bir makamın emri üzerine yapılması gerektiğinde, Mal Sahibi Kişisel Verileri daha uzun bir süre saklamak zorunda kalabilir.",
+                "FOURTH_PARAGRAPH": "Saklama süresi sona erdiğinde, Kişisel Veriler silinecektir. Bu nedenle, erişim hakkı, silme hakkı, düzeltme hakkı ve veri taşınabilirliği hakkı, saklama süresinin sona ermesinden sonra uygulanamaz."
             },
             "THE_RIGHTS_OF_USERS_BASED_ON_THE_GENERAL_DATA_PROTECTION_REGULATION": {
-                "TITLE": "The rights of Users based on the General Data Protection Regulation (GDPR)",
-                "FIRST_PARAGRAPH": "Users may exercise certain rights regarding their Data processed by the Owner.",
-                "SECOND_PARAGRAPH": "In particular, Users have the right to do the following:",
+                "TITLE": "Kullanıcıların Genel Veri Koruma Yönetmeliği'ne (GDPR) dayalı hakları",
+                "FIRST_PARAGRAPH": "Kullanıcılar, Sahip tarafından işlenen Verileri ile ilgili belirli hakları kullanabilir.",
+                "SECOND_PARAGRAPH": "Kullanıcılar özellikle aşağıdakileri yapma hakkına sahiptir:",
                 "LIST": {
-                    "FIRST_ELEMENT": "Withdraw their consent at any time. Users have the right to withdraw consent where they have previously given their consent to the processing of their Personal Data.",
-                    "SECOND_ELEMENT": "Object to processing of their Data. Users have the right to object to the processing of their Data if the processing is carried out on a legal basis other than consent.",
-                    "THIRD_ELEMENT": "Access their Data. Users have the right to learn if Data is being processed by the Owner, obtain disclosure regarding certain aspects of the processing and obtain a copy of the Data undergoing processing.",
-                    "FOURTH_ELEMENT": "Verify and seek rectification. Users have the right to verify the accuracy of their Data and ask for it to be updated or corrected.",
-                    "FIFTH_ELEMENT": "Restrict the processing of their Data. Users have the right to restrict the processing of their Data. In this case, the Owner will not process their Data for any purpose other than storing it.",
-                    "SIXTH_ELEMENT": "Have their Personal Data deleted or otherwise removed. Users have the right to obtain the erasure of their Data from the Owner.",
-                    "SEVENTH_ELEMENT": "Receive their Data and have it transferred to another controller. Users have the right to receive their Data in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance.",
-                    "EIGHTH_ELEMENT": "Lodge a complaint. Users have the right to bring a claim before their competent data protection authority."
+                    "FIRST_ELEMENT": "Onaylarını istedikleri zaman geri çekme. Kullanıcılar, daha önce Kişisel Verilerinin işlenmesine onay verdikleri durumlarda onaylarını geri çekme hakkına sahiptir.",
+                    "SECOND_ELEMENT": "Verilerinin işlenmesine itiraz etme. Kullanıcılar, işlemenin rıza dışında bir yasal dayanağa göre gerçekleştirilmesi durumunda Verilerinin işlenmesine itiraz etme hakkına sahiptir.",
+                    "THIRD_ELEMENT": "Verilerine erişim. Kullanıcılar, Verilerin Sahibi tarafından işlenip işlenmediğini öğrenme, işlemenin belirli yönleriyle ilgili açıklama alma ve işlenmekte olan Verilerin bir kopyasını alma hakkına sahiptir.",
+                    "FOURTH_ELEMENT": "Doğrulama ve düzeltme talep etme. Kullanıcılar, Verilerinin doğruluğunu teyit etme ve güncellenmesini veya düzeltilmesini isteme hakkına sahiptir.",
+                    "FIFTH_ELEMENT": "Verilerinin işlenmesini kısıtlama. Kullanıcılar, Verilerinin işlenmesini kısıtlama hakkına sahiptir. Bu durumda, Sahip, Verilerini depolamak dışında herhangi bir amaçla işlemeyecektir.",
+                    "SIXTH_ELEMENT": "Kişisel Verilerinin silinmesini veya başka bir şekilde kaldırılmasını sağlayın. Kullanıcılar, Verilerinin silinmesini Sahibinden talep etme hakkına sahiptir.",
+                    "SEVENTH_ELEMENT": "Verilerini alma ve başka bir kontrolöre aktarılmasını sağlama. Kullanıcılar, Verilerini yapılandırılmış, yaygın olarak kullanılan ve makine tarafından okunabilir bir formatta alma ve teknik olarak mümkünse, herhangi bir engelleme olmaksızın başka bir denetleyiciye aktarılmasını sağlama hakkına sahiptir.",
+                    "EIGHTH_ELEMENT": "Bir şikayette bulunun. Kullanıcılar, yetkili veri koruma makamları nezdinde hak talebinde bulunma hakkına sahiptir."
                 },
-                "THIRD_PARAGRAPH": "Users are also entitled to learn about the legal basis for Data transfers abroad including to any international organization governed by public international law or set up by two or more countries, such as the UN, and about the security measures taken by the Owner to safeguard their Data."
+                "THIRD_PARAGRAPH": "Kullanıcılar ayrıca, uluslararası kamu hukuku tarafından yönetilen veya BM gibi iki veya daha fazla ülke tarafından kurulan herhangi bir uluslararası kuruluş da dahil olmak üzere yurtdışındaki Veri aktarımlarının yasal dayanağı ve Verilerini korumak için Sahibi tarafından alınan güvenlik önlemleri hakkında bilgi edinme hakkına sahiptir."
             },
             "DETAILS_ABOUT_THE_RIGHT_TO_OBJECT_TO_PROCESSING": {
-                "TITLE": "Details about the right to object to processing",
-                "FIRST_PARAGRAPH": "Where Personal Data is processed for a public interest, in the exercise of an official authority vested in the Owner or for the purposes of the legitimate interests pursued by the Owner, Users may object to such processing by providing a ground related to their particular situation to justify the objection.",
-                "SECOND_PARAGRAPH": "Users must know that, however, should their Personal Data be processed for direct marketing purposes, they can object to that processing at any time without providing any justification. To learn, whether the Owner is processing Personal Data for direct marketing purposes, Users may refer to the relevant sections of this document."
+                "TITLE": "İşlemeye itiraz etme hakkı hakkında ayrıntılar",
+                "FIRST_PARAGRAPH": "Kişisel Verilerin bir kamu yararı için, Sahibine verilen resmi bir yetkinin kullanılmasında veya Sahibinin izlediği meşru menfaatler amacıyla işlendiği durumlarda, Kullanıcılar, itirazı haklı çıkarmak için kendi özel durumlarıyla ilgili bir gerekçe sunarak bu tür işlemlere itiraz edebilirler.",
+                "SECOND_PARAGRAPH": "Bununla birlikte, Kullanıcılar, Kişisel Verilerinin doğrudan pazarlama amacıyla işlenmesi durumunda, herhangi bir gerekçe göstermeden istedikleri zaman bu işleme itiraz edebileceklerini bilmelidir. Sahibinin Kişisel Verileri doğrudan pazarlama amacıyla işleyip işlemediğini öğrenmek için Kullanıcılar bu belgenin ilgili bölümlerine başvurabilir."
             },
             "HOW_TO_EXERCISE_THESE_RIGHTS": {
-                "TITLE": "How to exercise these rights",
-                "FIRST_PARAGRAPH": "Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. These requests can be exercised free of charge and will be addressed by the Owner as early as possible and always within one month."
+                "TITLE": "Bu haklar nasıl kullanılır",
+                "FIRST_PARAGRAPH": "Kullanıcı haklarını kullanma talepleri, bu belgede verilen iletişim bilgileri aracılığıyla Sahibine yönlendirilebilir. Bu talepler ücretsiz olarak yerine getirilebilir ve Mal Sahibi tarafından mümkün olduğunca erken ve her zaman bir ay içinde ele alınacaktır."
             }
         },
         "DEFINITIONS_AND_LEGAL_REFERENCES": {
             "EUROPEAN_UNION": {
-                "TITLE": "European Union (or EU)",
-                "FIRST_PARAGRAPH": "Unless otherwise specified, all references made within this document to the European Union include all current member states to the European Union and the European Economic Area."
+                "TITLE": "Avrupa Birliği (veya AB)",
+                "FIRST_PARAGRAPH": "Aksi belirtilmedikçe, bu belgede Avrupa Birliği'ne yapılan tüm atıflar, Avrupa Birliği ve Avrupa Ekonomik Alanı'nın mevcut tüm üye devletlerini kapsamaktadır."
             },
-            "TITLE": "Definitions and legal references",
+            "TITLE": "Tanımlar ve yasal referanslar",
             "PERSONAL_DATA": {
-                "TITLE": "Personal Data (or Data)",
-                "FIRST_PARAGRAPH": "Any information that directly, indirectly, or in connection with other information — including a personal identification number — allows for the identification or identifiability of a natural person."
+                "TITLE": "Kişisel Veriler (veya Veriler)",
+                "FIRST_PARAGRAPH": "Doğrudan, dolaylı olarak veya diğer bilgilerle bağlantılı olarak - kişisel kimlik numarası da dahil olmak üzere - gerçek bir kişinin tanımlanmasına veya tanımlanabilirliğine olanak tanıyan her türlü bilgi."
             },
             "USAGE_DATA": {
-                "TITLE": "Usage Data",
-                "FIRST_PARAGRAPH": "Information collected automatically through Filo (or third-party services employed in Filo), which can include: the IP addresses or domain names of the computers utilized by the Users who use Filo, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment."
+                "TITLE": "Kullanım Verileri",
+                "FIRST_PARAGRAPH": "Filo (veya Filo'da kullanılan üçüncü taraf hizmetleri) aracılığıyla otomatik olarak toplanan bilgiler şunları içerebilir: Filo'yu kullanan Kullanıcılar tarafından kullanılan bilgisayarların IP adresleri veya alan adları, URI adresleri (Tekdüzen Kaynak Tanımlayıcı), talebin zamanı, talebi sunucuya göndermek için kullanılan yöntem, yanıt olarak alınan dosyanın boyutu, sunucunun yanıtının durumunu gösteren sayısal kod (başarılı sonuç, hata, vb.), menşe ülke, Kullanıcı tarafından kullanılan tarayıcı ve işletim sisteminin özellikleri, ziyaret başına çeşitli zaman ayrıntıları (örn, Uygulama içindeki her sayfada harcanan zaman) ve ziyaret edilen sayfaların sırasına özel atıfta bulunarak Uygulama içinde izlenen yolla ilgili ayrıntılar ve cihaz işletim sistemi ve/veya Kullanıcının BT ortamıyla ilgili diğer parametreler."
             },
             "USER": {
-                "TITLE": "User",
-                "FIRST_PARAGRAPH": "The individual using Filo who, unless otherwise specified, coincides with the Data Subject."
+                "TITLE": "Kullanıcı",
+                "FIRST_PARAGRAPH": "Aksi belirtilmedikçe, Veri Sahibi ile örtüşen Filo'yu kullanan kişi."
             },
             "DATA_SUBJECT": {
-                "TITLE": "Data Subject",
-                "FIRST_PARAGRAPH": "The natural person to whom the Personal Data refers."
+                "TITLE": "Veri Sahibi",
+                "FIRST_PARAGRAPH": "Kişisel Verilerin atıfta bulunduğu gerçek kişi."
             },
             "DATA_PROCESSOR": {
-                "TITLE": "Data Processor (or Data Supervisor)",
-                "FIRST_PARAGRAPH": "The natural or legal person, public authority, agency or other body which processes Personal Data on behalf of the Controller, as described in this privacy policy."
+                "TITLE": "Veri İşleyici (veya Veri Sorumlusu)",
+                "FIRST_PARAGRAPH": "Bu gizlilik politikasında açıklandığı üzere, Kontrolör adına Kişisel Verileri işleyen gerçek veya tüzel kişi, kamu otoritesi, ajans veya diğer organ."
             },
             "DATA_CONTROLLER": {
-                "TITLE": "Data Controller (or Owner)",
-                "FIRST_PARAGRAPH": "The natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of Personal Data, including the security measures concerning the operation and use of Filo. The Data Controller, unless otherwise specified, is the Owner of Filo."
+                "TITLE": "Veri Sorumlusu (veya Sahibi)",
+                "FIRST_PARAGRAPH": "Filo'nun işletilmesi ve kullanımına ilişkin güvenlik önlemleri de dahil olmak üzere Kişisel Verilerin işlenme amaçlarını ve araçlarını tek başına veya başkalarıyla birlikte belirleyen gerçek veya tüzel kişi, kamu otoritesi, kurum veya diğer organ. Veri Sorumlusu, aksi belirtilmedikçe, Filo'nun Sahibidir."
             },
             "FILO": {
-                "TITLE": "Filo (or this Application)",
-                "FIRST_PARAGRAPH": "The means by which the Personal Data of the User is collected and processed."
+                "TITLE": "Filo (veya bu Uygulama)",
+                "FIRST_PARAGRAPH": "Kullanıcının Kişisel Verilerinin hangi yollarla toplandığı ve işlendiği."
             },
             "SERVICE": {
-                "TITLE": "Service",
-                "FIRST_PARAGRAPH": "The service provided by Filo as described in the relative terms (if available) and on this site/application."
+                "TITLE": "Hizmet",
+                "FIRST_PARAGRAPH": "İlgili şartlarda (varsa) ve bu sitede/uygulamada açıklandığı şekilde Filo tarafından sağlanan hizmet."
             },
             "COOKIES": {
-                "TITLE": "Cookies",
-                "FIRST_PARAGRAPH": "Small sets of data stored in the User's device."
+                "TITLE": "Çerezler",
+                "FIRST_PARAGRAPH": "Kullanıcının cihazında depolanan küçük veri kümeleri."
             },
             "LEGAL_INFORMATION": {
-                "TITLE": "Legal information",
-                "FIRST_PARAGRAPH": "This privacy statement has been prepared based on provisions of multiple legislations, including Art. 13/14 of Regulation (EU) 2016/679 (General Data Protection Regulation).",
-                "SECOND_PARAGRAPH": "This privacy policy relates solely to Filo, if not stated otherwise within this document."
+                "TITLE": "Yasal bilgiler",
+                "FIRST_PARAGRAPH": "Bu gizlilik beyanı, 2016/679 sayılı Tüzük (AB) Madde 13/14 (Genel Veri Koruma Tüzüğü) dahil olmak üzere birçok mevzuatın hükümlerine dayanılarak hazırlanmıştır. 2016/679 sayılı Tüzüğün (AB) 13/14 maddeleri (Genel Veri Koruma Tüzüğü).",
+                "SECOND_PARAGRAPH": "Bu gizlilik politikası, bu belgede aksi belirtilmediği sürece yalnızca Filo ile ilgilidir."
             }
         },
         "INFORMATION_ON_OPTING_OUT_OF_INTEREST_BASED_ADVERTISING": {
-            "TITLE": "Information on opting out of interest-based advertising",
-            "FIRST_PARAGRAPH": "In addition to any opt-out feature provided by any of the services listed in this document, Users may learn more on how to generally opt out of interest-based advertising within the dedicated section of the <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Cookies Policy</a></strong>."
+            "TITLE": "İlgi alanına dayalı reklamlardan çıkma hakkında bilgi",
+            "FIRST_PARAGRAPH": "Bu belgede listelenen hizmetlerden herhangi biri tarafından sağlanan devre dışı bırakma özelliğine ek olarak, Kullanıcılar ilgi alanına dayalı reklamlardan genel olarak nasıl vazgeçebilecekleri hakkında daha fazla bilgiyi <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Çerez Politikası</a></strong>."
         },
         "COOKIES_POLICY": {
-            "TITLE": "Cookies Policy",
-            "FIRST_PARAGRAPH": "Filo uses Cookies. To learn more and for a detailed cookie notice, the User may consult the <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Cookies Policy</a></strong>."
+            "TITLE": "Çerez Politikası",
+            "FIRST_PARAGRAPH": "Filo Çerezleri kullanır. Daha fazla bilgi edinmek ve ayrıntılı bir çerez bildirimi için Kullanıcı, aşağıdaki adrese başvurabilir <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Çerez Politikası</a></strong>."
         },
         "FURTHER_INFORMATION_FOR_USERS_IN_THE_EU": {
-            "TITLE": "Further Information for Users in the European Union",
-            "FIRST_PARAGRAPH": "This section applies to all Users in the European Union, according to the General Data Protection Regulation (the \"GDPR\"), and, for such Users, supersedes any other possibly divergent or conflicting information contained in the privacy policy. Further details regarding the categories of Data processed, the purposes of processing, the categories of recipients of the Personal Data, if any, and further information about Personal Data can be found in the section titled <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Detailed information on the processing of Personal Data</a></strong> within this document."
+            "TITLE": "Avrupa Birliği'ndeki Kullanıcılar için Daha Fazla Bilgi",
+            "FIRST_PARAGRAPH": "Bu bölüm, Genel Veri Koruma Yönetmeliğine (\"GDPR\") göre Avrupa Birliği'ndeki tüm Kullanıcılar için geçerlidir ve bu Kullanıcılar için gizlilik politikasında yer alan diğer olası farklı veya çelişkili bilgilerin yerine geçer. İşlenen Veri kategorileri, işleme amaçları, varsa Kişisel Verilerin alıcı kategorileri ve Kişisel Veriler hakkında daha fazla bilgi aşağıdaki bölümde bulunabilir <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Kişisel Verilerin işlenmesine ilişkin detaylı bilgi</a></strong> bu belgenin içinde."
         },
         "ADDITIONAL_INFORMATION_ABOUT_DATA_COLLECTION_AND_PROCESSING": {
-            "TITLE": "Additional information about Data collection and processing",
+            "TITLE": "Veri toplama ve işleme hakkında ek bilgiler",
             "LEGAL_ACTION": {
-                "TITLE": "Legal action",
-                "FIRST_PARAGRAPH": "The User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of Filo or the related services.",
-                "SECOND_PARAGRAPH": "The User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities."
+                "TITLE": "Yasal işlem",
+                "FIRST_PARAGRAPH": "Kullanıcı'nın Kişisel Verileri, Mahkeme'de veya Filo'nun veya ilgili hizmetlerin uygunsuz kullanımından kaynaklanan olası yasal işlemlere yol açan aşamalarda Mal Sahibi tarafından yasal amaçlarla kullanılabilir.",
+                "SECOND_PARAGRAPH": "Kullanıcı, resmi makamların talebi üzerine Sahibinin kişisel verileri ifşa etmesi gerekebileceğinin farkında olduğunu beyan eder."
             },
             "ADDITIONAL_INFORMATION_ABOUT_USER_PERSONAL_DATA": {
-                "TITLE": "Additional information about User's Personal Data",
-                "FIRST_PARAGRAPH": "In addition to the information contained in this privacy policy, Filo may provide the User with additional and contextual information concerning particular services or the collection and processing of Personal Data upon request."
+                "TITLE": "Kullanıcının Kişisel Verileri hakkında ek bilgi",
+                "FIRST_PARAGRAPH": "Bu gizlilik politikasında yer alan bilgilere ek olarak Filo, talep üzerine Kullanıcıya belirli hizmetler veya Kişisel Verilerin toplanması ve işlenmesi ile ilgili ek ve bağlamsal bilgiler sağlayabilir."
             },
             "SYSTEM_LOGS_AND_MAINTENANCE": {
-                "TITLE": "System logs and maintenance",
-                "FIRST_PARAGRAPH": "For operation and maintenance purposes, Filo and any third-party services may collect files that record interaction with Filo (System logs) use other Personal Data (such as the IP Address) for this purpose."
+                "TITLE": "Sistem günlükleri ve bakımı",
+                "FIRST_PARAGRAPH": "İşletme ve bakım amacıyla Filo ve herhangi bir üçüncü taraf hizmeti, Filo ile etkileşimi kaydeden dosyaları (Sistem günlükleri) toplayabilir ve bu amaçla diğer Kişisel Verileri (IP Adresi gibi) kullanabilir."
             },
             "INFORMATION_NOT_CONTAINED_IN_THIS_POLICY": {
-                "TITLE": "Information not contained in this policy",
-                "FIRST_PARAGRAPH": "More details concerning the collection or processing of Personal Data may be requested from the Owner at any time. Please see the contact information at the beginning of this document."
+                "TITLE": "Bu politikada yer almayan bilgiler",
+                "FIRST_PARAGRAPH": "Kişisel Verilerin toplanması veya işlenmesi ile ilgili daha fazla ayrıntı, herhangi bir zamanda Sahibinden talep edilebilir. Lütfen bu belgenin başındaki iletişim bilgilerine bakın."
             },
             "HOW_DO_NOT_TRACK_REQUESTS_ARE_HANDLED": {
-                "TITLE": "How \"Do Not Track\" requests are handled",
-                "FIRST_PARAGRAPH": "Filo does not support \"Do Not Track\" requests. To determine whether any of the third-party services it uses honor the \"Do Not Track\" requests, please read their privacy policies."
+                "TITLE": "\"Do Not Track\" talepleri nasıl ele alınır",
+                "FIRST_PARAGRAPH": "Filo \"Do Not Track\" isteklerini desteklemez. Kullandığı üçüncü taraf hizmetlerinden herhangi birinin \"Do Not Track\" isteklerini yerine getirip getirmediğini belirlemek için lütfen gizlilik politikalarını okuyun."
             },
             "CHANGES_TO_THIS_PRIVACY_POLICY": {
-                "TITLE": "Changes to this privacy policy",
-                "FIRST_PARAGRAPH": "The Owner reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page and possibly within Filo and/or - as far as technically and legally feasible - sending a notice to Users via any contact information available to the Owner. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom.",
-                "SECOND_PARAGRAPH": "Should the changes affect processing activities performed on the basis of the User's consent, the Owner shall collect new consent from the User, where required."
+                "TITLE": "Bu gizlilik politikasındaki değişiklikler",
+                "FIRST_PARAGRAPH": "Sahibi, Kullanıcılarına bu sayfada ve muhtemelen Filo içinde bildirimde bulunarak ve/veya - teknik ve yasal olarak mümkün olduğu ölçüde - Sahibinin kullanabileceği herhangi bir iletişim bilgisi aracılığıyla Kullanıcılara bir bildirim göndererek bu gizlilik politikasında istediği zaman değişiklik yapma hakkını saklı tutar. En altta listelenen son değişiklik tarihine bakarak bu sayfayı sık sık kontrol etmeniz şiddetle tavsiye edilir.",
+                "SECOND_PARAGRAPH": "Değişikliklerin, Kullanıcının rızası temelinde gerçekleştirilen işleme faaliyetlerini etkilemesi durumunda, Mal Sahibi, gerektiğinde Kullanıcıdan yeni onay alacaktır."
             }
         }
     },
     "META": {
         "PRIVACY_POLICY": {
-            "ABSTRACT": "Discover our practices in transparency, consent management, and stringent security measures, all aligned with data protection standards to ensure your online privacy.",
-            "DESCRIPTION": "Learn about our commitment to transparency, consent management, and stringent measures to ensure the security of your information in compliance with data protection standards.",
-            "KEYWORDS": "privacy policy, data protection, user information, information security, consent management, personal data, transparency, online privacy, data processing, compliance measures"
+            "ABSTRACT": "Çevrimiçi gizliliğinizi sağlamak için veri koruma standartlarıyla uyumlu şeffaflık, onay yönetimi ve sıkı güvenlik önlemleri uygulamalarımızı keşfedin.",
+            "DESCRIPTION": "Veri koruma standartlarına uygun olarak bilgilerinizin güvenliğini sağlamak için şeffaflık, onay yönetimi ve sıkı önlemlere olan bağlılığımız hakkında bilgi edinin.",
+            "KEYWORDS": "gizlilik politikası, veri koruma, kullanıcı bilgileri, bilgi güvenliği, rıza yönetimi, kişisel veriler, şeffaflık, çevrimiçi gizlilik, veri işleme, uyumluluk önlemleri"
         },
         "DEFAULT": {
-            "ABSTRACT": "Empower your Discord community with versatile, multilingual moderation solutions.",
-            "KEYWORDS": "filo bot, discord, discord bot, discord bots, moderation bot, multilingual bot, anime bot, best moderation bot discord, best discord bots for moderation, powerful discord bot",
-            "DESCRIPTION": "Elevate your Discord community with powerful and seamless moderation tools, available in multiple languages."
+            "ABSTRACT": "Discord topluluğunuzu çok yönlü, çok dilli moderasyon çözümleriyle güçlendirin.",
+            "KEYWORDS": "filo bot, discord, discord bot, discord botları, moderasyon botu, çok dilli bot, anime bot, en iyi moderasyon botu discord, moderasyon için en iyi discord botları, güçlü discord botu",
+            "DESCRIPTION": "Discord topluluğunuzu birden fazla dilde kullanılabilen güçlü ve sorunsuz moderasyon araçlarıyla geliştirin."
         },
         "FEATURES": {
-            "DESCRIPTION": "Explore Filo's rich array of Discord bot features - from enhanced moderation to community engagement tools, unleash the full potential of your community management.",
-            "ABSTRACT": "Discover the full spectrum of features that Filo offers, empowering you to elevate your Discord community's management, moderation, and community engagement.",
-            "KEYWORDS": "discord bot, community management, moderation tools, community engagement, multilingual support, anti-spam, member counting, welcoming messages, security measures, customization options"
+            "DESCRIPTION": "Filo'nun zengin Discord bot özelliklerini keşfedin - gelişmiş moderasyondan topluluk katılım araçlarına kadar, topluluk yönetiminizin tüm potansiyelini ortaya çıkarın.",
+            "ABSTRACT": "Discord topluluğunuzun yönetimini, moderasyonunu ve topluluk katılımını yükseltmenizi sağlayan Filo'nun sunduğu tüm özellikleri keşfedin.",
+            "KEYWORDS": "discord bot, topluluk yönetimi, moderasyon araçları, topluluk katılımı, çok dilli destek, anti-spam, üye sayımı, karşılama mesajları, güvenlik önlemleri, özelleştirme seçenekleri"
         },
         "COOKIES_POLICY": {
-            "DESCRIPTION": "Learn how we prioritize your privacy, manage data tracking, and provide options for personalized online experiences through transparent cookie policies.",
-            "ABSTRACT": "Explore how we utilize cookies, respect user preferences, and prioritize data protection for a tailored online experience.",
-            "KEYWORDS": "cookies, data tracking, privacy settings, cookie policy, user preferences, website analytics, consent management, online experience, data protection, cookie usage"
+            "DESCRIPTION": "Gizliliğinize nasıl öncelik verdiğimizi, veri izlemeyi nasıl yönettiğimizi ve şeffaf çerez politikaları aracılığıyla kişiselleştirilmiş çevrimiçi deneyimler için nasıl seçenekler sunduğumuzu öğrenin.",
+            "ABSTRACT": "Özelleştirilmiş bir çevrimiçi deneyim için çerezleri nasıl kullandığımızı, kullanıcı tercihlerine nasıl saygı duyduğumuzu ve veri korumaya nasıl öncelik verdiğimizi keşfedin.",
+            "KEYWORDS": "çerezler, veri izleme, gizlilik ayarları, çerez politikası, kullanıcı tercihleri, web sitesi analizi, onay yönetimi, çevrimiçi deneyim, veri koruma, çerez kullanımı"
         },
         "TERMS_OF_SERVICE": {
-            "DESCRIPTION": "Learn about acceptable use policies, community management rules, and compliance requirements to ensure a respectful and secure Discord experience.",
-            "ABSTRACT": "Explore the details of acceptable use, community management rules, and compliance requirements for a harmonious and secure online environment.",
-            "KEYWORDS": "terms of service, user agreement, discord bot usage, community guidelines, code of conduct, acceptable use, legal terms, agreement terms, community management rules, compliance requirements"
+            "DESCRIPTION": "Saygılı ve güvenli bir Discord deneyimi sağlamak için kabul edilebilir kullanım politikaları, topluluk yönetimi kuralları ve uyumluluk gereksinimleri hakkında bilgi edinin.",
+            "ABSTRACT": "Uyumlu ve güvenli bir çevrimiçi ortam için kabul edilebilir kullanım, topluluk yönetimi kuralları ve uyumluluk gerekliliklerinin ayrıntılarını keşfedin.",
+            "KEYWORDS": "hizmet şartları, kullanıcı sözleşmesi, discord bot kullanımı, topluluk yönergeleri, davranış kuralları, kabul edilebilir kullanım, yasal şartlar, sözleşme şartları, topluluk yönetimi kuralları, uyumluluk gereksinimleri"
         },
         "TERMS_OF_SALES": {
-            "DESCRIPTION": "Learn about our billing and refund policies, license agreements, and renewal terms to make informed decisions about your subscriptions.",
-            "ABSTRACT": "Uncover insights into billing, refund policies, license agreements, and renewal terms, empowering you to make informed decisions about your subscriptions.",
-            "KEYWORDS": "sales terms, pricing details, payment policies, subscription plans, billing information, refund policy, license agreements, premium features, renewal terms, transaction terms"
+            "DESCRIPTION": "Abonelikleriniz hakkında bilinçli kararlar vermek için faturalandırma ve geri ödeme politikalarımız, lisans sözleşmelerimiz ve yenileme koşullarımız hakkında bilgi edinin.",
+            "ABSTRACT": "Faturalandırma, geri ödeme politikaları, lisans sözleşmeleri ve yenileme koşullarına ilişkin içgörüleri ortaya çıkararak abonelikleriniz hakkında bilinçli kararlar almanızı sağlayın.",
+            "KEYWORDS": "satış koşulları, fiyatlandırma ayrıntıları, ödeme politikaları, abonelik planları, faturalandırma bilgileri, geri ödeme politikası, lisans sözleşmeleri, premium özellikler, yenileme koşulları, işlem koşulları"
         },
         "SERVICE_STATUS": {
-            "DESCRIPTION": "Stay informed about Filo's service status, maintenance schedules, and updates to ensure a seamless and uninterrupted Discord experience.",
-            "ABSTRACT": "Keep up to date with Filo's service status, maintenance schedules, and updates to ensure a smooth and uninterrupted Discord experience.",
-            "KEYWORDS": "service status, maintenance schedules, service updates, discord bot status, discord bot maintenance, discord bot updates, service interruptions, discord service status"
+            "DESCRIPTION": "Sorunsuz ve kesintisiz bir Discord deneyimi sağlamak için Filo'nun hizmet durumu, bakım programları ve güncellemeleri hakkında bilgi sahibi olun.",
+            "ABSTRACT": "Sorunsuz ve kesintisiz bir Discord deneyimi sağlamak için Filo'nun hizmet durumunu, bakım programlarını ve güncellemelerini takip edin.",
+            "KEYWORDS": "servis durumu, bakım programları, servis güncellemeleri, discord bot durumu, discord bot bakımı, discord bot güncellemeleri, servis kesintileri, discord servis durumu"
         },
         "BLOG": {
-            "DESCRIPTION": "Stay updated on the latest news, feature releases, and community highlights with Filo's blog, your go-to source for all things Discord.",
-            "ABSTRACT": "Stay informed about the latest news, feature releases, and community highlights with Filo's blog, your ultimate source for all things Discord.",
-            "KEYWORDS": "discord news, feature releases, community highlights, discord bot updates, blog posts, discord community, discord bot features, discord bot news, discord bot community"
+            "DESCRIPTION": "Discord ile ilgili her şey için başvuracağınız kaynak olan Filo'nun blogu ile en son haberler, özellik sürümleri ve toplulukta öne çıkan gelişmelerden haberdar olun.",
+            "ABSTRACT": "Discord ile ilgili her şey için nihai kaynağınız olan Filo'nun blogu ile en son haberler, özellik sürümleri ve toplulukta öne çıkan konular hakkında bilgi sahibi olun.",
+            "KEYWORDS": "discord haberleri, discord bot güncellemeleri, discord topluluğu, discord bot özellikleri, discord bot haberleri, discord bot topluluğu, özellik bültenleri, toplulukta öne çıkanlar"
         }
     },
     "FAQ": {
         "QUESTIONS": {
             "THIRD": {
-                "QUESTION": "How can I get support or report an issue with Filo?",
-                "ANSWER": "We're here to help! If you have any questions, concerns, or need assistance, you can join our support server or contact our team through the provided channels. We're committed to ensuring a smooth experience for our users"
+                "QUESTION": "Filo ile ilgili nasıl destek alabilirim veya bir sorunu nasıl bildirebilirim?",
+                "ANSWER": "Yardım etmek için buradayız! Herhangi bir sorunuz, endişeniz veya yardıma ihtiyacınız varsa, destek sunucumuza katılabilir veya sağlanan kanallar aracılığıyla ekibimizle iletişime geçebilirsiniz. Kullanıcılarımız için sorunsuz bir deneyim sağlamaya kararlıyız"
             },
             "FIRST": {
-                "QUESTION": "What is Filo, and what can it do for my Discord community?",
-                "ANSWER": "Filo is a powerful multipurpose Discord bot designed to simplify community moderation and administration"
+                "QUESTION": "Filo nedir ve Discord topluluğum için ne yapabilir?",
+                "ANSWER": "Filo, topluluk moderasyonunu ve yönetimini basitleştirmek için tasarlanmış güçlü ve çok amaçlı bir Discord botudur"
             },
             "SECOND": {
-                "QUESTION": "How do I invite Filo to my Discord community?",
-                "ANSWER": "Inviting Filo is easy! Just click the \"Invite\" link in the navigation bar and follow the steps. You can customize its settings to fit your community's needs"
+                "QUESTION": "Filo'yu Discord topluluğuma nasıl davet edebilirim?",
+                "ANSWER": "Filo'yu davet etmek çok kolay! Gezinti çubuğundaki \"Davet Et\" bağlantısını tıklamanız ve adımları takip etmeniz yeterlidir. Ayarlarını topluluğunuzun ihtiyaçlarına uyacak şekilde özelleştirebilirsiniz"
             },
             "FOURTH": {
-                "QUESTION": "Does Filo have multilingual support for non-English-speaking communities?",
-                "ANSWER": "Yes, Filo offers multilingual support, making it accessible to a wide range of language communities. You can configure Filo to use your preferred language (must be available) for a more inclusive experience"
+                "QUESTION": "Filo'nun İngilizce konuşmayan topluluklar için çok dilli desteği var mı?",
+                "ANSWER": "Evet, Filo çok dilli destek sunarak çok çeşitli dil toplulukları için erişilebilir olmasını sağlar. Daha kapsayıcı bir deneyim için Filo'yu tercih ettiğiniz dili (mevcut olmalıdır) kullanacak şekilde yapılandırabilirsiniz"
             },
             "FIFTH": {
-                "QUESTION": "Can I customize Filo's moderation settings to suit my community's specific needs?",
-                "ANSWER": "Absolutely! Filo allows you to customize its moderation settings to align with your community's rules and requirements. You can fine-tune the filters and settings to maintain a safe and welcoming environment"
+                "QUESTION": "Filo'nun moderasyon ayarlarını topluluğumun özel ihtiyaçlarına uyacak şekilde özelleştirebilir miyim?",
+                "ANSWER": "Kesinlikle! Filo, moderasyon ayarlarını topluluğunuzun kuralları ve gereksinimleriyle uyumlu olacak şekilde özelleştirmenize olanak tanır. Güvenli ve sıcak bir ortam sağlamak için filtrelere ve ayarlara ince ayar yapabilirsiniz"
             },
             "SIXTH": {
-                "QUESTION": "What are some key features that Filo offers for community management?",
-                "ANSWER": "Filo provides a wide range of features, including automatic moderation, multilingual support, member counting, anti-spam measures, and more. These features enhance community functionality and safety"
+                "QUESTION": "Filo'nun topluluk yönetimi için sunduğu bazı temel özellikler nelerdir?",
+                "ANSWER": "Filo, otomatik moderasyon, çok dilli destek, üye sayımı, anti-spam önlemleri ve daha fazlası dahil olmak üzere çok çeşitli özellikler sunar. Bu özellikler topluluk işlevselliğini ve güvenliğini artırır"
             },
             "SEVENTH": {
-                "QUESTION": "How can Filo help me maintain a safe and enjoyable environment in my community?",
-                "ANSWER": "Filo's features include tools to combat spam, protect against external links, and manage community security, ensuring a positive and secure Discord experience for your community"
+                "QUESTION": "Filo, toplumumda güvenli ve keyifli bir ortam sağlamama nasıl yardımcı olabilir?",
+                "ANSWER": "Filo'nun özellikleri arasında spam ile mücadele, harici bağlantılara karşı koruma ve topluluk güvenliğini yönetme araçları yer alır ve topluluğunuz için olumlu ve güvenli bir Discord deneyimi sağlar"
             },
             "EIGHTH": {
-                "QUESTION": "Can I integrate Filo's features seamlessly into my existing community setup, or is it a complex process?",
-                "ANSWER": "Filo is designed to be user-friendly and easy to integrate into your community. The setup process is straightforward and intuitive"
+                "QUESTION": "Filo'nun özelliklerini mevcut topluluk kurulumuma sorunsuz bir şekilde entegre edebilir miyim, yoksa bu karmaşık bir süreç mi?",
+                "ANSWER": "Filo, kullanıcı dostu ve topluluğunuza entegre edilmesi kolay olacak şekilde tasarlanmıştır. Kurulum süreci basit ve sezgiseldir"
             }
         },
-        "TITLE": "Frequently asked questions",
-        "DESCRIPTION": "Explore our FAQ section for quick solutions to common queries about Filo, Discord bot features, and much more"
+        "TITLE": "Sıkça sorulan sorular",
+        "DESCRIPTION": "Filo, Discord bot özellikleri ve çok daha fazlası hakkında sık sorulan sorulara hızlı çözümler için SSS bölümümüzü keşfedin"
     },
     "TERMS_OF_SERVICE": {
         "EXPERIMENTAL_FEATURES": {
-            "TITLE": "Experimental Features or Beta Services",
-            "FIRST_PARAGRAPH": "We may offer you access to features or services that are considered experimental or in a beta state (\"Beta Features\"). Beta Features may have reduced or different security, privacy, accessibility, availability and reliability standards, and may not operate correctly or in the way that a generally available feature or service would operate. Our inclusion of Beta Features shouldn't be construed as an endorsement, guarantee, warranty, or recommendation of them by us or any third party. All Beta Features are provided \"as is\" and at your own risk, and you agree that we have no liability arising from your use of or access to any Beta Features.",
-            "SECOND_PARAGRAPH": "We may also terminate, suspend, or modify any Beta Features at any time without prior notice to you. We may also decide not to make a Beta Feature generally available. We may add or remove Beta Features from the Service at any time in our sole discretion. If you decide to use any Beta Features, you do so at your sole risk."
+            "TITLE": "Deneysel Özellikler veya Beta Hizmetler",
+            "FIRST_PARAGRAPH": "Size deneysel veya beta durumunda olduğu düşünülen özelliklere veya hizmetlere (\"Beta Özellikler\") erişim sunabiliriz. Beta Özellikleri, azaltılmış veya farklı güvenlik, gizlilik, erişilebilirlik, kullanılabilirlik ve güvenilirlik standartlarına sahip olabilir ve doğru şekilde veya genel olarak mevcut bir özellik veya hizmetin çalışacağı şekilde çalışmayabilir. Beta Özelliklere yer vermemiz, bunların tarafımızca veya herhangi bir üçüncü tarafça onaylandığı, garanti edildiği, garanti edildiği veya tavsiye edildiği şeklinde yorumlanmamalıdır. Tüm Beta Özellikleri \"olduğu gibi\" ve riski size ait olmak üzere sunulmaktadır ve Beta Özelliklerini kullanımınızdan veya bunlara erişiminizden kaynaklanan hiçbir sorumluluğumuz olmadığını kabul etmektesiniz.",
+            "SECOND_PARAGRAPH": "Ayrıca, herhangi bir Beta Özelliğini size önceden bildirimde bulunmaksızın herhangi bir zamanda sonlandırabilir, askıya alabilir veya değiştirebiliriz. Bir Beta Özelliğini genel kullanıma sunmamaya da karar verebiliriz. Beta Özelliklerini tamamen kendi takdirimize bağlı olarak istediğimiz zaman Hizmete ekleyebilir veya Hizmetten kaldırabiliriz. Herhangi bir Beta Özelliğini kullanmaya karar verirseniz, bunun riski tamamen size aittir."
         },
-        "TITLE": "Terms of Service",
-        "DESCRIPTION": "These Terms govern your access to and use of Filo and the services, and any information, text, graphics, or other materials uploaded, downloaded or appearing on the services (collectively referred to as \"Content\"). Your access to and use of the services are conditioned on your acceptance of and compliance with these Terms. By accessing or using the services you agree to be bound by these Terms.",
-        "EFFECTIVE": "Effective",
-        "LAST_UPDATED": "Last Updated",
+        "TITLE": "Hizmet Koşulları",
+        "DESCRIPTION": "Bu Koşullar, Filo'ya ve hizmetlere erişiminizi ve bunları kullanımınızı ve hizmetlere yüklenen, indirilen veya hizmetlerde görünen her türlü bilgi, metin, grafik veya diğer materyalleri (topluca \"İçerik\" olarak anılacaktır) yönetir. Hizmetlere erişiminiz ve bunları kullanımınız, bu Şartları kabul etmeniz ve bunlara uymanız koşuluna bağlıdır. Hizmetlere erişerek veya bunları kullanarak bu Şartlara tabi olmayı kabul etmiş olursunuz.",
+        "EFFECTIVE": "Etkili",
+        "LAST_UPDATED": "Son Güncelleme",
         "DATE": "{{month}}/{{day}}/{{year}}",
         "INTRODUCTION": {
-            "TITLE": "Introduction",
-            "FIRST_PARAGRAPH": "These Terms of Service (\"Terms\"), are a legal agreement between Filobot (\"Us\", \"We\" or \"Our\") and you (\"You\", \"Your\", the \"User\", or the \"End User\"). By using or interacting with Filo (the \"Bot\") or the website located at <strong>{{url}}</strong> (the \"Site\") or any of its aliases, which are collectively referred to as the \"Service\", you agree:",
+            "TITLE": "Giriş",
+            "FIRST_PARAGRAPH": "Bu Hizmet Koşulları (\"Koşullar\"), Filobot (\"Biz\", \"Biz\" veya \"Bizim\") ile siz (\"Siz\", \"Sizin\", \"Kullanıcı\" veya \"Son Kullanıcı\") arasındaki yasal bir sözleşmedir. Filo'yu (\"Bot\") veya şu adreste bulunan web sitesini kullanarak veya bunlarla etkileşime girerek <strong>{{url}}</strong> (\"Site\") veya toplu olarak \"Hizmet\" olarak anılan takma adlarından herhangi birini kullanmayı kabul edersiniz:",
             "LIST": {
-                "FIRST_ELEMENT": "That you are 13 years of age or older.",
-                "SECOND_ELEMENT": "If you are the age of majority in your jurisdiction or over, that you have read, understood, and accept to be bound by the Terms.",
-                "THIRD_ELEMENT": "If you are between 13 and the age of majority in your jurisdiction, that your legal guardian has reviewed and agrees to these Terms."
+                "FIRST_ELEMENT": "13 yaşında veya daha büyük olduğunuzu.",
+                "SECOND_ELEMENT": "Yargı bölgenizde reşit veya daha büyük yaştaysanız, Şartları okuduğunuzu, anladığınızı ve Şartlara bağlı kalmayı kabul ettiğinizi.",
+                "THIRD_ELEMENT": "Yargı bölgenizde 13 yaşından reşit olma yaşına kadar yaşıyorsanız, yasal vasinizin bu Koşulları incelediğini ve kabul ettiğini."
             },
-            "SECOND_PARAGRAPH": "We reserve the right, at our sole discretion, to modify or revise these Terms at any time, and you agree to be bound by such modifications or revisions. Any such change or modification will be effective immediately, and your continued use of the Service will constite your acceptance of, and agreement to, such changes or modifications. If you object to any change or modification, your sole recourse shall be to cease using the Service.",
-            "THIRD_PARAGRAPH": "We integrate with various platforms (\"platforms\") to provide you with our services. Neither platform endorses Filo, nor does Filo endorse these platforms. Discord isn't affiliated with Filo."
+            "SECOND_PARAGRAPH": "Tamamen kendi takdirimize bağlı olarak, bu Koşulları herhangi bir zamanda değiştirme veya revize etme hakkımızı saklı tutarız ve bu tür değişikliklere veya revizyonlara bağlı kalmayı kabul edersiniz. Bu tür herhangi bir değişiklik veya düzenleme derhal yürürlüğe girecek ve Hizmeti kullanmaya devam etmeniz, bu tür değişiklikleri veya düzenlemeleri kabul ettiğiniz ve onayladığınız anlamına gelecektir. Herhangi bir değişikliğe veya düzenlemeye itiraz etmeniz halinde, tek başvurunuz Hizmeti kullanmayı bırakmak olacaktır.",
+            "THIRD_PARAGRAPH": "Size hizmetlerimizi sunmak için çeşitli platformlarla (\"platformlar\") entegre oluyoruz. Hiçbir platform Filo'yu onaylamaz veya Filo bu platformları onaylamaz. Discord, Filo ile bağlantılı değildir."
         },
         "RIGHTS_TO_USE_THE_SERVICE": {
             "LIST": {
-                "NINTH_ELEMENT": "You compromise the security, integrity, functionality of the Service.",
-                "FIRST_ELEMENT": "You are under 13 years old.",
-                "SECOND_ELEMENT": "You engage in illegal, fraudulent, or otherwise harmful activities to a person or entity.",
-                "THIRD_ELEMENT": "You defame, slander, mock, harass, threaten, intimidate, or abuse the rights of a person or entity.",
-                "FOURTH_ELEMENT": "You infringe Filo's intellectual property or services related to Filo; you have a Discord community in which there are subjects that violate Filo's intellectual property or services related to Filo. We don't grant the right to use Filo's resources. There are exceptions.",
-                "FIFTH_ELEMENT": "You participate in the (intentional) interruption of the work of the Filo's staff; you use the Service to interrupt the work of Filo's staff; you use social networks to interrupt the work of Filo's staff.",
-                "SIXTH_ELEMENT": "You develop and distribute copyrighted material.",
-                "SEVENTH_ELEMENT": "You exploit, argue, announce a critical service error; you don't inform Filo's staff of a critical error (and perform the actions mentioned above); you refuse to give Filo's staff details about the critical error found.",
-                "EIGHTH_ELEMENT": "You participate in paid (or unpaid) boost activities; you own a community on which boost activities are performed.",
-                "TENTH_ELEMENT": "You make inappropriate use of the Service, sent advertising to an external service (or yourself).",
-                "ELEVENTH_ELEMENT": "You try to evade a suspension; you use the Service despite being suspended.",
-                "TWELFTH_ELEMENT": "You use the support methods offered by Filo's staff in an erroneous and intentional manner."
+                "NINTH_ELEMENT": "Hizmetin güvenliğini, bütünlüğünü ve işlevselliğini tehlikeye atarsınız.",
+                "FIRST_ELEMENT": "13 yaşından küçüksünüz.",
+                "SECOND_ELEMENT": "Yasadışı, hileli veya başka bir şekilde bir kişi veya kuruluşa zararlı faaliyetlerde bulunmanız.",
+                "THIRD_ELEMENT": "Bir kişi veya kurumu karalamanız, iftira atmanız, alay etmeniz, taciz etmeniz, tehdit etmeniz, korkutmanız veya haklarını kötüye kullanmanız.",
+                "FOURTH_ELEMENT": "Filo'nun fikri mülkiyetini veya Filo ile ilgili hizmetleri ihlal ediyorsunuz; Filo'nun fikri mülkiyetini veya Filo ile ilgili hizmetleri ihlal eden konuların bulunduğu bir Discord topluluğuna sahipsiniz. Filo'nun kaynaklarını kullanma hakkı vermiyoruz. İstisnalar vardır.",
+                "FIFTH_ELEMENT": "Filo'nun personelinin çalışmasının (kasıtlı olarak) kesintiye uğratılmasına katılırsınız; Hizmeti Filo'nun personelinin çalışmasını kesintiye uğratmak için kullanırsınız; Filo'nun personelinin çalışmasını kesintiye uğratmak için sosyal ağları kullanırsınız.",
+                "SIXTH_ELEMENT": "Telif hakkıyla korunan materyaller geliştiriyor ve dağıtıyorsunuz.",
+                "SEVENTH_ELEMENT": "Kritik bir hizmet hatasını istismar ediyor, tartışıyor, duyuruyorsunuz; Filo'nun personelini kritik bir hata hakkında bilgilendirmiyorsunuz (ve yukarıda belirtilen eylemleri gerçekleştirmiyorsunuz); Filo'nun personeline bulunan kritik hata hakkında ayrıntı vermeyi reddediyorsunuz.",
+                "EIGHTH_ELEMENT": "Ücretli (veya ücretsiz) destek faaliyetlerine katılıyorsunuz; destek faaliyetlerinin gerçekleştirildiği bir topluluğa sahipsiniz.",
+                "TENTH_ELEMENT": "Hizmeti uygunsuz şekilde kullanmanız, harici bir hizmete (veya kendinize) reklam göndermeniz.",
+                "ELEVENTH_ELEMENT": "Bir askıya alma işleminden kaçmaya çalışırsanız; askıya alınmış olmanıza rağmen Hizmeti kullanırsanız.",
+                "TWELFTH_ELEMENT": "Filo'nun personeli tarafından sunulan destek yöntemlerini hatalı ve kasıtlı bir şekilde kullanıyorsunuz."
             },
-            "TITLE": "Rights to use the Service",
-            "FIRST_PARAGRAPH": "We grant limited, non-exclusive and irrevocable right to use the Service. We can revoke your access to this service if:",
-            "SECOND_PARAGRAPH": "We reserve the right to modify or suspend, temporarily or permanently, the Service (or any part thereof) with or without notice. We reserve the right to reject the use of the services without notification for any reason, including, but not limited to, a possible violation of the conditions. If you violate these conditions, we reserve the right to issue a warning regarding the violation or immediately suspend your account that you have created through the Service offered by Discord. You agree that we have no obligation to inform you before suspending your account(s), but that you may do so."
+            "TITLE": "Hizmeti kullanma hakları",
+            "FIRST_PARAGRAPH": "Hizmeti kullanmak için sınırlı, münhasır olmayan ve geri alınamaz bir hak veriyoruz. Aşağıdaki durumlarda bu hizmete erişiminizi iptal edebiliriz:",
+            "SECOND_PARAGRAPH": "Hizmeti (veya herhangi bir bölümünü) bildirimde bulunarak veya bulunmaksızın geçici veya kalıcı olarak değiştirme veya askıya alma hakkımızı saklı tutarız. Koşulların olası ihlali dahil ancak bununla sınırlı olmamak üzere herhangi bir nedenle bildirim yapmadan hizmetlerin kullanımını reddetme hakkımızı saklı tutarız. Bu koşulları ihlal etmeniz halinde, ihlalle ilgili bir uyarı yayınlama veya Discord tarafından sunulan Hizmet aracılığıyla oluşturduğunuz hesabınızı derhal askıya alma hakkımızı saklı tutarız. Hesabınızı/hesaplarınızı askıya almadan önce sizi bilgilendirme yükümlülüğümüz olmadığını, ancak bunu yapabileceğinizi kabul edersiniz."
         },
         "DISCLAIMER_OF_WARRANTY": {
-            "TITLE": "Disclaimer of Warranty",
-            "FIRST_PARAGRAPH": "The services and the materials of the Service are provided \"as is\" and \"as available\", without any warranties of any kind, either express or implied, including, but not limited, implied warranties, suitable and suitable for any kind. No infringement. Use of the Service is at your sole risk. Further, even though we try to provide a good user experience, we can't and don't represent or guarantee that the Service will always be safe and error-free or that the Service will always operate with no delays, interruptions or defects. The foregoing disclaimers will apply to the extent permitted by applicable law.",
-            "SECOND_PARAGRAPH": "We aren't responsible for outages of the Service."
+            "TITLE": "Garanti Reddi",
+            "FIRST_PARAGRAPH": "Hizmetler ve Hizmet materyalleri \"olduğu gibi\" ve \"mevcut olduğu şekilde\", zımni garantiler de dahil ancak bunlarla sınırlı olmamak üzere açık veya zımni herhangi bir garanti olmaksızın, her türlü uygun ve elverişli olarak sağlanmaktadır. İhlal yok. Hizmetin kullanım riski tamamen size aittir. Ayrıca, iyi bir kullanıcı deneyimi sağlamaya çalışsak da, Hizmetin her zaman güvenli ve hatasız olacağını veya Hizmetin her zaman gecikme, kesinti veya kusur olmadan çalışacağını beyan veya garanti edemeyiz ve etmiyoruz. Yukarıda belirtilen feragatnameler, yürürlükteki yasaların izin verdiği ölçüde geçerli olacaktır.",
+            "SECOND_PARAGRAPH": "Hizmet kesintilerinden biz sorumlu değiliz."
         },
         "PRIVACY_POLICY": {
-            "FIRST_PARAGRAPH": "Please refer to our <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong> for information on how we collect, use and disclose information from our users.",
-            "TITLE": "Privacy Policy"
+            "FIRST_PARAGRAPH": "Lütfen bize bakın <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Gizlilik Politikası</a></strong> kullanıcılarımızdan nasıl bilgi topladığımız, kullandığımız ve ifşa ettiğimiz hakkında bilgi için.",
+            "TITLE": "Gizlilik Politikası"
         },
         "TERMS_OF_SALES": {
-            "TITLE": "Virtual currencies, virtual goods, and Terms of Sales",
-            "FIRST_PARAGRAPH": "The Service is free to use, but we may offer additional services for a fee. Please read the <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Terms of Sales</a></strong> carefully before purchasing Virtual Currency or Virtual Goods (as defined below) from Filo."
+            "TITLE": "Sanal para birimleri, sanal ürünler ve Satış Koşulları",
+            "FIRST_PARAGRAPH": "Hizmetin kullanımı ücretsizdir, ancak ücret karşılığında ek hizmetler sunabiliriz. Lütfen okuyun <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Satış Koşulları</a></strong> Filo'dan Sanal Para Birimi veya Sanal Ürünler (aşağıda tanımlandığı gibi) satın almadan önce dikkatli olun."
         },
         "THIRD_PARTY_SERVICES": {
-            "TITLE": "Third-party Services",
-            "FIRST_PARAGRAPH": "We use third-party services to help us provide the Service, but such use doesn't indicate that we endorse them or are responsible or liable for their actions. In addition, the Service may link to third-party websites to facilitate its provision of services to you. If you use these links, you will leave the Service. We aren't responsible for nor do we endorse these third-party websites or the organizations sponsoring such third-party websites or their products or services, whether or not we are affiliated with such third-party websites. You agree that we aren't responsible or liable for any loss or damage of any sort incurred as a result of any such dealings you may have on or through a third-party website or as a result of the presence of any third-party advertising on the Service."
+            "TITLE": "Üçüncü Taraf Hizmetleri",
+            "FIRST_PARAGRAPH": "Hizmeti sunmamıza yardımcı olması için üçüncü taraf hizmetleri kullanıyoruz, ancak bu tür bir kullanım onları onayladığımızı veya eylemlerinden sorumlu veya yükümlü olduğumuzu göstermez. Buna ek olarak, Hizmet size hizmet sağlamasını kolaylaştırmak için üçüncü taraf web sitelerine bağlantı verebilir. Bu bağlantıları kullanırsanız, Hizmetten ayrılmış olursunuz. Bu üçüncü taraf web sitelerinden veya bu üçüncü taraf web sitelerine sponsor olan kuruluşlardan veya bu üçüncü taraf web sitelerine bağlı olsak da olmasak da ürün veya hizmetlerinden sorumlu değiliz ve bunları onaylamıyoruz. Bir üçüncü taraf web sitesi üzerinde veya aracılığıyla yapabileceğiniz bu tür işlemlerin veya Hizmette herhangi bir üçüncü taraf reklamının bulunmasının bir sonucu olarak ortaya çıkan herhangi bir kayıp veya zarardan sorumlu veya yükümlü olmadığımızı kabul edersiniz."
         },
         "FEEDBACKS": {
-            "TITLE": "Feedbacks",
-            "FIRST_PARAGRAPH": "We appreciate your feedback, ideas, suggestions (\"Feedback\"). If you decide to send us Feedback, you declare and guarantee that:",
+            "TITLE": "Geri Bildirimler",
+            "FIRST_PARAGRAPH": "Geri bildirimlerinizi, fikirlerinizi, önerilerinizi (\"Geri Bildirim\") takdir ediyoruz. Bize Geri Bildirim göndermeye karar verirseniz, şunları beyan ve garanti etmiş olursunuz:",
             "LIST": {
-                "FIRST_ELEMENT": "You have the right to share the Feedback.",
-                "SECOND_ELEMENT": "The Feedback don't infringe the intellectual property rights of any third party.",
-                "THIRD_ELEMENT": "The Feedback don't contain confidential or proprietary information of any third party.",
-                "FOURTH_ELEMENT": "Your views won't be used for the purpose of advertising or promoting a product or service, or for any other commercial purpose.",
-                "FIFTH_ELEMENT": "We aren't obligated to review, consider, or implement your Feedback, but we may use your Feedback for any purpose without compensation to you."
+                "FIRST_ELEMENT": "Geri Bildirimi paylaşma hakkına sahipsiniz.",
+                "SECOND_ELEMENT": "Geri Bildirim herhangi bir üçüncü tarafın fikri mülkiyet haklarını ihlal etmemektedir.",
+                "THIRD_ELEMENT": "Geri Bildirim, herhangi bir üçüncü tarafa ait gizli veya özel bilgiler içermez.",
+                "FOURTH_ELEMENT": "Görüşleriniz, bir ürün veya hizmetin reklamını yapmak veya tanıtmak amacıyla ya da başka herhangi bir ticari amaçla kullanılmayacaktır.",
+                "FIFTH_ELEMENT": "Geri Bildiriminizi gözden geçirmek, dikkate almak veya uygulamak zorunda değiliz, ancak Geri Bildiriminizi size herhangi bir tazminat ödemeden herhangi bir amaç için kullanabiliriz."
             },
-            "SECOND_PARAGRAPH": "We reserve the right to remove any Feedback that we consider to be inappropriate or offensive. We aren't responsible for the information you choose to share with us as part of your Feedback or for any loss or damage you may suffer as a result of sharing such Feedback."
+            "SECOND_PARAGRAPH": "Uygunsuz veya saldırgan olduğunu düşündüğümüz Geri Bildirimleri kaldırma hakkımızı saklı tutarız. Geri Bildiriminizin bir parçası olarak bizimle paylaşmayı seçtiğiniz bilgilerden veya bu Geri Bildirimi paylaşmanızın bir sonucu olarak uğrayabileceğiniz herhangi bir kayıp veya zarardan sorumlu değiliz."
         },
         "CONFIDENTIAL_INFORMATION": {
-            "TITLE": "Confidential Information",
-            "FIRST_PARAGRAPH": "You agree that you won't disclose Filo's confidential information without our prior written consent. \"Confidential information\" includes, but isn't limited to, the following:",
+            "TITLE": "Gizli Bilgiler",
+            "FIRST_PARAGRAPH": "Filo'nun gizli bilgilerini önceden yazılı iznimiz olmadan ifşa etmeyeceğinizi kabul edersiniz. \"Gizli bilgiler\" aşağıdakileri içerir, ancak bunlarla sınırlı değildir:",
             "LIST": {
-                "FIRST_ELEMENT": "Any software, technology, programming, specifications, materials, guidelines and documentation relating to the Service.",
-                "SECOND_ELEMENT": "Statistics relating to the performance of the Service.",
-                "THIRD_ELEMENT": "The existence of, and information about, beta features in a Service.",
-                "FOURTH_ELEMENT": "Any other information made available by Filo that is marked confidential or would normally be considered confidential under the circumstances in which it is presented."
+                "FIRST_ELEMENT": "Hizmetle ilgili her türlü yazılım, teknoloji, programlama, şartname, materyal, kılavuz ve dokümantasyon.",
+                "SECOND_ELEMENT": "Hizmetin performansına ilişkin istatistikler.",
+                "THIRD_ELEMENT": "Bir Hizmetteki beta özelliklerinin varlığı ve bunlar hakkındaki bilgiler.",
+                "FOURTH_ELEMENT": "Filo tarafından sunulan ve gizli olarak işaretlenmiş veya sunulduğu koşullar altında normalde gizli olarak kabul edilecek diğer tüm bilgiler."
             },
-            "SECOND_PARAGRAPH": "Confidential information doesn't include information that you already knew prior to your use of the Service, that becomes public through no fault of yours, that was independently developed by you, or that was lawfully given to you by a third party. Notwithstanding the foregoing, you may accurately disclose the amount of Filo's gross payments resulting from your use of the Service."
+            "SECOND_PARAGRAPH": "Gizli bilgiler, Hizmeti kullanmadan önce zaten bildiğiniz, sizin hatanız olmaksızın kamuya açık hale gelen, sizin tarafınızdan bağımsız olarak geliştirilen veya size üçüncü bir tarafça yasal olarak verilen bilgileri içermez. Yukarıda belirtilenlere bakılmaksızın, Hizmeti kullanımınızdan kaynaklanan Filo'nun brüt ödemelerinin miktarını doğru bir şekilde açıklayabilirsiniz."
         },
         "COPYRIGHT": {
-            "TITLE": "Copyright",
-            "FIRST_PARAGRAPH": "We generally accept requests to remove content from our service by sending an email to <strong><a href=\"mailto:{{email}}\">{{email}}</a></strong>. The use, distribution, sale, publication of any content of our service isn't allowed. There are exceptions. We appreciate that you don't use our content to supplement, create or distribute yours. All intellectual property rights are reserved."
+            "TITLE": "Telif Hakkı",
+            "FIRST_PARAGRAPH": "Hizmetimizden içerik kaldırma taleplerini genellikle şu adrese bir e-posta göndererek kabul ediyoruz <strong><a href=\"mailto:{{email}}\">{{email}}</a></strong>. Hizmetimizin herhangi bir içeriğinin kullanımına, dağıtımına, satışına, yayınlanmasına izin verilmez. İstisnalar vardır. İçeriğimizi kendi içeriğinizi tamamlamak, oluşturmak veya dağıtmak için kullanmamanızı takdir ediyoruz. Tüm fikri mülkiyet hakları saklıdır."
         },
         "LIMITATION_OF_LIABILITY": {
-            "TITLE": "Limitation of Liability",
-            "FIRST_PARAGRAPH": "You expressly acknowledge that we won't be responsible for user content, including without limitation its content, as well as for defamatory, offensive or illegal conduct of any third party and that the risk of damage or prejudice of the foregoing rests entirely with you."
+            "TITLE": "Sorumluluğun Sınırlandırılması",
+            "FIRST_PARAGRAPH": "İçeriğiyle sınırlı olmamak üzere kullanıcı içeriğinden ve herhangi bir üçüncü tarafın karalayıcı, saldırgan veya yasa dışı davranışından sorumlu olmayacağımızı ve yukarıda belirtilenlerin zarar görme veya önyargı riskinin tamamen size ait olduğunu açıkça kabul edersiniz."
         },
         "INDEMNIFICATION": {
-            "TITLE": "Indemnification",
-            "FIRST_PARAGRAPH": "You agree to defend, indemnify and hold harmless Filobot and its subsidiaries, agents, licensors, managers, and other affiliated companies, and their employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees) arising from:",
+            "TITLE": "Tazminat",
+            "FIRST_PARAGRAPH": "Filobot'u ve iştiraklerini, acentelerini, lisans verenlerini, yöneticilerini ve diğer bağlı şirketlerini ve bunların çalışanlarını, yüklenicilerini, temsilcilerini, memurlarını ve yöneticilerini, aşağıdakilerden kaynaklanan her türlü iddia, zarar, yükümlülük, kayıp, yükümlülük, maliyet veya borç ve masraftan (avukatlık ücretleri dahil ancak bunlarla sınırlı olmamak üzere) savunmayı, tazmin etmeyi ve zararsız tutmayı kabul edersiniz:",
             "LIST": {
-                "FIRST_ELEMENT": "Your use of and access to the Service, including any data or content transmitted or received by you.",
-                "SECOND_ELEMENT": "Your violation of any term of this Agreement, including without limitation your breach of any of the representations and warranties above.",
-                "THIRD_ELEMENT": "Your violation of any third-party right, including without limitation any right of privacy or intellectual property rights.",
-                "FOURTH_ELEMENT": "Your violation of any applicable law, rule or regulation.",
-                "FIFTH_ELEMENT": "Any claim or damages that arise as a result of any of your user content or any that is submitted via your account."
+                "FIRST_ELEMENT": "Tarafınızdan iletilen veya alınan her türlü veri veya içerik dahil olmak üzere Hizmeti kullanımınız ve Hizmete erişiminiz.",
+                "SECOND_ELEMENT": "Yukarıdaki beyan ve garantilerden herhangi birini ihlal etmeniz dahil ancak bununla sınırlı olmamak üzere, bu Sözleşmenin herhangi bir şartını ihlal etmeniz.",
+                "THIRD_ELEMENT": "Gizlilik hakkı veya fikri mülkiyet hakları dahil ancak bunlarla sınırlı olmamak üzere herhangi bir üçüncü taraf hakkını ihlal etmeniz.",
+                "FOURTH_ELEMENT": "Yürürlükteki herhangi bir yasa, kural veya düzenlemeyi ihlal etmeniz.",
+                "FIFTH_ELEMENT": "Kullanıcı içeriğiniz veya hesabınız aracılığıyla gönderilen herhangi bir içerik sonucunda ortaya çıkan herhangi bir iddia veya zarar."
             },
-            "SECOND_PARAGRAPH": "This defense and indemnification obligation will survive this Agreement and your use of the Service."
+            "SECOND_PARAGRAPH": "Bu savunma ve tazminat yükümlülüğü, bu Sözleşmeden ve Hizmeti kullanımınızdan sonra da devam edecektir."
         },
         "TERMINATION": {
-            "TITLE": "Termination",
-            "FIRST_PARAGRAPH": "We may terminate or suspend your access to the Service at any time, including in the event of your actual or suspected unauthorized use of the Service or non-compliance with these Terms. If you or Filobot terminate your use of the Service, we may delete any content or other materials relating to your use of the Service and we will have no liability to you or any third party for doing so."
+            "TITLE": "Fesih",
+            "FIRST_PARAGRAPH": "Hizmeti fiilen veya şüphelenilen yetkisiz kullanımınız veya bu Şartlara uymamanız da dahil olmak üzere, Hizmete erişiminizi herhangi bir zamanda sonlandırabilir veya askıya alabiliriz. Siz veya Filobot Hizmeti kullanımınızı sonlandırırsanız, Hizmeti kullanımınızla ilgili tüm içeriği veya diğer materyalleri silebiliriz ve bunu yapmak için size veya herhangi bir üçüncü tarafa karşı hiçbir yükümlülüğümüz olmayacaktır."
         },
         "CONTACT": {
-            "TITLE": "Contact",
-            "FIRST_PARAGRAPH": "If you have any questions about these Terms, please contact us at <strong><a href=\"mailto:{{email}}\">{{email}}</a></strong>."
+            "TITLE": "İletişim",
+            "FIRST_PARAGRAPH": "Bu Şartlar hakkında herhangi bir sorunuz varsa, lütfen bizimle şu adresten iletişime geçin <strong><a href=\"mailto:{{email}}\">{{email}}</a></strong>."
         }
     },
     "BUTTON_LABELS": {
-        "FEATURES": "Features",
-        "INVITE": "Invite",
-        "VIEW_MORE": "View more",
-        "GETTING_STARTED": "Getting started",
-        "DOCUMENTATION": "Documentation",
-        "DISCORD_SERVER": "Discord server",
-        "GO_HOME": "Go home"
+        "FEATURES": "Özellikler",
+        "INVITE": "Davetiye",
+        "VIEW_MORE": "Daha fazla görüntüle",
+        "GETTING_STARTED": "Başlarken",
+        "DOCUMENTATION": "Dokümantasyon",
+        "DISCORD_SERVER": "Discord sunucusu",
+        "GO_HOME": "Evine git"
     },
     "HERO": {
-        "TITLE": "Elevate your Discord community",
-        "DESCRIPTION": "Unlock powerful and seamless moderation tools, available in multiple languages, as well as containing multiple commands and purposes"
+        "TITLE": "Discord topluluğunuzu yükseltin",
+        "DESCRIPTION": "Birden fazla dilde kullanılabilen ve birden fazla komut ve amaç içeren güçlü ve sorunsuz moderasyon araçlarının kilidini açın"
     },
     "FEATURED_COMMUNITIES": {
-        "TITLE": "Featured communities",
-        "DESCRIPTION": "Be inspired by our selection: featured communities who trust and work with Filo"
+        "TITLE": "Öne çıkan topluluklar",
+        "DESCRIPTION": "Seçkimizden ilham alın: Filo'ya güvenen ve onunla çalışan öne çıkan topluluklar"
     },
     "REVIEWS": {
-        "TITLE": "What our users are saying",
-        "DESCRIPTION": "Discover the experiences of our satisfied users. Read their reviews and testimonials to see how Filo has transformed Discord communities worldwide"
+        "TITLE": "Kullanıcılarımız ne diyor",
+        "DESCRIPTION": "Memnun kullanıcılarımızın deneyimlerini keşfedin. Filo'nun dünya çapındaki Discord topluluklarını nasıl dönüştürdüğünü görmek için onların yorumlarını ve referanslarını okuyun"
     },
     "COOKIES_POLICY": {
         "ANALYTICS": {
-            "TITLE": "Analytics",
-            "FIRST_PARAGRAPH": "The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.",
+            "TITLE": "Analitik",
+            "FIRST_PARAGRAPH": "Bu bölümde yer alan hizmetler, Sahibinin web trafiğini izlemesini ve analiz etmesini sağlar ve Kullanıcı davranışını takip etmek için kullanılabilir.",
             "GOOGLE_ANALYTICS": {
                 "TITLE": "Google Analytics (Google Inc.)",
-                "FIRST_PARAGRAPH": "Google Analytics is a web analysis service provided by Google Inc. (\"Google\"). Google utilizes the Data collected to track and examine the use of this Website, to prepare reports on its activities and share them with other Google services.",
-                "SECOND_PARAGRAPH": "Google may use the Data collected to contextualize and personalize the ads of its own advertising network.",
-                "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Cookies; Usage Data.",
-                "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong> – <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Opt Out</a></strong>."
+                "FIRST_PARAGRAPH": "Google Analytics, Google Inc. (\"Google\") tarafından sağlanan bir web analiz hizmetidir. Google, toplanan Verileri bu Web Sitesinin kullanımını izlemek ve incelemek, faaliyetleri hakkında raporlar hazırlamak ve bunları diğer Google hizmetleriyle paylaşmak için kullanır.",
+                "SECOND_PARAGRAPH": "Google, toplanan Verileri kendi reklam ağının reklamlarını bağlamsallaştırmak ve kişiselleştirmek için kullanabilir.",
+                "PERSONAL_DATA_COLLECTED": "<strong>Toplanan Kişisel Ver</strong>iler: Çerezler; Kullanım Verileri.",
+                "PLACE_OF_PROCESSING": "<strong>İşleme yeri</strong>: Amerika Birleşik Devletleri - <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Gizlilik Politikası</a></strong> - <strong><a href=\"{{url2}}\" target=\"_blank\" rel=\"noopener noreferrer\">Opt Out</a></strong>."
             }
         },
         "OTHER_ACTIVITIES_INVOLVING_THE_USE_OF_TRACKERS": {
-            "TITLE": "Other activities involving the use of Trackers",
-            "FIRST_PARAGRAPH": "This Website uses Trackers to provide a personalized user experience by improving the quality of preference management options, and by enabling interaction with external networks and platforms.",
+            "TITLE": "İzleyicilerin kullanımını içeren diğer faaliyetler",
+            "FIRST_PARAGRAPH": "Bu Web Sitesi, tercih yönetimi seçeneklerinin kalitesini artırarak ve harici ağlar ve platformlarla etkileşimi sağlayarak kişiselleştirilmiş bir kullanıcı deneyimi sunmak için İzleyicileri kullanır.",
             "MEASUREMENT": {
-                "FIRST_PARAGRAPH": "This Website uses Trackers to measure traffic and analyze User behavior with the goal of improving the Service.",
-                "TITLE": "Measurement"
+                "FIRST_PARAGRAPH": "Bu Web Sitesi, Hizmeti iyileştirmek amacıyla trafiği ölçmek ve Kullanıcı davranışını analiz etmek için İzleyicileri kullanır.",
+                "TITLE": "Ölçüm"
             }
         },
         "ACTIVITIES_STRICTLY_NECESSARY": {
-            "TITLE": "Activities strictly necessary for the operation of this Website and delivery of the Service",
-            "FIRST_PARAGRAPH": "This Website uses so-called \"technical\" Cookies and other similar Trackers to carry out activities that are strictly necessary for the operation or delivery of the Service."
+            "TITLE": "Bu Web Sitesinin işletilmesi ve Hizmetin sunulması için kesinlikle gerekli olan faaliyetler",
+            "FIRST_PARAGRAPH": "Bu Web Sitesi, Hizmetin işletilmesi veya sunulması için kesinlikle gerekli olan faaliyetleri gerçekleştirmek için \"teknik\" Çerezler ve diğer benzer İzleyicileri kullanır."
         },
-        "TITLE": "Cookies Policy",
-        "DESCRIPTION": "This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Website.",
-        "EFFECTIVE": "Effective",
-        "LAST_UPDATED": "Last Updated",
+        "TITLE": "Çerez Politikası",
+        "DESCRIPTION": "Bu sayfa, Web Sitesi kullanıcılarından aldığımız Kişisel Bilgilerin toplanması, kullanılması ve ifşa edilmesine ilişkin politikalarımız hakkında sizi bilgilendirir.",
+        "EFFECTIVE": "Etkili",
+        "LAST_UPDATED": "Son Güncelleme",
         "DATE": "{{month}}/{{day}}/{{year}}",
         "BEFORE": {
-            "FIRST_PARAGRAPH": "This document informs Users about the technologies that help this Website to achieve the purposes described below. Such technologies allow the Owner to access and store information (for example by using a Cookie) or use resources (for example by running a script) on a User's device as they interact with this Website.",
-            "SECOND_PARAGRAPH": "For simplicity, all such technologies are defined as \"Trackers\" within this document – unless there is a reason to differentiate.",
-            "THIRD_PARAGRAPH": "For example, while Cookies can be used on both web and mobile browsers, it would be inaccurate to talk about Cookies in the context of mobile apps as they are a browser-based Tracker. For this reason, within this document, the term Cookies is only used where it is specifically meant to indicate that particular type of Tracker.",
-            "FOURTH_PARAGRAPH": "Some of the purposes for which Trackers are used may also require the User's consent. Whenever consent is given, it can be freely withdrawn at any time following the instructions provided in this document.",
-            "FIFTH_PARAGRAPH": "This Website only uses Trackers that enable services provided by a third-party (so-called \"third-party\" Trackers). Unless otherwise specified within this document, third-party providers may access their Trackers.",
-            "SIXTH_PARAGRAPH": "The validity and expiration periods of third-party Cookies and other similar Trackers may vary depending on the lifetime set by the relevant provider."
+            "FIRST_PARAGRAPH": "Bu belge, Kullanıcıları bu Web Sitesinin aşağıda açıklanan amaçlara ulaşmasına yardımcı olan teknolojiler hakkında bilgilendirir. Bu tür teknolojiler, Sahibinin bilgilere erişmesine ve bunları saklamasına (örneğin bir Çerez kullanarak) veya bu Web Sitesi ile etkileşime girdiklerinde bir Kullanıcının cihazındaki kaynakları kullanmasına (örneğin bir komut dosyası çalıştırarak) izin verir.",
+            "SECOND_PARAGRAPH": "Basitlik açısından, bu tür teknolojilerin tümü bu belgede \"İzleyiciler\" olarak tanımlanmaktadır - farklılaştırmak için bir neden olmadıkça.",
+            "THIRD_PARAGRAPH": "Örneğin, Çerezler hem web hem de mobil tarayıcılarda kullanılabilse de, tarayıcı tabanlı bir İzleyici oldukları için mobil uygulamalar bağlamında Çerezler hakkında konuşmak yanlış olacaktır. Bu nedenle, bu belgede Çerezler terimi yalnızca belirli bir İzleyici türünü belirtmek için özellikle kastedildiği yerlerde kullanılmaktadır.",
+            "FOURTH_PARAGRAPH": "İzleyicilerin kullanıldığı bazı amaçlar için Kullanıcının onayı da gerekebilir. Onay verildiğinde, bu belgede sağlanan talimatlar izlenerek herhangi bir zamanda serbestçe geri çekilebilir.",
+            "FIFTH_PARAGRAPH": "Bu Web Sitesi yalnızca bir üçüncü tarafça sağlanan hizmetleri etkinleştiren İzleyicileri (\"üçüncü taraf\" İzleyiciler olarak adlandırılır) kullanır. Bu belgede aksi belirtilmedikçe, üçüncü taraf sağlayıcılar İzleyicilerine erişebilir.",
+            "SIXTH_PARAGRAPH": "Üçüncü taraf Çerezlerin ve diğer benzer İzleyicilerin geçerlilik ve sona erme süreleri, ilgili sağlayıcı tarafından belirlenen kullanım ömrüne bağlı olarak değişebilir."
         },
-        "SEVENTH_PARAGRAPH": "In addition to what's specified in the descriptions within each of the categories below, Users may find more precise and updated information regarding lifetime specification as well as any other relevant information — such as the presence of other Trackers — in the linked privacy policies of the respective third-party providers or by contacting the Owner.",
+        "SEVENTH_PARAGRAPH": "Aşağıdaki kategorilerin her birindeki açıklamalarda belirtilenlere ek olarak, Kullanıcılar, ilgili üçüncü taraf sağlayıcıların bağlantılı gizlilik politikalarında veya Sahibiyle iletişime geçerek ömür boyu spesifikasyonla ilgili daha kesin ve güncel bilgilerin yanı sıra diğer İzleyicilerin varlığı gibi diğer ilgili bilgileri de bulabilirler.",
         "THIRD_PARTY_TRACKER": {
-            "TITLE": "Third-party Tracker",
-            "FIRST_PARAGRAPH": "This Website uses Trackers managed directly by the Owner (so-called \"first-party\" Trackers) and Trackers that enable services provided by a third-party (so-called \"third-party\" Trackers). Unless otherwise specified within this document, third-party providers may access their Trackers.",
+            "TITLE": "Üçüncü Taraf İzleyici",
+            "FIRST_PARAGRAPH": "Bu Web Sitesi, doğrudan Sahibi tarafından yönetilen İzleyiciler (\"birinci taraf\" İzleyiciler olarak adlandırılır) ve bir üçüncü tarafça sağlanan hizmetleri etkinleştiren İzleyiciler (\"üçüncü taraf\" İzleyiciler olarak adlandırılır) kullanır. Bu belgede aksi belirtilmedikçe, üçüncü taraf sağlayıcılar İzleyicilerine erişebilir.",
             "TRAFFIC_OPTIMIZATION_AND_DISTRIBUTION": {
-                "TITLE": "Traffic optimization and distribution",
-                "FIRST_PARAGRAPH": "This type of service allows this Website to distribute their content using servers located across different countries and to optimize their performance.",
-                "SECOND_PARAGRAPH": "Which Personal Data are processed depends on the characteristics and the way these services are implemented. Their function is to filter communications between this Website and the User's browser.",
-                "THIRD_PARAGRAPH": "Considering the widespread distribution of this system, it is difficult to determine the locations to which the contents that may contain Personal Information of the User are transferred.",
+                "TITLE": "Trafik optimizasyonu ve dağıtımı",
+                "FIRST_PARAGRAPH": "Bu tür bir hizmet, bu Web Sitesinin içeriklerini farklı ülkelerde bulunan sunucuları kullanarak dağıtmasına ve performanslarını optimize etmesine olanak tanır.",
+                "SECOND_PARAGRAPH": "Hangi Kişisel Verilerin işleneceği, bu hizmetlerin özelliklerine ve uygulanma şekline bağlıdır. İşlevleri, bu Web Sitesi ile Kullanıcının tarayıcısı arasındaki iletişimi filtrelemektir.",
+                "THIRD_PARAGRAPH": "Bu sistemin yaygın dağılımı göz önünde bulundurulduğunda, Kullanıcı'nın Kişisel Bilgilerini içerebilecek içeriklerin hangi lokasyonlara aktarıldığını tespit etmek güçtür.",
                 "CLOUDFLARE": {
                     "TITLE": "Cloudflare (Cloudflare Inc.)",
-                    "FIRST_PARAGRAPH": "Cloudflare is a traffic optimization and distribution service provided by Cloudflare Inc.<br>The way Cloudflare is integrated means that it filters all the traffic through this Website, i.e., communication between this Website and the User's browser, while also allowing analytical data from this Website to be collected.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Cookies; various types of Data as specified in the privacy policy of the service.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong>."
+                    "FIRST_PARAGRAPH": "Cloudflare, Cloudflare Inc. tarafından sağlanan bir trafik optimizasyon ve dağıtım hizmetidir.<br>Cloudflare'in entegre edilme şekli, bu Web Sitesi üzerinden gelen tüm trafiği, yani bu Web Sitesi ile Kullanıcının tarayıcısı arasındaki iletişimi filtrelediği ve aynı zamanda bu Web Sitesinden analitik verilerin toplanmasına izin verdiği anlamına gelir.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Toplanan Kişisel Veriler</strong>: Çerezler; hizmetin gizlilik politikasında belirtilen çeşitli Veri türleri.",
+                    "PLACE_OF_PROCESSING": "<strong>İşleme yeri</strong>: Amerika Birleşik Devletleri - <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Gizlilik Politikası</a></strong>."
                 }
             },
             "CHAT_SUPPORT": {
-                "TITLE": "Chat support",
-                "FIRST_PARAGRAPH": "This type of service allows Users to interact with third-party live chat platforms directly from the pages of this Website, for contacting and being contacted by this Website support service.",
+                "TITLE": "Sohbet desteği",
+                "FIRST_PARAGRAPH": "Bu tür bir hizmet, Kullanıcıların bu Web Sitesi destek hizmetiyle iletişime geçmek ve bu hizmetle iletişime geçmek için doğrudan bu Web Sitesinin sayfalarından üçüncü taraf canlı sohbet platformlarıyla etkileşime girmesine olanak tanır.",
                 "CHATWOOT": {
                     "TITLE": "Chatwoot (Chatwoot Inc.)",
-                    "FIRST_PARAGRAPH": "Chatwoot is a chat support service provided by Chatwoot Inc.",
-                    "PERSONAL_DATA_COLLECTED": "<strong>Personal Data collected</strong>: Cookies; Data communicated while using the service; Usage Data.",
-                    "PLACE_OF_PROCESSING": "<strong>Place of processing</strong>: United States – <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></strong>."
+                    "FIRST_PARAGRAPH": "Chatwoot, Chatwoot Inc. tarafından sağlanan bir sohbet destek hizmetidir.",
+                    "PERSONAL_DATA_COLLECTED": "<strong>Toplanan Kişisel Veriler</strong>: Çerezler; Hizmeti kullanırken iletilen veriler; Kullanım Verileri.",
+                    "PLACE_OF_PROCESSING": "<strong>İşleme yeri</strong>: Amerika Birleşik Devletleri - <strong><a href=\"{{url}}\" target=\"_blank\" rel=\"noopener noreferrer\">Gizlilik Politikası</a></strong>."
                 }
             }
         },
         "HOW_TO_MANAGE_PREFENCES_AND_PROVIDE_OR_WITHDRAW_CONSENT": {
-            "TITLE": "How to manage preferences and provide or withdraw consent",
-            "FIRST_PARAGRAPH": "There are various ways to manage Tracker related preferences and to provide and withdraw consent, where relevant:",
-            "SECOND_PARAGRAPH": "Users can manage preferences related to Trackers from directly within their own device settings, for example, by preventing the use or storage of Trackers.",
-            "THIRD_PARAGRAPH": "Additionally, whenever the use of Trackers is based on consent, Users can provide or withdraw such consent by setting their preferences within the cookie notice or by updating such preferences accordingly via the relevant consent-preferences privacy widget, if available.",
-            "FOURTH_PARAGRAPH": "It is also possible, via relevant browser or device features, to delete previously stored Trackers, including those used to remember the User's initial consent preferences.",
-            "FIFTH_PARAGRAPH": "Other Trackers in the browser's local memory may be cleared by deleting the browsing history.",
-            "SIXTH_PARAGRAPH": "With regard to any third-party Trackers, Users can manage their preferences via the related opt-out link (where provided), by using the means indicated in the third party's privacy policy, or by contacting the third party.",
+            "TITLE": "Tercihler nasıl yönetilir ve onay nasıl verilir veya geri çekilir",
+            "FIRST_PARAGRAPH": "İzleyici ile ilgili tercihleri yönetmenin ve ilgili durumlarda onay vermenin ve geri çekmenin çeşitli yolları vardır:",
+            "SECOND_PARAGRAPH": "Kullanıcılar, örneğin İzleyicilerin kullanımını veya depolanmasını engelleyerek, İzleyicilerle ilgili tercihleri doğrudan kendi cihaz ayarlarından yönetebilirler.",
+            "THIRD_PARAGRAPH": "Ayrıca, İzleyicilerin kullanımı rızaya dayalı olduğunda, Kullanıcılar çerez bildiriminde tercihlerini belirleyerek veya varsa ilgili rıza-tercihler gizlilik widget'ı aracılığıyla bu tercihleri uygun şekilde güncelleyerek bu rızayı verebilir veya geri çekebilir.",
+            "FOURTH_PARAGRAPH": "Ayrıca, ilgili tarayıcı veya cihaz özellikleri aracılığıyla, Kullanıcının ilk onay tercihlerini hatırlamak için kullanılanlar da dahil olmak üzere önceden saklanan İzleyicileri silmek de mümkündür.",
+            "FIFTH_PARAGRAPH": "Tarayıcının yerel belleğindeki diğer İzleyiciler, tarama geçmişi silinerek temizlenebilir.",
+            "SIXTH_PARAGRAPH": "Üçüncü taraf İzleyicilerle ilgili olarak, Kullanıcılar tercihlerini ilgili devre dışı bırakma bağlantısı (sağlandığı yerlerde) aracılığıyla, üçüncü tarafın gizlilik politikasında belirtilen araçları kullanarak veya üçüncü tarafla iletişime geçerek yönetebilirler.",
             "LOCATING_TRACKER_SETTINGS": {
-                "TITLE": "Locating Tracker Settings",
-                "FIRST_PARAGRAPH": "Users can, for example, find information about how to manage Cookies in the most commonly used browsers at the following addresses:",
-                "SECOND_PARAGRAPH": "Users may also manage certain categories of Trackers used on mobile apps by opting out through relevant device settings such as the device advertising settings for mobile devices, or tracking settings in general (Users may open the device settings and look for the relevant setting)."
+                "TITLE": "İzleyici Ayarlarının Bulunması",
+                "FIRST_PARAGRAPH": "Kullanıcılar, örneğin, en yaygın kullanılan tarayıcılarda Çerezlerin nasıl yönetileceğine ilişkin bilgileri aşağıdaki adreslerde bulabilirler:",
+                "SECOND_PARAGRAPH": "Kullanıcılar ayrıca mobil cihazlar için cihaz reklam ayarları veya genel olarak izleme ayarları gibi ilgili cihaz ayarları aracılığıyla devre dışı bırakarak mobil uygulamalarda kullanılan belirli İzleyici kategorilerini yönetebilir (Kullanıcılar cihaz ayarlarını açabilir ve ilgili ayarı arayabilir)."
             },
             "CONSEQUENCES_OF_DENYING_THE_USE_OF_TRACKERS": {
-                "TITLE": "Consequences of denying the use of Trackers",
-                "FIRST_PARAGRAPH": "Users are free to decide whether or not to allow the use of Trackers. However, please note that Trackers help this Website to provide a better experience and advanced functionalities to Users (in line with the purposes outlined in this document). Therefore, if the User chooses to block the use of Trackers, the Owner may be unable to provide related features."
+                "TITLE": "İzleyicilerin kullanımını reddetmenin sonuçları",
+                "FIRST_PARAGRAPH": "Kullanıcılar, İzleyicilerin kullanımına izin verip vermemekte serbesttir. Bununla birlikte, İzleyicilerin bu Web Sitesinin Kullanıcılara daha iyi bir deneyim ve gelişmiş işlevler sağlamasına yardımcı olduğunu lütfen unutmayın (bu belgede belirtilen amaçlar doğrultusunda). Bu nedenle, Kullanıcı İzleyicilerin kullanımını engellemeyi seçerse, Sahibi ilgili özellikleri sağlayamayabilir."
             }
         },
         "OWNER_AND_DATA_CONTROLLER": {
-            "TITLE": "Owner and Data Controller",
-            "FIRST_PARAGRAPH": "Email for communications regarding Data Protection: <strong><a href=\"mailto:{{email}}\">{{email}}</a></strong>",
-            "SECOND_PARAGRAPH": "Since the use of third-party Trackers through this Website cannot be fully controlled by the Owner, any specific references to third-party Trackers are to be considered indicative. In order to obtain complete information, Users are kindly requested to consult the privacy policies of the respective third-party services listed in this document.",
-            "THIRD_PARAGRAPH": "Given the objective complexity surrounding tracking technologies, Users are encouraged to contact the Owner should they wish to receive any further information on the use of such technologies by this Website."
+            "TITLE": "Sahibi ve Veri Sorumlusu",
+            "FIRST_PARAGRAPH": "Veri Koruma ile ilgili iletişimler için e-posta: <strong><a href=\"mailto:{{email}}\">{{email}}</a></strong>",
+            "SECOND_PARAGRAPH": "Bu Web Sitesi aracılığıyla üçüncü taraf İzleyicilerin kullanımı Sahibi tarafından tam olarak kontrol edilemediğinden, üçüncü taraf İzleyicilere yapılan herhangi bir özel atıf gösterge olarak kabul edilmelidir. Tam bilgi edinmek için, Kullanıcıların bu belgede listelenen ilgili üçüncü taraf hizmetlerinin gizlilik politikalarına başvurmaları rica olunur.",
+            "THIRD_PARAGRAPH": "İzleme teknolojilerini çevreleyen nesnel karmaşıklık göz önüne alındığında, Kullanıcıların, bu tür teknolojilerin bu Web Sitesi tarafından kullanımı hakkında daha fazla bilgi almak istemeleri durumunda, Sahibiyle iletişime geçmeleri önerilir."
         },
         "DEFINITIONS_AND_LEGAL_REFERENCES": {
-            "TITLE": "Definitions and legal references",
+            "TITLE": "Tanımlar ve yasal referanslar",
             "PERSONAL_DATA": {
-                "TITLE": "Personal Data (or Data)",
-                "FIRST_PARAGRAPH": "Any information that directly, indirectly, or in connection with other information — including a personal identification number — allows for the identification or identifiability of a natural person."
+                "TITLE": "Kişisel Veriler (veya Veriler)",
+                "FIRST_PARAGRAPH": "Doğrudan, dolaylı olarak veya diğer bilgilerle bağlantılı olarak - kişisel kimlik numarası da dahil olmak üzere - gerçek bir kişinin tanımlanmasına veya tanımlanabilirliğine olanak tanıyan her türlü bilgi."
             },
             "USAGE_DATA": {
-                "TITLE": "Usage Data",
-                "FIRST_PARAGRAPH": "Information collected automatically through this Website (or third-party services employed in this Website), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Website, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment."
+                "TITLE": "Kullanım Verileri",
+                "FIRST_PARAGRAPH": "Bu Web Sitesi (veya bu Web Sitesinde kullanılan üçüncü taraf hizmetleri) aracılığıyla otomatik olarak toplanan bilgiler şunları içerebilir: bu Web Sitesini kullanan Kullanıcılar tarafından kullanılan bilgisayarların IP adresleri veya alan adları, URI adresleri (Tekdüzen Kaynak Tanımlayıcı), talebin zamanı, talebi sunucuya göndermek için kullanılan yöntem, yanıt olarak alınan dosyanın boyutu, sunucunun yanıtının durumunu gösteren sayısal kod (başarılı sonuç, hata vb.), menşe ülke, Kullanıcı tarafından kullanılan tarayıcının özellikleri ve işletim sistemi.), menşe ülke, Kullanıcı tarafından kullanılan tarayıcı ve işletim sisteminin özellikleri, ziyaret başına çeşitli zaman ayrıntıları (örn, Uygulama içindeki her sayfada harcanan zaman) ve ziyaret edilen sayfaların sırasına özel atıfta bulunarak Uygulama içinde izlenen yolla ilgili ayrıntılar ve cihaz işletim sistemi ve/veya Kullanıcının BT ortamıyla ilgili diğer parametreler."
             },
             "USER": {
-                "TITLE": "User",
-                "FIRST_PARAGRAPH": "The individual using this Website who, unless otherwise specified, coincides with the Data Subject."
+                "TITLE": "Kullanıcı",
+                "FIRST_PARAGRAPH": "Bu Web Sitesini kullanan ve aksi belirtilmedikçe Veri Sahibi ile aynı anlama gelen kişi."
             },
             "DATA_SUBJECT": {
-                "TITLE": "Data Subject",
-                "FIRST_PARAGRAPH": "The natural person to whom the Personal Data refers."
+                "TITLE": "Veri Sahibi",
+                "FIRST_PARAGRAPH": "Kişisel Verilerin atıfta bulunduğu gerçek kişi."
             },
             "DATA_PROCESSOR": {
-                "TITLE": "Data Processor (or Data Supervisor)",
-                "FIRST_PARAGRAPH": "The natural or legal person, public authority, agency or other body which processes Personal Data on behalf of the Controller, as described in this cookies policy."
+                "TITLE": "Veri İşleyici (veya Veri Sorumlusu)",
+                "FIRST_PARAGRAPH": "Bu çerez politikasında açıklandığı üzere, Kontrolör adına Kişisel Verileri işleyen gerçek veya tüzel kişi, kamu otoritesi, ajans veya diğer organ."
             },
             "DATA_CONTROLLER": {
-                "TITLE": "Data Controller (or Owner)",
-                "FIRST_PARAGRAPH": "The natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of Personal Data, including the security measures concerning the operation and use of this Website. The Data Controller, unless otherwise specified, is the Owner of this Website."
+                "TITLE": "Veri Sorumlusu (veya Sahibi)",
+                "FIRST_PARAGRAPH": "Tek başına veya başkalarıyla birlikte, bu Web Sitesinin işletilmesi ve kullanımına ilişkin güvenlik önlemleri de dahil olmak üzere Kişisel Verilerin işlenme amaçlarını ve araçlarını belirleyen gerçek veya tüzel kişi, kamu otoritesi, ajans veya diğer organ. Veri Sorumlusu, aksi belirtilmedikçe, bu Web Sitesinin Sahibidir."
             },
             "THIS_WEBSITE": {
-                "TITLE": "This Website (or this Application)",
-                "FIRST_PARAGRAPH": "The means by which the Personal Data of the User is collected and processed."
+                "TITLE": "Bu Web Sitesi (veya bu Uygulama)",
+                "FIRST_PARAGRAPH": "Kullanıcının Kişisel Verilerinin hangi yollarla toplandığı ve işlendiği."
             },
             "SERVICE": {
-                "TITLE": "Service",
-                "FIRST_PARAGRAPH": "The service provided by this Website as described in the relative terms (if available) and on this site/application."
+                "TITLE": "Hizmet",
+                "FIRST_PARAGRAPH": "Bu Web Sitesi tarafından ilgili şartlarda (varsa) ve bu sitede/uygulamada açıklandığı şekilde sağlanan hizmet."
             },
             "EUROPEAN_UNION": {
-                "TITLE": "European Union (or EU)",
-                "FIRST_PARAGRAPH": "Unless otherwise specified, all references made within this document to the European Union include all current member states to the European Union and the European Economic Area."
+                "TITLE": "Avrupa Birliği (veya AB)",
+                "FIRST_PARAGRAPH": "Aksi belirtilmedikçe, bu belgede Avrupa Birliği'ne yapılan tüm atıflar, Avrupa Birliği ve Avrupa Ekonomik Alanı'nın mevcut tüm üye devletlerini kapsamaktadır."
             },
             "COOKIES": {
-                "TITLE": "Cookies",
-                "FIRST_PARAGRAPH": "Cookies are Trackers consisting of small sets of data stored in the User's browser."
+                "TITLE": "Çerezler",
+                "FIRST_PARAGRAPH": "Çerezler, Kullanıcının tarayıcısında depolanan küçük veri kümelerinden oluşan İzleyicilerdir."
             },
             "TRACKER": {
-                "TITLE": "Tracker",
-                "FIRST_PARAGRAPH": "Tracker indicates any technology - e.g Cookies, unique identifiers, web beacons, embedded scripts, e-tags and fingerprinting - that enables the tracking of Users, for example by accessing or storing information on the User's device."
+                "TITLE": "İzleyici",
+                "FIRST_PARAGRAPH": "İzleyici, örneğin Kullanıcının cihazındaki bilgilere erişerek veya bunları depolayarak Kullanıcıların izlenmesini sağlayan her türlü teknolojiyi (örneğin Çerezler, benzersiz tanımlayıcılar, web işaretçileri, gömülü komut dosyaları, e-etiketler ve parmak izi) belirtir."
             },
             "LEGAL_INFORMATION": {
-                "TITLE": "Legal information",
-                "FIRST_PARAGRAPH": "This cookies policy relates solely to this Website, if not stated otherwise within this document."
+                "TITLE": "Yasal bilgiler",
+                "FIRST_PARAGRAPH": "Bu çerez politikası, bu belgede aksi belirtilmediği sürece yalnızca bu Web Sitesi ile ilgilidir."
             }
         }
     }
