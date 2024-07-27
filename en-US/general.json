@@ -91,5 +91,7 @@
   "PRESS_BUTTON_TO_MODAL": "You must click the **{{name}}** button to display the modal.",
   "NUMBER_OF_SANCTIONS": "Number of sanctions",
   "TYPE": "Type",
-  "VALUE": "Value"
+  "VALUE": "Value",
+  "SANCTIONS": "Sanctions",
+  "BLACKLISTED": "Blacklisted"
 }
