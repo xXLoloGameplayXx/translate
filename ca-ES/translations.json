@@ -54,11 +54,11 @@
         "SUBTITLE": "Comptant amb una àmplia gamma de mòduls d'administració i moderació per facilitar les coses"
     },
     "FEATURES": {
-        "DESCRIPTION": "Les millors característiques per millorar el teu servidor!",
+        "DESCRIPTION": "Descobreix un món de possibilitats amb les amplies funcions de Filo",
         "MORE_INFO": "Més informació sobre aquesta característica",
         "REPORTS": {
             "TITLE": "Informes",
-            "DESCRIPTION": "Millora l'experiència i professionalitza la moderació del teu servidor permetent als usuaris informant de comportaments inapropiats!"
+            "DESCRIPTION": "Millora la seguretat i la transparència de la seva comunitat permetin als seus usuaris denunciar comportaments inapropiats"
         },
         "LOGGING": {
             "TITLE": "Registres",
@@ -92,12 +92,12 @@
             "TITLE": "Member Counter",
             "DESCRIPTION": "Display real-time member counts to celebrate milestones and monitor your community's progress"
         },
-        "TITLE": "Features",
-        "TITLE_ALTERNATIVE": "The best features",
-        "DESCRIPTION_ALTERNATIVE": "Explore the finest features for efficient community management with Filo",
+        "TITLE": "Característiques",
+        "TITLE_ALTERNATIVE": "Les millors característiques",
+        "DESCRIPTION_ALTERNATIVE": "Explora les millors característiques per a una gestió de la teva comunitat eficient amb Filo",
         "MULTI_LANGUAGE": {
-            "TITLE": "Multi Language",
-            "DESCRIPTION": "Experience the beauty of bringing communities from different cultures and languages together. It's not just a feature; it's our mission!"
+            "TITLE": "Diverses llengües",
+            "DESCRIPTION": "Experimenta la bellesa d'unir comunitats de diferents cultures i llengües. No és només una característica; És la nostra missió!"
         },
         "WELCOMES": {
             "TITLE": "Welcomes",
@@ -816,12 +816,12 @@
         "SERVICE_STATUS": {
             "DESCRIPTION": "Mantingui's informat sobre l'estat del servei de Filo, els horaris de manteniment i les actualitzacions per garantir una experiència de Discord sense fissures i ininterrompuda.",
             "ABSTRACT": "Estigues al dia de l'estat del servei de Filo, els horaris de manteniment i les actualitzacions per garantir una experiència de Discord suau i ininterrompuda.",
-            "KEYWORDS": "service status, maintenance schedules, service updates, discord bot status, discord bot maintenance, discord bot updates, service interruptions, discord service status"
+            "KEYWORDS": "estat del servei, calendari de manteniments, actualitzacions del servei, estat del bot de discord, manteniment del bot de discord, actualitzacions del bot de discord, interrupcions del servei, estat del bot de discord"
         },
         "BLOG": {
-            "DESCRIPTION": "Stay updated on the latest news, feature releases, and community highlights with Filo's blog, your go-to source for all things Discord.",
-            "ABSTRACT": "Stay informed about the latest news, feature releases, and community highlights with Filo's blog, your ultimate source for all things Discord.",
-            "KEYWORDS": "discord news, feature releases, community highlights, discord bot updates, blog posts, discord community, discord bot features, discord bot news, discord bot community"
+            "DESCRIPTION": "Mantinguis al dia de les últimes notícies, novetats i el més destacat de la comunitat amb el blog de Filo, la teva font de referència per tot el relacionat amb discord.",
+            "ABSTRACT": "Mantinguis informat sobre les últimes notícies, novetats i el més destacat de la comunitat amb el blog de Filo, la teva font definitiva per a tot el relacionat amb discord.",
+            "KEYWORDS": "notícies de discord, novetats, notícies de la comunitat, actualitzacions del bot de discord, entrades del blog, comunitat de discord, funcions del bot de discord, notícies del bot de discord, comunitat del bot de discord"
         }
     },
     "TITLE": {
@@ -857,21 +857,21 @@
         "APP_DIRECTORY": "Directori d'Aplicacions"
     },
     "BUTTON_LABELS": {
-        "FEATURES": "Features",
-        "INVITE": "Invite",
-        "VIEW_MORE": "View more",
-        "GETTING_STARTED": "Getting started",
-        "DOCUMENTATION": "Documentation",
-        "DISCORD_SERVER": "Discord server",
-        "GO_HOME": "Go home"
+        "FEATURES": "Característiques",
+        "INVITE": "Invitar",
+        "VIEW_MORE": "Veure més",
+        "GETTING_STARTED": "Començant",
+        "DOCUMENTATION": "Documentació",
+        "DISCORD_SERVER": "Servidor de Discord",
+        "GO_HOME": "Tornar a l'inici"
     },
     "HERO": {
-        "TITLE": "Elevate your Discord community",
-        "DESCRIPTION": "Unlock powerful and seamless moderation tools, available in multiple languages, as well as containing multiple commands and purposes"
+        "TITLE": "Eleva la teva comunitat de Discord",
+        "DESCRIPTION": "Desbloqueja eines de moderació potents i perfectes, disponibles en diversos idiomes a més de contenit múltiples ordres"
     },
     "FEATURED_COMMUNITIES": {
-        "TITLE": "Featured communities",
-        "DESCRIPTION": "Be inspired by our selection: featured communities who trust and work with Filo"
+        "TITLE": "Comunitats destacades",
+        "DESCRIPTION": "Inspirat amb la nostra selecció: comunitats destacades que confien i treballen amb Filo"
     },
     "REVIEWS": {
         "TITLE": "What our users are saying",
