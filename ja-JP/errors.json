@@ -83,6 +83,6 @@
     "THIS_MODULE_NEEDS_TO_BE_ENABLED": "この操作を行うには、このモジュールが有効になっている必要があります。",
     "MAX_NUMBER_OF_EXCEPTIONS_CONFIGURED": "このモジュールは、例外の最大数 ({{number}}) に達しました。",
     "MAX_NUMBER_OF_NOTIFICATION_ROLES_CONFIGURED": "このモジュールは、通知役割の最大数 ({{number}}) に達しました。",
-    "MAX_CONDITIONALS_REACHED": "This level has reached the maximum number of conditionals ({{number}}).",
-    "NO_CONDITIONALS_CONFIGURED": "This level doesn't have any conditionals configured."
+    "MAX_CONDITIONALS_REACHED": "このレベルはコンディショナルの最大数に達している ({{number}})。",
+    "NO_CONDITIONALS_CONFIGURED": "このレベルにはコンディショナ ルは設定されていない。"
 }

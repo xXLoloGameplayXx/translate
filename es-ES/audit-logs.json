@@ -21,6 +21,6 @@
         "ANTI_BAD_WORDS_1": "El mensaje que has enviado contiene palabras ofensivas.",
         "ANTI_BAD_WORDS_2": "El mensaje que has actualizado contiene palabras ofensivas.",
         "ANTI_EVASION": "El usuario ha abandonado el gremio para evadir una sanción activa.",
-        "AUTO_MODERATION": "Alcanzar {{warns}} advertencias activas."
+        "AUTO_MODERATION": "Cumplir los requisitos del nivel de Auto Moderación #{{level}}."
     }
 }

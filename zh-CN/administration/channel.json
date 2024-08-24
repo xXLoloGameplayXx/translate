@@ -1,19 +1,19 @@
 {
-  "COOLDOWN": {
-    "COMPLETED": "您已将 **{{time}}** 设置为 **[#{{channel.name}}]({{url}})** 频道的冷却时间。"
-  },
-  "MESSAGES": {
-    "PIN": {
-      "COMPLETED": "您已将信息 **[{{message.id}}]({{message.url}})** 固定在 **[#{{channel.name}}]({{url}})** 频道上。"
+    "COOLDOWN": {
+        "COMPLETED": "您已将 **{{time}}** 设置为 **[#{{channel.name}}]({{url}})** 频道的冷却时间。"
     },
-    "PURGE": {
-      "COMPLETED": "您已从 **[#{{channel.name}}]({{url}})** ({{channel.id}}) 频道清除了 **{{messages}}** 信息。"
+    "MESSAGES": {
+        "PIN": {
+            "COMPLETED": "您已将信息 **[{{message.id}}]({{message.url}})** 固定在 **[#{{channel.name}}]({{url}})** 频道上。"
+        },
+        "PURGE": {
+            "COMPLETED": "您已从 **[#{{channel.name}}]({{url}})** ({{channel.id}}) 频道清除了 **{{messages}}** 信息。"
+        },
+        "UNPIN": {
+            "COMPLETED": "您已取消了 **[{{message.id}}]({{message.url}})** 频道上的信息 **[#{{channel.name}}]({{url}})**。"
+        }
     },
-    "UNPIN": {
-      "COMPLETED": "您已取消了**[{{message.id}}]({{message.url}})** 频道上的信息**[#{{channel.name}}]({{url}})** 。"
+    "NSFW": {
+        "COMPLETED": "您已在 **[#{{channel.name}}]({{url}})** ({{channel.id}}) 频道上使用 {{action}} NSFW 模式。"
     }
-  },
-  "NSFW": {
-    "COMPLETED": "您已在 **[#{{channel.name}}]({{url}})** ({{channel.id}}) 频道上使用 {{action}} NSFW 模式。"
-  }
 }

@@ -1,250 +1,250 @@
 {
-  "HOME": {
-    "PRE_START": "Abans de continuar, deus fer clic en el botó **{{button}}**.",
-    "DESCRIPTION": "Comença a configurar Filo seleccionant la categoria de mòduls que vols configurar i després selecciona el mòdul que desitja operar.\n\n**Necessita una guia de referència? No et preocupis!**\nFent **[clic aquí]({{url}})**, et redirigirem a la Wiki de Filo, la qual conté informació sobre com configurar qualsevol cosa.\n\n**Massa complicat?**\n**[Contactan's]({{url2}})** si tens alguna pregunta o necessites alguna aclaració adicional.",
-    "SELECT_A_MODULE_CATEGORY": {
-      "PLACEHOLDER": "Selecciona una categoria de mòduls",
-      "ADMINISTRATION": {
-        "LABEL": "Mòduls d'administració",
-        "DESCRIPTION": "Mòduls per ajudar-te en l'administració del teu servidor."
-      },
-      "COMMUNITY": {
-        "LABEL": "Mòduls de comunitat",
-        "DESCRIPTION": "Mòduls per ajudar-te a millorar l'experiència de la teva comunitat."
-      },
-      "MODERATION": {
-        "LABEL": "Mòduls de moderació",
-        "DESCRIPTION": "Mòdul per ajudar-te a moderar el teu servidor."
-      }
-    },
-    "TITLE": "Menú de Configuració de Filo"
-  },
-  "LOADING_DATA": "Si us plau espera mentre es carregen les dades necessàries.",
-  "MODULES": {
-    "SELECT_A_MODULE": "Deus seleccionar el mòdul de la categoria **{{module}}** que vols configurar.",
-    "SELECT_A_SUBMODULE": "Deus seleccionar el submòdul del mòdul **{{module}}** que vols configurar.",
-    "PLACEHOLDER": "Selecciona un mòdul",
-    "SELECT_THE_ACTION": "Deus seleccionar l'acció que vols dur a terme en el mòdul.",
-    "SELECT_THE_ACTION_PLACEHOLDER": "Selecciona una acció",
-    "MODULE_ENABLED_OR_DISABLED": "El mòdul **{{module}}** s'ha {{action}} correctament.",
-    "RESET_REQUEST_WARNING": "Estàs segur que vols restablir el mòdul **{{module}}**? Aquesta acció no es pot desfer!",
-    "MODULE_RESET": "El mòdul **{{module}}** s'ha restablert correctament.",
-    "SELECT_A_CHANNEL": "Deus seleccionar el canal que vols establir.",
-    "SELECT_A_CHANNEL_PLACEHOLDER": "Selecciona un canal",
-    "SELECT_AT_LEAST_ONE_CHANNEL": "Deus seleccionar almenys un canal.",
-    "SELECT_A_ROLE": "Deus seleccionar el rol que vols establir.",
-    "SELECT_A_ROLE_PLACEHOLDER": "Selecciona un rol",
-    "SELECT_AT_LEAST_ONE_ROLE": "Deus seleccionar almenys un rol.",
-    "CHANNEL_SET": "Has establert el canal **[#{{channel.name}}]({{url}})** per al mòdul **{{module}}** correctament.",
-    "DM_STATUS": {
-      "LABEL": "Alternar l'estat dels MDs",
-      "DESCRIPTION": "Canvia l'estat de les notificacions per MD.",
-      "DM_STATUS_TOGGLED": "Has **{{action}}** les notificacions MD per al mòdul **{{module}}** correctament."
-    },
-    "EXCEPTIONS": {
-      "ADD": {
-        "LABEL": "Afegir {{type}}",
-        "DESCRIPTION": "Afegeix un {{type}} a la llista d'excepcions del mòdul.",
-        "COMPLETED": "Has afegit el {{type}} {{value}} a la llista d'excepcions del mòdul.",
-        "COMPLETED_ALTERNATIVE": "Has afegit **{{number}}** {{type}} a la llista d'excepcions del mòdul."
-      },
-      "SET": {
-        "LABEL": "Establir els {{type}}",
-        "DESCRIPTION": "Establir la llista de {{type}} per la llista d'excepcions del mòdul.",
-        "COMPLETED": "Has establert el {{type}} {{value}} per la llista d'excepcions del mòdul.",
-        "COMPLETED_ALTERNATIVE": "Has afegit **{{number}}** {{type}} a la llista d'excepcions del mòdul."
-      },
-      "REMOVE": {
-        "LABEL": "Eliminar {{type}}",
-        "DESCRIPTION": "Elimina {{type}} de la llista d'excepcions del mòdul.",
-        "COMPLETED": "Ha eliminat el {{type}} {{value}} de la llista d'excepcions del mòdul.",
-        "COMPLETED_ALTERNATIVE": "Ha eliminat **{{number}}** {{type}} de la llista d'excepcions del mòdul.",
-        "NO_DATA_TO_REMOVE": "No n'hi ha {{value}} disponibles per eliminar de la llista d'excepcions del mòdul."
-      }
-    },
-    "COMMUNITY": {
-      "NAME": "Comunitat",
-      "COMMANDS": {
-        "LABEL": "Ordres",
-        "DESCRIPTION": "Canvia el comportament de les ordres de Filo.",
-        "CONFIGURE": {
-          "SELECT_THE_COMMANDS": "Deus seleccionar les ordres que vols {{action}}.",
-          "SELECT_THE_CATEGORIES": "Deus seleccionar les categories que vols {{action}}.",
-          "SELECT_THE_COMMANDS_PLACEHOLDER": "Selecciona les ordres",
-          "SELECT_THE_CATEGORIES_PLACEHOLDER": "Selecciona les categories",
-          "DISABLE_COMMANDS": {
-            "LABEL": "Desactivar ordres",
-            "DESCRIPTION": "Desactiva les ordres de Filo.",
-            "NO_COMMANDS_TO_DISABLE": "Totes les ordres disponibles han sigut desactivades.",
-            "COMMANDS_DISABLED": "Has desactivat **{{commands}}** ordres correctament."
-          },
-          "ENABLE_COMMANDS": {
-            "LABEL": "Activar ordres",
-            "DESCRIPTION": "Activa les ordres de Filo.",
-            "NO_COMMANDS_TO_ENABLE": "Totes les ordres disponibles estan activades actualment.",
-            "COMMANDS_ENABLED": "Has activat **{{commands}}** ordres correctament."
-          },
-          "DISABLE_CATEGORIES": {
-            "LABEL": "Desactivar categories",
-            "DESCRIPTION": "Desactiva les categories de Filo.",
-            "NO_CATEGORIES_TO_DISABLE": "Totes les categories disponibles han sigut desactivades.",
-            "CATEGORIES_DISABLED": "Has desactivat **{{categories}}** categories correctament."
-          },
-          "ENABLE_CATEGORIES": {
-            "LABEL": "Activar categories",
-            "DESCRIPTION": "Activa les categories de Filo.",
-            "NO_CATEGORIES_TO_ENABLE": "Totes les categories disponibles estan activades actualment.",
-            "CATEGORIES_ENABLED": "Has activat **{{categories}}** categories correctament."
-          }
-        }
-      },
-      "LANGUAGE": {
-        "LABEL": "Llengua",
-        "DESCRIPTION": "Canvia la llengua de Filo en aquest servidor.",
-        "SELECT_A_LANGUAGE": "Deus seleccionar la llengua que vols establir.",
-        "SELECT_A_LANGUAGE_PLACEHOLDER": "Selecciona una llengua",
-        "LANGUAGE_SET": "Has establert la llengua **{{language}}** correctament."
-      },
-      "REPORTS": {
-        "LABEL": "Informes",
-        "DESCRIPTION": "Proporciona eines d'informes als membres del seu servidor.",
-        "SUBMODULES_SELECTOR": {
-          "MEMBERS": "Canvia el comportament del mòdul d'informes de membres.",
-          "MESSAGES": "Canvia el comportament del mòdul d'informes de missatges."
+    "HOME": {
+        "PRE_START": "Abans de continuar, deus fer clic en el botó **{{button}}**.",
+        "DESCRIPTION": "Comença a configurar Filo seleccionant la categoria de mòduls que vols configurar i després selecciona el mòdul que desitja operar.\n\n**Necessita una guia de referència? No et preocupis!**\nFent **[clic aquí]({{url}})**, et redirigirem a la Wiki de Filo, la qual conté informació sobre com configurar qualsevol cosa.\n\n**Massa complicat?**\n**[Contactan's]({{url2}})** si tens alguna pregunta o necessites alguna aclaració adicional.",
+        "SELECT_A_MODULE_CATEGORY": {
+            "PLACEHOLDER": "Selecciona una categoria de mòduls",
+            "ADMINISTRATION": {
+                "LABEL": "Mòduls d'administració",
+                "DESCRIPTION": "Mòduls per ajudar-te en l'administració del teu servidor."
+            },
+            "COMMUNITY": {
+                "LABEL": "Mòduls de comunitat",
+                "DESCRIPTION": "Mòduls per ajudar-te a millorar l'experiència de la teva comunitat."
+            },
+            "MODERATION": {
+                "LABEL": "Mòduls de moderació",
+                "DESCRIPTION": "Mòdul per ajudar-te a moderar el teu servidor."
+            }
         },
-        "CONFIGURE": {
-          "REPORTS_CHANNEL": {
-            "LABEL": "Establir el canal d'informes",
-            "DESCRIPTION": "Establir on vols que els informes siguin enviats."
-          },
-          "IGNORED_ROLE": {
-            "LABEL": "Establir el rol ignorat",
-            "DESCRIPTION": "Establir un rol els membres del qual no hi poden enviar informes.",
-            "IGNORED_ROLE_SET": "Has establert el rol **{{role.mention}}** ({{role.id}}) com a rol ignorat correctament."
-          },
-          "TOGGLE_DELETE_REVIEWED_REPORTS": {
-            "LABEL": "Alternar l'eliminació d'informes revisats",
-            "DESCRIPTION": "Canvia l'estat de l'eliminació dels informes revisats.",
-            "DELETE_REVIEWED_REPORTS_TOGGLED": "Ha aconseguit **{{action}}** l'eliminació d'informes revisats."
-          },
-          "NOTIFICATION_ROLES": {
+        "TITLE": "Menú de Configuració de Filo"
+    },
+    "LOADING_DATA": "Si us plau espera mentre es carregen les dades necessàries.",
+    "MODULES": {
+        "SELECT_A_MODULE": "Deus seleccionar el mòdul de la categoria **{{module}}** que vols configurar.",
+        "SELECT_A_SUBMODULE": "Deus seleccionar el submòdul del mòdul **{{module}}** que vols configurar.",
+        "PLACEHOLDER": "Selecciona un mòdul",
+        "SELECT_THE_ACTION": "Deus seleccionar l'acció que vols dur a terme en el mòdul.",
+        "SELECT_THE_ACTION_PLACEHOLDER": "Selecciona una acció",
+        "MODULE_ENABLED_OR_DISABLED": "El mòdul **{{module}}** s'ha {{action}} correctament.",
+        "RESET_REQUEST_WARNING": "Estàs segur que vols restablir el mòdul **{{module}}**? Aquesta acció no es pot desfer!",
+        "MODULE_RESET": "El mòdul **{{module}}** s'ha restablert correctament.",
+        "SELECT_A_CHANNEL": "Deus seleccionar el canal que vols establir.",
+        "SELECT_A_CHANNEL_PLACEHOLDER": "Selecciona un canal",
+        "SELECT_AT_LEAST_ONE_CHANNEL": "Deus seleccionar almenys un canal.",
+        "SELECT_A_ROLE": "Deus seleccionar el rol que vols establir.",
+        "SELECT_A_ROLE_PLACEHOLDER": "Selecciona un rol",
+        "SELECT_AT_LEAST_ONE_ROLE": "Deus seleccionar almenys un rol.",
+        "CHANNEL_SET": "Has establert el canal **[#{{channel.name}}]({{url}})** per al mòdul **{{module}}** correctament.",
+        "DM_STATUS": {
+            "LABEL": "Alternar l'estat dels MDs",
+            "DESCRIPTION": "Canvia l'estat de les notificacions per MD.",
+            "DM_STATUS_TOGGLED": "Has **{{action}}** les notificacions MD per al mòdul **{{module}}** correctament."
+        },
+        "EXCEPTIONS": {
             "ADD": {
-              "LABEL": "Afegir rols de notificació",
-              "DESCRIPTION": "Afegeix rols que seran notificats quan un informe sigui enviat.",
-              "COMPLETED": "Has establert el rol **{{role.mention}}** ({{role.id}}) com un rol de notificació correctament.",
-              "COMPLETED_ALTERNATIVE": "Has afegit **{{number}}** rols com a rols de notificació correctament."
+                "LABEL": "Afegir {{type}}",
+                "DESCRIPTION": "Afegeix un {{type}} a la llista d'excepcions del mòdul.",
+                "COMPLETED": "Has afegit el {{type}} {{value}} a la llista d'excepcions del mòdul.",
+                "COMPLETED_ALTERNATIVE": "Has afegit **{{number}}** {{type}} a la llista d'excepcions del mòdul."
             },
             "SET": {
-              "LABEL": "Establir els rols de notificació",
-              "DESCRIPTION": "Establir els rols que hi seran notificats quan un informe sigui enviat.",
-              "COMPLETED": "Has establert el rol **{{role.mention}}** ({{role.id}}) com un rol de notificació correctament.",
-              "COMPLETED_ALTERNATIVE": "Has establert **{{number}}** rols com a rols de notificació correctament."
+                "LABEL": "Establir els {{type}}",
+                "DESCRIPTION": "Establir la llista de {{type}} per la llista d'excepcions del mòdul.",
+                "COMPLETED": "Has establert el {{type}} {{value}} per la llista d'excepcions del mòdul.",
+                "COMPLETED_ALTERNATIVE": "Has afegit **{{number}}** {{type}} a la llista d'excepcions del mòdul."
             },
             "REMOVE": {
-              "LABEL": "Eliminar rols de notificació",
-              "DESCRIPTION": "Elimina rols que no vulguis que siguin notificats quan un informe sigui enviat.",
-              "COMPLETED": "Has eliminat el rol **{{role.mention}} ({{role.id}}) com un rol de notificació correctament.",
-              "COMPLETED_ALTERNATIVE": "Has eliminat **{{number}}** rols de notificació correctament.",
-              "NO_DATA_TO_REMOVE": "No n'hi ha rols de notificació disponibles per eliminar."
+                "LABEL": "Eliminar {{type}}",
+                "DESCRIPTION": "Elimina {{type}} de la llista d'excepcions del mòdul.",
+                "COMPLETED": "Ha eliminat el {{type}} {{value}} de la llista d'excepcions del mòdul.",
+                "COMPLETED_ALTERNATIVE": "Ha eliminat **{{number}}** {{type}} de la llista d'excepcions del mòdul.",
+                "NO_DATA_TO_REMOVE": "No n'hi ha {{value}} disponibles per eliminar de la llista d'excepcions del mòdul."
             }
-          },
-          "REASON": {
-            "LABEL": "Configurar els paràmetres de raó",
-            "DESCRIPTION": "Canvia el comportament dels camps de raó dels informes.",
-            "SET_MIN_LENGTH_OF_MEMBER_REASON": {
-              "LABEL": "Establir la longitud mínima de la raó del membre",
-              "DESCRIPTION": "Establir la longitud mínima de la raó dels informes de membres.",
-              "FORM": {
-                "LABEL": "Longitud mínima de raó"
-              },
-              "COMPLETED": "Has establert la longitud mínima de la raó del membre a **{{number}}** caràcters correctament."
-            },
-            "SET_MAX_LENGTH_OF_MEMBER_REASON": {
-              "LABEL": "Establir la longitud màxima de la raó del membre",
-              "DESCRIPTION": "Estableix la longitud màxima de la raó dels informes de membres.",
-              "FORM": {
-                "LABEL": "Longitud màxima de la raó"
-              },
-              "COMPLETED": "Has establert la longitud màxima de la raó del membre a **{{number}}** caràcters correctament."
-            },
-            "CLEAN_MARKDOWN_OF_MEMBER_REASON": {
-              "LABEL": "Alternar la neteja de \"markdown\" de la raó del membre",
-              "DESCRIPTION": "Canviar l'estat de la neteja del \"markdown\" de la raó dels informes de membre.",
-              "COMPLETED": "Has **{{action}}** la neteja de \"markdown\" de la raó de membres."
-            },
-            "SET_MIN_LENGTH_OF_REVIEWER_REASON": {
-              "LABEL": "Establir la longitud mínima de la raó del revisor",
-              "DESCRIPTION": "Establir la longitud mínima de la raó del revisor d'informes.",
-              "FORM": {
-                "LABEL": "Longitud mínima de raó"
-              },
-              "COMPLETED": "Has establert la longitud mínima de la raó del revisor a **{{number}}** caràcters correctament."
-            },
-            "SET_MAX_LENGTH_OF_REVIEWER_REASON": {
-              "LABEL": "Establir la longitud màxima de la raó del revisor",
-              "DESCRIPTION": "Establir la longitud màxima de la raó del revisor d'informes.",
-              "FORM": {
-                "LABEL": "Longitud màxima de la raó"
-              },
-              "COMPLETED": "Has establert la longitud màxima de la raó del revisor a **{{number}}** caràcters correctament."
-            },
-            "CLEAN_MARKDOWN_OF_REVIEWER_REASON": {
-              "LABEL": "Alternar la neteja de \"markdown\" de la raó del revisor",
-              "DESCRIPTION": "Canvia l'estat de la neteja del \"markdown\" de la raó del revisor.",
-              "COMPLETED": "Has **{{action}}** la neteja de \"markdown\" de les raons de revisors correctament."
-            }
-          },
-          "EVIDENCES": {
-            "LABEL": "Configurar els paràmetres d'evidències",
-            "DESCRIPTION": "Canvia el comportament dels camps d'evidències dels informes.",
-            "SET_MIN_COUNT": {
-              "LABEL": "Establir la quantitat mínima d'evidències",
-              "DESCRIPTION": "Establir la quantitat mínima d'evidències que un informe deu tenir.",
-              "FORM": {
-                "LABEL": "Quantitat mínima"
-              },
-              "COMPLETED": "Has establert la quantitat mínima d'evidències a **{{number}}** correctament."
-            }
-          }
-        }
-      }
-    },
-    "VIEW": {
-      "TITLE": "Veient les configuracions del mòdul **{{module}}**",
-      "NO_DATA": "Sense dades",
-      "SELECT_THE_DATA": "Selecciona les dades a veure",
-      "VIEW_ALL": "Veure totes les {{data}}.",
-      "DM_STATUS": "Estat del MD",
-      "COOLDOWN": "Temps d'espera",
-      "EXCEPTIONS": "Excepcions de {{type}}",
-      "COMMUNITY": {
-        "COMMANDS": {
-          "DISABLED_COMMANDS": "Ordres desactivades",
-          "DISABLED_CATEGORIES": "Categories desactivades"
         },
-        "LANGUAGE": {
-          "LANGUAGE_CODE": "Codi de la llengua"
+        "COMMUNITY": {
+            "NAME": "Comunitat",
+            "COMMANDS": {
+                "LABEL": "Ordres",
+                "DESCRIPTION": "Canvia el comportament de les ordres de Filo.",
+                "CONFIGURE": {
+                    "SELECT_THE_COMMANDS": "Deus seleccionar les ordres que vols {{action}}.",
+                    "SELECT_THE_CATEGORIES": "Deus seleccionar les categories que vols {{action}}.",
+                    "SELECT_THE_COMMANDS_PLACEHOLDER": "Selecciona les ordres",
+                    "SELECT_THE_CATEGORIES_PLACEHOLDER": "Selecciona les categories",
+                    "DISABLE_COMMANDS": {
+                        "LABEL": "Desactivar ordres",
+                        "DESCRIPTION": "Desactiva les ordres de Filo.",
+                        "NO_COMMANDS_TO_DISABLE": "Totes les ordres disponibles han sigut desactivades.",
+                        "COMMANDS_DISABLED": "Has desactivat **{{commands}}** ordres correctament."
+                    },
+                    "ENABLE_COMMANDS": {
+                        "LABEL": "Activar ordres",
+                        "DESCRIPTION": "Activa les ordres de Filo.",
+                        "NO_COMMANDS_TO_ENABLE": "Totes les ordres disponibles estan activades actualment.",
+                        "COMMANDS_ENABLED": "Has activat **{{commands}}** ordres correctament."
+                    },
+                    "DISABLE_CATEGORIES": {
+                        "LABEL": "Desactivar categories",
+                        "DESCRIPTION": "Desactiva les categories de Filo.",
+                        "NO_CATEGORIES_TO_DISABLE": "Totes les categories disponibles han sigut desactivades.",
+                        "CATEGORIES_DISABLED": "Has desactivat **{{categories}}** categories correctament."
+                    },
+                    "ENABLE_CATEGORIES": {
+                        "LABEL": "Activar categories",
+                        "DESCRIPTION": "Activa les categories de Filo.",
+                        "NO_CATEGORIES_TO_ENABLE": "Totes les categories disponibles estan activades actualment.",
+                        "CATEGORIES_ENABLED": "Has activat **{{categories}}** categories correctament."
+                    }
+                }
+            },
+            "LANGUAGE": {
+                "LABEL": "Llengua",
+                "DESCRIPTION": "Canvia la llengua de Filo en aquest servidor.",
+                "SELECT_A_LANGUAGE": "Deus seleccionar la llengua que vols establir.",
+                "SELECT_A_LANGUAGE_PLACEHOLDER": "Selecciona una llengua",
+                "LANGUAGE_SET": "Has establert la llengua **{{language}}** correctament."
+            },
+            "REPORTS": {
+                "LABEL": "Informes",
+                "DESCRIPTION": "Proporciona eines d'informes als membres del seu servidor.",
+                "SUBMODULES_SELECTOR": {
+                    "MEMBERS": "Canvia el comportament del mòdul d'informes de membres.",
+                    "MESSAGES": "Canvia el comportament del mòdul d'informes de missatges."
+                },
+                "CONFIGURE": {
+                    "REPORTS_CHANNEL": {
+                        "LABEL": "Establir el canal d'informes",
+                        "DESCRIPTION": "Establir on vols que els informes siguin enviats."
+                    },
+                    "IGNORED_ROLE": {
+                        "LABEL": "Establir el rol ignorat",
+                        "DESCRIPTION": "Establir un rol els membres del qual no hi poden enviar informes.",
+                        "IGNORED_ROLE_SET": "Has establert el rol **{{role.mention}}** ({{role.id}}) com a rol ignorat correctament."
+                    },
+                    "TOGGLE_DELETE_REVIEWED_REPORTS": {
+                        "LABEL": "Alternar l'eliminació d'informes revisats",
+                        "DESCRIPTION": "Canvia l'estat de l'eliminació dels informes revisats.",
+                        "DELETE_REVIEWED_REPORTS_TOGGLED": "Ha aconseguit **{{action}}** l'eliminació d'informes revisats."
+                    },
+                    "NOTIFICATION_ROLES": {
+                        "ADD": {
+                            "LABEL": "Afegir rols de notificació",
+                            "DESCRIPTION": "Afegeix rols que seran notificats quan un informe sigui enviat.",
+                            "COMPLETED": "Has establert el rol **{{role.mention}}** ({{role.id}}) com un rol de notificació correctament.",
+                            "COMPLETED_ALTERNATIVE": "Has afegit **{{number}}** rols com a rols de notificació correctament."
+                        },
+                        "SET": {
+                            "LABEL": "Establir els rols de notificació",
+                            "DESCRIPTION": "Establir els rols que hi seran notificats quan un informe sigui enviat.",
+                            "COMPLETED": "Has establert el rol **{{role.mention}}** ({{role.id}}) com un rol de notificació correctament.",
+                            "COMPLETED_ALTERNATIVE": "Has establert **{{number}}** rols com a rols de notificació correctament."
+                        },
+                        "REMOVE": {
+                            "LABEL": "Eliminar rols de notificació",
+                            "DESCRIPTION": "Elimina rols que no vulguis que siguin notificats quan un informe sigui enviat.",
+                            "COMPLETED": "Has eliminat el rol **{{role.mention}}** ({{role.id}}) com un rol de notificació correctament.",
+                            "COMPLETED_ALTERNATIVE": "Has eliminat **{{number}}** rols de notificació correctament.",
+                            "NO_DATA_TO_REMOVE": "No n'hi ha rols de notificació disponibles per eliminar."
+                        }
+                    },
+                    "REASON": {
+                        "LABEL": "Configurar els paràmetres de raó",
+                        "DESCRIPTION": "Canvia el comportament dels camps de raó dels informes.",
+                        "SET_MIN_LENGTH_OF_MEMBER_REASON": {
+                            "LABEL": "Establir la longitud mínima de la raó del membre",
+                            "DESCRIPTION": "Establir la longitud mínima de la raó dels informes de membres.",
+                            "FORM": {
+                                "LABEL": "Longitud mínima de raó"
+                            },
+                            "COMPLETED": "Has establert la longitud mínima de la raó del membre a **{{number}}** caràcters correctament."
+                        },
+                        "SET_MAX_LENGTH_OF_MEMBER_REASON": {
+                            "LABEL": "Establir la longitud màxima de la raó del membre",
+                            "DESCRIPTION": "Estableix la longitud màxima de la raó dels informes de membres.",
+                            "FORM": {
+                                "LABEL": "Longitud màxima de la raó"
+                            },
+                            "COMPLETED": "Has establert la longitud màxima de la raó del membre a **{{number}}** caràcters correctament."
+                        },
+                        "CLEAN_MARKDOWN_OF_MEMBER_REASON": {
+                            "LABEL": "Alternar la neteja de \"markdown\" de la raó del membre",
+                            "DESCRIPTION": "Canviar l'estat de la neteja del \"markdown\" de la raó dels informes de membre.",
+                            "COMPLETED": "Has **{{action}}** la neteja de \"markdown\" de la raó de membres."
+                        },
+                        "SET_MIN_LENGTH_OF_REVIEWER_REASON": {
+                            "LABEL": "Establir la longitud mínima de la raó del revisor",
+                            "DESCRIPTION": "Establir la longitud mínima de la raó del revisor d'informes.",
+                            "FORM": {
+                                "LABEL": "Longitud mínima de raó"
+                            },
+                            "COMPLETED": "Has establert la longitud mínima de la raó del revisor a **{{number}}** caràcters correctament."
+                        },
+                        "SET_MAX_LENGTH_OF_REVIEWER_REASON": {
+                            "LABEL": "Establir la longitud màxima de la raó del revisor",
+                            "DESCRIPTION": "Establir la longitud màxima de la raó del revisor d'informes.",
+                            "FORM": {
+                                "LABEL": "Longitud màxima de la raó"
+                            },
+                            "COMPLETED": "Has establert la longitud màxima de la raó del revisor a **{{number}}** caràcters correctament."
+                        },
+                        "CLEAN_MARKDOWN_OF_REVIEWER_REASON": {
+                            "LABEL": "Alternar la neteja de \"markdown\" de la raó del revisor",
+                            "DESCRIPTION": "Canvia l'estat de la neteja del \"markdown\" de la raó del revisor.",
+                            "COMPLETED": "Has **{{action}}** la neteja de \"markdown\" de les raons de revisors correctament."
+                        }
+                    },
+                    "EVIDENCES": {
+                        "LABEL": "Configurar els paràmetres d'evidències",
+                        "DESCRIPTION": "Canvia el comportament dels camps d'evidències dels informes.",
+                        "SET_MIN_COUNT": {
+                            "LABEL": "Establir la quantitat mínima d'evidències",
+                            "DESCRIPTION": "Establir la quantitat mínima d'evidències que un informe deu tenir.",
+                            "FORM": {
+                                "LABEL": "Quantitat mínima"
+                            },
+                            "COMPLETED": "Has establert la quantitat mínima d'evidències a **{{number}}** correctament."
+                        }
+                    }
+                }
+            }
         },
-        "REPORTS": {
-          "REPORTS_CHANNEL": "Canal d'informes",
-          "IGNORED_ROLE": "Rol ignorat",
-          "DELETE_REVIEWED_REPORTS": "Eliminar informes revisats",
-          "NOTIFICATION_ROLES": "Rols de notificacions",
-          "REASON_PARAMETERS": {
-            "TITLE": "Paràmetres de raó",
-            "MIN_LENGTH_OF_MEMBER_REASON": "Longitud mínima de la raó del membre",
-            "MAX_LENGTH_OF_MEMBER_REASON": "Longitud màxima de la raó del membre",
-            "CLEAN_MARKDOWN_OF_MEMBER_REASON": "Neteja el \"markdown\" de la raó del membre",
-            "MIN_LENGTH_OF_REVIEWER_REASON": "Longitud mínima de la raó del revisor",
-            "MAX_LENGTH_OF_REVIEWER_REASON": "Longitud màxima de la raó del revisor",
-            "CLEAN_MARKDOWN_OF_REVIEWER_REASON": "Neteja de \"markdown\" de la raó del revisor"
-          },
-          "EVIDENCES_PARAMETERS": {
-            "TITLE": "Paràmetres d'evidències",
-            "MIN_COUNT": "Quantitat mínima d'evidències"
-          }
+        "VIEW": {
+            "TITLE": "Veient les configuracions del mòdul **{{module}}**",
+            "NO_DATA": "Sense dades",
+            "SELECT_THE_DATA": "Selecciona les dades a veure",
+            "VIEW_ALL": "Veure totes les {{data}}.",
+            "DM_STATUS": "Estat del MD",
+            "COOLDOWN": "Temps d'espera",
+            "EXCEPTIONS": "Excepcions de {{type}}",
+            "COMMUNITY": {
+                "COMMANDS": {
+                    "DISABLED_COMMANDS": "Ordres desactivades",
+                    "DISABLED_CATEGORIES": "Categories desactivades"
+                },
+                "LANGUAGE": {
+                    "LANGUAGE_CODE": "Codi de la llengua"
+                },
+                "REPORTS": {
+                    "REPORTS_CHANNEL": "Canal d'informes",
+                    "IGNORED_ROLE": "Rol ignorat",
+                    "DELETE_REVIEWED_REPORTS": "Eliminar informes revisats",
+                    "NOTIFICATION_ROLES": "Rols de notificacions",
+                    "REASON_PARAMETERS": {
+                        "TITLE": "Paràmetres de raó",
+                        "MIN_LENGTH_OF_MEMBER_REASON": "Longitud mínima de la raó del membre",
+                        "MAX_LENGTH_OF_MEMBER_REASON": "Longitud màxima de la raó del membre",
+                        "CLEAN_MARKDOWN_OF_MEMBER_REASON": "Neteja el \"markdown\" de la raó del membre",
+                        "MIN_LENGTH_OF_REVIEWER_REASON": "Longitud mínima de la raó del revisor",
+                        "MAX_LENGTH_OF_REVIEWER_REASON": "Longitud màxima de la raó del revisor",
+                        "CLEAN_MARKDOWN_OF_REVIEWER_REASON": "Neteja de \"markdown\" de la raó del revisor"
+                    },
+                    "EVIDENCES_PARAMETERS": {
+                        "TITLE": "Paràmetres d'evidències",
+                        "MIN_COUNT": "Quantitat mínima d'evidències"
+                    }
+                }
+            }
         }
-      }
     }
-  }
 }

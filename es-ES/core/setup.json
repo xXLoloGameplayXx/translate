@@ -1,250 +1,561 @@
 {
-  "HOME": {
-    "PRE_START": "Antes de continuar, debes hacer clic en el botón **{{button}}**.",
-    "DESCRIPTION": "Empieza a configurar Filo seleccionando la categoría de módulos que quieres configurar y luego selecciona el módulo con el que desea operar.\n\n**¿Necesitas una guía de referencia? ¡No te preocupes! **\nHaciendo **[clic aquí]({{url}})**, te redirigiremos a la Wiki de Filo, la cuál contiene información sobre cómo configurar cualquier cosa.\n\n**¿Demasiado complicado?**\n**[Contáctanos]({{url2}})** si tienes alguna pregunta o necesitas alguna aclaración adicional.",
-    "SELECT_A_MODULE_CATEGORY": {
-      "PLACEHOLDER": "Selecciona una categoría de módulos",
-      "ADMINISTRATION": {
-        "LABEL": "Módulos de administración",
-        "DESCRIPTION": "Módulos para ayudarte en la administración de tu servidor."
-      },
-      "COMMUNITY": {
-        "LABEL": "Módulos de comunidad",
-        "DESCRIPTION": "Módulos para ayudarte a mejorar la experiencia de tu comunidad."
-      },
-      "MODERATION": {
-        "LABEL": "Módulos de moderación",
-        "DESCRIPTION": "Módulos para ayudarte a moderar tu servidor."
-      }
-    },
-    "TITLE": "Menú de Configuración de Filo"
-  },
-  "LOADING_DATA": "Por favor espera mientras se cargan los datos necesarios.",
-  "MODULES": {
-    "SELECT_A_MODULE": "Debes seleccionar el módulo de la categoría **{{module}}** que quieres configurar.",
-    "SELECT_A_SUBMODULE": "Debes seleccionar el submódulo del módulo **{{module}}** que quieres configurar.",
-    "PLACEHOLDER": "Seleccionar un módulo",
-    "SELECT_THE_ACTION": "Debes seleccionar la acción que quieres llevar a cabo en el módulo.",
-    "SELECT_THE_ACTION_PLACEHOLDER": "Seleccionar una acción",
-    "MODULE_ENABLED_OR_DISABLED": "El módulo **{{module}}** se ha {{action}} correctamente.",
-    "RESET_REQUEST_WARNING": "¿Estás seguro de que quieres restablecer el módulo **{{module}}**? ¡Esta acción no se puede deshacer!",
-    "MODULE_RESET": "El módulo **{{module}}** se ha restablecido correctamente.",
-    "SELECT_A_CHANNEL": "Debes seleccionar el canal que quieres establecer.",
-    "SELECT_A_CHANNEL_PLACEHOLDER": "Seleccionar un canal",
-    "SELECT_AT_LEAST_ONE_CHANNEL": "Debes seleccionar al menos un canal.",
-    "SELECT_A_ROLE": "Debes seleccionar el rol que quieres establecer.",
-    "SELECT_A_ROLE_PLACEHOLDER": "Seleccionar un rol",
-    "SELECT_AT_LEAST_ONE_ROLE": "Debes seleccionar al menos un rol.",
-    "CHANNEL_SET": "Has establecido el canal **[#{{channel.name}}]({{url}})** para el módulo **{{module}}** correctamente.",
-    "DM_STATUS": {
-      "LABEL": "Alternar el estado de los MDs",
-      "DESCRIPTION": "Cambia el estado de las notificaciones por MD.",
-      "DM_STATUS_TOGGLED": "Has **{{action}}** las notificaciones MD para el módulo **{{module}}** correctamente."
-    },
-    "EXCEPTIONS": {
-      "ADD": {
-        "LABEL": "Añadir {{type}}",
-        "DESCRIPTION": "Añade un {{type}} a la lista de excepciones del módulo.",
-        "COMPLETED": "Ha añadido el {{type}} {{value}} a la lista de excepciones del módulo.",
-        "COMPLETED_ALTERNATIVE": "Ha añadido **{{number}}** {{type}} a la lista de excepciones del módulo."
-      },
-      "SET": {
-        "LABEL": "Establecer los {{type}}",
-        "DESCRIPTION": "Establece la lista de {{type}} para la lista de excepciones del módulo.",
-        "COMPLETED": "Has establecido el {{type}} {{value}} para la lista de excepciones del módulo.",
-        "COMPLETED_ALTERNATIVE": "Ha añadido **{{number}}** {{type}} a la lista de excepciones del módulo."
-      },
-      "REMOVE": {
-        "LABEL": "Eliminar {{type}}",
-        "DESCRIPTION": "Elimina {{type}} de la lista de excepciones del módulo.",
-        "COMPLETED": "Ha eliminado el {{type}} {{value}} de la lista de excepciones del módulo.",
-        "COMPLETED_ALTERNATIVE": "Ha eliminado **{{number}}** {{type}} de la lista de excepciones del módulo.",
-        "NO_DATA_TO_REMOVE": "No hay {{value}} disponibles para eliminar de la lista de excepciones del módulo."
-      }
-    },
-    "COMMUNITY": {
-      "NAME": "Comunidad",
-      "COMMANDS": {
-        "LABEL": "Comandos",
-        "DESCRIPTION": "Cambia el comportamiento de los comandos de Filo.",
-        "CONFIGURE": {
-          "SELECT_THE_COMMANDS": "Debes seleccionar los comandos que quieres {{action}}.",
-          "SELECT_THE_CATEGORIES": "Debes seleccionar las categorías que quieres {{action}}.",
-          "SELECT_THE_COMMANDS_PLACEHOLDER": "Seleccionar los comandos",
-          "SELECT_THE_CATEGORIES_PLACEHOLDER": "Seleccionar las categorías",
-          "DISABLE_COMMANDS": {
-            "LABEL": "Desactivar comandos",
-            "DESCRIPTION": "Desactiva los comandos de Filo.",
-            "NO_COMMANDS_TO_DISABLE": "Todos los comandos disponibles han sido desactivados.",
-            "COMMANDS_DISABLED": "Has desactivado **{{commands}}** comandos correctamente."
-          },
-          "ENABLE_COMMANDS": {
-            "LABEL": "Activar comandos",
-            "DESCRIPTION": "Activa los comandos de Filo.",
-            "NO_COMMANDS_TO_ENABLE": "Todos los comandos disponibles están activados actualmente.",
-            "COMMANDS_ENABLED": "Has activado **{{commands}}** comandos correctamente."
-          },
-          "DISABLE_CATEGORIES": {
-            "LABEL": "Desactivar categorias",
-            "DESCRIPTION": "Desactiva las categorías de Filo.",
-            "NO_CATEGORIES_TO_DISABLE": "Todas las categorías disponibles han sido desactivadas.",
-            "CATEGORIES_DISABLED": "Has desactivado **{{categories}}** categorías correctamente."
-          },
-          "ENABLE_CATEGORIES": {
-            "LABEL": "Activar categorías",
-            "DESCRIPTION": "Activa las categorías de Filo.",
-            "NO_CATEGORIES_TO_ENABLE": "Todas las categorías disponibles están activadas actualmente.",
-            "CATEGORIES_ENABLED": "Has activado **{{categories}}** categorías correctamente."
-          }
-        }
-      },
-      "LANGUAGE": {
-        "LABEL": "Idioma",
-        "DESCRIPTION": "Cambia el idioma de Filo en este servidor.",
-        "SELECT_A_LANGUAGE": "Debes seleccionar el idioma que quieres establecer.",
-        "SELECT_A_LANGUAGE_PLACEHOLDER": "Seleccionar un idioma",
-        "LANGUAGE_SET": "Has establecido el idioma **{{language}}** correctamente."
-      },
-      "REPORTS": {
-        "LABEL": "Reportes",
-        "DESCRIPTION": "Proporciona herramientas de reportes a los miembros de su servidor.",
-        "SUBMODULES_SELECTOR": {
-          "MEMBERS": "Cambia el comportamiento del módulo de reportes de miembros.",
-          "MESSAGES": "Cambia el comportamiento del módulo de reportes de mensajes."
+    "HOME": {
+        "PRE_START": "Antes de continuar, debes hacer clic en el botón **{{button}}**.",
+        "DESCRIPTION": "Empieza a configurar Filo seleccionando la categoría de módulos que quieres configurar y luego selecciona el módulo con el que desea operar.\n\n**¿Necesitas una guía de referencia? ¡No te preocupes! **\nHaciendo **[clic aquí]({{url}})**, te redirigiremos a la Wiki de Filo, la cuál contiene información sobre cómo configurar cualquier cosa.\n\n**¿Demasiado complicado?**\n**[Contáctanos]({{url2}})** si tienes alguna pregunta o necesitas alguna aclaración adicional.",
+        "SELECT_A_MODULE_CATEGORY": {
+            "PLACEHOLDER": "Selecciona una categoría de módulos",
+            "ADMINISTRATION": {
+                "LABEL": "Módulos de administración",
+                "DESCRIPTION": "Módulos para ayudarte en la administración de tu servidor."
+            },
+            "COMMUNITY": {
+                "LABEL": "Módulos de comunidad",
+                "DESCRIPTION": "Módulos para ayudarte a mejorar la experiencia de tu comunidad."
+            },
+            "MODERATION": {
+                "LABEL": "Módulos de moderación",
+                "DESCRIPTION": "Módulos para ayudarte a moderar tu servidor."
+            }
         },
-        "CONFIGURE": {
-          "REPORTS_CHANNEL": {
-            "LABEL": "Establecer el canal de reportes",
-            "DESCRIPTION": "Establece donde quieres que los reportes sean enviados."
-          },
-          "IGNORED_ROLE": {
-            "LABEL": "Establecer el rol ignorado",
-            "DESCRIPTION": "Establece un rol cuyos miembros no pueden enviar reportes.",
-            "IGNORED_ROLE_SET": "Has establecido el rol **{{role.mention}}** ({{role.id}}) como el rol ignorado correctamente."
-          },
-          "TOGGLE_DELETE_REVIEWED_REPORTS": {
-            "LABEL": "Alternar la eliminación de reportes revisados",
-            "DESCRIPTION": "Cambia el estado de la eliminación de los reportes revisados.",
-            "DELETE_REVIEWED_REPORTS_TOGGLED": "Ha conseguido **{{action}}** la eliminación de reportes revisados."
-          },
-          "NOTIFICATION_ROLES": {
+        "TITLE": "Menú de Configuración de Filo"
+    },
+    "LOADING_DATA": "Por favor espera mientras se cargan los datos necesarios.",
+    "MODULES": {
+        "SELECT_A_MODULE": "Debes seleccionar el módulo de la categoría **{{module}}** que quieres configurar.",
+        "SELECT_A_SUBMODULE": "Debes seleccionar el submódulo del módulo **{{module}}** que quieres configurar.",
+        "PLACEHOLDER": "Seleccionar un módulo",
+        "SELECT_THE_ACTION": "Debes seleccionar la acción que quieres llevar a cabo en el módulo.",
+        "SELECT_THE_ACTION_PLACEHOLDER": "Seleccionar una acción",
+        "MODULE_ENABLED_OR_DISABLED": "El módulo **{{module}}** se ha {{action}} correctamente.",
+        "RESET_REQUEST_WARNING": "¿Estás seguro de que quieres restablecer el módulo **{{module}}**? ¡Esta acción no se puede deshacer!",
+        "MODULE_RESET": "El módulo **{{module}}** se ha restablecido correctamente.",
+        "SELECT_A_CHANNEL": "Debes seleccionar el canal que quieres establecer.",
+        "SELECT_A_CHANNEL_PLACEHOLDER": "Seleccionar un canal",
+        "SELECT_AT_LEAST_ONE_CHANNEL": "Debes seleccionar al menos un canal.",
+        "SELECT_A_ROLE": "Debes seleccionar el rol que quieres establecer.",
+        "SELECT_A_ROLE_PLACEHOLDER": "Seleccionar un rol",
+        "SELECT_AT_LEAST_ONE_ROLE": "Debes seleccionar al menos un rol.",
+        "CHANNEL_SET": "Has establecido el canal **[#{{channel.name}}]({{url}})** para el módulo **{{module}}** correctamente.",
+        "DM_STATUS": {
+            "LABEL": "Alternar el estado de los MDs",
+            "DESCRIPTION": "Cambia el estado de las notificaciones por MD.",
+            "DM_STATUS_TOGGLED": "Has **{{action}}** las notificaciones MD para el módulo **{{module}}** correctamente."
+        },
+        "EXCEPTIONS": {
             "ADD": {
-              "LABEL": "Añadir roles de notificación",
-              "DESCRIPTION": "Añade roles que serán notificados cuando un reporte sea enviado.",
-              "COMPLETED": "Has establecido el rol **{{role.mention}}** ({{role.id}}) como un rol de notificación correctamente.",
-              "COMPLETED_ALTERNATIVE": "Has añadido **{{number}}** roles como roles de notificación correctamente."
+                "LABEL": "Añadir {{type}}",
+                "DESCRIPTION": "Añade un {{type}} a la lista de excepciones del módulo.",
+                "COMPLETED": "Ha añadido el {{type}} {{value}} a la lista de excepciones del módulo.",
+                "COMPLETED_ALTERNATIVE": "Ha añadido **{{number}}** {{type}} a la lista de excepciones del módulo."
             },
             "SET": {
-              "LABEL": "Establecer los roles de notificación",
-              "DESCRIPTION": "Establece los roles que serán notificados cuando un reporte sea enviado.",
-              "COMPLETED": "Has establecido el rol **{{role.mention}}** ({{role.id}}) como un rol de notificación correctamente.",
-              "COMPLETED_ALTERNATIVE": "Has establecido **{{number}}** roles como roles de notificación correctamente."
+                "LABEL": "Establecer los {{type}}",
+                "DESCRIPTION": "Establece la lista de {{type}} para la lista de excepciones del módulo.",
+                "COMPLETED": "Has establecido el {{type}} {{value}} para la lista de excepciones del módulo.",
+                "COMPLETED_ALTERNATIVE": "Ha añadido **{{number}}** {{type}} a la lista de excepciones del módulo."
             },
             "REMOVE": {
-              "LABEL": "Eliminar roles de notificación",
-              "DESCRIPTION": "Elimina roles que no quieras que sean notificados cuando un reporte sea enviado.",
-              "COMPLETED": "Has eliminado el rol **{{role.mention}}** ({{role.id}}) como un rol de notificación correctamente.",
-              "COMPLETED_ALTERNATIVE": "Has eliminado **{{number}}** roles como roles de notificación correctamente.",
-              "NO_DATA_TO_REMOVE": "No hay roles de notificación disponibles para eliminar."
+                "LABEL": "Eliminar {{type}}",
+                "DESCRIPTION": "Elimina {{type}} de la lista de excepciones del módulo.",
+                "COMPLETED": "Ha eliminado el {{type}} {{value}} de la lista de excepciones del módulo.",
+                "COMPLETED_ALTERNATIVE": "Ha eliminado **{{number}}** {{type}} de la lista de excepciones del módulo.",
+                "NO_DATA_TO_REMOVE": "No hay {{value}} disponibles para eliminar de la lista de excepciones del módulo."
             }
-          },
-          "REASON": {
-            "LABEL": "Configurar los parámetros de razón",
-            "DESCRIPTION": "Cambia el comportamiento de los campos de razón de los reportes.",
-            "SET_MIN_LENGTH_OF_MEMBER_REASON": {
-              "LABEL": "Establecer la longitud mínima de la razón del miembro",
-              "DESCRIPTION": "Establece la longitud mínima de la razón de los reportes de miembros.",
-              "FORM": {
-                "LABEL": "Longitud mínima de razón"
-              },
-              "COMPLETED": "Has establecido la longitud mínima de la razón del miembro a **{{number}}** caracteres correctamente."
-            },
-            "SET_MAX_LENGTH_OF_MEMBER_REASON": {
-              "LABEL": "Establecer la longitud máxima de la razón del miembro",
-              "DESCRIPTION": "Establece la longitud máxima de la razón de los reportes de miembros.",
-              "FORM": {
-                "LABEL": "Longitud máxima de la razón"
-              },
-              "COMPLETED": "Has establecido la longitud máxima de la razón del miembro a **{{number}}** caracteres correctamente."
-            },
-            "CLEAN_MARKDOWN_OF_MEMBER_REASON": {
-              "LABEL": "Alternar la limpieza de markdown de la razón del miembro",
-              "DESCRIPTION": "Cambiar el estado de la limpieza del markdown de la razón de los reportes de miembro.",
-              "COMPLETED": "Has **{{action}}** la limpieza de markdown de la razón de miembros."
-            },
-            "SET_MIN_LENGTH_OF_REVIEWER_REASON": {
-              "LABEL": "Establecer la longitud mínima de la razón del revisor",
-              "DESCRIPTION": "Establece la longitud mínima de la razón del revisor de reportes.",
-              "FORM": {
-                "LABEL": "Longitud mínima de la razón"
-              },
-              "COMPLETED": "Has establecido la longitud mínima de la razón del revisor a **{{number}}** caracteres correctamente."
-            },
-            "SET_MAX_LENGTH_OF_REVIEWER_REASON": {
-              "LABEL": "Establecer la longitud máxima de la razón del revisor",
-              "DESCRIPTION": "Establece la longitud máxima de la razón del revisor de reportes.",
-              "FORM": {
-                "LABEL": "Longitud máxima de la razón"
-              },
-              "COMPLETED": "Has establecido la longitud máxima de la razón del revisor a **{{number}}** caracteres correctamente."
-            },
-            "CLEAN_MARKDOWN_OF_REVIEWER_REASON": {
-              "LABEL": "Alternar la limpieza de markdown de la razón del revisor",
-              "DESCRIPTION": "Cambia el estado de la limpieza del markdown de la razón del revisor.",
-              "COMPLETED": "Has **{{action}}** la limpieza de markdown de las razones de revisores correctamente."
-            }
-          },
-          "EVIDENCES": {
-            "LABEL": "Configurar los parámetros de evidencias",
-            "DESCRIPTION": "Cambia el comportamiento de los campos de evidencias de los reportes.",
-            "SET_MIN_COUNT": {
-              "LABEL": "Establecer la cantidad mínima de evidencias",
-              "DESCRIPTION": "Establece la cantidad mínima de evidencias que un reporte debe tener.",
-              "FORM": {
-                "LABEL": "Cantidad mínima"
-              },
-              "COMPLETED": "Has establecido la cantidad mínima de evidencias a **{{number}}** correctamente."
-            }
-          }
-        }
-      }
-    },
-    "VIEW": {
-      "TITLE": "Viendo las configuraciones del módulo **{{module}}**",
-      "NO_DATA": "Sin datos",
-      "SELECT_THE_DATA": "Seleccionar los datos a ver",
-      "VIEW_ALL": "Ver todos los {{data}}.",
-      "DM_STATUS": "Estado del MD",
-      "COOLDOWN": "Tiempo de espera",
-      "EXCEPTIONS": "Excepciones de {{type}}",
-      "COMMUNITY": {
-        "COMMANDS": {
-          "DISABLED_COMMANDS": "Comandos desactivados",
-          "DISABLED_CATEGORIES": "Categorías desactivadas"
         },
-        "LANGUAGE": {
-          "LANGUAGE_CODE": "Código del idioma"
+        "COMMUNITY": {
+            "NAME": "Comunidad",
+            "COMMANDS": {
+                "LABEL": "Comandos",
+                "DESCRIPTION": "Cambia el comportamiento de los comandos de Filo.",
+                "CONFIGURE": {
+                    "SELECT_THE_COMMANDS": "Debes seleccionar los comandos que quieres {{action}}.",
+                    "SELECT_THE_CATEGORIES": "Debes seleccionar las categorías que quieres {{action}}.",
+                    "SELECT_THE_COMMANDS_PLACEHOLDER": "Seleccionar los comandos",
+                    "SELECT_THE_CATEGORIES_PLACEHOLDER": "Seleccionar las categorías",
+                    "DISABLE_COMMANDS": {
+                        "LABEL": "Desactivar comandos",
+                        "DESCRIPTION": "Desactiva los comandos de Filo.",
+                        "NO_COMMANDS_TO_DISABLE": "Todos los comandos disponibles han sido desactivados.",
+                        "COMMANDS_DISABLED": "Has desactivado **{{commands}}** comandos correctamente."
+                    },
+                    "ENABLE_COMMANDS": {
+                        "LABEL": "Activar comandos",
+                        "DESCRIPTION": "Activa los comandos de Filo.",
+                        "NO_COMMANDS_TO_ENABLE": "Todos los comandos disponibles están activados actualmente.",
+                        "COMMANDS_ENABLED": "Has activado **{{commands}}** comandos correctamente."
+                    },
+                    "DISABLE_CATEGORIES": {
+                        "LABEL": "Desactivar categorias",
+                        "DESCRIPTION": "Desactiva las categorías de Filo.",
+                        "NO_CATEGORIES_TO_DISABLE": "Todas las categorías disponibles han sido desactivadas.",
+                        "CATEGORIES_DISABLED": "Has desactivado **{{categories}}** categorías correctamente."
+                    },
+                    "ENABLE_CATEGORIES": {
+                        "LABEL": "Activar categorías",
+                        "DESCRIPTION": "Activa las categorías de Filo.",
+                        "NO_CATEGORIES_TO_ENABLE": "Todas las categorías disponibles están activadas actualmente.",
+                        "CATEGORIES_ENABLED": "Has activado **{{categories}}** categorías correctamente."
+                    }
+                }
+            },
+            "LANGUAGE": {
+                "LABEL": "Idioma",
+                "DESCRIPTION": "Cambia el idioma de Filo en este servidor.",
+                "SELECT_A_LANGUAGE": "Debes seleccionar el idioma que quieres establecer.",
+                "SELECT_A_LANGUAGE_PLACEHOLDER": "Seleccionar un idioma",
+                "LANGUAGE_SET": "Has establecido el idioma **{{language}}** correctamente."
+            },
+            "REPORTS": {
+                "LABEL": "Reportes",
+                "DESCRIPTION": "Proporciona herramientas de reportes a los miembros de su servidor.",
+                "SUBMODULES_SELECTOR": {
+                    "MEMBERS": "Cambia el comportamiento del módulo de reportes de miembros.",
+                    "MESSAGES": "Cambia el comportamiento del módulo de reportes de mensajes."
+                },
+                "CONFIGURE": {
+                    "REPORTS_CHANNEL": {
+                        "LABEL": "Establecer el canal de reportes",
+                        "DESCRIPTION": "Establece donde quieres que los reportes sean enviados."
+                    },
+                    "IGNORED_ROLE": {
+                        "LABEL": "Establecer el rol ignorado",
+                        "DESCRIPTION": "Establece un rol cuyos miembros no pueden enviar reportes.",
+                        "IGNORED_ROLE_SET": "Has establecido el rol **{{role.mention}}** ({{role.id}}) como el rol ignorado correctamente."
+                    },
+                    "TOGGLE_DELETE_REVIEWED_REPORTS": {
+                        "LABEL": "Alternar la eliminación de reportes revisados",
+                        "DESCRIPTION": "Cambia el estado de la eliminación de los reportes revisados.",
+                        "DELETE_REVIEWED_REPORTS_TOGGLED": "Ha conseguido **{{action}}** la eliminación de reportes revisados."
+                    },
+                    "NOTIFICATION_ROLES": {
+                        "ADD": {
+                            "LABEL": "Añadir roles de notificación",
+                            "DESCRIPTION": "Añade roles que serán notificados cuando un reporte sea enviado.",
+                            "COMPLETED": "Has establecido el rol **{{role.mention}}** ({{role.id}}) como un rol de notificación correctamente.",
+                            "COMPLETED_ALTERNATIVE": "Has añadido **{{number}}** roles como roles de notificación correctamente."
+                        },
+                        "SET": {
+                            "LABEL": "Establecer los roles de notificación",
+                            "DESCRIPTION": "Establece los roles que serán notificados cuando un reporte sea enviado.",
+                            "COMPLETED": "Has establecido el rol **{{role.mention}}** ({{role.id}}) como un rol de notificación correctamente.",
+                            "COMPLETED_ALTERNATIVE": "Has establecido **{{number}}** roles como roles de notificación correctamente."
+                        },
+                        "REMOVE": {
+                            "LABEL": "Eliminar roles de notificación",
+                            "DESCRIPTION": "Elimina roles que no quieras que sean notificados cuando un reporte sea enviado.",
+                            "COMPLETED": "Has eliminado el rol **{{role.mention}}** ({{role.id}}) como un rol de notificación correctamente.",
+                            "COMPLETED_ALTERNATIVE": "Has eliminado **{{number}}** roles como roles de notificación correctamente.",
+                            "NO_DATA_TO_REMOVE": "No hay roles de notificación disponibles para eliminar."
+                        }
+                    },
+                    "REASON": {
+                        "LABEL": "Configurar los parámetros de razón",
+                        "DESCRIPTION": "Cambia el comportamiento de los campos de razón de los reportes.",
+                        "SET_MIN_LENGTH_OF_MEMBER_REASON": {
+                            "LABEL": "Establecer la longitud mínima de la razón del miembro",
+                            "DESCRIPTION": "Establece la longitud mínima de la razón de los reportes de miembros.",
+                            "FORM": {
+                                "LABEL": "Longitud mínima de razón"
+                            },
+                            "COMPLETED": "Has establecido la longitud mínima de la razón del miembro a **{{number}}** caracteres correctamente."
+                        },
+                        "SET_MAX_LENGTH_OF_MEMBER_REASON": {
+                            "LABEL": "Establecer la longitud máxima de la razón del miembro",
+                            "DESCRIPTION": "Establece la longitud máxima de la razón de los reportes de miembros.",
+                            "FORM": {
+                                "LABEL": "Longitud máxima de la razón"
+                            },
+                            "COMPLETED": "Has establecido la longitud máxima de la razón del miembro a **{{number}}** caracteres correctamente."
+                        },
+                        "CLEAN_MARKDOWN_OF_MEMBER_REASON": {
+                            "LABEL": "Alternar la limpieza de markdown de la razón del miembro",
+                            "DESCRIPTION": "Cambiar el estado de la limpieza del markdown de la razón de los reportes de miembro.",
+                            "COMPLETED": "Has **{{action}}** la limpieza de markdown de la razón de miembros."
+                        },
+                        "SET_MIN_LENGTH_OF_REVIEWER_REASON": {
+                            "LABEL": "Establecer la longitud mínima de la razón del revisor",
+                            "DESCRIPTION": "Establece la longitud mínima de la razón del revisor de reportes.",
+                            "FORM": {
+                                "LABEL": "Longitud mínima de la razón"
+                            },
+                            "COMPLETED": "Has establecido la longitud mínima de la razón del revisor a **{{number}}** caracteres correctamente."
+                        },
+                        "SET_MAX_LENGTH_OF_REVIEWER_REASON": {
+                            "LABEL": "Establecer la longitud máxima de la razón del revisor",
+                            "DESCRIPTION": "Establece la longitud máxima de la razón del revisor de reportes.",
+                            "FORM": {
+                                "LABEL": "Longitud máxima de la razón"
+                            },
+                            "COMPLETED": "Has establecido la longitud máxima de la razón del revisor a **{{number}}** caracteres correctamente."
+                        },
+                        "CLEAN_MARKDOWN_OF_REVIEWER_REASON": {
+                            "LABEL": "Alternar la limpieza de markdown de la razón del revisor",
+                            "DESCRIPTION": "Cambia el estado de la limpieza del markdown de la razón del revisor.",
+                            "COMPLETED": "Has **{{action}}** la limpieza de markdown de las razones de revisores correctamente."
+                        }
+                    },
+                    "EVIDENCES": {
+                        "LABEL": "Configurar los parámetros de evidencias",
+                        "DESCRIPTION": "Cambia el comportamiento de los campos de evidencias de los reportes.",
+                        "SET_MIN_COUNT": {
+                            "LABEL": "Establecer la cantidad mínima de evidencias",
+                            "DESCRIPTION": "Establece la cantidad mínima de evidencias que un reporte debe tener.",
+                            "FORM": {
+                                "LABEL": "Cantidad mínima"
+                            },
+                            "COMPLETED": "Has establecido la cantidad mínima de evidencias a **{{number}}** correctamente."
+                        }
+                    }
+                }
+            }
         },
-        "REPORTS": {
-          "REPORTS_CHANNEL": "Canal de reportes",
-          "IGNORED_ROLE": "Rol ignorado",
-          "DELETE_REVIEWED_REPORTS": "Eliminar reportes revisados",
-          "NOTIFICATION_ROLES": "Roles de notificación",
-          "REASON_PARAMETERS": {
-            "TITLE": "Parámetros de razón",
-            "MIN_LENGTH_OF_MEMBER_REASON": "Longitud mínima de la razón del miembro",
-            "MAX_LENGTH_OF_MEMBER_REASON": "Longitud máxima de la razón del miembro",
-            "CLEAN_MARKDOWN_OF_MEMBER_REASON": "Limpieza el markdown de la razón del miembro",
-            "MIN_LENGTH_OF_REVIEWER_REASON": "Longitud mínima de la razón del revisor",
-            "MAX_LENGTH_OF_REVIEWER_REASON": "Longitud máxima de la razón del revisor",
-            "CLEAN_MARKDOWN_OF_REVIEWER_REASON": "Limpieza de markdown de la razón del revisor"
-          },
-          "EVIDENCES_PARAMETERS": {
-            "TITLE": "Parámetros de evidencias",
-            "MIN_COUNT": "Cantidad mínima de evidencias"
-          }
-        }
-      }
+        "VIEW": {
+            "TITLE": "Viendo las configuraciones del módulo **{{module}}**",
+            "NO_DATA": "Sin datos",
+            "SELECT_THE_DATA": "Seleccionar los datos a ver",
+            "VIEW_ALL": "Ver todos los {{data}}.",
+            "DM_STATUS": "Estado del MD",
+            "COOLDOWN": "Tiempo de espera",
+            "EXCEPTIONS": "Excepciones de {{type}}",
+            "COMMUNITY": {
+                "COMMANDS": {
+                    "DISABLED_COMMANDS": "Comandos desactivados",
+                    "DISABLED_CATEGORIES": "Categorías desactivadas"
+                },
+                "LANGUAGE": {
+                    "LANGUAGE_CODE": "Código del idioma"
+                },
+                "REPORTS": {
+                    "REPORTS_CHANNEL": "Canal de reportes",
+                    "IGNORED_ROLE": "Rol ignorado",
+                    "DELETE_REVIEWED_REPORTS": "Eliminar reportes revisados",
+                    "NOTIFICATION_ROLES": "Roles de notificación",
+                    "REASON_PARAMETERS": {
+                        "TITLE": "Parámetros de razón",
+                        "MIN_LENGTH_OF_MEMBER_REASON": "Longitud mínima de la razón del miembro",
+                        "MAX_LENGTH_OF_MEMBER_REASON": "Longitud máxima de la razón del miembro",
+                        "CLEAN_MARKDOWN_OF_MEMBER_REASON": "Limpieza el markdown de la razón del miembro",
+                        "MIN_LENGTH_OF_REVIEWER_REASON": "Longitud mínima de la razón del revisor",
+                        "MAX_LENGTH_OF_REVIEWER_REASON": "Longitud máxima de la razón del revisor",
+                        "CLEAN_MARKDOWN_OF_REVIEWER_REASON": "Limpieza de markdown de la razón del revisor"
+                    },
+                    "EVIDENCES_PARAMETERS": {
+                        "TITLE": "Parámetros de evidencias",
+                        "MIN_COUNT": "Cantidad mínima de evidencias"
+                    }
+                }
+            },
+            "ACTION": "Acción",
+            "MODERATION": {
+                "AUTO_MODERATION": {
+                    "LEVEL": "Nivel #{{level}}",
+                    "REQUIRED_OPTIONAL_CONDITIONALS": "Condicionales opcionales requeridos",
+                    "CONDITIONALS": "Condicionales",
+                    "REQUIRED_STATUS": "Estado requerido",
+                    "EXPECTED_VALUE": "Valor esperado",
+                    "CONDITIONAL": "Condicional #{{conditional}}"
+                }
+            }
+        },
+        "SELECT_A_SANCTION_PLACEHOLDER": "Selecciona una sanción",
+        "MODERATION": {
+            "NAME": "Moderación",
+            "ANTI_BAD_WORDS": {
+                "DESCRIPTION": "Evita que los usuarios utilicen palabras malsonantes.",
+                "LABEL": "Anti Malas Palabras"
+            },
+            "ANTI_EVASION": {
+                "LABEL": "Anti Evasión",
+                "DESCRIPTION": "Prohíbe a aquellos que intenten evadir sus sanciones."
+            },
+            "ANTI_EXTERNAL_LINKS": {
+                "LABEL": "Anti Enlaces Externos",
+                "DESCRIPTION": "Evita que los usuarios envíen enlaces externos."
+            },
+            "ANTI_INVITES": {
+                "LABEL": "Anti Invitaciones",
+                "DESCRIPTION": "No permitas que los usuarios envíen invitaciones que no sean de este servidor."
+            },
+            "ANTI_MASS_MENTIONS": {
+                "LABEL": "Anti Menciones Masivas",
+                "DESCRIPTION": "Evita que los usuarios mencionen masivamente a otros usuarios."
+            },
+            "ANTI_REPEATED_TEXT": {
+                "LABEL": "Anti Texto Repetido",
+                "DESCRIPTION": "Evita que los usuarios envíen texto repetido en el mismo mensaje."
+            },
+            "ANTI_SCAM_LINKS": {
+                "LABEL": "Anti Enlaces Estafadores",
+                "DESCRIPTION": "No permitas que los usuarios envíen enlaces que se consideren estafas."
+            },
+            "ANTI_SPAM": {
+                "LABEL": "Anti Spam",
+                "DESCRIPTION": "Evita que los usuarios hagan spam."
+            },
+            "AUTO_MODERATION": {
+                "LABEL": "Auto Moderación",
+                "CONDITIONALS_LIST": {
+                    "USER_FLAG": {
+                        "LABEL": "Bandera de usuario",
+                        "DESCRIPTION": "Comprueba si el usuario tiene la bandera especificada.",
+                        "SELECT_THE_FLAG": "Debes seleccionar la bandera que quieres establecer.",
+                        "SELECT_THE_FLAG_PLACEHOLDER": "Selecciona la bandera",
+                        "DESCRIPTION_ALTERNATIVE": "El usuario debe tener la bandera {{flag}}.",
+                        "FLAG_SET": "Has establecido correctamente la bandera **{{flag}}** ."
+                    },
+                    "USER_REGISTER_DATE": {
+                        "LABEL": "Fecha de registro del usuario",
+                        "DESCRIPTION": "Comprueba el tiempo transcurrido desde el registro del usuario.",
+                        "TIME_SET": "Has establecido correctamente el tiempo transcurrido desde el registro del usuario a **{{time}}** ."
+                    },
+                    "USER_DISPLAY_NAME": {
+                        "LABEL": "Nombre de usuario mostrado",
+                        "DESCRIPTION": "Comprueba el nombre mostrado del usuario.",
+                        "DISPLAY_NAME_SET": "Has establecido correctamente el nombre mostrado del usuario a **{{name}}** ."
+                    },
+                    "USER_NAME": {
+                        "LABEL": "Nombre de usuario",
+                        "DESCRIPTION": "Comprueba el nombre del usuario.",
+                        "NAME_SET": "Has establecido correctamente el nombre de usuario a **{{name}}** ."
+                    },
+                    "MEMBER_JOIN_DATE": {
+                        "LABEL": "Fecha de unión",
+                        "DESCRIPTION": "Comprueba el tiempo transcurrido desde que el usuario se unió al servidor.",
+                        "TIME_SET": "Has establecido correctamente el tiempo transcurrido desde que el usuario se unió al servidor a **{{time}}** ."
+                    },
+                    "MEMBER_NICKNAME": {
+                        "LABEL": "Apodo del miembro",
+                        "DESCRIPTION": "Comprueba el apodo del miembro.",
+                        "NICKNAME_SET": "Has establecido correctamente el apodo del miembro a **{{name}}** ."
+                    },
+                    "MEMBER_PENDING_STATE": {
+                        "LABEL": "Estado pendiente del miembro",
+                        "DESCRIPTION": "Comprueba que el miembro haya superado los requisitos del servidor.",
+                        "SELECT_THE_STATE": "Debes seleccionar el estado que quieres establecer.",
+                        "SELECT_THE_STATE_PLACEHOLDER": "Selecciona el estado",
+                        "AVAILABLE_STATES": {
+                            "VERIFIED": {
+                                "LABEL": "Verificado",
+                                "DESCRIPTION": "El miembro debe estar verificado"
+                            },
+                            "UNVERIFIED": {
+                                "LABEL": "Sin verificar",
+                                "DESCRIPTION": "El miembro no debe estar verificado"
+                            }
+                        },
+                        "PENDING_STATE_SET": "Has establecido correctamente el estado pendiente como **{{state}}** ."
+                    },
+                    "MEMBER_ROLE": {
+                        "LABEL": "Roles del miembro",
+                        "DESCRIPTION": "Comprueba los roles del miembro.",
+                        "ROLE_SET": "Has establecido correctamente los roles del miembro a **{{role.mention}}** ({{role.id}})."
+                    },
+                    "MEMBER_BOOST_DATE": {
+                        "LABEL": "Fecha de mejora del miembro",
+                        "DESCRIPTION": "Comprueba el tiempo transcurrido desde que el miembro mejoró el servidor.",
+                        "TIME_SET": "Has establecido correctamente el tiempo transcurrido desde que el miembro mejoró el servidor a **{{time}}** ."
+                    },
+                    "MEMBER_TOTAL_SANCTIONS": {
+                        "LABEL": "Sanciones totales del miembro",
+                        "DESCRIPTION": "Comprueba el número total de sanciones que tiene el miembro.",
+                        "TOTAL_SANCTIONS_SET": "Has establecido correctamente el número total de sanciones a **{{number}}** ."
+                    },
+                    "MEMBER_TOTAL_SANCTIONS_WITH_EXPIRATION": {
+                        "LABEL": "Sanciones totales del miembro con vencimiento",
+                        "DESCRIPTION": "Comprueba el número total de sanciones que tiene el miembro con vencimiento.",
+                        "TOTAL_SANCTIONS_WITH_EXPIRATION_SET": "Has establecido correctamente el número total de sanciones a **{{number}}** en los/as últimos/as **{{time}}** ."
+                    },
+                    "MEMBER_TOTAL_SANCTIONS_BY_MODULE": {
+                        "LABEL": "Sanciones totales del miembro por módulo",
+                        "DESCRIPTION": "Comprueba el número total de sanciones que tiene el miembro por módulo.",
+                        "SELECT_THE_MODULE": "Debes seleccionar el módulo que desea establecer.",
+                        "SELECT_THE_MODULE_PLACEHOLDER": "Selecciona el módulo",
+                        "TOTAL_SANCTIONS_BY_MODULE_SET": "Has establecido correctamente el número total de sanciones a **{{number}}** y el módulo en **{{module}}** ."
+                    },
+                    "MEMBER_TOTAL_SANCTIONS_BY_MODULE_WITH_EXPIRATION": {
+                        "LABEL": "Sanciones totales del miembro por módulo y con vencimiento",
+                        "DESCRIPTION": "Consulta el número total de sanciones que tiene el miembro por módulo y con vencimiento.",
+                        "SELECT_THE_MODULE": "Debes seleccionar el módulo que desea establecer.",
+                        "SELECT_THE_MODULE_PLACEHOLDER": "Selecciona el módulo",
+                        "TOTAL_SANCTIONS_BY_MODULE_WITH_EXPIRATION_SET": "Has establecido correctamente el número total de sanciones a **{{number}}** en los/as último/as **{{time}}** y el módulo en **{{module}}** ."
+                    },
+                    "MEMBER_TOTAL_SANCTIONS_BY_TYPE": {
+                        "LABEL": "Sanciones totales del miembro por tipo",
+                        "DESCRIPTION": "Comprueba el número total de sanciones que tiene el miembro por tipo.",
+                        "SELECT_THE_TYPE": "Debes seleccionar el tipo que quieres establecer.",
+                        "SELECT_THE_TYPE_PLACEHOLDER": "Selecciona el tipo",
+                        "TOTAL_SANCTIONS_BY_TYPE_SET": "Has establecido correctamente el número total de sanciones a **{{number}}** y el tipo como **{{type}}** ."
+                    },
+                    "MEMBER_TOTAL_SANCTIONS_BY_TYPE_WITH_EXPIRATION": {
+                        "LABEL": "Sanciones totales del miembro por tipo y con vencimiento",
+                        "SELECT_THE_TYPE": "Debes seleccionar el tipo que quieres establecer.",
+                        "SELECT_THE_TYPE_PLACEHOLDER": "Selecciona el tipo",
+                        "TOTAL_SANCTIONS_BY_TYPE_WITH_EXPIRATION_SET": "Has establecido correctamente el número total de sanciones a **{{number}}** en los/as últimos/as **{{time}}** y el tipo como **{{type}}** .",
+                        "DESCRIPTION": "Comprueba el número total de sanciones que tiene el miembro por tipo y con vencimiento."
+                    },
+                    "MEMBER_TOTAL_SANCTIONS_BY_TYPE_BY_MODULE": {
+                        "SELECT_THE_TYPE": "Debes seleccionar el tipo que quieres establecer.",
+                        "SELECT_THE_TYPE_PLACEHOLDER": "Selecciona el tipo",
+                        "SELECT_THE_MODULE": "Debes seleccionar el módulo que desea establecer.",
+                        "SELECT_THE_MODULE_PLACEHOLDER": "Selecciona el módulo",
+                        "LABEL": "Sanciones totales del miembro por tipo y por módulo",
+                        "DESCRIPTION": "Comprueba el número total de sanciones que tiene el miembro por tipo y por módulo.",
+                        "TOTAL_SANCTIONS_BY_TYPE_BY_MODULE_SET": "Has establecido correctamente el número total de sanciones a **{{number}}** , el tipo como **{{type}}** y el módulo en **{{module}}** ."
+                    },
+                    "MEMBER_TOTAL_SANCTIONS_BY_TYPE_BY_MODULE_WITH_EXPIRATION": {
+                        "LABEL": "Sanciones totales del miembro por tipo y por módulo con vencimiento",
+                        "DESCRIPTION": "Comprueba el número total de sanciones que tiene el miembro por tipo y por módulo con vencimiento.",
+                        "SELECT_THE_TYPE": "Debes seleccionar el tipo que quieres establecer.",
+                        "SELECT_THE_TYPE_PLACEHOLDER": "Selecciona el tipo",
+                        "SELECT_THE_MODULE": "Debes seleccionar el módulo que desea establecer.",
+                        "SELECT_THE_MODULE_PLACEHOLDER": "Selecciona el módulo",
+                        "TOTAL_SANCTIONS_BY_TYPE_BY_MODULE_WITH_EXPIRATION_SET": "Has establecido correctamente el número total de sanciones a **{{number}}** en los/as últimos/as **{{time}}** , el tipo como **{{type}}** y el módulo en **{{module}}** ."
+                    },
+                    "SERVER_FEATURES": {
+                        "LABEL": "Características del servidor",
+                        "DESCRIPTION": "Comprueba si el servidor tiene la característica especificada.",
+                        "SELECT_THE_FEATURE": "Debes seleccionar la característica que quieres establecer.",
+                        "SELECT_THE_FEATURE_PLACEHOLDER": "Selecciona la característica",
+                        "DESCRIPTION_ALTERNATIVE": "El servidor debe tener la característica {{feature}}.",
+                        "FEATURE_SET": "Has establecido correctamente la característica **{{feature}}** ."
+                    },
+                    "USER_BLACKLISTED_THIRD_PARTY": {
+                        "LABEL": "Usuario en una lista de terceros",
+                        "DESCRIPTION": "Comprueba si el usuario está en una lista de terceros.",
+                        "SELECT_THE_STATUS": "Debes seleccionar el estado que quieres establecer.",
+                        "SELECT_THE_STATUS_PLACEHOLDER": "Selecciona el estado",
+                        "STATUS_SET": "Has establecido correctamente el estado como **{{status}}** .",
+                        "AVAILABLE_STATUS": {
+                            "BLACKLISTED": {
+                                "LABEL": "En la lista negra",
+                                "DESCRIPTION": "El usuario debe estar en la lista negra"
+                            },
+                            "NOT_BLACKLISTED": {
+                                "LABEL": "No está en la lista negra",
+                                "DESCRIPTION": "El usuario no debe estar en la lista negra"
+                            }
+                        }
+                    }
+                },
+                "CONFIGURE": {
+                    "SELECT_THE_ACTION": "Debes seleccionar la acción que quieres realizar en el nivel.",
+                    "CONDITIONALS": {
+                        "ADD_CONDITIONAL": {
+                            "LABEL": "Añadir condicional",
+                            "COMPLETED": "Has añadido correctamente el condicional al nivel.",
+                            "DESCRIPTION": "Añade un condicional al nivel."
+                        },
+                        "EDIT_CONDITIONAL": {
+                            "LABEL": "Editar condicional",
+                            "DESCRIPTION": "Edita un condicional del nivel.",
+                            "COMPLETED": "Has editado correctamente el condicional del nivel."
+                        },
+                        "REMOVE_CONDITIONAL": {
+                            "LABEL": "Eliminar condicional",
+                            "DESCRIPTION": "Elimina un condicional del nivel.",
+                            "COMPLETED": "Has eliminado con éxito el condicional del nivel."
+                        },
+                        "SELECT_THE_CONDITIONAL": "Debes seleccionar el condicional que quieres {{action}}.",
+                        "SELECT_THE_CONDITIONAL_PLACEHOLDER": "Selecciona un condicional",
+                        "SELECT_THE_EXPECTED_VALUE": "Debes seleccionar el valor esperado que quieres establecer.",
+                        "SELECT_THE_EXPECTED_VALUE_PLACEHOLDER": "Selecciona el valor esperado",
+                        "AVAILABLE_EXPECTED_VALUES": {
+                            "TRUE": {
+                                "LABEL": "Verdadero",
+                                "DESCRIPTION": "El valor esperado debe ser verdadero"
+                            },
+                            "FALSE": {
+                                "LABEL": "Falso",
+                                "DESCRIPTION": "El valor esperado debe ser falso"
+                            }
+                        },
+                        "EXPECTED_VALUE_SET": "Has establecido correctamente el valor esperado como **{{value}}** .",
+                        "SELECT_THE_TYPE_OF_CONDITIONAL": "Debes seleccionar el tipo de condicional que quieres establecer.",
+                        "SELECT_THE_TYPE_OF_CONDITIONAL_PLACEHOLDER": "Selecciona el tipo de condicional",
+                        "AVAILABLE_TYPES_OF_CONDITIONAL": {
+                            "REQUIRED": {
+                                "LABEL": "Requerido",
+                                "DESCRIPTION": "Se exige el cumplimiento de la condición"
+                            },
+                            "OPTIONAL": {
+                                "LABEL": "Opcional",
+                                "DESCRIPTION": "La condicional es opcional"
+                            }
+                        },
+                        "TYPE_OF_CONDITIONAL_SET": "Has establecido correctamente el tipo de condicional como **{{value}}** .",
+                        "SELECT_THE_OPERAND": "Debes seleccionar el operando que quieres establecer.",
+                        "SELECT_THE_OPERAND_PLACEHOLDER": "Selecciona el operando",
+                        "AVAILABLE_OPERANDS": {
+                            "GREATER_THAN": {
+                                "LABEL": "Mayor que",
+                                "DESCRIPTION": "El valor debe ser mayor que el valor comparado"
+                            },
+                            "GREATER_THAN_OR_EQUAL": {
+                                "LABEL": "Mayor o igual que",
+                                "DESCRIPTION": "El valor debe ser mayor o igual que el valor comparado"
+                            },
+                            "EQUAL": {
+                                "LABEL": "Igual a",
+                                "DESCRIPTION": "El valor debe ser igual al valor comparado"
+                            },
+                            "LESS_THAN": {
+                                "LABEL": "Menor que",
+                                "DESCRIPTION": "El valor debe ser menor al valor comparado"
+                            },
+                            "LESS_THAN_OR_EQUAL": {
+                                "LABEL": "Menor que o igual a",
+                                "DESCRIPTION": "El valor debe ser menor o igual que el valor comparado"
+                            }
+                        },
+                        "OPERAND_SET": "Has establecido correctamente el operando **{{value}}** .",
+                        "SELECT_THE_REQUIRED_CONDITIONS": "Debes seleccionar las condiciones necesarias que quieres establecer.",
+                        "SELECT_THE_REQUIRED_CONDITIONS_PLACEHOLDER": "Selecciona las condiciones requeridas",
+                        "REQUIRED_CONDITIONS_SET": "Has establecido correctamente las condiciones requeridas a **{{conditions}}** .",
+                        "SELECT_THE_REQUIRED_CONDITIONS_OPTION_DESCRIPTION": "{{number}} condiciones son requeridas para cumplirse."
+                    },
+                    "CREATE_A_LEVEL": {
+                        "LABEL": "Crear un nivel",
+                        "DESCRIPTION": "Crea un nivel para el módulo de Auto Moderación.",
+                        "FORM": {
+                            "LABEL": "Posición de nivel"
+                        },
+                        "LEVEL_POSITION_SET": "Has establecido correctamente la posición del nivel en **#{{position}}**.",
+                        "COMPLETED": "Has creado el nivel correctamente."
+                    },
+                    "EDIT_A_LEVEL": {
+                        "LABEL": "Editar un nivel",
+                        "NO_LEVELS_FOUND": "No hay niveles disponibles para editar.",
+                        "SELECT_THE_LEVEL": "Debes seleccionar el nivel que quieres editar.",
+                        "SELECT_THE_LEVEL_PLACEHOLDER": "Selecciona un nivel",
+                        "SELECT_THE_LEVEL_OPTION_DESCRIPTION": "Edita el nivel #{{level}}.",
+                        "COMPLETED": "Has editado correctamente el nivel **#{{level}}**.",
+                        "LEVEL_SELECTED": "Has seleccionado correctamente el nivel **#{{level}}** para editar.",
+                        "DESCRIPTION": "Edita un nivel del módulo de Auto Moderación."
+                    },
+                    "EDIT_THE_LEVEL_SANCTION": {
+                        "LABEL": "Editar la sanción del nivel",
+                        "DESCRIPTION": "Edita la sanción del nivel.",
+                        "NO_LEVELS_FOUND": "No hay niveles disponibles para editar.",
+                        "SELECT_THE_LEVEL": "Debes seleccionar el nivel que quieres editar.",
+                        "SELECT_THE_LEVEL_PLACEHOLDER": "Selecciona un nivel",
+                        "SELECT_THE_LEVEL_OPTION_DESCRIPTION": "Edita la sanción del nivel #{{level}}.",
+                        "COMPLETED": "Has editado correctamente la sanción del nivel **#{{level}}**.",
+                        "LEVEL_SELECTED": "Has seleccionado correctamente el nivel **#{{level}}** para editar su sanción."
+                    },
+                    "DELETE_A_LEVEL": {
+                        "NO_LEVELS_FOUND": "No hay niveles disponibles para eliminar.",
+                        "SELECT_THE_LEVEL": "Debes seleccionar el nivel que quieres eliminar.",
+                        "SELECT_THE_LEVEL_PLACEHOLDER": "Selecciona un nivel",
+                        "SELECT_THE_LEVEL_OPTION_DESCRIPTION": "Elimina el nivel #{{level}}.",
+                        "COMPLETED": "Has eliminado correctamente el nivel **#{{level}}**.",
+                        "LABEL": "Eliminar un nivel",
+                        "DESCRIPTION": "Elimina un nivel del módulo de Auto Moderación."
+                    }
+                },
+                "DESCRIPTION": "Modera a los usuarios de forma inteligente y automática."
+            }
+        },
+        "SELECT_A_SANCTION": "Debes seleccionar la sanción que quieres establecer.",
+        "SANCTION_SET": "Has establecido correctamente la sanción **{{sanction}}**"
     }
-  }
 }

@@ -21,6 +21,6 @@
         "ANTI_BAD_WORDS_1": "你所发送的信息包含坏话。",
         "ANTI_BAD_WORDS_2": "你所更新的信息中含有坏话。",
         "ANTI_EVASION": "该用户已经离开行会，以逃避主动制裁。",
-        "AUTO_MODERATION": "达到 {{warns}}，主动警告。"
+        "AUTO_MODERATION": "满足自动审核级别 #{{level}} 的要求。"
     }
 }

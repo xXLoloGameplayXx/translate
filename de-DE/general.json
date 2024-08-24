@@ -89,9 +89,9 @@
     "SELECT_A_USER_PLACEHOLDER": "Wählen Sie einen Benutzer",
     "SUBMITTED": "Eingereicht",
     "PRESS_BUTTON_TO_MODAL": "Sie müssen auf die Schaltfläche **{{name}}** klicken, um das Modal anzuzeigen.",
-    "NUMBER_OF_SANCTIONS": "Number of sanctions",
-    "TYPE": "Type",
-    "VALUE": "Value",
-    "SANCTIONS": "Sanctions",
-    "BLACKLISTED": "Blacklisted"
+    "NUMBER_OF_SANCTIONS": "Anzahl der Sanktionen",
+    "TYPE": "Typ",
+    "VALUE": "Wert",
+    "SANCTIONS": "Sanktionen",
+    "BLACKLISTED": "Auf der Schwarzen Liste"
 }

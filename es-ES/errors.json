@@ -83,6 +83,6 @@
     "THIS_MODULE_NEEDS_TO_BE_ENABLED": "Este módulo debe estar activado para realizar esta acción.",
     "MAX_NUMBER_OF_EXCEPTIONS_CONFIGURED": "Este módulo ha alcanzado el número máximo de excepciones ({{number}}).",
     "MAX_NUMBER_OF_NOTIFICATION_ROLES_CONFIGURED": "Este módulo ha alcanzado el número máximo de roles de notificación ({{number}}).",
-    "MAX_CONDITIONALS_REACHED": "This level has reached the maximum number of conditionals ({{number}}).",
-    "NO_CONDITIONALS_CONFIGURED": "This level doesn't have any conditionals configured."
+    "MAX_CONDITIONALS_REACHED": "Este nivel ha alcanzado el número máximo de condicionales ({{number}}).",
+    "NO_CONDITIONALS_CONFIGURED": "Este nivel no tiene ningún condicional configurado."
 }

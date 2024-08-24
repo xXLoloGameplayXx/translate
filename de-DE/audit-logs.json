@@ -21,6 +21,6 @@
         "ANTI_BAD_WORDS_1": "Die Nachricht, die Sie gesendet haben, enthält böse Worte.",
         "ANTI_BAD_WORDS_2": "Die von Ihnen aktualisierte Nachricht enthält böse Worte.",
         "ANTI_EVASION": "Der Benutzer hat die Gilde verlassen, um sich einer aktiven Sanktion zu entziehen.",
-        "AUTO_MODERATION": "Erreichen Sie {{warns}} aktive Warnungen."
+        "AUTO_MODERATION": "Erfüllen Sie die Anforderungen der Auto-Moderationsstufe #{{level}}."
     }
 }

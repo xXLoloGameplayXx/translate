@@ -1,250 +1,561 @@
 {
-  "HOME": {
-    "PRE_START": "在继续之前，您必须点击 **{{button}}** 按钮。",
-    "DESCRIPTION": "开始配置 Filo，选择你要配置的模块类别，然后选择你要操作的模块。\n\n**你需要一个参考指南吗？别担心！**\n通过 **[点击这里]({{url}})**，你会重定向到 Filo 的 Wiki，其中包含如何配置任何东西的信息。\n\n**太复杂了？**\n**[联系我们]({{url2}})**如果你有任何问题或需要任何额外的澄清。",
-    "SELECT_A_MODULE_CATEGORY": {
-      "PLACEHOLDER": "选择一个模块类别",
-      "ADMINISTRATION": {
-        "LABEL": "行政管理模块",
-        "DESCRIPTION": "帮助你管理服务器的模块。"
-      },
-      "COMMUNITY": {
-        "LABEL": "社区模块",
-        "DESCRIPTION": "帮助你改善你的社区经验的模块。"
-      },
-      "MODERATION": {
-        "LABEL": "调节模块",
-        "DESCRIPTION": "模块，以帮助你调节你的服务器。"
-      }
-    },
-    "TITLE": "Filo 设置菜单"
-  },
-  "LOADING_DATA": "在加载必要的数据时，请等待。",
-  "MODULES": {
-    "SELECT_A_MODULE": "您必须从 **{{module}}** 类别中选择要配置的模块。",
-    "SELECT_A_SUBMODULE": "您必须从 **{{module}}** 模块中选择要配置的子模块。",
-    "PLACEHOLDER": "选择一个模块",
-    "SELECT_THE_ACTION": "你必须选择你想对该模块执行的操作。",
-    "SELECT_THE_ACTION_PLACEHOLDER": "选择一个行动",
-    "MODULE_ENABLED_OR_DISABLED": "**{{module}}** 模块已成功 {{action}}。",
-    "RESET_REQUEST_WARNING": "你确定你要重置 **{{module}}** 模块吗？这个动作是不能撤销的!",
-    "MODULE_RESET": "**{{module}}** 模块已被成功重置。",
-    "SELECT_A_CHANNEL": "你必须选择你想设置的频道。",
-    "SELECT_A_CHANNEL_PLACEHOLDER": "选择一个频道",
-    "SELECT_AT_LEAST_ONE_CHANNEL": "你必须至少选择一个通道。",
-    "SELECT_A_ROLE": "你必须选择你想设置的角色。",
-    "SELECT_A_ROLE_PLACEHOLDER": "选择一个角色",
-    "SELECT_AT_LEAST_ONE_ROLE": "你必须至少选择一个角色。",
-    "CHANNEL_SET": "**{{module}}** 你已经成功地为 **[#{{channel.name}}]({{url}})** 模块设置了通道。",
-    "DM_STATUS": {
-      "LABEL": "切换DMs的状态",
-      "DESCRIPTION": "通过 DM 更改通知状态。",
-      "DM_STATUS_TOGGLED": "您已成功 **{{action}}** 了 **{{module}}** 模块的 DM 通知。"
-    },
-    "EXCEPTIONS": {
-      "ADD": {
-        "LABEL": "添加 {{type}}",
-        "DESCRIPTION": "将 {{type}} 到模块的例外列表中。",
-        "COMPLETED": "你已经成功地将 {{value}} {{type}} 到模块的例外列表中。",
-        "COMPLETED_ALTERNATIVE": "您已成功将 **{{number}}** {{type}} 添加到模块的异常列表中。"
-      },
-      "SET": {
-        "LABEL": "设置 {{type}}",
-        "DESCRIPTION": "将 {{type}} 列表设置为模块的异常列表。",
-        "COMPLETED": "你已经成功地将 {{value}} {{type}} 到模块的例外列表。",
-        "COMPLETED_ALTERNATIVE": "您已成功将 **{{number}}** {{type}} 设置为模块的异常列表。"
-      },
-      "REMOVE": {
-        "LABEL": "删除 {{type}}",
-        "DESCRIPTION": "从模块的异常列表中删除 {{type}}。",
-        "COMPLETED": "你已经成功地从模块的例外列表中删除了 {{value}} {{type}}。",
-        "COMPLETED_ALTERNATIVE": "您已成功将 **{{number}}** {{type}} 从模块的异常列表中删除。",
-        "NO_DATA_TO_REMOVE": "{{value}}，无法从模块的异常列表中删除。"
-      }
-    },
-    "COMMUNITY": {
-      "NAME": "社区",
-      "COMMANDS": {
-        "LABEL": "命令",
-        "DESCRIPTION": "更改 Filo 命令的行为。",
-        "CONFIGURE": {
-          "SELECT_THE_COMMANDS": "你必须选择你想要的命令，{{action}}。",
-          "SELECT_THE_CATEGORIES": "你必须选择你想要的类别 {{action}}。",
-          "SELECT_THE_COMMANDS_PLACEHOLDER": "选择命令",
-          "SELECT_THE_CATEGORIES_PLACEHOLDER": "选择类别",
-          "DISABLE_COMMANDS": {
-            "LABEL": "禁用命令",
-            "DESCRIPTION": "禁用 Filo 命令。",
-            "NO_COMMANDS_TO_DISABLE": "所有可用命令均已禁用。",
-            "COMMANDS_DISABLED": "你已经成功地禁用了 **{{commands}}** 命令。"
-          },
-          "ENABLE_COMMANDS": {
-            "LABEL": "启用命令",
-            "DESCRIPTION": "启用 Filo 命令。",
-            "NO_COMMANDS_TO_ENABLE": "所有可用的命令目前都已启用。",
-            "COMMANDS_ENABLED": "你已经成功启用了 **{{commands}}** 命令。"
-          },
-          "DISABLE_CATEGORIES": {
-            "LABEL": "禁用类别",
-            "DESCRIPTION": "禁用 Filo 的类别。",
-            "NO_CATEGORIES_TO_DISABLE": "所有可用类别均已禁用。",
-            "CATEGORIES_DISABLED": "您已成功禁用 **{{categories}}** 类别。"
-          },
-          "ENABLE_CATEGORIES": {
-            "LABEL": "启用类别",
-            "DESCRIPTION": "启用 Filo 的类别。",
-            "NO_CATEGORIES_TO_ENABLE": "目前已启用所有可用类别。",
-            "CATEGORIES_ENABLED": "您已成功启用 **{{categories}}** 类别。"
-          }
-        }
-      },
-      "LANGUAGE": {
-        "LABEL": "语言",
-        "DESCRIPTION": "在本服务器上更改 Filo 的语言。",
-        "SELECT_A_LANGUAGE": "你必须选择你想设置的语言。",
-        "SELECT_A_LANGUAGE_PLACEHOLDER": "选择一种语言",
-        "LANGUAGE_SET": "您已成功设置 **{{language}}** 语言。"
-      },
-      "REPORTS": {
-        "LABEL": "报告",
-        "DESCRIPTION": "为你的服务器成员提供报告工具。",
-        "SUBMODULES_SELECTOR": {
-          "MEMBERS": "改变会员报告模块的行为。",
-          "MESSAGES": "改变消息报告模块的行为。"
+    "HOME": {
+        "PRE_START": "在继续之前，您必须点击 **{{button}}** 按钮。",
+        "DESCRIPTION": "开始配置 Filo，选择你要配置的模块类别，然后选择你要操作的模块。\n\n**你需要一个参考指南吗？别担心！**\n通过 **[点击这里]({{url}})**，你会重定向到 Filo 的 Wiki，其中包含如何配置任何东西的信息。\n\n**太复杂了？**\n**[联系我们]({{url2}})**如果你有任何问题或需要任何额外的澄清。",
+        "SELECT_A_MODULE_CATEGORY": {
+            "PLACEHOLDER": "选择一个模块类别",
+            "ADMINISTRATION": {
+                "LABEL": "行政管理模块",
+                "DESCRIPTION": "帮助你管理服务器的模块。"
+            },
+            "COMMUNITY": {
+                "LABEL": "社区模块",
+                "DESCRIPTION": "帮助你改善你的社区经验的模块。"
+            },
+            "MODERATION": {
+                "LABEL": "调节模块",
+                "DESCRIPTION": "模块，以帮助你调节你的服务器。"
+            }
         },
-        "CONFIGURE": {
-          "REPORTS_CHANNEL": {
-            "LABEL": "设置报告通道",
-            "DESCRIPTION": "设置你希望报告的发送地点。"
-          },
-          "IGNORED_ROLE": {
-            "LABEL": "设置被忽略的角色",
-            "DESCRIPTION": "设置一个角色，其成员不能发送报告。",
-            "IGNORED_ROLE_SET": "您已成功将 **{{role.mention}}** ({{role.id}}) 角色设置为忽略角色。"
-          },
-          "TOGGLE_DELETE_REVIEWED_REPORTS": {
-            "LABEL": "切换删除已审查的报告",
-            "DESCRIPTION": "改变删除已审查报告的状态。",
-            "DELETE_REVIEWED_REPORTS_TOGGLED": "您已成功 **{{action}}** 删除已审核报告。"
-          },
-          "NOTIFICATION_ROLES": {
+        "TITLE": "Filo 设置菜单"
+    },
+    "LOADING_DATA": "在加载必要的数据时，请等待。",
+    "MODULES": {
+        "SELECT_A_MODULE": "您必须从 **{{module}}** 类别中选择要配置的模块。",
+        "SELECT_A_SUBMODULE": "您必须从 **{{module}}** 模块中选择要配置的子模块。",
+        "PLACEHOLDER": "选择一个模块",
+        "SELECT_THE_ACTION": "你必须选择你想对该模块执行的操作。",
+        "SELECT_THE_ACTION_PLACEHOLDER": "选择一个行动",
+        "MODULE_ENABLED_OR_DISABLED": "**{{module}}** 模块已成功 {{action}}。",
+        "RESET_REQUEST_WARNING": "你确定你要重置 **{{module}}** 模块吗？这个动作是不能撤销的!",
+        "MODULE_RESET": "**{{module}}** 模块已被成功重置。",
+        "SELECT_A_CHANNEL": "你必须选择你想设置的频道。",
+        "SELECT_A_CHANNEL_PLACEHOLDER": "选择一个频道",
+        "SELECT_AT_LEAST_ONE_CHANNEL": "你必须至少选择一个通道。",
+        "SELECT_A_ROLE": "你必须选择你想设置的角色。",
+        "SELECT_A_ROLE_PLACEHOLDER": "选择一个角色",
+        "SELECT_AT_LEAST_ONE_ROLE": "你必须至少选择一个角色。",
+        "CHANNEL_SET": "**{{module}}** 你已经成功地为 **[#{{channel.name}}]({{url}})** 模块设置了通道。",
+        "DM_STATUS": {
+            "LABEL": "切换DMs的状态",
+            "DESCRIPTION": "通过 DM 更改通知状态。",
+            "DM_STATUS_TOGGLED": "您已成功 **{{action}}** 了 **{{module}}** 模块的 DM 通知。"
+        },
+        "EXCEPTIONS": {
             "ADD": {
-              "LABEL": "添加通知角色",
-              "DESCRIPTION": "添加报告发送时将被通知的角色。",
-              "COMPLETED": "您已成功添加 **{{role.mention}}** ({{role.id}}) 角色为通知角色。",
-              "COMPLETED_ALTERNATIVE": "您已成功将 **{{number}}** 角色添加为通知角色。"
+                "LABEL": "添加 {{type}}",
+                "DESCRIPTION": "将 {{type}} 到模块的例外列表中。",
+                "COMPLETED": "你已经成功地将 {{value}} {{type}} 到模块的例外列表中。",
+                "COMPLETED_ALTERNATIVE": "您已成功将 **{{number}}** {{type}} 添加到模块的异常列表中。"
             },
             "SET": {
-              "LABEL": "设置通知角色",
-              "DESCRIPTION": "设置报告发送时将被通知的角色。",
-              "COMPLETED": "您已成功将 **{{role.mention}}** ({{role.id}}) 角色设置为通知角色。",
-              "COMPLETED_ALTERNATIVE": "您已成功将 **{{number}}** 角色设置为通知角色。"
+                "LABEL": "设置 {{type}}",
+                "DESCRIPTION": "将 {{type}} 列表设置为模块的异常列表。",
+                "COMPLETED": "你已经成功地将 {{value}} {{type}} 到模块的例外列表。",
+                "COMPLETED_ALTERNATIVE": "您已成功将 **{{number}}** {{type}} 设置为模块的异常列表。"
             },
             "REMOVE": {
-              "LABEL": "移除通知角色",
-              "DESCRIPTION": "删除发送报告时会收到通知的角色。",
-              "COMPLETED": "您已成功删除作为通知角色的 **{{role.mention}}** ({{role.id}}) 角色。",
-              "COMPLETED_ALTERNATIVE": "您已成功删除 **{{number}}** 作为通知角色的角色。",
-              "NO_DATA_TO_REMOVE": "没有可删除的通知角色。"
+                "LABEL": "删除 {{type}}",
+                "DESCRIPTION": "从模块的异常列表中删除 {{type}}。",
+                "COMPLETED": "你已经成功地从模块的例外列表中删除了 {{value}} {{type}}。",
+                "COMPLETED_ALTERNATIVE": "您已成功将 **{{number}}** {{type}} 从模块的异常列表中删除。",
+                "NO_DATA_TO_REMOVE": "{{value}}，无法从模块的异常列表中删除。"
             }
-          },
-          "REASON": {
-            "LABEL": "配置原因参数",
-            "DESCRIPTION": "改变报告的原因字段的行为。",
-            "SET_MIN_LENGTH_OF_MEMBER_REASON": {
-              "LABEL": "设置成员理由的最小长度",
-              "DESCRIPTION": "设置成员报告的理由的最小长度。",
-              "FORM": {
-                "LABEL": "最小理由长度"
-              },
-              "COMPLETED": "您已成功将成员理由的最小长度设置为 **{{number}}** 字符。"
-            },
-            "SET_MAX_LENGTH_OF_MEMBER_REASON": {
-              "LABEL": "设置成员理由的最大长度",
-              "DESCRIPTION": "设置成员报告理由的最大长度。",
-              "FORM": {
-                "LABEL": "最大理由长度"
-              },
-              "COMPLETED": "您已成功将成员理由的最大长度设置为 **{{number}}** 个字符。"
-            },
-            "CLEAN_MARKDOWN_OF_MEMBER_REASON": {
-              "LABEL": "切换对成员理由的清理标记",
-              "DESCRIPTION": "改变成员报告的原因的清理标记的状态。",
-              "COMPLETED": "您已成功 **{{action}}** 清理了成员原因的标记。"
-            },
-            "SET_MIN_LENGTH_OF_REVIEWER_REASON": {
-              "LABEL": "设置审查员理由的最小长度",
-              "DESCRIPTION": "设置审查员报告的理由的最小长度。",
-              "FORM": {
-                "LABEL": "最小理由长度"
-              },
-              "COMPLETED": "您已成功将审阅人理由的最小长度设置为 **{{number}}** 个字符。"
-            },
-            "SET_MAX_LENGTH_OF_REVIEWER_REASON": {
-              "LABEL": "设置审查员理由的最大长度",
-              "DESCRIPTION": "设置审阅人报告理由的最大长度。",
-              "FORM": {
-                "LABEL": "最大理由长度"
-              },
-              "COMPLETED": "您已成功将审阅人理由的最大长度设置为 **{{number}}** 个字符。"
-            },
-            "CLEAN_MARKDOWN_OF_REVIEWER_REASON": {
-              "LABEL": "切换对审查员原因的清理标记",
-              "DESCRIPTION": "改变审查员报告的原因的清理标记的状态。",
-              "COMPLETED": "您已成功 **{{action}}** 清理了审稿人理由的标记。"
-            }
-          },
-          "EVIDENCES": {
-            "LABEL": "配置证据参数",
-            "DESCRIPTION": "改变报告中证据领域的行为。",
-            "SET_MIN_COUNT": {
-              "LABEL": "设定证据的最低数量",
-              "DESCRIPTION": "设定一份报告必须具备的最小证据数。",
-              "FORM": {
-                "LABEL": "最小计数"
-              },
-              "COMPLETED": "您已成功将证据的最低数量设置为 **{{number}}**。"
-            }
-          }
-        }
-      }
-    },
-    "VIEW": {
-      "TITLE": "查看 **{{module}}** 模块的设置",
-      "NO_DATA": "没有数据",
-      "SELECT_THE_DATA": "选择要查看的数据",
-      "VIEW_ALL": "查看所有 {{data}}.",
-      "DM_STATUS": "DM 状态",
-      "COOLDOWN": "暂停时间",
-      "EXCEPTIONS": "{{type}} 例外情况",
-      "COMMUNITY": {
-        "COMMANDS": {
-          "DISABLED_COMMANDS": "禁用的命令",
-          "DISABLED_CATEGORIES": "残疾人类别"
         },
-        "LANGUAGE": {
-          "LANGUAGE_CODE": "语言代码"
+        "COMMUNITY": {
+            "NAME": "社区",
+            "COMMANDS": {
+                "LABEL": "命令",
+                "DESCRIPTION": "更改 Filo 命令的行为。",
+                "CONFIGURE": {
+                    "SELECT_THE_COMMANDS": "你必须选择你想要的命令，{{action}}。",
+                    "SELECT_THE_CATEGORIES": "你必须选择你想要的类别 {{action}}。",
+                    "SELECT_THE_COMMANDS_PLACEHOLDER": "选择命令",
+                    "SELECT_THE_CATEGORIES_PLACEHOLDER": "选择类别",
+                    "DISABLE_COMMANDS": {
+                        "LABEL": "禁用命令",
+                        "DESCRIPTION": "禁用 Filo 命令。",
+                        "NO_COMMANDS_TO_DISABLE": "所有可用命令均已禁用。",
+                        "COMMANDS_DISABLED": "你已经成功地禁用了 **{{commands}}** 命令。"
+                    },
+                    "ENABLE_COMMANDS": {
+                        "LABEL": "启用命令",
+                        "DESCRIPTION": "启用 Filo 命令。",
+                        "NO_COMMANDS_TO_ENABLE": "所有可用的命令目前都已启用。",
+                        "COMMANDS_ENABLED": "你已经成功启用了 **{{commands}}** 命令。"
+                    },
+                    "DISABLE_CATEGORIES": {
+                        "LABEL": "禁用类别",
+                        "DESCRIPTION": "禁用 Filo 的类别。",
+                        "NO_CATEGORIES_TO_DISABLE": "所有可用类别均已禁用。",
+                        "CATEGORIES_DISABLED": "您已成功禁用 **{{categories}}** 类别。"
+                    },
+                    "ENABLE_CATEGORIES": {
+                        "LABEL": "启用类别",
+                        "DESCRIPTION": "启用 Filo 的类别。",
+                        "NO_CATEGORIES_TO_ENABLE": "目前已启用所有可用类别。",
+                        "CATEGORIES_ENABLED": "您已成功启用 **{{categories}}** 类别。"
+                    }
+                }
+            },
+            "LANGUAGE": {
+                "LABEL": "语言",
+                "DESCRIPTION": "在本服务器上更改 Filo 的语言。",
+                "SELECT_A_LANGUAGE": "你必须选择你想设置的语言。",
+                "SELECT_A_LANGUAGE_PLACEHOLDER": "选择一种语言",
+                "LANGUAGE_SET": "您已成功设置 **{{language}}** 语言。"
+            },
+            "REPORTS": {
+                "LABEL": "报告",
+                "DESCRIPTION": "为你的服务器成员提供报告工具。",
+                "SUBMODULES_SELECTOR": {
+                    "MEMBERS": "改变会员报告模块的行为。",
+                    "MESSAGES": "改变消息报告模块的行为。"
+                },
+                "CONFIGURE": {
+                    "REPORTS_CHANNEL": {
+                        "LABEL": "设置报告通道",
+                        "DESCRIPTION": "设置你希望报告的发送地点。"
+                    },
+                    "IGNORED_ROLE": {
+                        "LABEL": "设置被忽略的角色",
+                        "DESCRIPTION": "设置一个角色，其成员不能发送报告。",
+                        "IGNORED_ROLE_SET": "您已成功将 **{{role.mention}}** ({{role.id}}) 角色设置为忽略角色。"
+                    },
+                    "TOGGLE_DELETE_REVIEWED_REPORTS": {
+                        "LABEL": "切换删除已审查的报告",
+                        "DESCRIPTION": "改变删除已审查报告的状态。",
+                        "DELETE_REVIEWED_REPORTS_TOGGLED": "您已成功 **{{action}}** 删除已审核报告。"
+                    },
+                    "NOTIFICATION_ROLES": {
+                        "ADD": {
+                            "LABEL": "添加通知角色",
+                            "DESCRIPTION": "添加报告发送时将被通知的角色。",
+                            "COMPLETED": "您已成功添加 **{{role.mention}}** ({{role.id}}) 角色为通知角色。",
+                            "COMPLETED_ALTERNATIVE": "您已成功将 **{{number}}** 角色添加为通知角色。"
+                        },
+                        "SET": {
+                            "LABEL": "设置通知角色",
+                            "DESCRIPTION": "设置报告发送时将被通知的角色。",
+                            "COMPLETED": "您已成功将 **{{role.mention}}** ({{role.id}}) 角色设置为通知角色。",
+                            "COMPLETED_ALTERNATIVE": "您已成功将 **{{number}}** 角色设置为通知角色。"
+                        },
+                        "REMOVE": {
+                            "LABEL": "移除通知角色",
+                            "DESCRIPTION": "删除发送报告时会收到通知的角色。",
+                            "COMPLETED": "您已成功删除作为通知角色的 **{{role.mention}}** ({{role.id}}) 角色。",
+                            "COMPLETED_ALTERNATIVE": "您已成功删除 **{{number}}** 作为通知角色的角色。",
+                            "NO_DATA_TO_REMOVE": "没有可删除的通知角色。"
+                        }
+                    },
+                    "REASON": {
+                        "LABEL": "配置原因参数",
+                        "DESCRIPTION": "改变报告的原因字段的行为。",
+                        "SET_MIN_LENGTH_OF_MEMBER_REASON": {
+                            "LABEL": "设置成员理由的最小长度",
+                            "DESCRIPTION": "设置成员报告的理由的最小长度。",
+                            "FORM": {
+                                "LABEL": "最小理由长度"
+                            },
+                            "COMPLETED": "您已成功将成员理由的最小长度设置为 **{{number}}** 字符。"
+                        },
+                        "SET_MAX_LENGTH_OF_MEMBER_REASON": {
+                            "LABEL": "设置成员理由的最大长度",
+                            "DESCRIPTION": "设置成员报告理由的最大长度。",
+                            "FORM": {
+                                "LABEL": "最大理由长度"
+                            },
+                            "COMPLETED": "您已成功将成员理由的最大长度设置为 **{{number}}** 个字符。"
+                        },
+                        "CLEAN_MARKDOWN_OF_MEMBER_REASON": {
+                            "LABEL": "切换对成员理由的清理标记",
+                            "DESCRIPTION": "改变成员报告的原因的清理标记的状态。",
+                            "COMPLETED": "您已成功 **{{action}}** 清理了成员原因的标记。"
+                        },
+                        "SET_MIN_LENGTH_OF_REVIEWER_REASON": {
+                            "LABEL": "设置审查员理由的最小长度",
+                            "DESCRIPTION": "设置审查员报告的理由的最小长度。",
+                            "FORM": {
+                                "LABEL": "最小理由长度"
+                            },
+                            "COMPLETED": "您已成功将审阅人理由的最小长度设置为 **{{number}}** 个字符。"
+                        },
+                        "SET_MAX_LENGTH_OF_REVIEWER_REASON": {
+                            "LABEL": "设置审查员理由的最大长度",
+                            "DESCRIPTION": "设置审阅人报告理由的最大长度。",
+                            "FORM": {
+                                "LABEL": "最大理由长度"
+                            },
+                            "COMPLETED": "您已成功将审阅人理由的最大长度设置为 **{{number}}** 个字符。"
+                        },
+                        "CLEAN_MARKDOWN_OF_REVIEWER_REASON": {
+                            "LABEL": "切换对审查员原因的清理标记",
+                            "DESCRIPTION": "改变审查员报告的原因的清理标记的状态。",
+                            "COMPLETED": "您已成功 **{{action}}** 清理了审稿人理由的标记。"
+                        }
+                    },
+                    "EVIDENCES": {
+                        "LABEL": "配置证据参数",
+                        "DESCRIPTION": "改变报告中证据领域的行为。",
+                        "SET_MIN_COUNT": {
+                            "LABEL": "设定证据的最低数量",
+                            "DESCRIPTION": "设定一份报告必须具备的最小证据数。",
+                            "FORM": {
+                                "LABEL": "最小计数"
+                            },
+                            "COMPLETED": "您已成功将证据的最低数量设置为 **{{number}}**。"
+                        }
+                    }
+                }
+            }
         },
-        "REPORTS": {
-          "REPORTS_CHANNEL": "报告渠道",
-          "IGNORED_ROLE": "被忽视的角色",
-          "DELETE_REVIEWED_REPORTS": "删除已审查的报告",
-          "NOTIFICATION_ROLES": "通知的作用",
-          "REASON_PARAMETERS": {
-            "TITLE": "原因参数",
-            "MIN_LENGTH_OF_MEMBER_REASON": "成员理由的最小长度",
-            "MAX_LENGTH_OF_MEMBER_REASON": "成员理由的最大长度",
-            "CLEAN_MARKDOWN_OF_MEMBER_REASON": "会员理由的清洁标记",
-            "MIN_LENGTH_OF_REVIEWER_REASON": "评审员理由的最小长度",
-            "MAX_LENGTH_OF_REVIEWER_REASON": "评审员理由的最大长度",
-            "CLEAN_MARKDOWN_OF_REVIEWER_REASON": "审查员理由的清洁标记"
-          },
-          "EVIDENCES_PARAMETERS": {
-            "TITLE": "证据参数",
-            "MIN_COUNT": "证据的最低数量"
-          }
-        }
-      }
+        "VIEW": {
+            "TITLE": "查看 **{{module}}** 模块的设置",
+            "NO_DATA": "没有数据",
+            "SELECT_THE_DATA": "选择要查看的数据",
+            "VIEW_ALL": "查看所有 {{data}}.",
+            "DM_STATUS": "DM 状态",
+            "COOLDOWN": "暂停时间",
+            "EXCEPTIONS": "{{type}} 例外情况",
+            "COMMUNITY": {
+                "COMMANDS": {
+                    "DISABLED_COMMANDS": "禁用的命令",
+                    "DISABLED_CATEGORIES": "残疾人类别"
+                },
+                "LANGUAGE": {
+                    "LANGUAGE_CODE": "语言代码"
+                },
+                "REPORTS": {
+                    "REPORTS_CHANNEL": "报告渠道",
+                    "IGNORED_ROLE": "被忽视的角色",
+                    "DELETE_REVIEWED_REPORTS": "删除已审查的报告",
+                    "NOTIFICATION_ROLES": "通知的作用",
+                    "REASON_PARAMETERS": {
+                        "TITLE": "原因参数",
+                        "MIN_LENGTH_OF_MEMBER_REASON": "成员理由的最小长度",
+                        "MAX_LENGTH_OF_MEMBER_REASON": "成员理由的最大长度",
+                        "CLEAN_MARKDOWN_OF_MEMBER_REASON": "会员理由的清洁标记",
+                        "MIN_LENGTH_OF_REVIEWER_REASON": "评审员理由的最小长度",
+                        "MAX_LENGTH_OF_REVIEWER_REASON": "评审员理由的最大长度",
+                        "CLEAN_MARKDOWN_OF_REVIEWER_REASON": "审查员理由的清洁标记"
+                    },
+                    "EVIDENCES_PARAMETERS": {
+                        "TITLE": "证据参数",
+                        "MIN_COUNT": "证据的最低数量"
+                    }
+                }
+            },
+            "MODERATION": {
+                "AUTO_MODERATION": {
+                    "REQUIRED_OPTIONAL_CONDITIONALS": "必要的可选条件",
+                    "LEVEL": "级别 #{{level}}",
+                    "CONDITIONALS": "条件式",
+                    "CONDITIONAL": "条件 #{{conditional}}",
+                    "EXPECTED_VALUE": "预期值",
+                    "REQUIRED_STATUS": "必要状态"
+                }
+            },
+            "ACTION": "行动"
+        },
+        "SELECT_A_SANCTION": "您必须选择要设置的制裁。",
+        "MODERATION": {
+            "AUTO_MODERATION": {
+                "DESCRIPTION": "智能、自动地管理用户。",
+                "CONFIGURE": {
+                    "CONDITIONALS": {
+                        "SELECT_THE_TYPE_OF_CONDITIONAL": "您必须选择要设置的条件类型。",
+                        "AVAILABLE_OPERANDS": {
+                            "GREATER_THAN_OR_EQUAL": {
+                                "DESCRIPTION": "值必须大于或等于比较值",
+                                "LABEL": "大于或等于"
+                            },
+                            "LESS_THAN": {
+                                "LABEL": "小于",
+                                "DESCRIPTION": "值必须小于比较值"
+                            },
+                            "GREATER_THAN": {
+                                "LABEL": "大于",
+                                "DESCRIPTION": "值必须大于比较值"
+                            },
+                            "EQUAL": {
+                                "LABEL": "等于",
+                                "DESCRIPTION": "值必须等于比较值"
+                            },
+                            "LESS_THAN_OR_EQUAL": {
+                                "LABEL": "小于或等于",
+                                "DESCRIPTION": "值必须小于或等于比较值"
+                            }
+                        },
+                        "REMOVE_CONDITIONAL": {
+                            "COMPLETED": "您已成功将条件从关卡中移除。",
+                            "LABEL": "删除条件",
+                            "DESCRIPTION": "从关卡中移除一个条件。"
+                        },
+                        "OPERAND_SET": "您已成功将操作数设置为 **{{value}}**。",
+                        "ADD_CONDITIONAL": {
+                            "DESCRIPTION": "在关卡中添加一个条件。",
+                            "LABEL": "添加条件",
+                            "COMPLETED": "您已成功将条件添加到关卡中。"
+                        },
+                        "EDIT_CONDITIONAL": {
+                            "LABEL": "编辑条件",
+                            "DESCRIPTION": "编辑关卡的条件。",
+                            "COMPLETED": "您已成功编辑了关卡的条件。"
+                        },
+                        "SELECT_THE_CONDITIONAL": "您必须选择要{{action}} 的条件。",
+                        "SELECT_THE_CONDITIONAL_PLACEHOLDER": "选择条件",
+                        "SELECT_THE_EXPECTED_VALUE": "您必须选择要设置的预期值。",
+                        "SELECT_THE_EXPECTED_VALUE_PLACEHOLDER": "选择预期值",
+                        "AVAILABLE_EXPECTED_VALUES": {
+                            "TRUE": {
+                                "LABEL": "正确",
+                                "DESCRIPTION": "预期值必须为真"
+                            },
+                            "FALSE": {
+                                "LABEL": "假的",
+                                "DESCRIPTION": "预期值必须为假"
+                            }
+                        },
+                        "SELECT_THE_TYPE_OF_CONDITIONAL_PLACEHOLDER": "选择条件类型",
+                        "AVAILABLE_TYPES_OF_CONDITIONAL": {
+                            "REQUIRED": {
+                                "LABEL": "需要",
+                                "DESCRIPTION": "必须满足以下条件"
+                            },
+                            "OPTIONAL": {
+                                "LABEL": "可选",
+                                "DESCRIPTION": "条件是可选的"
+                            }
+                        },
+                        "SELECT_THE_OPERAND": "您必须选择要设置的操作数。",
+                        "SELECT_THE_OPERAND_PLACEHOLDER": "选择操作数",
+                        "EXPECTED_VALUE_SET": "您已成功将预期值设置为 **{{value}}**。",
+                        "TYPE_OF_CONDITIONAL_SET": "您已成功将条件类型设置为 **{{value}}**。",
+                        "SELECT_THE_REQUIRED_CONDITIONS": "您必须选择要设置的必要条件。",
+                        "SELECT_THE_REQUIRED_CONDITIONS_PLACEHOLDER": "选择所需条件",
+                        "SELECT_THE_REQUIRED_CONDITIONS_OPTION_DESCRIPTION": "{{number}} 必须满足的条件。",
+                        "REQUIRED_CONDITIONS_SET": "您已成功将所需条件设置为 **{{conditions}}**。"
+                    },
+                    "EDIT_THE_LEVEL_SANCTION": {
+                        "COMPLETED": "您已成功编辑了关卡的制裁 **#{{level}}**。",
+                        "LABEL": "编辑关卡制裁",
+                        "DESCRIPTION": "编辑关卡的制裁。",
+                        "NO_LEVELS_FOUND": "没有可编辑的级别。",
+                        "SELECT_THE_LEVEL": "您必须选择要编辑的级别。",
+                        "SELECT_THE_LEVEL_PLACEHOLDER": "选择级别",
+                        "SELECT_THE_LEVEL_OPTION_DESCRIPTION": "编辑关卡的制裁 #{{level}}。",
+                        "LEVEL_SELECTED": "您已成功选择 **#{{level}}** 来编辑其制裁。"
+                    },
+                    "EDIT_A_LEVEL": {
+                        "COMPLETED": "您已成功编辑了关卡 **#{{level}}**。",
+                        "LABEL": "编辑关卡",
+                        "DESCRIPTION": "从自动审核模块编辑级别。",
+                        "NO_LEVELS_FOUND": "没有可编辑的级别。",
+                        "SELECT_THE_LEVEL": "您必须选择要编辑的级别。",
+                        "SELECT_THE_LEVEL_PLACEHOLDER": "选择级别",
+                        "SELECT_THE_LEVEL_OPTION_DESCRIPTION": "编辑关卡 #{{level}}。",
+                        "LEVEL_SELECTED": "您已成功选择了要编辑的等级 **#{{level}}**。"
+                    },
+                    "CREATE_A_LEVEL": {
+                        "LEVEL_POSITION_SET": "您已成功将水平位置设置为 **#{{position}}**。",
+                        "LABEL": "创建等级",
+                        "DESCRIPTION": "为自动审核模块创建一个级别。",
+                        "FORM": {
+                            "LABEL": "水平位置"
+                        },
+                        "COMPLETED": "您已成功创建关卡。"
+                    },
+                    "SELECT_THE_ACTION": "您必须选择要在关卡中执行的操作。",
+                    "DELETE_A_LEVEL": {
+                        "LABEL": "删除关卡",
+                        "DESCRIPTION": "从自动审核模块中删除一个级别。",
+                        "NO_LEVELS_FOUND": "没有可删除的级别。",
+                        "SELECT_THE_LEVEL": "您必须选择要删除的级别。",
+                        "SELECT_THE_LEVEL_PLACEHOLDER": "选择级别",
+                        "SELECT_THE_LEVEL_OPTION_DESCRIPTION": "删除级别 #{{level}}。",
+                        "COMPLETED": "您已成功删除关卡 **#{{level}}**。"
+                    }
+                },
+                "CONDITIONALS_LIST": {
+                    "MEMBER_TOTAL_SANCTIONS_WITH_EXPIRATION": {
+                        "TOTAL_SANCTIONS_WITH_EXPIRATION_SET": "您已成功地将 **{{number}}** 的制裁总数设置为最近的 **{{time}}**。",
+                        "LABEL": "制裁期满的成员总数",
+                        "DESCRIPTION": "检查该成员过期的制裁总数。"
+                    },
+                    "USER_DISPLAY_NAME": {
+                        "DISPLAY_NAME_SET": "您已成功将用户的显示名称设置为 **{{name}}**。",
+                        "LABEL": "用户显示名称",
+                        "DESCRIPTION": "检查用户的显示名称。"
+                    },
+                    "MEMBER_ROLE": {
+                        "ROLE_SET": "您已成功将该成员的角色设置为 **{{role.mention}}** ({{role.id}})。",
+                        "LABEL": "成员角色",
+                        "DESCRIPTION": "检查成员的角色。"
+                    },
+                    "MEMBER_TOTAL_SANCTIONS": {
+                        "LABEL": "成员制裁总额",
+                        "DESCRIPTION": "检查该成员受到的制裁总数。",
+                        "TOTAL_SANCTIONS_SET": "您已成功将制裁总数设置为 **{{number}}**。"
+                    },
+                    "MEMBER_TOTAL_SANCTIONS_BY_TYPE_WITH_EXPIRATION": {
+                        "TOTAL_SANCTIONS_BY_TYPE_WITH_EXPIRATION_SET": "您已成功将最近 **{{time}}** 的制裁总数设置为 **{{number}}**，将类型设置为 **{{type}}**。",
+                        "LABEL": "按到期时间分列的会员国制裁总数",
+                        "DESCRIPTION": "按类型查看该成员所受制裁的总数，以及制裁的有效期。",
+                        "SELECT_THE_TYPE": "您必须选择要设置的类型。",
+                        "SELECT_THE_TYPE_PLACEHOLDER": "选择类型"
+                    },
+                    "USER_FLAG": {
+                        "SELECT_THE_FLAG_PLACEHOLDER": "选择旗帜",
+                        "FLAG_SET": "您已成功设置**{{flag}}** 标志。",
+                        "LABEL": "用户旗帜",
+                        "DESCRIPTION": "检查用户是否有指定的标志。",
+                        "SELECT_THE_FLAG": "您必须选择要设置的标志。",
+                        "DESCRIPTION_ALTERNATIVE": "用户必须有{{flag}} 标志。"
+                    },
+                    "MEMBER_NICKNAME": {
+                        "NICKNAME_SET": "您已成功将会员的昵称设置为 **{{name}}**。",
+                        "LABEL": "会员昵称",
+                        "DESCRIPTION": "检查成员的昵称。"
+                    },
+                    "MEMBER_TOTAL_SANCTIONS_BY_TYPE_BY_MODULE": {
+                        "SELECT_THE_TYPE": "您必须选择要设置的类型。",
+                        "TOTAL_SANCTIONS_BY_TYPE_BY_MODULE_SET": "您已成功将制裁总数设置为 **{{number}}**，将类型设置为 **{{type}}**，将模块设置为 **{{module}}**。",
+                        "LABEL": "按类别和单元分列的成员制裁总数",
+                        "DESCRIPTION": "按模块类型检查成员所受制裁的总数。",
+                        "SELECT_THE_TYPE_PLACEHOLDER": "选择类型",
+                        "SELECT_THE_MODULE": "您必须选择要设置的模块。",
+                        "SELECT_THE_MODULE_PLACEHOLDER": "选择模块"
+                    },
+                    "MEMBER_TOTAL_SANCTIONS_BY_MODULE_WITH_EXPIRATION": {
+                        "TOTAL_SANCTIONS_BY_MODULE_WITH_EXPIRATION_SET": "您已成功将上一次 **{{time}}** 的制裁总数设置为 **{{number}}**，并将模块设置为 **{{module}}**。",
+                        "LABEL": "按单元分列的成员制裁总金额（含到期日",
+                        "DESCRIPTION": "按模块检查该成员拥有的制裁总数，并注明到期时间。",
+                        "SELECT_THE_MODULE": "您必须选择要设置的模块。",
+                        "SELECT_THE_MODULE_PLACEHOLDER": "选择模块"
+                    },
+                    "MEMBER_TOTAL_SANCTIONS_BY_TYPE_BY_MODULE_WITH_EXPIRATION": {
+                        "TOTAL_SANCTIONS_BY_TYPE_BY_MODULE_WITH_EXPIRATION_SET": "您已成功将最后 **{{time}}** 中的制裁总数设置为 **{{number}}**，将类型设置为 **{{type}}**，将模块设置为 **{{module}}**。",
+                        "LABEL": "按类别、单元和有效期分列的成员制裁总数",
+                        "DESCRIPTION": "按模块类型和过期时间检查成员拥有的制裁总数。",
+                        "SELECT_THE_TYPE": "您必须选择要设置的类型。",
+                        "SELECT_THE_TYPE_PLACEHOLDER": "选择类型",
+                        "SELECT_THE_MODULE": "您必须选择要设置的模块。",
+                        "SELECT_THE_MODULE_PLACEHOLDER": "选择模块"
+                    },
+                    "USER_REGISTER_DATE": {
+                        "LABEL": "用户注册日期",
+                        "DESCRIPTION": "查看用户注册后的时间。",
+                        "TIME_SET": "您已成功将用户注册后的时间设置为 **{{time}}**。"
+                    },
+                    "USER_NAME": {
+                        "LABEL": "用户名",
+                        "DESCRIPTION": "检查用户名。",
+                        "NAME_SET": "您已成功将用户名设置为 **{{name}}**。"
+                    },
+                    "MEMBER_JOIN_DATE": {
+                        "LABEL": "成员加入日期",
+                        "DESCRIPTION": "检查用户加入服务器后的时间。",
+                        "TIME_SET": "您已成功将用户加入服务器后经过的时间设置为 **{{time}}**。"
+                    },
+                    "MEMBER_PENDING_STATE": {
+                        "LABEL": "成员待定状态",
+                        "DESCRIPTION": "检查成员是否通过了服务器要求。",
+                        "SELECT_THE_STATE": "您必须选择要设置的状态。",
+                        "SELECT_THE_STATE_PLACEHOLDER": "选择状态",
+                        "AVAILABLE_STATES": {
+                            "VERIFIED": {
+                                "LABEL": "已验证",
+                                "DESCRIPTION": "将对该成员进行验证"
+                            },
+                            "UNVERIFIED": {
+                                "LABEL": "未核实",
+                                "DESCRIPTION": "该成员未经核实"
+                            }
+                        },
+                        "PENDING_STATE_SET": "您已成功将待处理状态设置为 **{{state}}**。"
+                    },
+                    "MEMBER_BOOST_DATE": {
+                        "LABEL": "成员提升日期",
+                        "DESCRIPTION": "检查成员提升服务器后的时间。",
+                        "TIME_SET": "您已成功将成员提升服务器后的时间设置为 **{{time}}**。"
+                    },
+                    "MEMBER_TOTAL_SANCTIONS_BY_MODULE": {
+                        "LABEL": "按单元分列的成员制裁总数",
+                        "DESCRIPTION": "按模块检查成员受到的制裁总数。",
+                        "SELECT_THE_MODULE": "您必须选择要设置的模块。",
+                        "SELECT_THE_MODULE_PLACEHOLDER": "选择模块",
+                        "TOTAL_SANCTIONS_BY_MODULE_SET": "您已成功将制裁总数设置为 **{{number}}**，将模块设置为 **{{module}}**。"
+                    },
+                    "MEMBER_TOTAL_SANCTIONS_BY_TYPE": {
+                        "LABEL": "按类型分列的会员国制裁总数",
+                        "DESCRIPTION": "按类型检查成员所受制裁的总数。",
+                        "SELECT_THE_TYPE": "您必须选择要设置的类型。",
+                        "SELECT_THE_TYPE_PLACEHOLDER": "选择类型",
+                        "TOTAL_SANCTIONS_BY_TYPE_SET": "您已成功将制裁总数设置为 **{{number}}**，将类型设置为 **{{type}}**。"
+                    },
+                    "SERVER_FEATURES": {
+                        "LABEL": "服务器功能",
+                        "DESCRIPTION": "检查服务器是否具有指定功能。",
+                        "SELECT_THE_FEATURE": "您必须选择要设置的功能。",
+                        "SELECT_THE_FEATURE_PLACEHOLDER": "选择功能",
+                        "DESCRIPTION_ALTERNATIVE": "服务器必须具有 {{feature}} 功能。",
+                        "FEATURE_SET": "您已成功设置 **{{feature}}** 功能。"
+                    },
+                    "USER_BLACKLISTED_THIRD_PARTY": {
+                        "LABEL": "用户将第三方列入黑名单",
+                        "DESCRIPTION": "检查用户是否被第三方列入黑名单。",
+                        "SELECT_THE_STATUS": "您必须选择要设置的状态。",
+                        "SELECT_THE_STATUS_PLACEHOLDER": "选择状态",
+                        "AVAILABLE_STATUS": {
+                            "BLACKLISTED": {
+                                "LABEL": "黑名单",
+                                "DESCRIPTION": "用户必须被列入黑名单"
+                            },
+                            "NOT_BLACKLISTED": {
+                                "LABEL": "未列入黑名单",
+                                "DESCRIPTION": "用户不得被列入黑名单"
+                            }
+                        },
+                        "STATUS_SET": "您已成功将状态设置为 **{{status}}**。"
+                    }
+                },
+                "LABEL": "自动调节"
+            },
+            "ANTI_BAD_WORDS": {
+                "DESCRIPTION": "防止用户使用脏话。",
+                "LABEL": "反坏话"
+            },
+            "ANTI_MASS_MENTIONS": {
+                "DESCRIPTION": "防止用户大量提及其他用户。",
+                "LABEL": "反大众提及"
+            },
+            "NAME": "节制",
+            "ANTI_EVASION": {
+                "LABEL": "反规避",
+                "DESCRIPTION": "禁止那些试图逃避制裁的人。"
+            },
+            "ANTI_EXTERNAL_LINKS": {
+                "LABEL": "反外部链接",
+                "DESCRIPTION": "防止用户发送外部链接。"
+            },
+            "ANTI_INVITES": {
+                "LABEL": "反邀请",
+                "DESCRIPTION": "不允许用户发送非本服务器的邀请。"
+            },
+            "ANTI_REPEATED_TEXT": {
+                "LABEL": "反重复文本",
+                "DESCRIPTION": "防止用户在同一信息上重复发送文本。"
+            },
+            "ANTI_SCAM_LINKS": {
+                "LABEL": "反诈骗链接",
+                "DESCRIPTION": "不允许用户发送被认为是诈骗的链接。"
+            },
+            "ANTI_SPAM": {
+                "LABEL": "反垃圾邮件",
+                "DESCRIPTION": "防止用户发送垃圾邮件。"
+            }
+        },
+        "SANCTION_SET": "您已成功设置 **{{sanction}}** 制裁",
+        "SELECT_A_SANCTION_PLACEHOLDER": "选择制裁"
     }
-  }
 }
