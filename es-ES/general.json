@@ -89,9 +89,9 @@
     "SELECT_A_USER_PLACEHOLDER": "Seleccionar un usuario",
     "SUBMITTED": "Enviado",
     "PRESS_BUTTON_TO_MODAL": "Debes hacer clic en el botón **{{name}}** para que se muestre el modal.",
-    "SANCTIONS": "Sanctions",
-    "NUMBER_OF_SANCTIONS": "Number of sanctions",
-    "TYPE": "Type",
-    "VALUE": "Value",
-    "BLACKLISTED": "Blacklisted"
+    "SANCTIONS": "Sanciones",
+    "NUMBER_OF_SANCTIONS": "Número de sanciones",
+    "TYPE": "Tipo",
+    "VALUE": "Valor",
+    "BLACKLISTED": "En la lista negra"
 }
