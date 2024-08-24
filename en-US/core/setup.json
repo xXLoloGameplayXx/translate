@@ -549,7 +549,7 @@
       "MODERATION": {
         "AUTO_MODERATION": {
           "LEVEL": "Level #{{level}}",
-          "REQUIRED_CONDITIONS": "Required conditions",
+          "REQUIRED_OPTIONAL_CONDITIONALS": "Required optional conditionals",
           "CONDITIONALS": "Conditionals",
           "CONDITIONAL": "Conditional #{{conditional}}",
           "EXPECTED_VALUE": "Expected value",
