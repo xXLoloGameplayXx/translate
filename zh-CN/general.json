@@ -89,9 +89,9 @@
     "SELECT_A_USER_PLACEHOLDER": "选择一个用户",
     "SUBMITTED": "提交的",
     "PRESS_BUTTON_TO_MODAL": "你必须点击 **{{name}}** 按钮来显示模式。",
-    "TYPE": "Type",
-    "VALUE": "Value",
-    "NUMBER_OF_SANCTIONS": "Number of sanctions",
-    "SANCTIONS": "Sanctions",
-    "BLACKLISTED": "Blacklisted"
+    "TYPE": "类型",
+    "VALUE": "价值",
+    "NUMBER_OF_SANCTIONS": "制裁次数",
+    "SANCTIONS": "制裁",
+    "BLACKLISTED": "黑名单"
 }
