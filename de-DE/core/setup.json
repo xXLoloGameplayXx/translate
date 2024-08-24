@@ -1,250 +1,561 @@
 {
-  "HOME": {
-    "PRE_START": "Bevor Sie fortfahren, müssen Sie auf die Schaltfläche **{{button}}** klicken.",
-    "DESCRIPTION": "Beginnen Sie mit der Konfiguration von Filo, indem Sie die Kategorie der Module auswählen, die Sie konfigurieren möchten, und dann das Modul auswählen, mit dem Sie arbeiten möchten.\n\n**Brauchen Sie ein Referenzhandbuch? Keine Sorge!**\nWenn Sie **[hier klicken]({{url}})**, werden Sie zum Filo Wiki weitergeleitet, das Informationen über die Konfiguration von allem enthält.\n\n**Zu kompliziert?**\n**[Kontaktieren Sie uns]({{url2}})**, wenn Sie Fragen haben oder zusätzliche Informationen benötigen.",
-    "SELECT_A_MODULE_CATEGORY": {
-      "PLACEHOLDER": "Wählen Sie eine Modulkategorie",
-      "ADMINISTRATION": {
-        "LABEL": "Module für die Verwaltung",
-        "DESCRIPTION": "Module, die Sie bei der Verwaltung Ihres Servers unterstützen."
-      },
-      "COMMUNITY": {
-        "LABEL": "Gemeinschaftsmodule",
-        "DESCRIPTION": "Module, die Ihnen helfen, die Erfahrungen in Ihrer Gemeinschaft zu verbessern."
-      },
-      "MODERATION": {
-        "LABEL": "Moderations-Module",
-        "DESCRIPTION": "Module, die Sie bei der Moderation Ihres Servers unterstützen."
-      }
-    },
-    "TITLE": "Menü Filo-Einstellungen"
-  },
-  "LOADING_DATA": "Bitte warten Sie, bis die erforderlichen Daten geladen sind.",
-  "MODULES": {
-    "SELECT_A_MODULE": "Sie müssen das Modul aus der Kategorie **{{module}}** auswählen, das Sie konfigurieren möchten.",
-    "SELECT_A_SUBMODULE": "Sie müssen das Submodul aus dem Modul **{{module}}** auswählen, das Sie konfigurieren möchten.",
-    "PLACEHOLDER": "Wählen Sie ein Modul",
-    "SELECT_THE_ACTION": "Sie müssen die Aktion auswählen, die Sie für das Modul durchführen möchten.",
-    "SELECT_THE_ACTION_PLACEHOLDER": "Wählen Sie eine Aktion",
-    "MODULE_ENABLED_OR_DISABLED": "Das Modul **{{module}}** wurde erfolgreich {{action}}.",
-    "RESET_REQUEST_WARNING": "Sind Sie sicher, dass Sie das Modul **{{module}}** zurücksetzen wollen? Diese Aktion kann nicht rückgängig gemacht werden!",
-    "MODULE_RESET": "Das Modul **{{module}}** wurde erfolgreich zurückgesetzt.",
-    "SELECT_A_CHANNEL": "Sie müssen den Kanal auswählen, den Sie einstellen möchten.",
-    "SELECT_A_CHANNEL_PLACEHOLDER": "Wählen Sie einen Kanal",
-    "SELECT_AT_LEAST_ONE_CHANNEL": "Sie müssen mindestens einen Kanal auswählen.",
-    "SELECT_A_ROLE": "Sie müssen die Rolle auswählen, die Sie einstellen möchten.",
-    "SELECT_A_ROLE_PLACEHOLDER": "Wählen Sie eine Rolle",
-    "SELECT_AT_LEAST_ONE_ROLE": "Sie müssen mindestens eine Rolle auswählen.",
-    "CHANNEL_SET": "Sie haben erfolgreich den **[#{{channel.name}}]({{url}})** Kanal für das **{{module}}** Modul eingestellt.",
-    "DM_STATUS": {
-      "LABEL": "Umschalten des Status von DMs",
-      "DESCRIPTION": "Ändern Sie den Status von Benachrichtigungen per DM.",
-      "DM_STATUS_TOGGLED": "Sie haben erfolgreich **{{action}}** die DM-Benachrichtigungen für das Modul **{{module}}** erhalten."
-    },
-    "EXCEPTIONS": {
-      "ADD": {
-        "LABEL": "{{type}} hinzufügen",
-        "DESCRIPTION": "Fügen Sie {{type}} zur Ausnahmeliste des Moduls hinzu.",
-        "COMPLETED": "Sie haben die {{value}} {{type}} erfolgreich zur Ausnahmeliste des Moduls hinzugefügt.",
-        "COMPLETED_ALTERNATIVE": "Sie haben **{{number}}** {{type}} erfolgreich zur Ausnahmeliste des Moduls hinzugefügt."
-      },
-      "SET": {
-        "LABEL": "Stellen Sie die {{type}} ein",
-        "DESCRIPTION": "Setzen Sie die Liste {{type}} auf die Ausnahmeliste des Moduls.",
-        "COMPLETED": "Sie haben die {{value}} {{type}} erfolgreich in die Ausnahmeliste des Moduls aufgenommen.",
-        "COMPLETED_ALTERNATIVE": "Sie haben **{{number}}** {{type}} erfolgreich in die Ausnahmeliste des Moduls aufgenommen."
-      },
-      "REMOVE": {
-        "LABEL": "{{type}} entfernen",
-        "DESCRIPTION": "Entfernen Sie {{type}} aus der Ausnahmeliste des Moduls.",
-        "COMPLETED": "Sie haben {{value}} {{type}} erfolgreich aus der Ausnahmeliste des Moduls entfernt.",
-        "COMPLETED_ALTERNATIVE": "Sie haben **{{number}}** {{type}} erfolgreich aus der Ausnahmeliste des Moduls entfernt.",
-        "NO_DATA_TO_REMOVE": "Es gibt keine {{value}}, die aus der Ausnahmeliste des Moduls entfernt werden kann."
-      }
-    },
-    "COMMUNITY": {
-      "NAME": "Gemeinschaft",
-      "COMMANDS": {
-        "LABEL": "Befehle",
-        "DESCRIPTION": "Ändern Sie das Verhalten der Befehle von Filo.",
-        "CONFIGURE": {
-          "SELECT_THE_COMMANDS": "Sie müssen die Befehle auswählen, die Sie auf {{action}} anzeigen möchten.",
-          "SELECT_THE_CATEGORIES": "Sie müssen die Kategorien auswählen, die Sie auf {{action}} anzeigen möchten.",
-          "SELECT_THE_COMMANDS_PLACEHOLDER": "Wählen Sie die Befehle",
-          "SELECT_THE_CATEGORIES_PLACEHOLDER": "Wählen Sie die Kategorien",
-          "DISABLE_COMMANDS": {
-            "LABEL": "Befehle deaktivieren",
-            "DESCRIPTION": "Deaktivieren Sie die Befehle von Filo.",
-            "NO_COMMANDS_TO_DISABLE": "Alle verfügbaren Befehle wurden deaktiviert.",
-            "COMMANDS_DISABLED": "Sie haben die Befehle **{{commands}}** erfolgreich deaktiviert."
-          },
-          "ENABLE_COMMANDS": {
-            "LABEL": "Befehle freigeben",
-            "DESCRIPTION": "Aktivieren Sie die Befehle von Filo.",
-            "NO_COMMANDS_TO_ENABLE": "Alle verfügbaren Befehle sind derzeit aktiviert.",
-            "COMMANDS_ENABLED": "Sie haben die Befehle **{{commands}}** erfolgreich aktiviert."
-          },
-          "DISABLE_CATEGORIES": {
-            "LABEL": "Kategorien deaktivieren",
-            "DESCRIPTION": "Deaktivieren Sie die Kategorien von Filo.",
-            "NO_CATEGORIES_TO_DISABLE": "Alle verfügbaren Kategorien wurden deaktiviert.",
-            "CATEGORIES_DISABLED": "Sie haben **{{categories}}** Kategorien erfolgreich deaktiviert."
-          },
-          "ENABLE_CATEGORIES": {
-            "LABEL": "Kategorien einschalten",
-            "DESCRIPTION": "Aktivieren Sie die Kategorien von Filo.",
-            "NO_CATEGORIES_TO_ENABLE": "Alle verfügbaren Kategorien sind derzeit aktiviert.",
-            "CATEGORIES_ENABLED": "Sie haben **{{categories}}** Kategorien erfolgreich aktiviert."
-          }
-        }
-      },
-      "LANGUAGE": {
-        "LABEL": "Sprache",
-        "DESCRIPTION": "Ändern Sie die Sprache von Filo auf diesem Server.",
-        "SELECT_A_LANGUAGE": "Sie müssen die Sprache auswählen, die Sie einstellen möchten.",
-        "SELECT_A_LANGUAGE_PLACEHOLDER": "Wählen Sie eine Sprache",
-        "LANGUAGE_SET": "Sie haben die Sprache **{{language}}** erfolgreich eingestellt."
-      },
-      "REPORTS": {
-        "LABEL": "Berichte",
-        "DESCRIPTION": "Stellen Sie Ihren Server-Mitgliedern Berichtswerkzeuge zur Verfügung.",
-        "SUBMODULES_SELECTOR": {
-          "MEMBERS": "Ändern Sie das Verhalten des Mitgliederberichtsmoduls.",
-          "MESSAGES": "Ändern Sie das Verhalten des Nachrichtenmeldemoduls."
+    "HOME": {
+        "PRE_START": "Bevor Sie fortfahren, müssen Sie auf die Schaltfläche **{{button}}** klicken.",
+        "DESCRIPTION": "Beginnen Sie mit der Konfiguration von Filo, indem Sie die Kategorie der Module auswählen, die Sie konfigurieren möchten, und dann das Modul auswählen, mit dem Sie arbeiten möchten.\n\n**Brauchen Sie ein Referenzhandbuch? Keine Sorge!**\nWenn Sie **[hier klicken]({{url}})**, werden Sie zum Filo Wiki weitergeleitet, das Informationen über die Konfiguration von allem enthält.\n\n**Zu kompliziert?**\n**[Kontaktieren Sie uns]({{url2}})**, wenn Sie Fragen haben oder zusätzliche Informationen benötigen.",
+        "SELECT_A_MODULE_CATEGORY": {
+            "PLACEHOLDER": "Wählen Sie eine Modulkategorie",
+            "ADMINISTRATION": {
+                "LABEL": "Module für die Verwaltung",
+                "DESCRIPTION": "Module, die Sie bei der Verwaltung Ihres Servers unterstützen."
+            },
+            "COMMUNITY": {
+                "LABEL": "Gemeinschaftsmodule",
+                "DESCRIPTION": "Module, die Ihnen helfen, die Erfahrungen in Ihrer Gemeinschaft zu verbessern."
+            },
+            "MODERATION": {
+                "LABEL": "Moderations-Module",
+                "DESCRIPTION": "Module, die Sie bei der Moderation Ihres Servers unterstützen."
+            }
         },
-        "CONFIGURE": {
-          "REPORTS_CHANNEL": {
-            "LABEL": "Einstellen des Berichtskanals",
-            "DESCRIPTION": "Legen Sie fest, wohin die Berichte gesendet werden sollen."
-          },
-          "IGNORED_ROLE": {
-            "LABEL": "Einstellen der ignorierten Rolle",
-            "DESCRIPTION": "Legen Sie eine Rolle fest, deren Mitglieder keine Berichte senden können.",
-            "IGNORED_ROLE_SET": "Sie haben die Rolle **{{role.mention}}** ({{role.id}}) erfolgreich als ignorierte Rolle eingestellt."
-          },
-          "TOGGLE_DELETE_REVIEWED_REPORTS": {
-            "LABEL": "Umschalten der Löschung von überprüften Berichten",
-            "DESCRIPTION": "Ändern Sie den Status der Löschung von überprüften Berichten.",
-            "DELETE_REVIEWED_REPORTS_TOGGLED": "Sie haben erfolgreich **{{action}}** die Löschung der überprüften Berichte durchgeführt."
-          },
-          "NOTIFICATION_ROLES": {
+        "TITLE": "Menü Filo-Einstellungen"
+    },
+    "LOADING_DATA": "Bitte warten Sie, bis die erforderlichen Daten geladen sind.",
+    "MODULES": {
+        "SELECT_A_MODULE": "Sie müssen das Modul aus der Kategorie **{{module}}** auswählen, das Sie konfigurieren möchten.",
+        "SELECT_A_SUBMODULE": "Sie müssen das Submodul aus dem Modul **{{module}}** auswählen, das Sie konfigurieren möchten.",
+        "PLACEHOLDER": "Wählen Sie ein Modul",
+        "SELECT_THE_ACTION": "Sie müssen die Aktion auswählen, die Sie für das Modul durchführen möchten.",
+        "SELECT_THE_ACTION_PLACEHOLDER": "Wählen Sie eine Aktion",
+        "MODULE_ENABLED_OR_DISABLED": "Das Modul **{{module}}** wurde erfolgreich {{action}}.",
+        "RESET_REQUEST_WARNING": "Sind Sie sicher, dass Sie das Modul **{{module}}** zurücksetzen wollen? Diese Aktion kann nicht rückgängig gemacht werden!",
+        "MODULE_RESET": "Das Modul **{{module}}** wurde erfolgreich zurückgesetzt.",
+        "SELECT_A_CHANNEL": "Sie müssen den Kanal auswählen, den Sie einstellen möchten.",
+        "SELECT_A_CHANNEL_PLACEHOLDER": "Wählen Sie einen Kanal",
+        "SELECT_AT_LEAST_ONE_CHANNEL": "Sie müssen mindestens einen Kanal auswählen.",
+        "SELECT_A_ROLE": "Sie müssen die Rolle auswählen, die Sie einstellen möchten.",
+        "SELECT_A_ROLE_PLACEHOLDER": "Wählen Sie eine Rolle",
+        "SELECT_AT_LEAST_ONE_ROLE": "Sie müssen mindestens eine Rolle auswählen.",
+        "CHANNEL_SET": "Sie haben erfolgreich den **[#{{channel.name}}]({{url}})** Kanal für das **{{module}}** Modul eingestellt.",
+        "DM_STATUS": {
+            "LABEL": "Umschalten des Status von DMs",
+            "DESCRIPTION": "Ändern Sie den Status von Benachrichtigungen per DM.",
+            "DM_STATUS_TOGGLED": "Sie haben erfolgreich **{{action}}** die DM-Benachrichtigungen für das Modul **{{module}}** erhalten."
+        },
+        "EXCEPTIONS": {
             "ADD": {
-              "LABEL": "Benachrichtigungsrollen hinzufügen",
-              "DESCRIPTION": "Fügen Sie Rollen hinzu, die benachrichtigt werden sollen, wenn ein Bericht gesendet wird.",
-              "COMPLETED": "Sie haben die Rolle **{{role.mention}}** ({{role.id}}) erfolgreich als Benachrichtigungsrolle hinzugefügt.",
-              "COMPLETED_ALTERNATIVE": "Sie haben **{{number}}** Rollen erfolgreich als Benachrichtigungsrollen hinzugefügt."
+                "LABEL": "{{type}} hinzufügen",
+                "DESCRIPTION": "Fügen Sie {{type}} zur Ausnahmeliste des Moduls hinzu.",
+                "COMPLETED": "Sie haben die {{value}} {{type}} erfolgreich zur Ausnahmeliste des Moduls hinzugefügt.",
+                "COMPLETED_ALTERNATIVE": "Sie haben **{{number}}** {{type}} erfolgreich zur Ausnahmeliste des Moduls hinzugefügt."
             },
             "SET": {
-              "LABEL": "Festlegen der Benachrichtigungsrollen",
-              "DESCRIPTION": "Legen Sie die Rollen fest, die benachrichtigt werden sollen, wenn ein Bericht gesendet wird.",
-              "COMPLETED": "Sie haben die Rolle **{{role.mention}}** ({{role.id}}) erfolgreich als Benachrichtigungsrolle eingestellt.",
-              "COMPLETED_ALTERNATIVE": "Sie haben die Rollen **{{number}}** erfolgreich als Benachrichtigungsrollen festgelegt."
+                "LABEL": "Stellen Sie die {{type}} ein",
+                "DESCRIPTION": "Setzen Sie die Liste {{type}} auf die Ausnahmeliste des Moduls.",
+                "COMPLETED": "Sie haben die {{value}} {{type}} erfolgreich in die Ausnahmeliste des Moduls aufgenommen.",
+                "COMPLETED_ALTERNATIVE": "Sie haben **{{number}}** {{type}} erfolgreich in die Ausnahmeliste des Moduls aufgenommen."
             },
             "REMOVE": {
-              "LABEL": "Benachrichtigungsrollen entfernen",
-              "DESCRIPTION": "Entfernen Sie die Rollen, die benachrichtigt werden sollen, wenn ein Bericht gesendet wird.",
-              "COMPLETED": "Sie haben die Rolle **{{role.mention}}** ({{role.id}}) als Benachrichtigungsrolle erfolgreich entfernt.",
-              "COMPLETED_ALTERNATIVE": "Sie haben **{{number}}** Rollen als Benachrichtigungsrollen erfolgreich entfernt.",
-              "NO_DATA_TO_REMOVE": "Es sind keine Benachrichtigungsrollen zum Entfernen verfügbar."
+                "LABEL": "{{type}} entfernen",
+                "DESCRIPTION": "Entfernen Sie {{type}} aus der Ausnahmeliste des Moduls.",
+                "COMPLETED": "Sie haben {{value}} {{type}} erfolgreich aus der Ausnahmeliste des Moduls entfernt.",
+                "COMPLETED_ALTERNATIVE": "Sie haben **{{number}}** {{type}} erfolgreich aus der Ausnahmeliste des Moduls entfernt.",
+                "NO_DATA_TO_REMOVE": "Es gibt keine {{value}}, die aus der Ausnahmeliste des Moduls entfernt werden kann."
             }
-          },
-          "REASON": {
-            "LABEL": "Konfigurieren Sie die Grundparameter",
-            "DESCRIPTION": "Ändern Sie das Verhalten des Feldes \"Grund\" in den Berichten.",
-            "SET_MIN_LENGTH_OF_MEMBER_REASON": {
-              "LABEL": "Festlegung der Mindestlänge des Mitgliedsgrundes",
-              "DESCRIPTION": "Legen Sie die Mindestlänge des Grundes für die Mitgliederberichte fest.",
-              "FORM": {
-                "LABEL": "Mindestlänge des Grundes"
-              },
-              "COMPLETED": "Sie haben die Mindestlänge der Mitgliedergründe erfolgreich auf **{{number}}** Zeichen festgelegt."
-            },
-            "SET_MAX_LENGTH_OF_MEMBER_REASON": {
-              "LABEL": "Legen Sie die maximale Länge des Mitgliedsgrundes fest",
-              "DESCRIPTION": "Legen Sie die maximale Länge des Grundes für die Mitgliederberichte fest.",
-              "FORM": {
-                "LABEL": "Maximale Länge des Grundes"
-              },
-              "COMPLETED": "Sie haben die maximale Länge der Mitgliedergründe erfolgreich auf **{{number}}** Zeichen festgelegt."
-            },
-            "CLEAN_MARKDOWN_OF_MEMBER_REASON": {
-              "LABEL": "Umschalten der Bereinigung der Abschrift des Mitgliedsgrundes",
-              "DESCRIPTION": "Ändern Sie den Status der Bereinigung des Abschlags des Grundes der Mitgliederberichte.",
-              "COMPLETED": "Sie haben erfolgreich **{{action}}** die Bereinigung der Abschriften des Mitgliedergrundes durchgeführt."
-            },
-            "SET_MIN_LENGTH_OF_REVIEWER_REASON": {
-              "LABEL": "Legen Sie die Mindestlänge des Gutachtergrundes fest",
-              "DESCRIPTION": "Legen Sie die Mindestlänge des Grundes für die Gutachterberichte fest.",
-              "FORM": {
-                "LABEL": "Mindestlänge des Grundes"
-              },
-              "COMPLETED": "Sie haben erfolgreich die Mindestlänge der Begründung des Rezensenten auf **{{number}}** Zeichen festgelegt."
-            },
-            "SET_MAX_LENGTH_OF_REVIEWER_REASON": {
-              "LABEL": "Legen Sie die maximale Länge des Überprüfungsgrundes fest",
-              "DESCRIPTION": "Legen Sie die maximale Länge des Grundes für die Gutachterberichte fest.",
-              "FORM": {
-                "LABEL": "Maximale Länge des Grundes"
-              },
-              "COMPLETED": "Sie haben die maximale Länge der Begründung des Rezensenten erfolgreich auf **{{number}}** Zeichen festgelegt."
-            },
-            "CLEAN_MARKDOWN_OF_REVIEWER_REASON": {
-              "LABEL": "Umschalten der Bereinigung des Markdowns des Reviewer-Grundes",
-              "DESCRIPTION": "Ändern Sie den Status der Bereinigung des Abdrucks des Grundes der Gutachterberichte.",
-              "COMPLETED": "Sie haben erfolgreich **{{action}}** die Bereinigung der Abschrift der Begründung des Rezensenten durchgeführt."
-            }
-          },
-          "EVIDENCES": {
-            "LABEL": "Konfigurieren Sie die Parameter der Beweismittel",
-            "DESCRIPTION": "Ändern Sie das Verhalten des Feldes \"Belege\" in den Berichten.",
-            "SET_MIN_COUNT": {
-              "LABEL": "Legen Sie die Mindestanzahl der Beweise fest",
-              "DESCRIPTION": "Legen Sie die Mindestanzahl der Beweise fest, die ein Bericht enthalten muss.",
-              "FORM": {
-                "LABEL": "Mindestanzahl"
-              },
-              "COMPLETED": "Sie haben die Mindestanzahl der Belege erfolgreich auf **{{number}}** festgelegt."
-            }
-          }
-        }
-      }
-    },
-    "VIEW": {
-      "TITLE": "Einsehen der Einstellungen des Moduls **{{module}}**",
-      "NO_DATA": "Keine Daten",
-      "SELECT_THE_DATA": "Wählen Sie die anzuzeigenden Daten aus",
-      "VIEW_ALL": "Alle {{data}} anzeigen.",
-      "DM_STATUS": "DM-Status",
-      "COOLDOWN": "Abklingzeit",
-      "EXCEPTIONS": "{{type}} Ausnahmen",
-      "COMMUNITY": {
-        "COMMANDS": {
-          "DISABLED_COMMANDS": "Deaktivierte Befehle",
-          "DISABLED_CATEGORIES": "Kategorien für Behinderte"
         },
-        "LANGUAGE": {
-          "LANGUAGE_CODE": "Sprachcode"
+        "COMMUNITY": {
+            "NAME": "Gemeinschaft",
+            "COMMANDS": {
+                "LABEL": "Befehle",
+                "DESCRIPTION": "Ändern Sie das Verhalten der Befehle von Filo.",
+                "CONFIGURE": {
+                    "SELECT_THE_COMMANDS": "Sie müssen die Befehle auswählen, die Sie auf {{action}} anzeigen möchten.",
+                    "SELECT_THE_CATEGORIES": "Sie müssen die Kategorien auswählen, die Sie auf {{action}} anzeigen möchten.",
+                    "SELECT_THE_COMMANDS_PLACEHOLDER": "Wählen Sie die Befehle",
+                    "SELECT_THE_CATEGORIES_PLACEHOLDER": "Wählen Sie die Kategorien",
+                    "DISABLE_COMMANDS": {
+                        "LABEL": "Befehle deaktivieren",
+                        "DESCRIPTION": "Deaktivieren Sie die Befehle von Filo.",
+                        "NO_COMMANDS_TO_DISABLE": "Alle verfügbaren Befehle wurden deaktiviert.",
+                        "COMMANDS_DISABLED": "Sie haben die Befehle **{{commands}}** erfolgreich deaktiviert."
+                    },
+                    "ENABLE_COMMANDS": {
+                        "LABEL": "Befehle freigeben",
+                        "DESCRIPTION": "Aktivieren Sie die Befehle von Filo.",
+                        "NO_COMMANDS_TO_ENABLE": "Alle verfügbaren Befehle sind derzeit aktiviert.",
+                        "COMMANDS_ENABLED": "Sie haben die Befehle **{{commands}}** erfolgreich aktiviert."
+                    },
+                    "DISABLE_CATEGORIES": {
+                        "LABEL": "Kategorien deaktivieren",
+                        "DESCRIPTION": "Deaktivieren Sie die Kategorien von Filo.",
+                        "NO_CATEGORIES_TO_DISABLE": "Alle verfügbaren Kategorien wurden deaktiviert.",
+                        "CATEGORIES_DISABLED": "Sie haben **{{categories}}** Kategorien erfolgreich deaktiviert."
+                    },
+                    "ENABLE_CATEGORIES": {
+                        "LABEL": "Kategorien einschalten",
+                        "DESCRIPTION": "Aktivieren Sie die Kategorien von Filo.",
+                        "NO_CATEGORIES_TO_ENABLE": "Alle verfügbaren Kategorien sind derzeit aktiviert.",
+                        "CATEGORIES_ENABLED": "Sie haben **{{categories}}** Kategorien erfolgreich aktiviert."
+                    }
+                }
+            },
+            "LANGUAGE": {
+                "LABEL": "Sprache",
+                "DESCRIPTION": "Ändern Sie die Sprache von Filo auf diesem Server.",
+                "SELECT_A_LANGUAGE": "Sie müssen die Sprache auswählen, die Sie einstellen möchten.",
+                "SELECT_A_LANGUAGE_PLACEHOLDER": "Wählen Sie eine Sprache",
+                "LANGUAGE_SET": "Sie haben die Sprache **{{language}}** erfolgreich eingestellt."
+            },
+            "REPORTS": {
+                "LABEL": "Berichte",
+                "DESCRIPTION": "Stellen Sie Ihren Server-Mitgliedern Berichtswerkzeuge zur Verfügung.",
+                "SUBMODULES_SELECTOR": {
+                    "MEMBERS": "Ändern Sie das Verhalten des Mitgliederberichtsmoduls.",
+                    "MESSAGES": "Ändern Sie das Verhalten des Nachrichtenmeldemoduls."
+                },
+                "CONFIGURE": {
+                    "REPORTS_CHANNEL": {
+                        "LABEL": "Einstellen des Berichtskanals",
+                        "DESCRIPTION": "Legen Sie fest, wohin die Berichte gesendet werden sollen."
+                    },
+                    "IGNORED_ROLE": {
+                        "LABEL": "Einstellen der ignorierten Rolle",
+                        "DESCRIPTION": "Legen Sie eine Rolle fest, deren Mitglieder keine Berichte senden können.",
+                        "IGNORED_ROLE_SET": "Sie haben die Rolle **{{role.mention}}** ({{role.id}}) erfolgreich als ignorierte Rolle eingestellt."
+                    },
+                    "TOGGLE_DELETE_REVIEWED_REPORTS": {
+                        "LABEL": "Umschalten der Löschung von überprüften Berichten",
+                        "DESCRIPTION": "Ändern Sie den Status der Löschung von überprüften Berichten.",
+                        "DELETE_REVIEWED_REPORTS_TOGGLED": "Sie haben erfolgreich **{{action}}** die Löschung der überprüften Berichte durchgeführt."
+                    },
+                    "NOTIFICATION_ROLES": {
+                        "ADD": {
+                            "LABEL": "Benachrichtigungsrollen hinzufügen",
+                            "DESCRIPTION": "Fügen Sie Rollen hinzu, die benachrichtigt werden sollen, wenn ein Bericht gesendet wird.",
+                            "COMPLETED": "Sie haben die Rolle **{{role.mention}}** ({{role.id}}) erfolgreich als Benachrichtigungsrolle hinzugefügt.",
+                            "COMPLETED_ALTERNATIVE": "Sie haben **{{number}}** Rollen erfolgreich als Benachrichtigungsrollen hinzugefügt."
+                        },
+                        "SET": {
+                            "LABEL": "Festlegen der Benachrichtigungsrollen",
+                            "DESCRIPTION": "Legen Sie die Rollen fest, die benachrichtigt werden sollen, wenn ein Bericht gesendet wird.",
+                            "COMPLETED": "Sie haben die Rolle **{{role.mention}}** ({{role.id}}) erfolgreich als Benachrichtigungsrolle eingestellt.",
+                            "COMPLETED_ALTERNATIVE": "Sie haben die Rollen **{{number}}** erfolgreich als Benachrichtigungsrollen festgelegt."
+                        },
+                        "REMOVE": {
+                            "LABEL": "Benachrichtigungsrollen entfernen",
+                            "DESCRIPTION": "Entfernen Sie die Rollen, die benachrichtigt werden sollen, wenn ein Bericht gesendet wird.",
+                            "COMPLETED": "Sie haben die Rolle **{{role.mention}}** ({{role.id}}) als Benachrichtigungsrolle erfolgreich entfernt.",
+                            "COMPLETED_ALTERNATIVE": "Sie haben **{{number}}** Rollen als Benachrichtigungsrollen erfolgreich entfernt.",
+                            "NO_DATA_TO_REMOVE": "Es sind keine Benachrichtigungsrollen zum Entfernen verfügbar."
+                        }
+                    },
+                    "REASON": {
+                        "LABEL": "Konfigurieren Sie die Grundparameter",
+                        "DESCRIPTION": "Ändern Sie das Verhalten des Feldes \"Grund\" in den Berichten.",
+                        "SET_MIN_LENGTH_OF_MEMBER_REASON": {
+                            "LABEL": "Festlegung der Mindestlänge des Mitgliedsgrundes",
+                            "DESCRIPTION": "Legen Sie die Mindestlänge des Grundes für die Mitgliederberichte fest.",
+                            "FORM": {
+                                "LABEL": "Mindestlänge des Grundes"
+                            },
+                            "COMPLETED": "Sie haben die Mindestlänge der Mitgliedergründe erfolgreich auf **{{number}}** Zeichen festgelegt."
+                        },
+                        "SET_MAX_LENGTH_OF_MEMBER_REASON": {
+                            "LABEL": "Legen Sie die maximale Länge des Mitgliedsgrundes fest",
+                            "DESCRIPTION": "Legen Sie die maximale Länge des Grundes für die Mitgliederberichte fest.",
+                            "FORM": {
+                                "LABEL": "Maximale Länge des Grundes"
+                            },
+                            "COMPLETED": "Sie haben die maximale Länge der Mitgliedergründe erfolgreich auf **{{number}}** Zeichen festgelegt."
+                        },
+                        "CLEAN_MARKDOWN_OF_MEMBER_REASON": {
+                            "LABEL": "Umschalten der Bereinigung der Abschrift des Mitgliedsgrundes",
+                            "DESCRIPTION": "Ändern Sie den Status der Bereinigung des Abschlags des Grundes der Mitgliederberichte.",
+                            "COMPLETED": "Sie haben erfolgreich **{{action}}** die Bereinigung der Abschriften des Mitgliedergrundes durchgeführt."
+                        },
+                        "SET_MIN_LENGTH_OF_REVIEWER_REASON": {
+                            "LABEL": "Legen Sie die Mindestlänge des Gutachtergrundes fest",
+                            "DESCRIPTION": "Legen Sie die Mindestlänge des Grundes für die Gutachterberichte fest.",
+                            "FORM": {
+                                "LABEL": "Mindestlänge des Grundes"
+                            },
+                            "COMPLETED": "Sie haben erfolgreich die Mindestlänge der Begründung des Rezensenten auf **{{number}}** Zeichen festgelegt."
+                        },
+                        "SET_MAX_LENGTH_OF_REVIEWER_REASON": {
+                            "LABEL": "Legen Sie die maximale Länge des Überprüfungsgrundes fest",
+                            "DESCRIPTION": "Legen Sie die maximale Länge des Grundes für die Gutachterberichte fest.",
+                            "FORM": {
+                                "LABEL": "Maximale Länge des Grundes"
+                            },
+                            "COMPLETED": "Sie haben die maximale Länge der Begründung des Rezensenten erfolgreich auf **{{number}}** Zeichen festgelegt."
+                        },
+                        "CLEAN_MARKDOWN_OF_REVIEWER_REASON": {
+                            "LABEL": "Umschalten der Bereinigung des Markdowns des Reviewer-Grundes",
+                            "DESCRIPTION": "Ändern Sie den Status der Bereinigung des Abdrucks des Grundes der Gutachterberichte.",
+                            "COMPLETED": "Sie haben erfolgreich **{{action}}** die Bereinigung der Abschrift der Begründung des Rezensenten durchgeführt."
+                        }
+                    },
+                    "EVIDENCES": {
+                        "LABEL": "Konfigurieren Sie die Parameter der Beweismittel",
+                        "DESCRIPTION": "Ändern Sie das Verhalten des Feldes \"Belege\" in den Berichten.",
+                        "SET_MIN_COUNT": {
+                            "LABEL": "Legen Sie die Mindestanzahl der Beweise fest",
+                            "DESCRIPTION": "Legen Sie die Mindestanzahl der Beweise fest, die ein Bericht enthalten muss.",
+                            "FORM": {
+                                "LABEL": "Mindestanzahl"
+                            },
+                            "COMPLETED": "Sie haben die Mindestanzahl der Belege erfolgreich auf **{{number}}** festgelegt."
+                        }
+                    }
+                }
+            }
         },
-        "REPORTS": {
-          "REPORTS_CHANNEL": "Berichte Kanal",
-          "IGNORED_ROLE": "Ignorierte Rolle",
-          "DELETE_REVIEWED_REPORTS": "Überprüfte Berichte löschen",
-          "NOTIFICATION_ROLES": "Rollen für die Benachrichtigung",
-          "REASON_PARAMETERS": {
-            "TITLE": "Grund Parameter",
-            "MIN_LENGTH_OF_MEMBER_REASON": "Mindestdauer des Mitgliedsgrundes",
-            "MAX_LENGTH_OF_MEMBER_REASON": "Maximale Länge des Mitgliedsgrundes",
-            "CLEAN_MARKDOWN_OF_MEMBER_REASON": "Saubere Abschrift des Mitgliedsgrundes",
-            "MIN_LENGTH_OF_REVIEWER_REASON": "Mindestdauer des Begutachtungsgrundes",
-            "MAX_LENGTH_OF_REVIEWER_REASON": "Maximale Länge des Begutachtungsgrundes",
-            "CLEAN_MARKDOWN_OF_REVIEWER_REASON": "Saubere Abschrift des Gutachtergrundes"
-          },
-          "EVIDENCES_PARAMETERS": {
-            "TITLE": "Beweise Parameter",
-            "MIN_COUNT": "Mindestanzahl von Beweismitteln"
-          }
-        }
-      }
+        "VIEW": {
+            "TITLE": "Einsehen der Einstellungen des Moduls **{{module}}**",
+            "NO_DATA": "Keine Daten",
+            "SELECT_THE_DATA": "Wählen Sie die anzuzeigenden Daten aus",
+            "VIEW_ALL": "Alle {{data}} anzeigen.",
+            "DM_STATUS": "DM-Status",
+            "COOLDOWN": "Abklingzeit",
+            "EXCEPTIONS": "{{type}} Ausnahmen",
+            "COMMUNITY": {
+                "COMMANDS": {
+                    "DISABLED_COMMANDS": "Deaktivierte Befehle",
+                    "DISABLED_CATEGORIES": "Kategorien für Behinderte"
+                },
+                "LANGUAGE": {
+                    "LANGUAGE_CODE": "Sprachcode"
+                },
+                "REPORTS": {
+                    "REPORTS_CHANNEL": "Berichte Kanal",
+                    "IGNORED_ROLE": "Ignorierte Rolle",
+                    "DELETE_REVIEWED_REPORTS": "Überprüfte Berichte löschen",
+                    "NOTIFICATION_ROLES": "Rollen für die Benachrichtigung",
+                    "REASON_PARAMETERS": {
+                        "TITLE": "Grund Parameter",
+                        "MIN_LENGTH_OF_MEMBER_REASON": "Mindestdauer des Mitgliedsgrundes",
+                        "MAX_LENGTH_OF_MEMBER_REASON": "Maximale Länge des Mitgliedsgrundes",
+                        "CLEAN_MARKDOWN_OF_MEMBER_REASON": "Saubere Abschrift des Mitgliedsgrundes",
+                        "MIN_LENGTH_OF_REVIEWER_REASON": "Mindestdauer des Begutachtungsgrundes",
+                        "MAX_LENGTH_OF_REVIEWER_REASON": "Maximale Länge des Begutachtungsgrundes",
+                        "CLEAN_MARKDOWN_OF_REVIEWER_REASON": "Saubere Abschrift des Gutachtergrundes"
+                    },
+                    "EVIDENCES_PARAMETERS": {
+                        "TITLE": "Beweise Parameter",
+                        "MIN_COUNT": "Mindestanzahl von Beweismitteln"
+                    }
+                }
+            },
+            "ACTION": "Aktion",
+            "MODERATION": {
+                "AUTO_MODERATION": {
+                    "LEVEL": "Level #{{level}}",
+                    "REQUIRED_OPTIONAL_CONDITIONALS": "Erforderliche optionale Konditionalitäten",
+                    "CONDITIONALS": "Konditionale",
+                    "CONDITIONAL": "Bedingt #{{conditional}}",
+                    "EXPECTED_VALUE": "Erwarteter Wert",
+                    "REQUIRED_STATUS": "Erforderlicher Status"
+                }
+            }
+        },
+        "SELECT_A_SANCTION_PLACEHOLDER": "Wählen Sie eine Sanktion",
+        "MODERATION": {
+            "ANTI_BAD_WORDS": {
+                "DESCRIPTION": "Verhindern Sie, dass Benutzer Schimpfwörter verwenden.",
+                "LABEL": "Anti-schlechte Worte"
+            },
+            "ANTI_EVASION": {
+                "LABEL": "Anti-Ausweichmanöver",
+                "DESCRIPTION": "Verbot derjenigen, die versuchen, sich ihren Sanktionen zu entziehen."
+            },
+            "ANTI_EXTERNAL_LINKS": {
+                "LABEL": "Anti Externe Links",
+                "DESCRIPTION": "Verhindern Sie, dass Benutzer externe Links versenden."
+            },
+            "ANTI_INVITES": {
+                "LABEL": "Anti-Einladungen",
+                "DESCRIPTION": "Erlauben Sie Benutzern nicht, Einladungen zu senden, die nicht von diesem Server stammen."
+            },
+            "ANTI_MASS_MENTIONS": {
+                "LABEL": "Anti-Massen-Erwähnungen",
+                "DESCRIPTION": "Verhindern Sie, dass Nutzer andere Nutzer massenhaft erwähnen."
+            },
+            "ANTI_SCAM_LINKS": {
+                "LABEL": "Anti-Betrugs-Links",
+                "DESCRIPTION": "Erlauben Sie Nutzern nicht, Links zu versenden, die als Betrug gelten."
+            },
+            "ANTI_SPAM": {
+                "LABEL": "Anti-Spam",
+                "DESCRIPTION": "Verhinderung von Spamming durch Benutzer."
+            },
+            "AUTO_MODERATION": {
+                "LABEL": "Automatische Moderation",
+                "DESCRIPTION": "Benutzer intelligent und automatisch moderieren.",
+                "CONDITIONALS_LIST": {
+                    "USER_FLAG": {
+                        "LABEL": "Benutzerkennzeichen",
+                        "SELECT_THE_FLAG": "Sie müssen das Kennzeichen auswählen, das Sie setzen möchten.",
+                        "SELECT_THE_FLAG_PLACEHOLDER": "Wählen Sie die Flagge",
+                        "DESCRIPTION_ALTERNATIVE": "Der Benutzer muss das Kennzeichen {{flag}} haben.",
+                        "FLAG_SET": "Sie haben das Kennzeichen **{{flag}}** erfolgreich gesetzt.",
+                        "DESCRIPTION": "Prüfen, ob der Benutzer das angegebene Kennzeichen hat."
+                    },
+                    "USER_REGISTER_DATE": {
+                        "DESCRIPTION": "Überprüfen Sie die Zeit, die seit der Registrierung des Benutzers verstrichen ist.",
+                        "LABEL": "Datum der Benutzerregistrierung",
+                        "TIME_SET": "Sie haben die seit der Registrierung des Benutzers verstrichene Zeit erfolgreich auf **{{time}}** gesetzt."
+                    },
+                    "USER_DISPLAY_NAME": {
+                        "LABEL": "Name der Benutzeranzeige",
+                        "DESCRIPTION": "Überprüfen Sie den Anzeigenamen des Benutzers.",
+                        "DISPLAY_NAME_SET": "Sie haben den Anzeigenamen des Benutzers erfolgreich auf **{{name}}** gesetzt."
+                    },
+                    "USER_NAME": {
+                        "LABEL": "Name des Benutzers",
+                        "DESCRIPTION": "Überprüfen Sie den Namen des Benutzers.",
+                        "NAME_SET": "Sie haben den Namen des Benutzers erfolgreich auf **{{name}}** gesetzt."
+                    },
+                    "MEMBER_JOIN_DATE": {
+                        "LABEL": "Beitrittsdatum des Mitglieds",
+                        "TIME_SET": "Sie haben die Zeit, die seit dem Beitritt des Benutzers zum Server verstrichen ist, erfolgreich auf **{{time}}** gesetzt.",
+                        "DESCRIPTION": "Überprüfen Sie die Zeit, die seit dem Beitritt des Benutzers zum Server verstrichen ist."
+                    },
+                    "MEMBER_NICKNAME": {
+                        "LABEL": "Spitzname des Mitglieds",
+                        "DESCRIPTION": "Überprüfen Sie den Spitznamen des Mitglieds.",
+                        "NICKNAME_SET": "Sie haben den Spitznamen des Mitglieds erfolgreich auf **{{name}}** gesetzt."
+                    },
+                    "MEMBER_PENDING_STATE": {
+                        "LABEL": "Mitglied schwebend Staat",
+                        "SELECT_THE_STATE": "Sie müssen den Zustand auswählen, den Sie einstellen möchten.",
+                        "SELECT_THE_STATE_PLACEHOLDER": "Wählen Sie den Zustand",
+                        "PENDING_STATE_SET": "Sie haben den Status \"Ausstehend\" erfolgreich auf **{{state}}** gesetzt.",
+                        "AVAILABLE_STATES": {
+                            "VERIFIED": {
+                                "LABEL": "Geprüft",
+                                "DESCRIPTION": "Das Mitglied wird überprüft"
+                            },
+                            "UNVERIFIED": {
+                                "LABEL": "Unverifiziert",
+                                "DESCRIPTION": "Das Mitglied wird nicht verifiziert"
+                            }
+                        },
+                        "DESCRIPTION": "Überprüft, ob das Mitglied die Serveranforderungen erfüllt hat."
+                    },
+                    "MEMBER_ROLE": {
+                        "LABEL": "Rolle des Mitglieds",
+                        "DESCRIPTION": "Überprüfen Sie die Rolle des Mitglieds.",
+                        "ROLE_SET": "Sie haben die Rolle des Mitglieds erfolgreich auf **{{role.mention}}** ({{role.id}}) gesetzt."
+                    },
+                    "MEMBER_BOOST_DATE": {
+                        "LABEL": "Datum der Mitgliedererhöhung",
+                        "DESCRIPTION": "Überprüfen Sie die Zeit, die vergangen ist, seit das Mitglied den Server hochgefahren hat.",
+                        "TIME_SET": "Sie haben die Zeit, die vergangen ist, seit das Mitglied den Server hochgefahren hat, erfolgreich auf **{{time}}** gesetzt."
+                    },
+                    "MEMBER_TOTAL_SANCTIONS": {
+                        "LABEL": "Mitglied insgesamt Sanktionen",
+                        "DESCRIPTION": "Überprüfen Sie die Gesamtzahl der Sanktionen, die das Mitglied hat.",
+                        "TOTAL_SANCTIONS_SET": "Sie haben die Gesamtzahl der Sanktionen erfolgreich auf **{{number}}** gesetzt."
+                    },
+                    "MEMBER_TOTAL_SANCTIONS_WITH_EXPIRATION": {
+                        "LABEL": "Mitglied Gesamtsanktionen mit Verfall",
+                        "DESCRIPTION": "Überprüfen Sie die Gesamtzahl der Sanktionen, die das Mitglied hat und die abgelaufen sind.",
+                        "TOTAL_SANCTIONS_WITH_EXPIRATION_SET": "Sie haben die Gesamtzahl der Sanktionen in der letzten **{{time}}** erfolgreich auf **{{number}}** gesetzt."
+                    },
+                    "MEMBER_TOTAL_SANCTIONS_BY_MODULE": {
+                        "LABEL": "Gesamtsanktionen der Mitglieder nach Modulen",
+                        "DESCRIPTION": "Überprüfen Sie die Gesamtzahl der Sanktionen, die das Mitglied pro Modul hat.",
+                        "SELECT_THE_MODULE": "Sie müssen das Modul auswählen, das Sie einstellen möchten.",
+                        "SELECT_THE_MODULE_PLACEHOLDER": "Wählen Sie das Modul",
+                        "TOTAL_SANCTIONS_BY_MODULE_SET": "Sie haben die Gesamtzahl der Sanktionen erfolgreich auf **{{number}}** und das Modul auf **{{module}}** gesetzt."
+                    },
+                    "MEMBER_TOTAL_SANCTIONS_BY_MODULE_WITH_EXPIRATION": {
+                        "LABEL": "Gesamtsanktionen der Mitglieder nach Modul mit Verfall",
+                        "SELECT_THE_MODULE": "Sie müssen das Modul auswählen, das Sie einstellen möchten.",
+                        "SELECT_THE_MODULE_PLACEHOLDER": "Wählen Sie das Modul",
+                        "TOTAL_SANCTIONS_BY_MODULE_WITH_EXPIRATION_SET": "Sie haben die Gesamtzahl der Sanktionen in der letzten **{{time}}** erfolgreich auf **{{number}}** und das Modul auf **{{module}}** gesetzt.",
+                        "DESCRIPTION": "Prüfen Sie die Gesamtzahl der Sanktionen, die das Mitglied nach Modulen mit Ablaufdatum hat."
+                    },
+                    "MEMBER_TOTAL_SANCTIONS_BY_TYPE": {
+                        "LABEL": "Gesamtsanktionen der Mitglieder nach Art",
+                        "DESCRIPTION": "Überprüfen Sie die Gesamtzahl der Sanktionen, die das Mitglied nach Art hat.",
+                        "SELECT_THE_TYPE": "Sie müssen den Typ auswählen, den Sie einstellen möchten.",
+                        "SELECT_THE_TYPE_PLACEHOLDER": "Wählen Sie den Typ",
+                        "TOTAL_SANCTIONS_BY_TYPE_SET": "Sie haben die Gesamtzahl der Sanktionen erfolgreich auf **{{number}}** und den Typ auf **{{type}}** gesetzt."
+                    },
+                    "MEMBER_TOTAL_SANCTIONS_BY_TYPE_WITH_EXPIRATION": {
+                        "LABEL": "Gesamtsanktionen der Mitglieder nach Art mit Ablaufdatum",
+                        "SELECT_THE_TYPE": "Sie müssen den Typ auswählen, den Sie einstellen möchten.",
+                        "SELECT_THE_TYPE_PLACEHOLDER": "Wählen Sie den Typ",
+                        "DESCRIPTION": "Überprüfen Sie die Gesamtzahl der Sanktionen, die das Mitglied hat, nach Art und Ablauf.",
+                        "TOTAL_SANCTIONS_BY_TYPE_WITH_EXPIRATION_SET": "Sie haben erfolgreich die Gesamtzahl der Sanktionen auf **{{number}}** in der letzten **{{time}}** und den Typ auf **{{type}}** gesetzt."
+                    },
+                    "MEMBER_TOTAL_SANCTIONS_BY_TYPE_BY_MODULE": {
+                        "LABEL": "Gesamtsanktionen der Mitglieder nach Art und Modul",
+                        "DESCRIPTION": "Prüfen Sie die Gesamtzahl der Sanktionen, die das Mitglied nach Art und Modul hat.",
+                        "SELECT_THE_TYPE": "Sie müssen den Typ auswählen, den Sie einstellen möchten.",
+                        "SELECT_THE_TYPE_PLACEHOLDER": "Wählen Sie den Typ",
+                        "SELECT_THE_MODULE": "Sie müssen das Modul auswählen, das Sie einstellen möchten.",
+                        "SELECT_THE_MODULE_PLACEHOLDER": "Wählen Sie das Modul",
+                        "TOTAL_SANCTIONS_BY_TYPE_BY_MODULE_SET": "Sie haben die Gesamtzahl der Sanktionen erfolgreich auf **{{number}}** , den Typ auf **{{type}}** und das Modul auf **{{module}}** gesetzt."
+                    },
+                    "MEMBER_TOTAL_SANCTIONS_BY_TYPE_BY_MODULE_WITH_EXPIRATION": {
+                        "LABEL": "Gesamtsanktionen der Mitglieder nach Art und Modul mit Ablauf",
+                        "SELECT_THE_TYPE": "Sie müssen den Typ auswählen, den Sie einstellen möchten.",
+                        "SELECT_THE_TYPE_PLACEHOLDER": "Wählen Sie den Typ",
+                        "SELECT_THE_MODULE": "Sie müssen das Modul auswählen, das Sie einstellen möchten.",
+                        "SELECT_THE_MODULE_PLACEHOLDER": "Wählen Sie das Modul",
+                        "DESCRIPTION": "Prüfen Sie die Gesamtzahl der Sanktionen, die das Mitglied nach Art des Moduls mit Ablaufdatum hat.",
+                        "TOTAL_SANCTIONS_BY_TYPE_BY_MODULE_WITH_EXPIRATION_SET": "Sie haben erfolgreich die Gesamtzahl der Sanktionen auf **{{number}}** in der letzten **{{time}}** , den Typ auf **{{type}}** und das Modul auf **{{module}}** gesetzt."
+                    },
+                    "SERVER_FEATURES": {
+                        "LABEL": "Server-Funktionen",
+                        "DESCRIPTION": "Überprüfen Sie, ob der Server über die angegebene Funktion verfügt.",
+                        "SELECT_THE_FEATURE": "Sie müssen die Funktion auswählen, die Sie einstellen möchten.",
+                        "SELECT_THE_FEATURE_PLACEHOLDER": "Wählen Sie das Merkmal",
+                        "DESCRIPTION_ALTERNATIVE": "Der Server muss über die Funktion {{feature}} verfügen.",
+                        "FEATURE_SET": "Sie haben die Funktion **{{feature}}** erfolgreich eingestellt."
+                    },
+                    "USER_BLACKLISTED_THIRD_PARTY": {
+                        "LABEL": "Vom Benutzer auf die schwarze Liste gesetzte Drittpartei",
+                        "DESCRIPTION": "Prüfen Sie, ob der Benutzer bei einem Dritten auf der schwarzen Liste steht.",
+                        "SELECT_THE_STATUS_PLACEHOLDER": "Wählen Sie den Status",
+                        "AVAILABLE_STATUS": {
+                            "BLACKLISTED": {
+                                "LABEL": "Auf der Schwarzen Liste",
+                                "DESCRIPTION": "Der Benutzer muss auf die schwarze Liste gesetzt werden"
+                            },
+                            "NOT_BLACKLISTED": {
+                                "LABEL": "Nicht auf der schwarzen Liste",
+                                "DESCRIPTION": "Der Benutzer darf nicht auf einer schwarzen Liste stehen"
+                            }
+                        },
+                        "SELECT_THE_STATUS": "Sie müssen den Status auswählen, den Sie setzen möchten.",
+                        "STATUS_SET": "Sie haben den Status erfolgreich auf **{{status}}** gesetzt."
+                    }
+                },
+                "CONFIGURE": {
+                    "SELECT_THE_ACTION": "Sie müssen die Aktion auswählen, die Sie auf der Ebene durchführen möchten.",
+                    "CONDITIONALS": {
+                        "ADD_CONDITIONAL": {
+                            "LABEL": "Bedingtes hinzufügen",
+                            "DESCRIPTION": "Fügen Sie dem Level eine Bedingung hinzu.",
+                            "COMPLETED": "Sie haben die Bedingung erfolgreich zum Level hinzugefügt."
+                        },
+                        "EDIT_CONDITIONAL": {
+                            "LABEL": "Bedingung bearbeiten",
+                            "DESCRIPTION": "Bearbeiten Sie eine Bedingung des Levels.",
+                            "COMPLETED": "Sie haben die Bedingung des Levels erfolgreich bearbeitet."
+                        },
+                        "REMOVE_CONDITIONAL": {
+                            "LABEL": "Bedingung entfernen",
+                            "DESCRIPTION": "Entfernen Sie eine Bedingung aus dem Level.",
+                            "COMPLETED": "Sie haben die Bedingung erfolgreich aus dem Level entfernt."
+                        },
+                        "SELECT_THE_CONDITIONAL": "Sie müssen die Bedingung auswählen, die Sie auf {{action}} eingeben möchten.",
+                        "SELECT_THE_CONDITIONAL_PLACEHOLDER": "Wählen Sie eine Bedingung",
+                        "SELECT_THE_EXPECTED_VALUE": "Sie müssen den erwarteten Wert auswählen, den Sie einstellen möchten.",
+                        "SELECT_THE_EXPECTED_VALUE_PLACEHOLDER": "Wählen Sie den erwarteten Wert",
+                        "AVAILABLE_EXPECTED_VALUES": {
+                            "TRUE": {
+                                "LABEL": "Wahr",
+                                "DESCRIPTION": "Der erwartete Wert muss wahr sein"
+                            },
+                            "FALSE": {
+                                "LABEL": "Falsch",
+                                "DESCRIPTION": "Der erwartete Wert muss falsch sein"
+                            }
+                        },
+                        "SELECT_THE_TYPE_OF_CONDITIONAL": "Sie müssen die Art der Bedingung auswählen, die Sie einstellen möchten.",
+                        "SELECT_THE_TYPE_OF_CONDITIONAL_PLACEHOLDER": "Wählen Sie die Art der Bedingung",
+                        "AVAILABLE_TYPES_OF_CONDITIONAL": {
+                            "REQUIRED": {
+                                "LABEL": "Erforderlich",
+                                "DESCRIPTION": "Die Bedingung muss erfüllt sein"
+                            },
+                            "OPTIONAL": {
+                                "LABEL": "Optional",
+                                "DESCRIPTION": "Die Bedingung ist optional"
+                            }
+                        },
+                        "TYPE_OF_CONDITIONAL_SET": "Sie haben die Art der Bedingung erfolgreich auf **{{value}}** gesetzt.",
+                        "SELECT_THE_OPERAND": "Sie müssen den Operanden auswählen, den Sie einstellen möchten.",
+                        "SELECT_THE_OPERAND_PLACEHOLDER": "Wählen Sie den Operanden",
+                        "AVAILABLE_OPERANDS": {
+                            "GREATER_THAN": {
+                                "DESCRIPTION": "Der Wert muss größer sein als der Vergleichswert",
+                                "LABEL": "Größer als"
+                            },
+                            "GREATER_THAN_OR_EQUAL": {
+                                "LABEL": "Größer als oder gleich",
+                                "DESCRIPTION": "Der Wert muss größer oder gleich dem Vergleichswert sein"
+                            },
+                            "EQUAL": {
+                                "LABEL": "Gleichbedeutend mit",
+                                "DESCRIPTION": "Der Wert muss gleich dem verglichenen Wert sein"
+                            },
+                            "LESS_THAN": {
+                                "LABEL": "Weniger als",
+                                "DESCRIPTION": "Der Wert muss kleiner sein als der Vergleichswert"
+                            },
+                            "LESS_THAN_OR_EQUAL": {
+                                "LABEL": "Weniger als oder gleich",
+                                "DESCRIPTION": "Der Wert muss kleiner als oder gleich dem Vergleichswert sein"
+                            }
+                        },
+                        "OPERAND_SET": "Sie haben den Operanden erfolgreich auf **{{value}}** gesetzt.",
+                        "SELECT_THE_REQUIRED_CONDITIONS_PLACEHOLDER": "Wählen Sie die gewünschten Bedingungen",
+                        "SELECT_THE_REQUIRED_CONDITIONS_OPTION_DESCRIPTION": "{{number}} die Bedingungen müssen erfüllt sein.",
+                        "REQUIRED_CONDITIONS_SET": "Sie haben die erforderlichen Bedingungen auf **{{conditions}}** erfolgreich eingestellt.",
+                        "EXPECTED_VALUE_SET": "Sie haben den erwarteten Wert erfolgreich auf **{{value}}** gesetzt.",
+                        "SELECT_THE_REQUIRED_CONDITIONS": "Sie müssen die gewünschten Bedingungen auswählen, die Sie einstellen möchten."
+                    },
+                    "CREATE_A_LEVEL": {
+                        "LABEL": "Ein Level erstellen",
+                        "DESCRIPTION": "Erstellen Sie eine Ebene für das Modul Auto-Moderation.",
+                        "FORM": {
+                            "LABEL": "Ebene Position"
+                        },
+                        "COMPLETED": "Sie haben die Ebene erfolgreich erstellt.",
+                        "LEVEL_POSITION_SET": "Sie haben die Pegelposition erfolgreich auf **#{{position}}** eingestellt."
+                    },
+                    "EDIT_A_LEVEL": {
+                        "LABEL": "Ein Level bearbeiten",
+                        "DESCRIPTION": "Bearbeiten Sie eine Stufe aus dem Modul Auto-Moderation.",
+                        "NO_LEVELS_FOUND": "Es sind keine Ebenen zum Bearbeiten verfügbar.",
+                        "SELECT_THE_LEVEL": "Sie müssen die Ebene auswählen, die Sie bearbeiten möchten.",
+                        "SELECT_THE_LEVEL_PLACEHOLDER": "Wählen Sie eine Stufe",
+                        "LEVEL_SELECTED": "Sie haben erfolgreich die Ebene **#{{level}}** zur Bearbeitung ausgewählt.",
+                        "COMPLETED": "Sie haben die Ebene **#{{level}}** erfolgreich bearbeitet.",
+                        "SELECT_THE_LEVEL_OPTION_DESCRIPTION": "Bearbeiten Sie die Ebene #{{level}}."
+                    },
+                    "EDIT_THE_LEVEL_SANCTION": {
+                        "DESCRIPTION": "Bearbeiten Sie die Sanktion des Levels.",
+                        "NO_LEVELS_FOUND": "Es sind keine Ebenen zum Bearbeiten verfügbar.",
+                        "SELECT_THE_LEVEL_PLACEHOLDER": "Wählen Sie eine Stufe",
+                        "SELECT_THE_LEVEL_OPTION_DESCRIPTION": "Bearbeiten Sie die Sanktion des Levels #{{level}}.",
+                        "LEVEL_SELECTED": "Sie haben erfolgreich die Ebene **#{{level}}** ausgewählt, um ihre Sanktion zu bearbeiten.",
+                        "COMPLETED": "Sie haben die Sanktion der Ebene **#{{level}}** erfolgreich bearbeitet.",
+                        "LABEL": "Bearbeiten Sie die Level-Sanktion",
+                        "SELECT_THE_LEVEL": "Sie müssen die Ebene auswählen, die Sie bearbeiten möchten."
+                    },
+                    "DELETE_A_LEVEL": {
+                        "LABEL": "Eine Ebene löschen",
+                        "NO_LEVELS_FOUND": "Es sind keine Ebenen zum Löschen verfügbar.",
+                        "SELECT_THE_LEVEL": "Sie müssen die Ebene auswählen, die Sie löschen möchten.",
+                        "SELECT_THE_LEVEL_PLACEHOLDER": "Wählen Sie eine Stufe",
+                        "SELECT_THE_LEVEL_OPTION_DESCRIPTION": "Löschen Sie die Ebene #{{level}}.",
+                        "COMPLETED": "Sie haben die Ebene **#{{level}}** erfolgreich gelöscht.",
+                        "DESCRIPTION": "Löschen Sie eine Stufe aus dem Modul Auto-Moderation."
+                    }
+                }
+            },
+            "NAME": "Moderation",
+            "ANTI_REPEATED_TEXT": {
+                "LABEL": "Anti-Wiederholungstext",
+                "DESCRIPTION": "Verhindern Sie, dass Benutzer wiederholt Text in derselben Nachricht senden."
+            }
+        },
+        "SELECT_A_SANCTION": "Sie müssen die Sanktion auswählen, die Sie festlegen möchten.",
+        "SANCTION_SET": "Sie haben die Seite **{{sanction}}** erfolgreich eingestellt"
     }
-  }
 }
