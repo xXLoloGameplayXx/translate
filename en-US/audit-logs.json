@@ -21,6 +21,6 @@
     "ANTI_BAD_WORDS_1": "The message you have sent contains bad words.",
     "ANTI_BAD_WORDS_2": "The message you have updated contains bad words.",
     "ANTI_EVASION": "The user has left the guild to evade an active sanction.",
-    "AUTO_MODERATION": "Reach {{warns}} active warnings."
+    "AUTO_MODERATION": "Meet the requirements of the Auto Moderation level #{{level}}."
   }
 }

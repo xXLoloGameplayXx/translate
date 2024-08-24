@@ -12,5 +12,20 @@
   "MEMBER_NICKNAME": "Member nickname",
   "WITHOUT_NICKNAME": "Without nickname",
   "MEMBER_PENDING_TRUE": "The member is pending verification.",
-  "MEMBER_PENDING_FALSE": "The member has passed the verification."
+  "MEMBER_PENDING_FALSE": "The member has passed the verification.",
+  "FLAGS": {
+    "ACTIVE_DEVELOPER": "Active Developer",
+    "BUG_HUNTER_LEVEL_1": "Bug Hunter Level 1",
+    "BUG_HUNTER_LEVEL_2": "Bug Hunter Level 2",
+    "CERTIFIED_MODERATOR": "Certified Moderator",
+    "HYPESQUAD_ONLINE_HOUSE_1": "Bravery",
+    "HYPESQUAD_ONLINE_HOUSE_2": "Brilliance",
+    "HYPESQUAD_ONLINE_HOUSE_3": "Balance",
+    "HYPESQUAD": "HypeSquad Events",
+    "PARTNER": "Partner",
+    "QUARANTINED": "Quarantined",
+    "SPAMMER": "Spammer",
+    "STAFF": "Staff",
+    "EARLY_VERIFIED_DEVELOPER": "Early Verified Developer"
+  }
 }

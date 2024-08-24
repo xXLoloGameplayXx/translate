@@ -88,5 +88,10 @@
   "SELECT_A_USER": "You must select a user to continue.",
   "SELECT_A_USER_PLACEHOLDER": "Select a user",
   "SUBMITTED": "Submitted",
-  "PRESS_BUTTON_TO_MODAL": "You must click the **{{name}}** button to display the modal."
+  "PRESS_BUTTON_TO_MODAL": "You must click the **{{name}}** button to display the modal.",
+  "NUMBER_OF_SANCTIONS": "Number of sanctions",
+  "TYPE": "Type",
+  "VALUE": "Value",
+  "SANCTIONS": "Sanctions",
+  "BLACKLISTED": "Blacklisted"
 }

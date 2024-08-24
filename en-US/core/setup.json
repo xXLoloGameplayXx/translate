@@ -62,6 +62,9 @@
         "NO_DATA_TO_REMOVE": "There are no {{value}} available to remove from the module's exception list."
       }
     },
+    "SELECT_A_SANCTION": "You must select the sanction you want to set.",
+    "SELECT_A_SANCTION_PLACEHOLDER": "Select a sanction",
+    "SANCTION_SET": "You have successfully set the **{{sanction}}** sanction",
     "COMMUNITY": {
       "NAME": "Community",
       "COMMANDS": {
@@ -209,6 +212,303 @@
         }
       }
     },
+    "MODERATION": {
+      "NAME": "Moderation",
+      "ANTI_BAD_WORDS": {
+        "LABEL": "Anti Bad Words",
+        "DESCRIPTION": "Prevent users from using bad words."
+      },
+      "ANTI_EVASION": {
+        "LABEL": "Anti Evasion",
+        "DESCRIPTION": "Ban those who try to evade their sanctions."
+      },
+      "ANTI_EXTERNAL_LINKS": {
+        "LABEL": "Anti External Links",
+        "DESCRIPTION": "Prevent users from sending external links."
+      },
+      "ANTI_INVITES": {
+        "LABEL": "Anti Invites",
+        "DESCRIPTION": "Don't allow users to send invites that aren't from this server."
+      },
+      "ANTI_MASS_MENTIONS": {
+        "LABEL": "Anti Mass Mentions",
+        "DESCRIPTION": "Prevent users from mass mentioning other users."
+      },
+      "ANTI_REPEATED_TEXT": {
+        "LABEL": "Anti Repeated Text",
+        "DESCRIPTION": "Prevent users from sending repeated text on the same message."
+      },
+      "ANTI_SCAM_LINKS": {
+        "LABEL": "Anti Scam Links",
+        "DESCRIPTION": "Don't allow users to send links that are considered scams."
+      },
+      "ANTI_SPAM": {
+        "LABEL": "Anti Spam",
+        "DESCRIPTION": "Prevent users from spamming."
+      },
+      "AUTO_MODERATION": {
+        "LABEL": "Auto Moderation",
+        "DESCRIPTION": "Moderate users intelligently and automatically.",
+        "CONDITIONALS_LIST": {
+          "USER_FLAG": {
+            "LABEL": "User flag",
+            "DESCRIPTION": "Check if the user has the specified flag.",
+            "SELECT_THE_FLAG": "You must select the flag you want to set.",
+            "SELECT_THE_FLAG_PLACEHOLDER": "Select the flag",
+            "DESCRIPTION_ALTERNATIVE": "The user must have the {{flag}} flag.",
+            "FLAG_SET": "You have successfully set the **{{flag}}** flag."
+          },
+          "USER_REGISTER_DATE": {
+            "LABEL": "User register date",
+            "DESCRIPTION": "Check the time elapsed since the user's registration.",
+            "TIME_SET": "You have successfully set the time elapsed since the user's registration to **{{time}}**."
+          },
+          "USER_DISPLAY_NAME": {
+            "LABEL": "User display name",
+            "DESCRIPTION": "Check the user's display name.",
+            "DISPLAY_NAME_SET": "You have successfully set the user's display name to **{{name}}**."
+          },
+          "USER_NAME": {
+            "LABEL": "User name",
+            "DESCRIPTION": "Check the user's name.",
+            "NAME_SET": "You have successfully set the user's name to **{{name}}**."
+          },
+          "MEMBER_JOIN_DATE": {
+            "LABEL": "Member join date",
+            "DESCRIPTION": "Check the time elapsed since the user joined the server.",
+            "TIME_SET": "You have successfully set the time elapsed since the user joined the server to **{{time}}**."
+          },
+          "MEMBER_NICKNAME": {
+            "LABEL": "Member nickname",
+            "DESCRIPTION": "Check the member's nickname.",
+            "NICKNAME_SET": "You have successfully set the member's nickname to **{{name}}**."
+          },
+          "MEMBER_PENDING_STATE": {
+            "LABEL": "Member pending state",
+            "DESCRIPTION": "Checks that the member has passed the server requirements.",
+            "SELECT_THE_STATE": "You must select the state you want to set.",
+            "SELECT_THE_STATE_PLACEHOLDER": "Select the state",
+            "PENDING_STATE_SET": "You have successfully set the pending state to **{{state}}**.",
+            "AVAILABLE_STATES": {
+              "VERIFIED": {
+                "LABEL": "Verified",
+                "DESCRIPTION": "The member is be verified"
+              },
+              "UNVERIFIED": {
+                "LABEL": "Unverified",
+                "DESCRIPTION": "The member is not be verified"
+              }
+            }
+          },
+          "MEMBER_ROLE": {
+            "LABEL": "Member role",
+            "DESCRIPTION": "Check the member's role.",
+            "ROLE_SET": "You have successfully set the member's role to **{{role.mention}}** ({{role.id}})."
+          },
+          "MEMBER_BOOST_DATE": {
+            "LABEL": "Member boost date",
+            "DESCRIPTION": "Check the time elapsed since the member boosted the server.",
+            "TIME_SET": "You have successfully set the time elapsed since the member boosted the server to **{{time}}**."
+          },
+          "MEMBER_TOTAL_SANCTIONS": {
+            "LABEL": "Member total sanctions",
+            "DESCRIPTION": "Check the total number of sanctions the member has.",
+            "TOTAL_SANCTIONS_SET": "You have successfully set the total number of sanctions to **{{number}}**."
+          },
+          "MEMBER_TOTAL_SANCTIONS_WITH_EXPIRATION": {
+            "LABEL": "Member total sanctions with expiration",
+            "DESCRIPTION": "Check the total number of sanctions the member has with expiration.",
+            "TOTAL_SANCTIONS_WITH_EXPIRATION_SET": "You have successfully set the total number of sanctions to **{{number}}** in the last **{{time}}**."
+          },
+          "MEMBER_TOTAL_SANCTIONS_BY_MODULE": {
+            "LABEL": "Member total sanctions by module",
+            "DESCRIPTION": "Check the total number of sanctions the member has by module.",
+            "SELECT_THE_MODULE": "You must select the module you want to set.",
+            "SELECT_THE_MODULE_PLACEHOLDER": "Select the module",
+            "TOTAL_SANCTIONS_BY_MODULE_SET": "You have successfully set the total number of sanctions to **{{number}}** and the module to **{{module}}**."
+          },
+          "MEMBER_TOTAL_SANCTIONS_BY_MODULE_WITH_EXPIRATION": {
+            "LABEL": "Member total sanctions by module with expiration",
+            "DESCRIPTION": "Check the total number of sanctions the member has by module with expiration.",
+            "SELECT_THE_MODULE": "You must select the module you want to set.",
+            "SELECT_THE_MODULE_PLACEHOLDER": "Select the module",
+            "TOTAL_SANCTIONS_BY_MODULE_WITH_EXPIRATION_SET": "You have successfully set the total number of sanctions to **{{number}}** in the last **{{time}}** and the module to **{{module}}**."
+          },
+          "MEMBER_TOTAL_SANCTIONS_BY_TYPE": {
+            "LABEL": "Member total sanctions by type",
+            "DESCRIPTION": "Check the total number of sanctions the member has by type.",
+            "SELECT_THE_TYPE": "You must select the type you want to set.",
+            "SELECT_THE_TYPE_PLACEHOLDER": "Select the type",
+            "TOTAL_SANCTIONS_BY_TYPE_SET": "You have successfully set the total number of sanctions to **{{number}}** and the type to **{{type}}**."
+          },
+          "MEMBER_TOTAL_SANCTIONS_BY_TYPE_WITH_EXPIRATION": {
+            "LABEL": "Member total sanctions by type with expiration",
+            "DESCRIPTION": "Check the total number of sanctions the member has by type with expiration.",
+            "SELECT_THE_TYPE": "You must select the type you want to set.",
+            "SELECT_THE_TYPE_PLACEHOLDER": "Select the type",
+            "TOTAL_SANCTIONS_BY_TYPE_WITH_EXPIRATION_SET": "You have successfully set the total number of sanctions to **{{number}}** in the last **{{time}}** and the type to **{{type}}**."
+          },
+          "MEMBER_TOTAL_SANCTIONS_BY_TYPE_BY_MODULE": {
+            "LABEL": "Member total sanctions by type by module",
+            "DESCRIPTION": "Check the total number of sanctions the member has by type by module.",
+            "SELECT_THE_TYPE": "You must select the type you want to set.",
+            "SELECT_THE_TYPE_PLACEHOLDER": "Select the type",
+            "SELECT_THE_MODULE": "You must select the module you want to set.",
+            "SELECT_THE_MODULE_PLACEHOLDER": "Select the module",
+            "TOTAL_SANCTIONS_BY_TYPE_BY_MODULE_SET": "You have successfully set the total number of sanctions to **{{number}}**, the type to **{{type}}** and the module to **{{module}}**."
+          },
+          "MEMBER_TOTAL_SANCTIONS_BY_TYPE_BY_MODULE_WITH_EXPIRATION": {
+            "LABEL": "Member total sanctions by type by module with expiration",
+            "DESCRIPTION": "Check the total number of sanctions the member has by type by module with expiration.",
+            "SELECT_THE_TYPE": "You must select the type you want to set.",
+            "SELECT_THE_TYPE_PLACEHOLDER": "Select the type",
+            "SELECT_THE_MODULE": "You must select the module you want to set.",
+            "SELECT_THE_MODULE_PLACEHOLDER": "Select the module",
+            "TOTAL_SANCTIONS_BY_TYPE_BY_MODULE_WITH_EXPIRATION_SET": "You have successfully set the total number of sanctions to **{{number}}** in the last **{{time}}**, the type to **{{type}}** and the module to **{{module}}**."
+          },
+          "SERVER_FEATURES": {
+            "LABEL": "Server features",
+            "DESCRIPTION": "Check if the server has the specified feature.",
+            "SELECT_THE_FEATURE": "You must select the feature you want to set.",
+            "SELECT_THE_FEATURE_PLACEHOLDER": "Select the feature",
+            "DESCRIPTION_ALTERNATIVE": "The server must have the {{feature}} feature.",
+            "FEATURE_SET": "You have successfully set the **{{feature}}** feature."
+          },
+          "USER_BLACKLISTED_THIRD_PARTY": {
+            "LABEL": "User blacklisted third party",
+            "DESCRIPTION": "Check if the user is blacklisted in a third party.",
+            "SELECT_THE_STATUS": "You must select the status you want to set.",
+            "SELECT_THE_STATUS_PLACEHOLDER": "Select the status",
+            "STATUS_SET": "You have successfully set the status to **{{status}}**.",
+            "AVAILABLE_STATUS": {
+              "BLACKLISTED": {
+                "LABEL": "Blacklisted",
+                "DESCRIPTION": "The user must be blacklisted"
+              },
+              "NOT_BLACKLISTED": {
+                "LABEL": "Not blacklisted",
+                "DESCRIPTION": "The user must not be blacklisted"
+              }
+            }
+          }
+        },
+        "CONFIGURE": {
+          "SELECT_THE_ACTION": "You must select the action you want to perform on the level.",
+          "CONDITIONALS": {
+            "ADD_CONDITIONAL": {
+              "LABEL": "Add conditional",
+              "DESCRIPTION": "Add a conditional to the level.",
+              "COMPLETED": "You have successfully added the conditional to the level."
+            },
+            "EDIT_CONDITIONAL": {
+              "LABEL": "Edit conditional",
+              "DESCRIPTION": "Edit a conditional of the level.",
+              "COMPLETED": "You have successfully edited the conditional of the level."
+            },
+            "REMOVE_CONDITIONAL": {
+              "LABEL": "Remove conditional",
+              "DESCRIPTION": "Remove a conditional from the level.",
+              "COMPLETED": "You have successfully removed the conditional from the level."
+            },
+            "SELECT_THE_CONDITIONAL": "You must select the conditional you want to {{action}}.",
+            "SELECT_THE_CONDITIONAL_PLACEHOLDER": "Select a conditional",
+            "SELECT_THE_EXPECTED_VALUE": "You must select the expected value you want to set.",
+            "SELECT_THE_EXPECTED_VALUE_PLACEHOLDER": "Select the expected value",
+            "AVAILABLE_EXPECTED_VALUES": {
+              "TRUE": {
+                "LABEL": "True",
+                "DESCRIPTION": "The expected value must be true"
+              },
+              "FALSE": {
+                "LABEL": "False",
+                "DESCRIPTION": "The expected value must be false"
+              }
+            },
+            "EXPECTED_VALUE_SET": "You have successfully set the expected value to **{{value}}**.",
+            "SELECT_THE_TYPE_OF_CONDITIONAL": "You must select the type of conditional you want to set.",
+            "SELECT_THE_TYPE_OF_CONDITIONAL_PLACEHOLDER": "Select the type of conditional",
+            "AVAILABLE_TYPES_OF_CONDITIONAL": {
+              "REQUIRED": {
+                "LABEL": "Required",
+                "DESCRIPTION": "The conditional is required to be met"
+              },
+              "OPTIONAL": {
+                "LABEL": "Optional",
+                "DESCRIPTION": "The conditional is optional"
+              }
+            },
+            "TYPE_OF_CONDITIONAL_SET": "You have successfully set the type of conditional to **{{value}}**.",
+            "SELECT_THE_OPERAND": "You must select the operand you want to set.",
+            "SELECT_THE_OPERAND_PLACEHOLDER": "Select the operand",
+            "AVAILABLE_OPERANDS": {
+              "GREATER_THAN": {
+                "LABEL": "Greater than",
+                "DESCRIPTION": "The value must be greater than the compared value"
+              },
+              "GREATER_THAN_OR_EQUAL": {
+                "LABEL": "Greater than or equal to",
+                "DESCRIPTION": "The value must be greater than or equal to the compared value"
+              },
+              "EQUAL": {
+                "LABEL": "Equal to",
+                "DESCRIPTION": "The value must be equal to the compared value"
+              },
+              "LESS_THAN": {
+                "LABEL": "Less than",
+                "DESCRIPTION": "The value must be less than the compared value"
+              },
+              "LESS_THAN_OR_EQUAL": {
+                "LABEL": "Less than or equal to",
+                "DESCRIPTION": "The value must be less than or equal to the compared value"
+              }
+            },
+            "OPERAND_SET": "You have successfully set the operand to **{{value}}**.",
+            "SELECT_THE_REQUIRED_CONDITIONS": "You must select the required conditions you want to set.",
+            "SELECT_THE_REQUIRED_CONDITIONS_PLACEHOLDER": "Select the required conditions",
+            "SELECT_THE_REQUIRED_CONDITIONS_OPTION_DESCRIPTION": "{{number}} conditions are required to be met.",
+            "REQUIRED_CONDITIONS_SET": "You have successfully set the required conditions to **{{conditions}}**."
+          },
+          "CREATE_A_LEVEL": {
+            "LABEL": "Create a level",
+            "DESCRIPTION": "Create a level for the Auto Moderation module.",
+            "FORM": {
+              "LABEL": "Level position"
+            },
+            "LEVEL_POSITION_SET": "You have successfully set the level position to **#{{position}}**.",
+            "COMPLETED": "You have successfully created the level."
+          },
+          "EDIT_A_LEVEL": {
+            "LABEL": "Edit a level",
+            "DESCRIPTION": "Edit a level from the Auto Moderation module.",
+            "NO_LEVELS_FOUND": "There are no levels available to edit.",
+            "SELECT_THE_LEVEL": "You must select the level you want to edit.",
+            "SELECT_THE_LEVEL_PLACEHOLDER": "Select a level",
+            "SELECT_THE_LEVEL_OPTION_DESCRIPTION": "Edit the level #{{level}}.",
+            "LEVEL_SELECTED": "You have successfully selected the level **#{{level}}** to edit.",
+            "COMPLETED": "You have successfully edited the level **#{{level}}**."
+          },
+          "EDIT_THE_LEVEL_SANCTION": {
+            "LABEL": "Edit the level sanction",
+            "DESCRIPTION": "Edit the sanction of the level.",
+            "NO_LEVELS_FOUND": "There are no levels available to edit.",
+            "SELECT_THE_LEVEL": "You must select the level you want to edit.",
+            "SELECT_THE_LEVEL_PLACEHOLDER": "Select a level",
+            "SELECT_THE_LEVEL_OPTION_DESCRIPTION": "Edit the sanction of the level #{{level}}.",
+            "LEVEL_SELECTED": "You have successfully selected the level **#{{level}}** to edit its sanction.",
+            "COMPLETED": "You have successfully edited the sanction of the level **#{{level}}**."
+          },
+          "DELETE_A_LEVEL": {
+            "LABEL": "Delete a level",
+            "DESCRIPTION": "Delete a level from the Auto Moderation module.",
+            "NO_LEVELS_FOUND": "There are no levels available to delete.",
+            "SELECT_THE_LEVEL": "You must select the level you want to delete.",
+            "SELECT_THE_LEVEL_PLACEHOLDER": "Select a level",
+            "SELECT_THE_LEVEL_OPTION_DESCRIPTION": "Delete the level #{{level}}.",
+            "COMPLETED": "You have successfully deleted the level **#{{level}}**."
+          }
+        }
+      }
+    },
     "VIEW": {
       "TITLE": "Viewing the settings of the **{{module}}** module",
       "NO_DATA": "No data",
@@ -217,6 +517,7 @@
       "DM_STATUS": "DM status",
       "COOLDOWN": "Cooldown",
       "EXCEPTIONS": "{{type}} exceptions",
+      "ACTION": "Action",
       "COMMUNITY": {
         "COMMANDS": {
           "DISABLED_COMMANDS": "Disabled commands",
@@ -243,6 +544,16 @@
             "TITLE": "Evidences parameters",
             "MIN_COUNT": "Minimum count of evidences"
           }
+        }
+      },
+      "MODERATION": {
+        "AUTO_MODERATION": {
+          "LEVEL": "Level #{{level}}",
+          "REQUIRED_OPTIONAL_CONDITIONALS": "Required optional conditionals",
+          "CONDITIONALS": "Conditionals",
+          "CONDITIONAL": "Conditional #{{conditional}}",
+          "EXPECTED_VALUE": "Expected value",
+          "REQUIRED_STATUS": "Required status"
         }
       }
     }
