@@ -89,9 +89,9 @@
     "SELECT_A_USER_PLACEHOLDER": "ユーザーを選択",
     "SUBMITTED": "提出済み",
     "PRESS_BUTTON_TO_MODAL": "モーダルを表示するには、**{{name}}** ボタンをクリックする必要があります。",
-    "NUMBER_OF_SANCTIONS": "Number of sanctions",
-    "TYPE": "Type",
-    "VALUE": "Value",
-    "SANCTIONS": "Sanctions",
-    "BLACKLISTED": "Blacklisted"
+    "NUMBER_OF_SANCTIONS": "制裁件数",
+    "TYPE": "タイプ",
+    "VALUE": "価値",
+    "SANCTIONS": "制裁",
+    "BLACKLISTED": "ブラックリスト入り"
 }
