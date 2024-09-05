@@ -83,6 +83,6 @@
     "THIS_MODULE_NEEDS_TO_BE_ENABLED": "Aquest mòdul deu estar activat per realitzar aquesta acció.",
     "MAX_NUMBER_OF_EXCEPTIONS_CONFIGURED": "Aquest mòdul ha aconseguit el nombre màxim d'excepcions ({{number}}).",
     "MAX_NUMBER_OF_NOTIFICATION_ROLES_CONFIGURED": "Aquest mòdul ha aconseguit el nombre màxim de rols de notificacions ({{number}}).",
-    "MAX_CONDITIONALS_REACHED": "This level has reached the maximum number of conditionals ({{number}}).",
-    "NO_CONDITIONALS_CONFIGURED": "This level doesn't have any conditionals configured."
+    "MAX_CONDITIONALS_REACHED": "Aquest nivell ha aconseguit el nombre màxim de condicionals ({{number}}).",
+    "NO_CONDITIONALS_CONFIGURED": "Aquest nivell no té cap condicional configurat."
 }
