@@ -89,9 +89,9 @@
     "SELECT_A_USER_PLACEHOLDER": "Seleccionar un usuari",
     "SUBMITTED": "Enviat",
     "PRESS_BUTTON_TO_MODAL": "Deus fer clic en el botó **{{name}}** perquè es mostri el modal.",
-    "NUMBER_OF_SANCTIONS": "Number of sanctions",
-    "TYPE": "Type",
-    "VALUE": "Value",
-    "SANCTIONS": "Sanctions",
-    "BLACKLISTED": "Blacklisted"
+    "NUMBER_OF_SANCTIONS": "Nombre de sancions",
+    "TYPE": "Tipus",
+    "VALUE": "Valor",
+    "SANCTIONS": "Sancions",
+    "BLACKLISTED": "En la llista negra"
 }
