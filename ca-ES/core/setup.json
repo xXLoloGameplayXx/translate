@@ -245,6 +245,157 @@
                     }
                 }
             }
-        }
+        },
+        "SELECT_A_SANCTION_PLACEHOLDER": "Selecciona una sanció",
+        "SANCTION_SET": "Has establit correctament la sanció **{{sanction}}**",
+        "MODERATION": {
+            "ANTI_BAD_WORDS": {
+                "DESCRIPTION": "Evita que els usuaris utilitzin paraules malsonants.",
+                "LABEL": "Anti Paraules Dolentes"
+            },
+            "ANTI_EVASION": {
+                "LABEL": "Anti Evasió",
+                "DESCRIPTION": "Prohibeix a aquells que intentin evadir les seves sancions."
+            },
+            "ANTI_EXTERNAL_LINKS": {
+                "LABEL": "Anti Enllaços Externs",
+                "DESCRIPTION": "Evita que els usuaris enviin enllaços externs."
+            },
+            "ANTI_INVITES": {
+                "LABEL": "Anti Invitacions",
+                "DESCRIPTION": "No permetis que els usuaris enviin invitacions que no siguin d'aquest servidor."
+            },
+            "ANTI_MASS_MENTIONS": {
+                "LABEL": "Anti Mencions Masives",
+                "DESCRIPTION": "Evita que els usuaris mencionin masivament a altres usuaris."
+            },
+            "ANTI_REPEATED_TEXT": {
+                "LABEL": "Anti Text Repetit",
+                "DESCRIPTION": "Evita que els usuaris enviin text repetit en el mateix missatge."
+            },
+            "ANTI_SCAM_LINKS": {
+                "LABEL": "Anti Enllaços Estafadors",
+                "DESCRIPTION": "No permetis que els usuaris enviin enllaços que es considerin estafes."
+            },
+            "ANTI_SPAM": {
+                "LABEL": "Anti Spam",
+                "DESCRIPTION": "Evita que els usuaris facin spam."
+            },
+            "AUTO_MODERATION": {
+                "LABEL": "Auto Moderació",
+                "CONDITIONALS_LIST": {
+                    "USER_FLAG": {
+                        "LABEL": "Bandera d'usuari",
+                        "DESCRIPTION": "Comprova si l'usuari té la bandera especificada.",
+                        "SELECT_THE_FLAG": "Deus seleccionar la bandera que vols establir.",
+                        "SELECT_THE_FLAG_PLACEHOLDER": "Selecciona la bandera",
+                        "DESCRIPTION_ALTERNATIVE": "L'usuari deu tenir la bandera {{flag}}.",
+                        "FLAG_SET": "Has establit correctament la bandera **{{flag}}**."
+                    },
+                    "USER_REGISTER_DATE": {
+                        "LABEL": "Data de registre de l'usuari",
+                        "DESCRIPTION": "Comprova el temps transcurrit desde el registre de l'usuari.",
+                        "TIME_SET": "Has establit correctament el temps transcurrit desde el registre de l'usuari a **{{time}}**."
+                    },
+                    "USER_DISPLAY_NAME": {
+                        "LABEL": "Nom d'usuari mostrat",
+                        "DESCRIPTION": "Comprova el nom mostrat de l'usuari.",
+                        "DISPLAY_NAME_SET": "Has establit correctament el nom mostrat de l'usuari a **{{name}}**."
+                    },
+                    "USER_NAME": {
+                        "LABEL": "Nom d'usuari",
+                        "DESCRIPTION": "Comprova el nom de l'usuari.",
+                        "NAME_SET": "Has establit correctament el nom d'usuari a **{{name}}**."
+                    },
+                    "MEMBER_JOIN_DATE": {
+                        "LABEL": "Data d'unió",
+                        "TIME_SET": "Has establert correctament el temps transcurrit des de que l'usuari es va unir al servidor a **{{time}}**.",
+                        "DESCRIPTION": "Comprova el temps transcurrit des de que l'usuari es va unir al servidor."
+                    },
+                    "MEMBER_NICKNAME": {
+                        "LABEL": "Sobrenom del membre",
+                        "DESCRIPTION": "Comprova el sobrenom del membre.",
+                        "NICKNAME_SET": "Has establert correctament el sobrenom del membre a **{{name}}**."
+                    },
+                    "MEMBER_PENDING_STATE": {
+                        "LABEL": "Estat pendent del membre",
+                        "SELECT_THE_STATE": "Deus seleccionar l'estat que vols establir.",
+                        "SELECT_THE_STATE_PLACEHOLDER": "Selecciona l'estat",
+                        "PENDING_STATE_SET": "Has establit correctament l'estat pendent com **{{state}}**.",
+                        "AVAILABLE_STATES": {
+                            "VERIFIED": {
+                                "LABEL": "Verificat",
+                                "DESCRIPTION": "El membre deu estar verificat"
+                            },
+                            "UNVERIFIED": {
+                                "LABEL": "Sense verificar",
+                                "DESCRIPTION": "El membre no deu estar verificat"
+                            }
+                        },
+                        "DESCRIPTION": "Comprova que el membre hagi superat els requisits del servidor."
+                    },
+                    "MEMBER_ROLE": {
+                        "LABEL": "Rols del membre",
+                        "DESCRIPTION": "Comprova els rols del membre.",
+                        "ROLE_SET": "Has establit correctament els rols del membre a **{{role.mention}}** ({{role.id}})."
+                    },
+                    "MEMBER_BOOST_DATE": {
+                        "LABEL": "Data de millora del membre",
+                        "DESCRIPTION": "Comprova el temps transcurrit des de que el membre va millorar el servidor.",
+                        "TIME_SET": "Has establit correctament el temps transcurrit des de que el membre va millorar el servidor a **{{time}}**."
+                    },
+                    "MEMBER_TOTAL_SANCTIONS": {
+                        "LABEL": "Sancions totals del membre",
+                        "TOTAL_SANCTIONS_SET": "Has establit correctament el nombre total de sancions a **{{number}}**.",
+                        "DESCRIPTION": "Comprova el nombre total de sancions que té el membre."
+                    },
+                    "MEMBER_TOTAL_SANCTIONS_WITH_EXPIRATION": {
+                        "LABEL": "Sancions totals del membre amb venciment",
+                        "DESCRIPTION": "Comprova el nombre total de sancions que té el membre amb venciment.",
+                        "TOTAL_SANCTIONS_WITH_EXPIRATION_SET": "Has establert correctament el nombre total de sancions a **{{number}}** en els últims **{{time}}**."
+                    },
+                    "MEMBER_TOTAL_SANCTIONS_BY_MODULE": {
+                        "LABEL": "Sancions totals del membre per mòdul",
+                        "DESCRIPTION": "Comprova el nombre total de sancions que té el membre per módul.",
+                        "SELECT_THE_MODULE": "Deus seleccionar el mòdul que desitges establir.",
+                        "SELECT_THE_MODULE_PLACEHOLDER": "Seleciona el mòdul",
+                        "TOTAL_SANCTIONS_BY_MODULE_SET": "Has establert correctament el nombre total de sancions a **{{number}}** i el mòdul en **{{module}}**."
+                    },
+                    "MEMBER_TOTAL_SANCTIONS_BY_MODULE_WITH_EXPIRATION": {
+                        "LABEL": "Sancions totals del membre per mòdul i amb venciment",
+                        "DESCRIPTION": "Consulta el nombre total de sancions que té el membre per mòdul y amb venciment.",
+                        "SELECT_THE_MODULE": "Deus seleccionar el mòdul que desitges establir.",
+                        "SELECT_THE_MODULE_PLACEHOLDER": "Selecciona el mòdul",
+                        "TOTAL_SANCTIONS_BY_MODULE_WITH_EXPIRATION_SET": "Has establert correctament el nombre total de sancions a **{{number}}** en els últims **{{time}}** i el mòdul en **{{module}}**."
+                    },
+                    "MEMBER_TOTAL_SANCTIONS_BY_TYPE": {
+                        "LABEL": "Sancions totals del membre per tipus",
+                        "DESCRIPTION": "Comprova el nombre total de sancions que té el membre per tipus.",
+                        "SELECT_THE_TYPE": "Deus seleccionar el tipus que vols establir.",
+                        "SELECT_THE_TYPE_PLACEHOLDER": "Selecciona el tipus",
+                        "TOTAL_SANCTIONS_BY_TYPE_SET": "Has establert correctament el nombre total de sancions a **{{number}}** i el tipus com **{{type}}**."
+                    },
+                    "MEMBER_TOTAL_SANCTIONS_BY_TYPE_WITH_EXPIRATION": {
+                        "LABEL": "Sancions totals del membre per tipus i amb venciment",
+                        "DESCRIPTION": "Comprova el nombre total de sancions que té el membre per tipus i amb venciment.",
+                        "SELECT_THE_TYPE": "Deus seleccionar el tipus que vols establir.",
+                        "SELECT_THE_TYPE_PLACEHOLDER": "Selecciona el tipus",
+                        "TOTAL_SANCTIONS_BY_TYPE_WITH_EXPIRATION_SET": "Has establert correctament el nombre total de sancions a **{{number}}** en els últims **{{time}}** i el tipus com **{{type}}**."
+                    },
+                    "MEMBER_TOTAL_SANCTIONS_BY_TYPE_BY_MODULE": {
+                        "LABEL": "Sancions totals del membre per tipus i per mòdul",
+                        "DESCRIPTION": "Comprova el nombre total de sancions que té el membre per tipus i per mòdul.",
+                        "SELECT_THE_TYPE": "Deus seleccionar el tipus que vols establir.",
+                        "SELECT_THE_TYPE_PLACEHOLDER": "Selecciona el tipus",
+                        "SELECT_THE_MODULE": "Deus seleccionar el mòdul que desitges establir.",
+                        "SELECT_THE_MODULE_PLACEHOLDER": "Selecciona el mòdul",
+                        "TOTAL_SANCTIONS_BY_TYPE_BY_MODULE_SET": "Has establert correctament el nombre total de sancions a **{{number}}**, el tipus com **{{type}}** i el mòdul en **{{module}}**."
+                    }
+                },
+                "DESCRIPTION": "Modera els usuaris de forma intel·ligent i automàtica."
+            },
+            "NAME": "Moderació"
+        },
+        "SELECT_A_SANCTION": "Deus seleccionar la sanció que vols establir."
     }
 }
