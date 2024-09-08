@@ -1,6 +1,7 @@
 {
   "VIEWING_THE_PLAYER_STATISTICS": "Viewing **{{ign}}**'s statistics",
   "IGN": "In game nick",
+  "TAG": "Tag",
   "UUID": "UUID",
   "ARCHIVEMENTS_UNLOCKED": "Achievements unlocked",
   "GENERAL_STATISTICS": "General statistics",
@@ -37,13 +38,18 @@
   "RAW": "Raw",
   "RANKS": {
     "UNRANKED": "Unranked",
+    "IRON": "Iron {{rank}}",
     "COPPER": "Copper {{rank}}",
     "BRONZE": "Bronze {{rank}}",
     "SILVER": "Silver {{rank}}",
     "GOLD": "Gold {{rank}}",
     "PLATINUM": "Platinum {{rank}}",
+    "EMERALD": "Emerald {{rank}}",
     "DIAMOND": "Diamond {{rank}}",
-    "CHAMPION": "Champion {{rank}}"
+    "MASTER": "Master {{rank}}",
+    "GRANDMASTER": "Grandmaster {{rank}}",
+    "CHAMPION": "Champion {{rank}}",
+    "CHALLENGER": "Challenger {{rank}}"
   },
   "SEASON": "Season",
   "BLIND_KILLS": "Blind kills",
@@ -53,7 +59,16 @@
   "REVIVES": "Revives",
   "WIN_RATE": "Win rate",
   "RANKED_STATISTICS": "Ranked statistics",
+  "RANKED_SOLO_5V5_STATISTICS": "Ranked 5v5 statistics",
+  "RANKED_FLEX_STATISTICS": "Ranked flex statistics",
+  "CHERRY_STATISTICS": "Cherry statistics",
   "CASUAL_STATISTICS": "Casual statistics",
   "OTHER_STATISTICS": "Other statistics",
-  "MMR": "MMR"
+  "MMR": "MMR",
+  "GAME_VERSION": "Game version {{version}}",
+  "REVISION_DATE": "Revision date",
+  "VETERAN": "Veteran",
+  "INACTIVE": "Inactive",
+  "FRESH_BLOOD": "Fresh blood",
+  "HOT_STREAK": "Hot streak"
 }
