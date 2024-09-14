@@ -14,18 +14,18 @@
     "MEMBER_PENDING_TRUE": "El membre està pendent de verificació.",
     "MEMBER_PENDING_FALSE": "El membre ha passat la verificació.",
     "FLAGS": {
-        "BUG_HUNTER_LEVEL_1": "Bug Hunter Level 1",
-        "CERTIFIED_MODERATOR": "Certified Moderator",
+        "BUG_HUNTER_LEVEL_1": "Caçador d'Errades Nivell 1",
+        "CERTIFIED_MODERATOR": "Moderador certificat",
         "HYPESQUAD_ONLINE_HOUSE_1": "Bravery",
-        "BUG_HUNTER_LEVEL_2": "Bug Hunter Level 2",
-        "HYPESQUAD": "HypeSquad Events",
+        "BUG_HUNTER_LEVEL_2": "Caçador d'Errades Nivell 2",
+        "HYPESQUAD": "Esdeveniments de HypeSquad",
         "HYPESQUAD_ONLINE_HOUSE_2": "Brilliance",
         "HYPESQUAD_ONLINE_HOUSE_3": "Balance",
-        "ACTIVE_DEVELOPER": "Active Developer",
-        "EARLY_VERIFIED_DEVELOPER": "Early Verified Developer",
-        "STAFF": "Staff",
-        "PARTNER": "Partner",
+        "ACTIVE_DEVELOPER": "Desenvolupador actiu",
+        "EARLY_VERIFIED_DEVELOPER": "Desenvolupador Verificat Primerenc",
+        "STAFF": "Personal",
+        "PARTNER": "Soci",
         "SPAMMER": "Spammer",
-        "QUARANTINED": "Quarantined"
+        "QUARANTINED": "En Quarantena"
     }
 }

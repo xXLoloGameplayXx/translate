@@ -21,6 +21,6 @@
         "ANTI_BAD_WORDS_1": "El missatge que has enviat conté paraules ofensives.",
         "ANTI_BAD_WORDS_2": "El missatge que has actualitzat conté paraules ofensives.",
         "ANTI_EVASION": "L'usuari ha abandonat el gremi per evitar una sanció activa.",
-        "AUTO_MODERATION": "Aconseguir {{warns}} advertències actives."
+        "AUTO_MODERATION": "Complir els requisits del nivell d'Auto Moderació #{{level}}."
     }
 }
