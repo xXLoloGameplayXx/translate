@@ -146,7 +146,7 @@
     "REVIEW": {
         "TITLE": "Deixa'ns una valoració",
         "SUBTITLE": "Demostra quan estimes Filo i el seu servei!",
-        "DESCRIPTION": "Share your thoughts and experiences with Filo"
+        "DESCRIPTION": "Comparteix els teus pensaments i experiències amb Filo"
     },
     "VOTE": {
         "TITLE": "Vota per Filo",
@@ -154,9 +154,9 @@
         "DESCRIPTION": "Help us grow and improve by voting for Filo"
     },
     "FRIENDLY_WEBSITES": {
-        "TITLE": "Llocs web amics",
+        "TITLE": "Llocs web amics que recomanem",
         "SUBTITLE": "Llocs web amics que ajuden Filo a créixer!",
-        "DESCRIPTION": "Explore a curated list of websites that we consider friendly and valuable"
+        "DESCRIPTION": "Explora una llista seleccionada de llocs web que considerem amigables i valiosos"
     },
     "READY": {
         "TITLE": "Preparat per donar el següent pas?",
@@ -612,20 +612,20 @@
     "FAQ": {
         "QUESTIONS": {
             "THIRD": {
-                "QUESTION": "How can I get support or report an issue with Filo?",
-                "ANSWER": "We're here to help! If you have any questions, concerns, or need assistance, you can join our support server or contact our team through the provided channels. We're committed to ensuring a smooth experience for our users"
+                "QUESTION": "Com puc obtenir support o informar un problema sobre Filo?",
+                "ANSWER": "Estem aquí per ajudar! Si tens alguna pregunta, inquietut, o necessites ajuda, pots unir-te al nostre servidor de support o contactar amb el nostre servidor de support o contactar amb el nostre equip a través dels canals proporcionats. Estem comprometits a garantitzar una experiència fluida per els nostres usuaris"
             },
             "SEVENTH": {
                 "QUESTION": "How can Filo help me maintain a safe and enjoyable environment in my community?",
                 "ANSWER": "Filo's features include tools to combat spam, protect against external links, and manage community security, ensuring a positive and secure Discord experience for your community"
             },
             "FIRST": {
-                "QUESTION": "What is Filo, and what can it do for my Discord community?",
-                "ANSWER": "Filo is a powerful multipurpose Discord bot designed to simplify community moderation and administration"
+                "QUESTION": "Que es Filo i que pot fer per la meva comunitat de Discord?",
+                "ANSWER": "Filo es una potent bot de Discord multipropósit disenyada per simplificar la moderació i administració de la comunitat"
             },
             "SECOND": {
-                "QUESTION": "How do I invite Filo to my Discord community?",
-                "ANSWER": "Inviting Filo is easy! Just click the \"Invite\" link in the navigation bar and follow the steps. You can customize its settings to fit your community's needs"
+                "QUESTION": "Com convido a Filo a la meva comunitat de Discord?",
+                "ANSWER": "Invitar a Filo es fàcil! Simplement fes clic en l'enllaç \"Convidar\" en la barra de navegació i segueix els passos. Pots personalitzar la configuració per adaptarla a a les nessesitats de la teva comunitat"
             },
             "FOURTH": {
                 "QUESTION": "Does Filo have multilingual support for non-English-speaking communities?",
@@ -644,8 +644,8 @@
                 "ANSWER": "Filo is designed to be user-friendly and easy to integrate into your community. The setup process is straightforward and intuitive"
             }
         },
-        "TITLE": "Frequently asked questions",
-        "DESCRIPTION": "Explore our FAQ section for quick solutions to common queries about Filo, Discord bot features, and much more"
+        "TITLE": "Preguntes freqüents",
+        "DESCRIPTION": "Explora la nostra secció de preguntes freqüents per obtenir solucions ràpides a consultes comunes sobre Filo, les funcions del bot de Discord i molt més."
     },
     "ERROR": {
         "412": {
