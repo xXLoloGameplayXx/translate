@@ -117,5 +117,7 @@
     "WINNER": "Ganador",
     "TOURNAMENT_CODE": "Código del torneo",
     "BANNED_CHAMPIONS": "Campeones prohibidos",
-    "KDA": "KDA"
+    "KDA": "KDA",
+    "ROLE": "Rol",
+    "PLAYER_HAS_NO_BANNED_ANY_CHAMPION": "Este jugador no ha prohibido ningún campeón"
 }
