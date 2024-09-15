@@ -93,5 +93,6 @@
     "NUMBER_OF_SANCTIONS": "Número de sanciones",
     "TYPE": "Tipo",
     "VALUE": "Valor",
-    "BLACKLISTED": "En la lista negra"
+    "BLACKLISTED": "En la lista negra",
+    "END_DATE": "End date"
 }
