@@ -1,39 +1,39 @@
 {
-  "description": "League of Legends command utilities.",
-  "subcommands": {
-    "stats": {
-      "description": "Get the statistics of a LoL player.",
-      "arguments": {
-        "region": {
-          "name": "region",
-          "description": "Region where the player plays."
+    "description": "Utilidades del comando de League of Legends.",
+    "subcommands": {
+        "stats": {
+            "description": "Obtén las estadísticas de un jugador de LoL.",
+            "arguments": {
+                "region": {
+                    "name": "región",
+                    "description": "Región en la que juega el jugador."
+                },
+                "player": {
+                    "name": "jugador",
+                    "description": "Nombre en el juego del jugador."
+                },
+                "tag": {
+                    "name": "tag",
+                    "description": "Tag del jugador."
+                }
+            }
         },
-        "player": {
-          "name": "player",
-          "description": "In Game Nick of the player."
-        },
-        "tag": {
-          "name": "tag",
-          "description": "Tag of the player."
+        "matches": {
+            "description": "Obtén las últimas 25 partidas clasificatorias de un jugador de LoL.",
+            "arguments": {
+                "region": {
+                    "name": "región",
+                    "description": "Región en la que juega el jugador."
+                },
+                "player": {
+                    "name": "jugador",
+                    "description": "Nombre en el juego del jugador."
+                },
+                "tag": {
+                    "name": "tag",
+                    "description": "Tag del jugador."
+                }
+            }
         }
-      }
-    },
-    "matches": {
-      "description": "Get the last 25 ranked matches of a LoL player.",
-      "arguments": {
-        "region": {
-          "name": "region",
-          "description": "Region where the player plays."
-        },
-        "player": {
-          "name": "player",
-          "description": "In Game Nick of the player."
-        },
-        "tag": {
-          "name": "tag",
-          "description": "Tag of the player."
-        }
-      }
     }
-  }
 }
