@@ -58,6 +58,7 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add .
+          git reset package-lock.json
           git diff-index --quiet HEAD || git commit -m "Clean up orphaned translation files"
 
       - name: Create a pull request
