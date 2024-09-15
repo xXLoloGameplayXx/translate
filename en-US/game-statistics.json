@@ -99,7 +99,7 @@
     "ULTBOOK": "Ultimate Spellbook"
   },
   "MAP": "Map",
-  "ROLE": "GAME_ROLE",
+  "ROLE": "Role",
   "LOL_ROLES": {
     "TOP": "Top",
     "JUNGLE": "Jungle",
@@ -118,5 +118,6 @@
   "TOTAL_DAMAGE_TAKEN": "Total damage taken",
   "WINNER": "Winner",
   "TOURNAMENT_CODE": "Tournament code",
-  "BANNED_CHAMPIONS": "Banned champions"
+  "BANNED_CHAMPIONS": "Banned champions",
+  "PLAYER_HAS_NO_BANNED_ANY_CHAMPION": "This player has not banned any champion"
 }
