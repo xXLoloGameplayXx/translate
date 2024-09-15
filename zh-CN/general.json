@@ -93,5 +93,6 @@
     "VALUE": "价值",
     "NUMBER_OF_SANCTIONS": "制裁次数",
     "SANCTIONS": "制裁",
-    "BLACKLISTED": "黑名单"
+    "BLACKLISTED": "黑名单",
+    "END_DATE": "End date"
 }
