@@ -1,4 +1,0 @@
-{
-  "TITLE": "LOS COMANDOS A TRAVÉS DE MENSAJES ESTÁN OBSOLETOS",
-  "DESCRIPTION": "A partir de la v4 de Filo, los comandos mediante mensajes están obsoletos y por lo tanto ya no serán respondidos.\n\n**¡Ahora debes usar los Comandos de Barra Inclinada de Filo!**\nPrueba el primer comando de este tipo escribiendo esto en el chat: **{{command}}**.\n\n**¿El comando no aparece?**\n¡Asegúrate de que tienes la integración de los Comandos de Barra Inclinada añadida en tu servidor! Haz **[clic aquí]({{url2}})** si aún no la tienes.\n\nMás información sobre este cambio haciendo **[clic aquí]({{url}})**."
-}
