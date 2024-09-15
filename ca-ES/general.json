@@ -93,5 +93,6 @@
     "TYPE": "Tipus",
     "VALUE": "Valor",
     "SANCTIONS": "Sancions",
-    "BLACKLISTED": "En la llista negra"
+    "BLACKLISTED": "En la llista negra",
+    "END_DATE": "End date"
 }
