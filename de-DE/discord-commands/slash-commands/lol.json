@@ -1,0 +1,39 @@
+{
+  "description": "League of Legends command utilities.",
+  "subcommands": {
+    "stats": {
+      "description": "Get the statistics of a LoL player.",
+      "arguments": {
+        "region": {
+          "name": "region",
+          "description": "Region where the player plays."
+        },
+        "player": {
+          "name": "player",
+          "description": "In Game Nick of the player."
+        },
+        "tag": {
+          "name": "tag",
+          "description": "Tag of the player."
+        }
+      }
+    },
+    "matches": {
+      "description": "Get the last 25 ranked matches of a LoL player.",
+      "arguments": {
+        "region": {
+          "name": "region",
+          "description": "Region where the player plays."
+        },
+        "player": {
+          "name": "player",
+          "description": "In Game Nick of the player."
+        },
+        "tag": {
+          "name": "tag",
+          "description": "Tag of the player."
+        }
+      }
+    }
+  }
+}
