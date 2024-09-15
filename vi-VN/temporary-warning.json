@@ -1,4 +1,0 @@
-{
-  "TITLE": "CÁC LỆNH THÔNG QUA TIN NHẮN ĐÃ KHÔNG CÒN HOẠT ĐỘNG NỮA",
-  "DESCRIPTION": "Phiên bản v4 của Filo không còn hỗ trợ thực hiện lệnh thông qua tin nhắn.\n\n**Bây giờ bạn phải dùng thử Slash Commands của Filo!**\nHãy thử lệnh đầu tiên bằng cách: **{{command}}**.\n\n**Bạn không thấy lệnh?**\nHãy kiểm tra lại nếu bạn đã thêm Slash Commands vào server của bạn! Hãy **[nhấn vào đây]({{url2}})** nếu bạn chưa thêm vào.\n\nBạn có thể xem thêm thông tin về sự thay đổi ở **[đây]({{url}})**."
-}
