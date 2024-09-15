@@ -93,5 +93,6 @@
     "TYPE": "タイプ",
     "VALUE": "価値",
     "SANCTIONS": "制裁",
-    "BLACKLISTED": "ブラックリスト入り"
+    "BLACKLISTED": "ブラックリスト入り",
+    "END_DATE": "End date"
 }
