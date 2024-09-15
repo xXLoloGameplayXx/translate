@@ -93,5 +93,6 @@
     "TYPE": "Typ",
     "VALUE": "Wert",
     "SANCTIONS": "Sanktionen",
-    "BLACKLISTED": "Auf der Schwarzen Liste"
+    "BLACKLISTED": "Auf der Schwarzen Liste",
+    "END_DATE": "End date"
 }
