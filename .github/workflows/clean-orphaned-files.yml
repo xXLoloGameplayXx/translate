@@ -1,0 +1,75 @@
+name: Clean up orphaned translation files
+on:
+  workflow_dispatch:
+jobs:
+  clean_orphaned_files:
+    name: Clean up orphaned files
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "14"
+
+      - name: Cache Node.js modules
+        uses: actions/cache@v3
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: Install dependencies
+        run: npm install --no-package-lock
+
+      - name: Cache jq
+        id: cache-jq
+        uses: actions/cache@v3
+        with:
+          path: /usr/local/bin/jq
+          key: ${{ runner.os }}-jq
+          restore-keys: |
+            ${{ runner.os }}-jq
+
+      - name: Install jq (JSON processor)
+        if: steps.cache-jq.outputs.cache-hit != 'true'
+        uses: dcarbone/install-jq-action@main
+
+      - name: Clean orphaned JSON files from other languages
+        run: |
+          for lang_dir in $(find . -mindepth 1 -maxdepth 1 -type d -name "*-*" | grep -E '[a-z]{2}-[A-Z]{2}'); do
+            lang=$(basename "$lang_dir")
+            find "$lang_dir" -type f -name "*.json" | while read file; do
+              en_us_file="${file/$lang/en-US}"
+              if [ ! -f "$en_us_file" ]; then
+                rm "$file"
+                echo "Deleted orphaned file $file in $lang"
+              fi
+            done
+          done
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          rm -f package-lock.json
+          git add .
+          git diff-index --quiet HEAD || git commit -m "Clean up orphaned translation files"
+
+      - name: Create a pull request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Clean up orphaned translation files"
+          branch: "auto/clean-orphaned-files-${{ github.ref_name }}"
+          title: "Clean up orphaned translation files in ${{ github.ref_name }}"
+          body: "This PR cleans up orphaned translation files for the branch **${{ github.ref_name }}**."
+          assignees: ilxlodev
+          reviewers: ilxlodev
+          labels: cleanup, blocked
+          base: ${{ github.ref_name }}
