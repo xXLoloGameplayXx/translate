@@ -1,9 +1,45 @@
 {
-  "description": "Obté les estadístiques d'un jugador d'osu.",
-  "arguments": {
-    "player": {
-      "name": "jugador",
-      "description": "Nom En Joc del jugador."
+    "description": "Obté les estadístiques d'un jugador d'osu.",
+    "arguments": {
+        "player": {
+            "name": "jugador",
+            "description": "Nom En Joc del jugador."
+        }
+    },
+    "subcommands": {
+        "matches": {
+            "arguments": {
+                "tag": {
+                    "name": "tag",
+                    "description": "Tag of the player."
+                },
+                "player": {
+                    "name": "player",
+                    "description": "In Game Nick of the player."
+                },
+                "region": {
+                    "description": "Region where the player plays.",
+                    "name": "region"
+                }
+            },
+            "description": "Get the last 25 ranked matches of a LoL player."
+        },
+        "stats": {
+            "arguments": {
+                "tag": {
+                    "name": "tag",
+                    "description": "Tag of the player."
+                },
+                "player": {
+                    "description": "In Game Nick of the player.",
+                    "name": "player"
+                },
+                "region": {
+                    "name": "region",
+                    "description": "Region where the player plays."
+                }
+            },
+            "description": "Get the statistics of a LoL player."
+        }
     }
-  }
 }
