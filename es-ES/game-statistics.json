@@ -81,9 +81,9 @@
         "FIRSTBLOOD": "Enfrentamiento en la nieve",
         "SIEGE": "Asedio al Nexo",
         "ARSR": "Toda la Grieta del Invocador al azar",
-        "GAMEMODEX": "Bombardeo del Nexus",
+        "GAMEMODEX": "Bombardeo al Nexo",
         "ODYSSEY": "Odisea: Extracción",
-        "NEXUSBLITZ": "Bombardeo del Nexus",
+        "NEXUSBLITZ": "Bombardeo al Nexo",
         "ULTBOOK": "Libro de Hechizos Definitivo"
     },
     "RANKED_SOLO_5V5_STATISTICS": "Estadísticas en competitivas 5v5",
@@ -103,7 +103,7 @@
         "TOP": "Top",
         "JUNGLE": "Jungla",
         "MIDDLE": "Medio",
-        "BOTTOM": "Fondo",
+        "BOTTOM": "Tirador",
         "UTILITY": "Ayuda"
     },
     "TEAM": "Equipo",
