@@ -48,7 +48,7 @@
         "IRON": "Hierro {{rank}}",
         "EMERALD": "Esmeralda {{rank}}",
         "GRANDMASTER": "Gran Maestro {{rank}}",
-        "CHALLENGER": "Desafiador {{rank}}"
+        "CHALLENGER": "Retador {{rank}}"
     },
     "SEASON": "Temporada",
     "BLIND_KILLS": "Asesinatos a ciegas",
