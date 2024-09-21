@@ -1,6 +1,6 @@
 {
-    "MISSING_SANCTION_HISTORY": "**{{user.tag}}** ({{user.id}}) は、制裁が履歴に反映されていません。",
-    "SELECT_A_CASE": "表示するケースを選択する",
-    "VIEWING_USER_HISTORY": "**{{user.username}}**の制裁履歴を閲覧する",
-    "SANCTION_REMOVED": "この制裁は、#**{{case.case}}** のケースで解除されました。"
+  "MISSING_SANCTION_HISTORY": "**{{user.tag}}** ({{user.id}}) は、制裁が履歴に反映されていません。",
+  "SELECT_A_CASE": "表示するケースを選択する",
+  "VIEWING_USER_HISTORY": "**{{user.username}}**の制裁履歴を閲覧する",
+  "SANCTION_REMOVED": "この制裁は、#**{{case.case}}** のケースで解除されました。"
 }

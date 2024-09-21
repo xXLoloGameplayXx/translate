@@ -7,9 +7,7 @@
     "iso639": "en",
     "flag": "🇺🇸",
     "default": true,
-    "contributors": [
-      "266103595949096960"
-    ]
+    "contributors": ["266103595949096960"]
   },
   {
     "name": "es-ES",
@@ -19,9 +17,7 @@
     "iso639": "es",
     "flag": "🇪🇸",
     "default": false,
-    "contributors": [
-      "266103595949096960"
-    ]
+    "contributors": ["266103595949096960"]
   },
   {
     "name": "vi-VN",
@@ -31,9 +27,7 @@
     "iso639": "vi",
     "flag": "🇻🇳",
     "default": false,
-    "contributors": [
-      "754982406393430098"
-    ]
+    "contributors": ["754982406393430098"]
   },
   {
     "name": "ja-JP",
@@ -43,9 +37,7 @@
     "iso639": "ja",
     "flag": "🇯🇵",
     "default": false,
-    "contributors": [
-      "266103595949096960"
-    ]
+    "contributors": ["266103595949096960"]
   },
   {
     "name": "ca-ES",
@@ -55,9 +47,7 @@
     "iso639": "ca",
     "flag": "🇪🇸",
     "default": false,
-    "contributors": [
-      "661241315891085314"
-    ]
+    "contributors": ["661241315891085314"]
   },
   {
     "name": "fr-FR",
@@ -67,10 +57,7 @@
     "iso639": "fr",
     "flag": "🇫🇷",
     "default": false,
-    "contributors": [
-      "510524491126800405",
-      "777947717024088106"
-    ]
+    "contributors": ["510524491126800405", "777947717024088106"]
   },
   {
     "name": "zh-CN",
@@ -80,9 +67,7 @@
     "iso639": "zh",
     "flag": "🇨🇳",
     "default": false,
-    "contributors": [
-      "266103595949096960"
-    ]
+    "contributors": ["266103595949096960"]
   },
   {
     "name": "de-DE",
@@ -92,8 +77,6 @@
     "iso639": "de",
     "flag": "🇩🇪",
     "default": false,
-    "contributors": [
-      "266103595949096960"
-    ]
+    "contributors": ["266103595949096960"]
   }
 ]
