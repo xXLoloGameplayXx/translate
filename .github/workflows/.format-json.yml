@@ -1,0 +1,51 @@
+name: Format JSON files
+on:
+  push:
+    paths:
+      - "**/*.json"
+  workflow_dispatch:
+
+jobs:
+  format_json:
+    name: Format JSON files
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "14"
+
+      - name: Install dependencies
+        run: npm install -g prettier
+
+      - name: Format JSON files
+        run: |
+          npx prettier --write "**/*.json" --parser json --tab-width 2
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Format JSON files to use 2 spaces"
+          else
+            echo "No changes to commit"
+            exit 0
+          fi
+
+      - name: Create a pull request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Format JSON files to use 2 spaces"
+          branch: "auto/format-json-${{ github.ref_name }}"
+          title: "Format JSON files in ${{ github.ref_name }}"
+          body: "This PR formats JSON files to use 2 spaces for the branch **${{ github.ref_name }}**."
+          assignees: ilxlodev
+          reviewers: ilxlodev
+          labels: formatting, blocked
+          base: ${{ github.ref_name }}
