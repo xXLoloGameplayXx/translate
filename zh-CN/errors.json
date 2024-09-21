@@ -84,5 +84,6 @@
     "MAX_NUMBER_OF_EXCEPTIONS_CONFIGURED": "该模块已达到最大的例外数量 ({{number}})。",
     "MAX_NUMBER_OF_NOTIFICATION_ROLES_CONFIGURED": "该模块已达到通知角色的最大数量 ({{number}})。",
     "MAX_CONDITIONALS_REACHED": "本级的条件数已达到上限 ({{number}})。",
-    "NO_CONDITIONALS_CONFIGURED": "本级没有配置任何条件。"
+    "NO_CONDITIONALS_CONFIGURED": "本级没有配置任何条件。",
+    "SEARCH_FOR_ADULTS": "This search is for adults only and therefore can't be performed."
 }
