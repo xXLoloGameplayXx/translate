@@ -84,5 +84,6 @@
     "MAX_NUMBER_OF_EXCEPTIONS_CONFIGURED": "このモジュールは、例外の最大数 ({{number}}) に達しました。",
     "MAX_NUMBER_OF_NOTIFICATION_ROLES_CONFIGURED": "このモジュールは、通知役割の最大数 ({{number}}) に達しました。",
     "MAX_CONDITIONALS_REACHED": "このレベルはコンディショナルの最大数に達している ({{number}})。",
-    "NO_CONDITIONALS_CONFIGURED": "このレベルにはコンディショナ ルは設定されていない。"
+    "NO_CONDITIONALS_CONFIGURED": "このレベルにはコンディショナ ルは設定されていない。",
+    "SEARCH_FOR_ADULTS": "This search is for adults only and therefore can't be performed."
 }
