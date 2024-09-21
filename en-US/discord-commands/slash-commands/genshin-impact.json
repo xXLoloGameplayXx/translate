@@ -10,24 +10,5 @@
     "random": {
       "description": "Get random wallpaper between desktop and mobile."
     }
-  },
-  "subcommand_groups": {
-    "cards": {
-      "description": "Get a random card wallpaper.",
-      "subcommands": {
-        "characters": {
-          "description": "Get a random character card."
-        },
-        "equipments": {
-          "description": "Get a random equipment card."
-        },
-        "events": {
-          "description": "Get a random event card."
-        },
-        "supports": {
-          "description": "Get a random support card."
-        }
-      }
-    }
   }
 }
