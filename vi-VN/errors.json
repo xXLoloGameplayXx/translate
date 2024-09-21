@@ -84,5 +84,6 @@
     "MAX_NUMBER_OF_EXCEPTIONS_CONFIGURED": "This module has reached the maximum number of exceptions ({{number}}).",
     "MAX_NUMBER_OF_NOTIFICATION_ROLES_CONFIGURED": "This module has reached the maximum number of notification roles ({{number}}).",
     "MAX_CONDITIONALS_REACHED": "This level has reached the maximum number of conditionals ({{number}}).",
-    "NO_CONDITIONALS_CONFIGURED": "This level doesn't have any conditionals configured."
+    "NO_CONDITIONALS_CONFIGURED": "This level doesn't have any conditionals configured.",
+    "SEARCH_FOR_ADULTS": "This search is for adults only and therefore can't be performed."
 }
