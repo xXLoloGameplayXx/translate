@@ -84,5 +84,6 @@
     "MAX_NUMBER_OF_EXCEPTIONS_CONFIGURED": "Aquest mòdul ha aconseguit el nombre màxim d'excepcions ({{number}}).",
     "MAX_NUMBER_OF_NOTIFICATION_ROLES_CONFIGURED": "Aquest mòdul ha aconseguit el nombre màxim de rols de notificacions ({{number}}).",
     "MAX_CONDITIONALS_REACHED": "Aquest nivell ha aconseguit el nombre màxim de condicionals ({{number}}).",
-    "NO_CONDITIONALS_CONFIGURED": "Aquest nivell no té cap condicional configurat."
+    "NO_CONDITIONALS_CONFIGURED": "Aquest nivell no té cap condicional configurat.",
+    "SEARCH_FOR_ADULTS": "This search is for adults only and therefore can't be performed."
 }
