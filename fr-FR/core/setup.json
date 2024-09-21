@@ -1,250 +1,250 @@
 {
-    "HOME": {
-        "PRE_START": "Avant de continuer, vous devez cliquer sur le bouton **{{button}}**.",
-        "DESCRIPTION": "Commencez à configurer Filo en sélectionnant la catégorie de modules que vous souhaitez configurer et sélectionnez ensuite le module avec lequel vous souhaitez opérer.\n\n**Vous avez besoin d'un guide de référence ? Ne vous inquiétez pas !**\nEn **[cliquant ici]({{url}})**, vous serez redirigé vers le wiki de Filo, qui contient des informations sur la façon dont configurer n'importe quoi.\n\n**Trop compliqué ?**\n**[Contactez-nous]({{url2}})** si vous avez des questions ou si vous avez besoin d'éclaircissements supplémentaires.",
-        "SELECT_A_MODULE_CATEGORY": {
-            "PLACEHOLDER": "Sélectionnez une catégorie de module",
-            "ADMINISTRATION": {
-                "LABEL": "Modules d'Administration",
-                "DESCRIPTION": "Modules pour vous aider dans l'administration de votre serveur."
-            },
-            "COMMUNITY": {
-                "LABEL": "Modules communautaires",
-                "DESCRIPTION": "Des modules pour vous aider à améliorer l'expérience dans votre communauté."
-            },
-            "MODERATION": {
-                "LABEL": "Modules de modération",
-                "DESCRIPTION": "Modules pour vous aider à modérer votre serveur."
-            }
-        },
-        "TITLE": "Menu de configuration de Filo"
+  "HOME": {
+    "PRE_START": "Avant de continuer, vous devez cliquer sur le bouton **{{button}}**.",
+    "DESCRIPTION": "Commencez à configurer Filo en sélectionnant la catégorie de modules que vous souhaitez configurer et sélectionnez ensuite le module avec lequel vous souhaitez opérer.\n\n**Vous avez besoin d'un guide de référence ? Ne vous inquiétez pas !**\nEn **[cliquant ici]({{url}})**, vous serez redirigé vers le wiki de Filo, qui contient des informations sur la façon dont configurer n'importe quoi.\n\n**Trop compliqué ?**\n**[Contactez-nous]({{url2}})** si vous avez des questions ou si vous avez besoin d'éclaircissements supplémentaires.",
+    "SELECT_A_MODULE_CATEGORY": {
+      "PLACEHOLDER": "Sélectionnez une catégorie de module",
+      "ADMINISTRATION": {
+        "LABEL": "Modules d'Administration",
+        "DESCRIPTION": "Modules pour vous aider dans l'administration de votre serveur."
+      },
+      "COMMUNITY": {
+        "LABEL": "Modules communautaires",
+        "DESCRIPTION": "Des modules pour vous aider à améliorer l'expérience dans votre communauté."
+      },
+      "MODERATION": {
+        "LABEL": "Modules de modération",
+        "DESCRIPTION": "Modules pour vous aider à modérer votre serveur."
+      }
     },
-    "LOADING_DATA": "Veuillez patienter pendant le chargement des données nécessaires.",
-    "MODULES": {
-        "SELECT_A_MODULE": "Vous devez sélectionner le module de la catégorie **{{module}}** que vous souhaitez configurer.",
-        "SELECT_A_SUBMODULE": "Vous devez sélectionner le sous-module du module **{{module}}** que vous souhaitez configurer.",
-        "PLACEHOLDER": "Sélectionnez un module",
-        "SELECT_THE_ACTION": "Vous devez sélectionner l'action que vous souhaitez effectuer sur le module.",
-        "SELECT_THE_ACTION_PLACEHOLDER": "Sélectionnez une action",
-        "MODULE_ENABLED_OR_DISABLED": "Le module **{{module}}** a été {{action}} avec succès.",
-        "RESET_REQUEST_WARNING": "Êtes-vous sûr de vouloir réinitialiser le module **{{module}}** ? Cette action ne peut être annulée !",
-        "MODULE_RESET": "Le module **{{module}}** a été réinitialisé avec succès.",
-        "SELECT_A_CHANNEL": "Vous devez sélectionner le salon que vous souhaitez régler.",
-        "SELECT_A_CHANNEL_PLACEHOLDER": "Sélectionnez un salon",
-        "SELECT_AT_LEAST_ONE_CHANNEL": "Vous devez sélectionner au moins un salon.",
-        "SELECT_A_ROLE": "Vous devez sélectionner le rôle que vous souhaitez régler.",
-        "SELECT_A_ROLE_PLACEHOLDER": "Sélectionnez un rôle",
-        "SELECT_AT_LEAST_ONE_ROLE": "Vous devez sélectionner au moins un rôle.",
-        "CHANNEL_SET": "Vous avez défini avec succès le salon **[#{{channel.name}}]({{url}})** pour le module **{{module}}**.",
-        "DM_STATUS": {
-            "LABEL": "Activer/désactiver le statut des MPs",
-            "DESCRIPTION": "Changer le statut des notifications par MPs.",
-            "DM_STATUS_TOGGLED": "Vous avez réussi à **{{action}}** les notifications en MPs pour le module **{{module}}**."
+    "TITLE": "Menu de configuration de Filo"
+  },
+  "LOADING_DATA": "Veuillez patienter pendant le chargement des données nécessaires.",
+  "MODULES": {
+    "SELECT_A_MODULE": "Vous devez sélectionner le module de la catégorie **{{module}}** que vous souhaitez configurer.",
+    "SELECT_A_SUBMODULE": "Vous devez sélectionner le sous-module du module **{{module}}** que vous souhaitez configurer.",
+    "PLACEHOLDER": "Sélectionnez un module",
+    "SELECT_THE_ACTION": "Vous devez sélectionner l'action que vous souhaitez effectuer sur le module.",
+    "SELECT_THE_ACTION_PLACEHOLDER": "Sélectionnez une action",
+    "MODULE_ENABLED_OR_DISABLED": "Le module **{{module}}** a été {{action}} avec succès.",
+    "RESET_REQUEST_WARNING": "Êtes-vous sûr de vouloir réinitialiser le module **{{module}}** ? Cette action ne peut être annulée !",
+    "MODULE_RESET": "Le module **{{module}}** a été réinitialisé avec succès.",
+    "SELECT_A_CHANNEL": "Vous devez sélectionner le salon que vous souhaitez régler.",
+    "SELECT_A_CHANNEL_PLACEHOLDER": "Sélectionnez un salon",
+    "SELECT_AT_LEAST_ONE_CHANNEL": "Vous devez sélectionner au moins un salon.",
+    "SELECT_A_ROLE": "Vous devez sélectionner le rôle que vous souhaitez régler.",
+    "SELECT_A_ROLE_PLACEHOLDER": "Sélectionnez un rôle",
+    "SELECT_AT_LEAST_ONE_ROLE": "Vous devez sélectionner au moins un rôle.",
+    "CHANNEL_SET": "Vous avez défini avec succès le salon **[#{{channel.name}}]({{url}})** pour le module **{{module}}**.",
+    "DM_STATUS": {
+      "LABEL": "Activer/désactiver le statut des MPs",
+      "DESCRIPTION": "Changer le statut des notifications par MPs.",
+      "DM_STATUS_TOGGLED": "Vous avez réussi à **{{action}}** les notifications en MPs pour le module **{{module}}**."
+    },
+    "EXCEPTIONS": {
+      "ADD": {
+        "LABEL": "Ajouter {{type}}",
+        "DESCRIPTION": "Ajouter {{type}} à la liste des exceptions du module.",
+        "COMPLETED": "Vous avez ajouté avec succès {{value}} {{type}} à la liste d'exceptions du module.",
+        "COMPLETED_ALTERNATIVE": "Vous avez ajouté avec succès **{{number}}** {{type}} à la liste des exceptions du module."
+      },
+      "SET": {
+        "LABEL": "Définir le {{type}}",
+        "DESCRIPTION": "Définir la liste {{type}} à la liste des exceptions du module.",
+        "COMPLETED": "Vous avez défini avec succès {{value}} {{type}} à la liste d'exceptions du module.",
+        "COMPLETED_ALTERNATIVE": "Vous avez defini avec succès **{{number}}** {{type}} à la liste des exceptions du module."
+      },
+      "REMOVE": {
+        "LABEL": "Supprimer {{type}}",
+        "DESCRIPTION": "Supprimer {{type}} de la liste des exceptions du module.",
+        "COMPLETED": "Vous avez réussi à supprimer {{value}} {{type}} de la liste des exceptions du module.",
+        "COMPLETED_ALTERNATIVE": "Vous avez réussi à supprimer **{{number}}** {{type}} de la liste des exceptions du module.",
+        "NO_DATA_TO_REMOVE": "Il n'y a pas de {{value}} à supprimer de la liste des exceptions du module."
+      }
+    },
+    "COMMUNITY": {
+      "NAME": "Communauté",
+      "COMMANDS": {
+        "LABEL": "Commandes",
+        "DESCRIPTION": "Modifiez le comportement des commandes de Filo.",
+        "CONFIGURE": {
+          "SELECT_THE_COMMANDS": "Vous devez sélectionner les commandes que vous souhaitez {{action}}.",
+          "SELECT_THE_CATEGORIES": "Vous devez sélectionner les catégories que vous souhaitez {{action}}.",
+          "SELECT_THE_COMMANDS_PLACEHOLDER": "Sélectionnez les commandes",
+          "SELECT_THE_CATEGORIES_PLACEHOLDER": "Sélectionnez les catégories",
+          "DISABLE_COMMANDS": {
+            "LABEL": "Désactiver les commandes",
+            "DESCRIPTION": "Désactivez les commandes de Filo.",
+            "NO_COMMANDS_TO_DISABLE": "Toutes les commandes disponibles ont été désactivées.",
+            "COMMANDS_DISABLED": "Vous avez désactivé **{{commands}}** commandes avec succès."
+          },
+          "ENABLE_COMMANDS": {
+            "LABEL": "Activer les commandes",
+            "DESCRIPTION": "Activez les commandes de Filo.",
+            "NO_COMMANDS_TO_ENABLE": "Toutes les commandes disponibles sont actuellement activées.",
+            "COMMANDS_ENABLED": "Vous avez activé les commandes **{{commands}}** avec succès."
+          },
+          "DISABLE_CATEGORIES": {
+            "LABEL": "Désactiver les catégories",
+            "DESCRIPTION": "Désactivez les catégories de Filo.",
+            "NO_CATEGORIES_TO_DISABLE": "Toutes les catégories disponibles ont été désactivées.",
+            "CATEGORIES_DISABLED": "Vous avez désactivé **{{categories}}** catégories avec succès."
+          },
+          "ENABLE_CATEGORIES": {
+            "LABEL": "Activer les catégories",
+            "DESCRIPTION": "Activez les catégories de Filo.",
+            "NO_CATEGORIES_TO_ENABLE": "Toutes les catégories disponibles sont actuellement activées.",
+            "CATEGORIES_ENABLED": "Vous avez activé **{{categories}}** catégories avec succès."
+          }
+        }
+      },
+      "LANGUAGE": {
+        "LABEL": "Langue",
+        "DESCRIPTION": "Changez la langue de Filo sur ce serveur.",
+        "SELECT_A_LANGUAGE": "Vous devez sélectionner la langue que vous souhaitez définir.",
+        "SELECT_A_LANGUAGE_PLACEHOLDER": "Sélectionnez une langue",
+        "LANGUAGE_SET": "Vous avez défini la langue **{{language}}** avec succès."
+      },
+      "REPORTS": {
+        "LABEL": "Signalements",
+        "DESCRIPTION": "Fournit des outils de rapports aux membres de votre serveur.",
+        "SUBMODULES_SELECTOR": {
+          "MEMBERS": "Modifier le comportement du module de signalement des membres.",
+          "MESSAGES": "Modifier le comportement du module de notification des messages."
         },
-        "EXCEPTIONS": {
+        "CONFIGURE": {
+          "REPORTS_CHANNEL": {
+            "LABEL": "Définir le salon des signalements",
+            "DESCRIPTION": "Définir où les signalement seront envoyés."
+          },
+          "IGNORED_ROLE": {
+            "LABEL": "Définir le rôle ignoré",
+            "DESCRIPTION": "Définir un rôle dont les membres ne peuvent pas envoyer de rapports.",
+            "IGNORED_ROLE_SET": "Vous avez défini avec succès le rôle **{{role.mention}}** ({{role.id}}) comme rôle ignoré."
+          },
+          "TOGGLE_DELETE_REVIEWED_REPORTS": {
+            "LABEL": "Activer/désactiver la suppression des rapports traités",
+            "DESCRIPTION": "Modifier le statut de la suppression des rapports traités.",
+            "DELETE_REVIEWED_REPORTS_TOGGLED": "Vous avez **{{action}}** la suppression des signalements traités."
+          },
+          "NOTIFICATION_ROLES": {
             "ADD": {
-                "LABEL": "Ajouter {{type}}",
-                "DESCRIPTION": "Ajouter {{type}} à la liste des exceptions du module.",
-                "COMPLETED": "Vous avez ajouté avec succès {{value}} {{type}} à la liste d'exceptions du module.",
-                "COMPLETED_ALTERNATIVE": "Vous avez ajouté avec succès **{{number}}** {{type}} à la liste des exceptions du module."
+              "LABEL": "Ajouter des rôles de notification",
+              "DESCRIPTION": "Ajouter les rôles qui seront notifiés lorsqu'un signalement est envoyé.",
+              "COMPLETED": "Vous avez ajouté le rôle **{{role.mention}}** ({{role.id}}) comme rôle de notification avec succès.",
+              "COMPLETED_ALTERNATIVE": "Vous avez ajouté les rôles **{{number}}** comme rôles de notification avec succès."
             },
             "SET": {
-                "LABEL": "Définir le {{type}}",
-                "DESCRIPTION": "Définir la liste {{type}} à la liste des exceptions du module.",
-                "COMPLETED": "Vous avez défini avec succès {{value}} {{type}} à la liste d'exceptions du module.",
-                "COMPLETED_ALTERNATIVE": "Vous avez defini avec succès **{{number}}** {{type}} à la liste des exceptions du module."
+              "LABEL": "Définir les rôles de notification",
+              "DESCRIPTION": "Définir les rôles qui seront notifiés lors de l'envoi d'un signalement.",
+              "COMPLETED": "Vous avez défini avec succès le rôle **{{role.mention}}** ({{role.id}}) comme rôle de notification.",
+              "COMPLETED_ALTERNATIVE": "Vous avez défini avec succès les rôles **{{number}}** comme rôles de notification."
             },
             "REMOVE": {
-                "LABEL": "Supprimer {{type}}",
-                "DESCRIPTION": "Supprimer {{type}} de la liste des exceptions du module.",
-                "COMPLETED": "Vous avez réussi à supprimer {{value}} {{type}} de la liste des exceptions du module.",
-                "COMPLETED_ALTERNATIVE": "Vous avez réussi à supprimer **{{number}}** {{type}} de la liste des exceptions du module.",
-                "NO_DATA_TO_REMOVE": "Il n'y a pas de {{value}} à supprimer de la liste des exceptions du module."
+              "LABEL": "Supprimer les rôles de notification",
+              "DESCRIPTION": "Supprimer les rôles qui seront notifiés lors de l'envoi d'un signalement.",
+              "COMPLETED": "Vous avez supprimé avec succès le rôle **{{role.mention}}** ({{role.id}}) des rôles de notification.",
+              "COMPLETED_ALTERNATIVE": "Vous avez supprimé avec succès les rôles **{{number}}** en tant que rôles de notification.",
+              "NO_DATA_TO_REMOVE": "Il n'y a pas de rôle de notification à supprimer."
             }
-        },
-        "COMMUNITY": {
-            "NAME": "Communauté",
-            "COMMANDS": {
-                "LABEL": "Commandes",
-                "DESCRIPTION": "Modifiez le comportement des commandes de Filo.",
-                "CONFIGURE": {
-                    "SELECT_THE_COMMANDS": "Vous devez sélectionner les commandes que vous souhaitez {{action}}.",
-                    "SELECT_THE_CATEGORIES": "Vous devez sélectionner les catégories que vous souhaitez {{action}}.",
-                    "SELECT_THE_COMMANDS_PLACEHOLDER": "Sélectionnez les commandes",
-                    "SELECT_THE_CATEGORIES_PLACEHOLDER": "Sélectionnez les catégories",
-                    "DISABLE_COMMANDS": {
-                        "LABEL": "Désactiver les commandes",
-                        "DESCRIPTION": "Désactivez les commandes de Filo.",
-                        "NO_COMMANDS_TO_DISABLE": "Toutes les commandes disponibles ont été désactivées.",
-                        "COMMANDS_DISABLED": "Vous avez désactivé **{{commands}}** commandes avec succès."
-                    },
-                    "ENABLE_COMMANDS": {
-                        "LABEL": "Activer les commandes",
-                        "DESCRIPTION": "Activez les commandes de Filo.",
-                        "NO_COMMANDS_TO_ENABLE": "Toutes les commandes disponibles sont actuellement activées.",
-                        "COMMANDS_ENABLED": "Vous avez activé les commandes **{{commands}}** avec succès."
-                    },
-                    "DISABLE_CATEGORIES": {
-                        "LABEL": "Désactiver les catégories",
-                        "DESCRIPTION": "Désactivez les catégories de Filo.",
-                        "NO_CATEGORIES_TO_DISABLE": "Toutes les catégories disponibles ont été désactivées.",
-                        "CATEGORIES_DISABLED": "Vous avez désactivé **{{categories}}** catégories avec succès."
-                    },
-                    "ENABLE_CATEGORIES": {
-                        "LABEL": "Activer les catégories",
-                        "DESCRIPTION": "Activez les catégories de Filo.",
-                        "NO_CATEGORIES_TO_ENABLE": "Toutes les catégories disponibles sont actuellement activées.",
-                        "CATEGORIES_ENABLED": "Vous avez activé **{{categories}}** catégories avec succès."
-                    }
-                }
+          },
+          "REASON": {
+            "LABEL": "Configurer les paramètres des raisons",
+            "DESCRIPTION": "Modifier le comportement du champ raison des signalements.",
+            "SET_MIN_LENGTH_OF_MEMBER_REASON": {
+              "LABEL": "Définir la longueur minimale de la raison",
+              "DESCRIPTION": "Définir la longueur minimale de la raison des rapports des signalements de membres.",
+              "FORM": {
+                "LABEL": "Longueur minimale de la raison"
+              },
+              "COMPLETED": "Vous avez défini avec succès la longueur minimale de la raison à **{{number}}** caractères."
             },
-            "LANGUAGE": {
-                "LABEL": "Langue",
-                "DESCRIPTION": "Changez la langue de Filo sur ce serveur.",
-                "SELECT_A_LANGUAGE": "Vous devez sélectionner la langue que vous souhaitez définir.",
-                "SELECT_A_LANGUAGE_PLACEHOLDER": "Sélectionnez une langue",
-                "LANGUAGE_SET": "Vous avez défini la langue **{{language}}** avec succès."
+            "SET_MAX_LENGTH_OF_MEMBER_REASON": {
+              "LABEL": "Définir la longueur maximale de la raison",
+              "DESCRIPTION": "Définir la longueur maximale de la raison des signalements de membres.",
+              "FORM": {
+                "LABEL": "Longueur maximale de la raison"
+              },
+              "COMPLETED": "Vous avez réussi à définir la longueur maximale de la raison à **{{number}}** caractères."
             },
-            "REPORTS": {
-                "LABEL": "Signalements",
-                "DESCRIPTION": "Fournit des outils de rapports aux membres de votre serveur.",
-                "SUBMODULES_SELECTOR": {
-                    "MEMBERS": "Modifier le comportement du module de signalement des membres.",
-                    "MESSAGES": "Modifier le comportement du module de notification des messages."
-                },
-                "CONFIGURE": {
-                    "REPORTS_CHANNEL": {
-                        "LABEL": "Définir le salon des signalements",
-                        "DESCRIPTION": "Définir où les signalement seront envoyés."
-                    },
-                    "IGNORED_ROLE": {
-                        "LABEL": "Définir le rôle ignoré",
-                        "DESCRIPTION": "Définir un rôle dont les membres ne peuvent pas envoyer de rapports.",
-                        "IGNORED_ROLE_SET": "Vous avez défini avec succès le rôle **{{role.mention}}** ({{role.id}}) comme rôle ignoré."
-                    },
-                    "TOGGLE_DELETE_REVIEWED_REPORTS": {
-                        "LABEL": "Activer/désactiver la suppression des rapports traités",
-                        "DESCRIPTION": "Modifier le statut de la suppression des rapports traités.",
-                        "DELETE_REVIEWED_REPORTS_TOGGLED": "Vous avez **{{action}}** la suppression des signalements traités."
-                    },
-                    "NOTIFICATION_ROLES": {
-                        "ADD": {
-                            "LABEL": "Ajouter des rôles de notification",
-                            "DESCRIPTION": "Ajouter les rôles qui seront notifiés lorsqu'un signalement est envoyé.",
-                            "COMPLETED": "Vous avez ajouté le rôle **{{role.mention}}** ({{role.id}}) comme rôle de notification avec succès.",
-                            "COMPLETED_ALTERNATIVE": "Vous avez ajouté les rôles **{{number}}** comme rôles de notification avec succès."
-                        },
-                        "SET": {
-                            "LABEL": "Définir les rôles de notification",
-                            "DESCRIPTION": "Définir les rôles qui seront notifiés lors de l'envoi d'un signalement.",
-                            "COMPLETED": "Vous avez défini avec succès le rôle **{{role.mention}}** ({{role.id}}) comme rôle de notification.",
-                            "COMPLETED_ALTERNATIVE": "Vous avez défini avec succès les rôles **{{number}}** comme rôles de notification."
-                        },
-                        "REMOVE": {
-                            "LABEL": "Supprimer les rôles de notification",
-                            "DESCRIPTION": "Supprimer les rôles qui seront notifiés lors de l'envoi d'un signalement.",
-                            "COMPLETED": "Vous avez supprimé avec succès le rôle **{{role.mention}}** ({{role.id}}) des rôles de notification.",
-                            "COMPLETED_ALTERNATIVE": "Vous avez supprimé avec succès les rôles **{{number}}** en tant que rôles de notification.",
-                            "NO_DATA_TO_REMOVE": "Il n'y a pas de rôle de notification à supprimer."
-                        }
-                    },
-                    "REASON": {
-                        "LABEL": "Configurer les paramètres des raisons",
-                        "DESCRIPTION": "Modifier le comportement du champ raison des signalements.",
-                        "SET_MIN_LENGTH_OF_MEMBER_REASON": {
-                            "LABEL": "Définir la longueur minimale de la raison",
-                            "DESCRIPTION": "Définir la longueur minimale de la raison des rapports des signalements de membres.",
-                            "FORM": {
-                                "LABEL": "Longueur minimale de la raison"
-                            },
-                            "COMPLETED": "Vous avez défini avec succès la longueur minimale de la raison à **{{number}}** caractères."
-                        },
-                        "SET_MAX_LENGTH_OF_MEMBER_REASON": {
-                            "LABEL": "Définir la longueur maximale de la raison",
-                            "DESCRIPTION": "Définir la longueur maximale de la raison des signalements de membres.",
-                            "FORM": {
-                                "LABEL": "Longueur maximale de la raison"
-                            },
-                            "COMPLETED": "Vous avez réussi à définir la longueur maximale de la raison à **{{number}}** caractères."
-                        },
-                        "CLEAN_MARKDOWN_OF_MEMBER_REASON": {
-                            "LABEL": "Activer/désactiver le nettoyage du markdown de la raison",
-                            "DESCRIPTION": "Changer le statut du nettoyage du markdown dans la raison des signalements de membres.",
-                            "COMPLETED": "Vous avez réussi **{{action}}** le nettoyage du markdown de la raison."
-                        },
-                        "SET_MIN_LENGTH_OF_REVIEWER_REASON": {
-                            "LABEL": "Définir la longueur minimale de la raison de l'intervenant",
-                            "DESCRIPTION": "Définir la longueur minimale de la raison des signalements de l'intervenant.",
-                            "FORM": {
-                                "LABEL": "Longueur minimale de la raison"
-                            },
-                            "COMPLETED": "Vous avez réussi à définir la longueur minimale de la raison de l'intervenant à **{{number}}** caractères."
-                        },
-                        "SET_MAX_LENGTH_OF_REVIEWER_REASON": {
-                            "LABEL": "Définir la longueur maximale de la raison de l'intervenant",
-                            "DESCRIPTION": "Définir la longueur maximale de la raison des signalements de l'intervenant.",
-                            "FORM": {
-                                "LABEL": "Longueur maximale de la raison"
-                            },
-                            "COMPLETED": "Vous avez défini avec succès la longueur maximale de la raison de l'intervenant à **{{number}}** caractères."
-                        },
-                        "CLEAN_MARKDOWN_OF_REVIEWER_REASON": {
-                            "LABEL": "Activer/désactiver le nettoyage du markdown de la raison de l'intervenant",
-                            "DESCRIPTION": "Modifier le statut du nettoyage du markdown de la raison des signalements de l'intervenant.",
-                            "COMPLETED": "Vous avez réussi **{{action}}** le nettoyage du markdown de la raison de l'intervenant."
-                        }
-                    },
-                    "EVIDENCES": {
-                        "LABEL": "Configurer les paramètres des preuves",
-                        "DESCRIPTION": "Modifiez le comportement du champ des preuves dans les rapports.",
-                        "SET_MIN_COUNT": {
-                            "LABEL": "Fixer le nombre minimum de preuves",
-                            "DESCRIPTION": "Définir le nombre minimum de preuves qu'un rapport doit contenir.",
-                            "FORM": {
-                                "LABEL": "Nombre minimum"
-                            },
-                            "COMPLETED": "Vous avez réussi à fixer le nombre minimum de preuves à **{{number}}**."
-                        }
-                    }
-                }
+            "CLEAN_MARKDOWN_OF_MEMBER_REASON": {
+              "LABEL": "Activer/désactiver le nettoyage du markdown de la raison",
+              "DESCRIPTION": "Changer le statut du nettoyage du markdown dans la raison des signalements de membres.",
+              "COMPLETED": "Vous avez réussi **{{action}}** le nettoyage du markdown de la raison."
+            },
+            "SET_MIN_LENGTH_OF_REVIEWER_REASON": {
+              "LABEL": "Définir la longueur minimale de la raison de l'intervenant",
+              "DESCRIPTION": "Définir la longueur minimale de la raison des signalements de l'intervenant.",
+              "FORM": {
+                "LABEL": "Longueur minimale de la raison"
+              },
+              "COMPLETED": "Vous avez réussi à définir la longueur minimale de la raison de l'intervenant à **{{number}}** caractères."
+            },
+            "SET_MAX_LENGTH_OF_REVIEWER_REASON": {
+              "LABEL": "Définir la longueur maximale de la raison de l'intervenant",
+              "DESCRIPTION": "Définir la longueur maximale de la raison des signalements de l'intervenant.",
+              "FORM": {
+                "LABEL": "Longueur maximale de la raison"
+              },
+              "COMPLETED": "Vous avez défini avec succès la longueur maximale de la raison de l'intervenant à **{{number}}** caractères."
+            },
+            "CLEAN_MARKDOWN_OF_REVIEWER_REASON": {
+              "LABEL": "Activer/désactiver le nettoyage du markdown de la raison de l'intervenant",
+              "DESCRIPTION": "Modifier le statut du nettoyage du markdown de la raison des signalements de l'intervenant.",
+              "COMPLETED": "Vous avez réussi **{{action}}** le nettoyage du markdown de la raison de l'intervenant."
             }
-        },
-        "VIEW": {
-            "TITLE": "Visualisation des paramètres du module **{{module}}**",
-            "NO_DATA": "Pas de données",
-            "SELECT_THE_DATA": "Sélectionnez les données à afficher",
-            "VIEW_ALL": "Voir tous les {{data}}.",
-            "DM_STATUS": "Statut des MPs",
-            "COOLDOWN": "Temps d'attente",
-            "EXCEPTIONS": "Exceptions {{type}}",
-            "COMMUNITY": {
-                "COMMANDS": {
-                    "DISABLED_COMMANDS": "Commandes désactivées",
-                    "DISABLED_CATEGORIES": "Catégories désactivées"
-                },
-                "LANGUAGE": {
-                    "LANGUAGE_CODE": "Code langue"
-                },
-                "REPORTS": {
-                    "REPORTS_CHANNEL": "Salon des signalements",
-                    "IGNORED_ROLE": "Rôle ignoré",
-                    "DELETE_REVIEWED_REPORTS": "Supprimer les signalements examinés",
-                    "NOTIFICATION_ROLES": "Rôles de notification",
-                    "REASON_PARAMETERS": {
-                        "TITLE": "Paramètres liés à la raison",
-                        "MIN_LENGTH_OF_MEMBER_REASON": "Longueur minimale de la raison du membre",
-                        "MAX_LENGTH_OF_MEMBER_REASON": "Longueur maximale de la raison d'un membre",
-                        "CLEAN_MARKDOWN_OF_MEMBER_REASON": "Nettoyer le markdown de la raison du membre",
-                        "MIN_LENGTH_OF_REVIEWER_REASON": "Longueur minimale de la raison de l'intervenant",
-                        "MAX_LENGTH_OF_REVIEWER_REASON": "Longueur maximale du motif de l'intervenant",
-                        "CLEAN_MARKDOWN_OF_REVIEWER_REASON": "Nettoyer le markdown de la raison de l'intervenant"
-                    },
-                    "EVIDENCES_PARAMETERS": {
-                        "TITLE": "Paramètres des preuves",
-                        "MIN_COUNT": "Nombre minimum de preuves"
-                    }
-                }
+          },
+          "EVIDENCES": {
+            "LABEL": "Configurer les paramètres des preuves",
+            "DESCRIPTION": "Modifiez le comportement du champ des preuves dans les rapports.",
+            "SET_MIN_COUNT": {
+              "LABEL": "Fixer le nombre minimum de preuves",
+              "DESCRIPTION": "Définir le nombre minimum de preuves qu'un rapport doit contenir.",
+              "FORM": {
+                "LABEL": "Nombre minimum"
+              },
+              "COMPLETED": "Vous avez réussi à fixer le nombre minimum de preuves à **{{number}}**."
             }
+          }
         }
+      }
+    },
+    "VIEW": {
+      "TITLE": "Visualisation des paramètres du module **{{module}}**",
+      "NO_DATA": "Pas de données",
+      "SELECT_THE_DATA": "Sélectionnez les données à afficher",
+      "VIEW_ALL": "Voir tous les {{data}}.",
+      "DM_STATUS": "Statut des MPs",
+      "COOLDOWN": "Temps d'attente",
+      "EXCEPTIONS": "Exceptions {{type}}",
+      "COMMUNITY": {
+        "COMMANDS": {
+          "DISABLED_COMMANDS": "Commandes désactivées",
+          "DISABLED_CATEGORIES": "Catégories désactivées"
+        },
+        "LANGUAGE": {
+          "LANGUAGE_CODE": "Code langue"
+        },
+        "REPORTS": {
+          "REPORTS_CHANNEL": "Salon des signalements",
+          "IGNORED_ROLE": "Rôle ignoré",
+          "DELETE_REVIEWED_REPORTS": "Supprimer les signalements examinés",
+          "NOTIFICATION_ROLES": "Rôles de notification",
+          "REASON_PARAMETERS": {
+            "TITLE": "Paramètres liés à la raison",
+            "MIN_LENGTH_OF_MEMBER_REASON": "Longueur minimale de la raison du membre",
+            "MAX_LENGTH_OF_MEMBER_REASON": "Longueur maximale de la raison d'un membre",
+            "CLEAN_MARKDOWN_OF_MEMBER_REASON": "Nettoyer le markdown de la raison du membre",
+            "MIN_LENGTH_OF_REVIEWER_REASON": "Longueur minimale de la raison de l'intervenant",
+            "MAX_LENGTH_OF_REVIEWER_REASON": "Longueur maximale du motif de l'intervenant",
+            "CLEAN_MARKDOWN_OF_REVIEWER_REASON": "Nettoyer le markdown de la raison de l'intervenant"
+          },
+          "EVIDENCES_PARAMETERS": {
+            "TITLE": "Paramètres des preuves",
+            "MIN_COUNT": "Nombre minimum de preuves"
+          }
+        }
+      }
     }
+  }
 }

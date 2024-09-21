@@ -18,6 +18,6 @@
   "SING": "**[{{user.username}}]({{url}})** is singing",
   "SLEEP": "**[{{user.username}}]({{url}})** is sleeping",
   "SMUG": "**[{{user.username}}]({{url}})** is showing off",
-  "TEEHEE":  "**[{{user.username}}]({{url}})** says: «teehee»",
+  "TEEHEE": "**[{{user.username}}]({{url}})** says: «teehee»",
   "THINK": "**[{{user.username}}]({{url}})** is thinking"
 }

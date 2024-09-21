@@ -1,45 +1,45 @@
 {
-    "description": "Obtén las estadísticas de un jugador de osu!.",
-    "arguments": {
-        "player": {
-            "name": "jugador",
-            "description": "Nombre En Juego del jugador."
-        }
-    },
-    "subcommands": {
-        "matches": {
-            "arguments": {
-                "tag": {
-                    "name": "tag",
-                    "description": "Tag del jugador."
-                },
-                "player": {
-                    "name": "jugador",
-                    "description": "Nombre en el juego del jugador."
-                },
-                "region": {
-                    "description": "Región en la que juega el jugador.",
-                    "name": "región"
-                }
-            },
-            "description": "Obtén las últimas 25 partidas clasificatorias de un jugador de LoL."
-        },
-        "stats": {
-            "arguments": {
-                "tag": {
-                    "name": "tag",
-                    "description": "Tag del jugador."
-                },
-                "player": {
-                    "description": "Nombre en el juego del jugador.",
-                    "name": "jugador"
-                },
-                "region": {
-                    "name": "región",
-                    "description": "Región en la que juega el jugador."
-                }
-            },
-            "description": "Obtén las estadísticas de un jugador de LoL."
-        }
+  "description": "Obtén las estadísticas de un jugador de osu!.",
+  "arguments": {
+    "player": {
+      "name": "jugador",
+      "description": "Nombre En Juego del jugador."
     }
+  },
+  "subcommands": {
+    "matches": {
+      "arguments": {
+        "tag": {
+          "name": "tag",
+          "description": "Tag del jugador."
+        },
+        "player": {
+          "name": "jugador",
+          "description": "Nombre en el juego del jugador."
+        },
+        "region": {
+          "description": "Región en la que juega el jugador.",
+          "name": "región"
+        }
+      },
+      "description": "Obtén las últimas 25 partidas clasificatorias de un jugador de LoL."
+    },
+    "stats": {
+      "arguments": {
+        "tag": {
+          "name": "tag",
+          "description": "Tag del jugador."
+        },
+        "player": {
+          "description": "Nombre en el juego del jugador.",
+          "name": "jugador"
+        },
+        "region": {
+          "name": "región",
+          "description": "Región en la que juega el jugador."
+        }
+      },
+      "description": "Obtén las estadísticas de un jugador de LoL."
+    }
+  }
 }

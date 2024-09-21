@@ -1,561 +1,561 @@
 {
-    "HOME": {
-        "PRE_START": "続行する前に、**{{button}}** ボタンをクリックする必要があります。",
-        "DESCRIPTION": "設定したいモジュールのカテゴリーを選択し、一緒に動作させたいモジュールを選択することで Filo の設定を開始します。\n\n**リファレンスガイドが必要ですか? 心配しないでください！**\n**[ここをクリック]({{url}})** することで、あらゆる設定方法に関する情報を含む Filo の Wiki にリダイレクトされます。\n\n**複雑すぎる？**\n**[お問い合わせ]({{url2}})** もし、何か質問や追加説明が必要な場合は、お問い合わせください。",
-        "SELECT_A_MODULE_CATEGORY": {
-            "PLACEHOLDER": "モジュールのカテゴリーを選択する",
-            "ADMINISTRATION": {
-                "LABEL": "アドミニストレーション・モジュール",
-                "DESCRIPTION": "サーバーの管理を支援するモジュールです。"
-            },
-            "COMMUNITY": {
-                "LABEL": "コミュニティモジュール",
-                "DESCRIPTION": "コミュニティでの体験の向上に役立つモジュール。"
-            },
-            "MODERATION": {
-                "LABEL": "モデュレーションモジュール",
-                "DESCRIPTION": "サーバーのモデリングを支援するモジュールです。"
-            }
-        },
-        "TITLE": "Filo セットアップメニュー"
+  "HOME": {
+    "PRE_START": "続行する前に、**{{button}}** ボタンをクリックする必要があります。",
+    "DESCRIPTION": "設定したいモジュールのカテゴリーを選択し、一緒に動作させたいモジュールを選択することで Filo の設定を開始します。\n\n**リファレンスガイドが必要ですか? 心配しないでください！**\n**[ここをクリック]({{url}})** することで、あらゆる設定方法に関する情報を含む Filo の Wiki にリダイレクトされます。\n\n**複雑すぎる？**\n**[お問い合わせ]({{url2}})** もし、何か質問や追加説明が必要な場合は、お問い合わせください。",
+    "SELECT_A_MODULE_CATEGORY": {
+      "PLACEHOLDER": "モジュールのカテゴリーを選択する",
+      "ADMINISTRATION": {
+        "LABEL": "アドミニストレーション・モジュール",
+        "DESCRIPTION": "サーバーの管理を支援するモジュールです。"
+      },
+      "COMMUNITY": {
+        "LABEL": "コミュニティモジュール",
+        "DESCRIPTION": "コミュニティでの体験の向上に役立つモジュール。"
+      },
+      "MODERATION": {
+        "LABEL": "モデュレーションモジュール",
+        "DESCRIPTION": "サーバーのモデリングを支援するモジュールです。"
+      }
     },
-    "LOADING_DATA": "必要なデータが読み込まれるまで、しばらくお待ちください。",
-    "MODULES": {
-        "SELECT_A_MODULE": "設定したいモジュールを **{{module}}** カテゴリから選択する必要があります。",
-        "SELECT_A_SUBMODULE": "設定したいサブモジュールを **{{module}}** モジュールから選択する必要があります。",
-        "PLACEHOLDER": "モジュールを選択する",
-        "SELECT_THE_ACTION": "モジュールに対して実行したいアクションを選択する必要があります。",
-        "SELECT_THE_ACTION_PLACEHOLDER": "アクションを選択する",
-        "MODULE_ENABLED_OR_DISABLED": "**{{module}}** モジュールは、{{action}} に成功しました。",
-        "RESET_REQUEST_WARNING": "本当に **{{module}}** モジュールをリセットしますか？このアクションは元に戻せません!",
-        "MODULE_RESET": "**{{module}}** モジュールが正常にリセットされました。",
-        "SELECT_A_CHANNEL": "設定したいチャンネルを選択する必要があります。",
-        "SELECT_A_CHANNEL_PLACEHOLDER": "チャンネルを選択",
-        "SELECT_AT_LEAST_ONE_CHANNEL": "少なくとも1つのチャンネルを選択する必要があります。",
-        "SELECT_A_ROLE": "設定したい役割を選択する必要があります。",
-        "SELECT_A_ROLE_PLACEHOLDER": "役割を選択します",
-        "SELECT_AT_LEAST_ONE_ROLE": "少なくとも1つの役割を選択する必要があります。",
-        "CHANNEL_SET": "**[{{channel.name}}]({{url}})** モジュールの **{{module}}** チャンネルを設定することに成功しました。",
-        "DM_STATUS": {
-            "LABEL": "DM のステータスをトグルする",
-            "DESCRIPTION": "DM による通知状況を変更する。",
-            "DM_STATUS_TOGGLED": "**{{module}}** あなたは、**{{action}}** モジュールの DM 通知を成功させました。"
+    "TITLE": "Filo セットアップメニュー"
+  },
+  "LOADING_DATA": "必要なデータが読み込まれるまで、しばらくお待ちください。",
+  "MODULES": {
+    "SELECT_A_MODULE": "設定したいモジュールを **{{module}}** カテゴリから選択する必要があります。",
+    "SELECT_A_SUBMODULE": "設定したいサブモジュールを **{{module}}** モジュールから選択する必要があります。",
+    "PLACEHOLDER": "モジュールを選択する",
+    "SELECT_THE_ACTION": "モジュールに対して実行したいアクションを選択する必要があります。",
+    "SELECT_THE_ACTION_PLACEHOLDER": "アクションを選択する",
+    "MODULE_ENABLED_OR_DISABLED": "**{{module}}** モジュールは、{{action}} に成功しました。",
+    "RESET_REQUEST_WARNING": "本当に **{{module}}** モジュールをリセットしますか？このアクションは元に戻せません!",
+    "MODULE_RESET": "**{{module}}** モジュールが正常にリセットされました。",
+    "SELECT_A_CHANNEL": "設定したいチャンネルを選択する必要があります。",
+    "SELECT_A_CHANNEL_PLACEHOLDER": "チャンネルを選択",
+    "SELECT_AT_LEAST_ONE_CHANNEL": "少なくとも1つのチャンネルを選択する必要があります。",
+    "SELECT_A_ROLE": "設定したい役割を選択する必要があります。",
+    "SELECT_A_ROLE_PLACEHOLDER": "役割を選択します",
+    "SELECT_AT_LEAST_ONE_ROLE": "少なくとも1つの役割を選択する必要があります。",
+    "CHANNEL_SET": "**[{{channel.name}}]({{url}})** モジュールの **{{module}}** チャンネルを設定することに成功しました。",
+    "DM_STATUS": {
+      "LABEL": "DM のステータスをトグルする",
+      "DESCRIPTION": "DM による通知状況を変更する。",
+      "DM_STATUS_TOGGLED": "**{{module}}** あなたは、**{{action}}** モジュールの DM 通知を成功させました。"
+    },
+    "EXCEPTIONS": {
+      "ADD": {
+        "LABEL": "{{type}} を追加する",
+        "DESCRIPTION": "モジュールの例外リストに {{type}} を追加する。",
+        "COMPLETED": "モジュールの例外リストに {{value}} {{type}} を追加することに成功しました。",
+        "COMPLETED_ALTERNATIVE": "モジュールの例外リストに **{{number}}** {{type}} を追加することに成功しました。"
+      },
+      "SET": {
+        "LABEL": "{{type}} を設定します",
+        "DESCRIPTION": "{{type}} リストにモジュールの例外リストを設定する。",
+        "COMPLETED": "モジュールの例外リストに {{value}} {{type}} を設定することに成功しました。",
+        "COMPLETED_ALTERNATIVE": "モジュールの例外リストに **{{number}}** {{type}} を設定することに成功しました。"
+      },
+      "REMOVE": {
+        "LABEL": "{{type}} を削除します",
+        "DESCRIPTION": "モジュールの例外リストから {{type}} を削除する。",
+        "COMPLETED": "モジュールの例外リストから {{value}} {{type}} を削除することに成功しました。",
+        "COMPLETED_ALTERNATIVE": "モジュールの例外リストから **{{number}}** {{type}} を削除することに成功しました。",
+        "NO_DATA_TO_REMOVE": "モジュールの例外リストから削除できる {{value}} はありません。"
+      }
+    },
+    "COMMUNITY": {
+      "NAME": "コミュニティ",
+      "COMMANDS": {
+        "LABEL": "コマンド",
+        "DESCRIPTION": "Filo のコマンドの動作を変更します。",
+        "CONFIGURE": {
+          "SELECT_THE_COMMANDS": "{{action}}、コマンドを選択する必要があります。",
+          "SELECT_THE_CATEGORIES": "{{action}} するカテゴリーを選択する必要があります。",
+          "SELECT_THE_COMMANDS_PLACEHOLDER": "コマンドを選択する",
+          "SELECT_THE_CATEGORIES_PLACEHOLDER": "カテゴリーを選択する",
+          "DISABLE_COMMANDS": {
+            "LABEL": "無効化されたコマンド",
+            "DESCRIPTION": "Filoのコマンドを無効化します。",
+            "NO_COMMANDS_TO_DISABLE": "使用可能なコマンドはすべて無効化されています。",
+            "COMMANDS_DISABLED": "**{{commands}}** コマンドの無効化に成功しました。"
+          },
+          "ENABLE_COMMANDS": {
+            "LABEL": "コマンドを有効にする",
+            "DESCRIPTION": "Filo のコマンドを有効にする。",
+            "NO_COMMANDS_TO_ENABLE": "現在、利用可能なすべてのコマンドが有効になっています。",
+            "COMMANDS_ENABLED": "**{{commands}}** コマンドが正常に有効になりました。"
+          },
+          "DISABLE_CATEGORIES": {
+            "LABEL": "カテゴリーを無効にする",
+            "DESCRIPTION": "Filo のカテゴリーを無効にする。",
+            "NO_CATEGORIES_TO_DISABLE": "利用可能なすべてのカテゴリが無効化されました。",
+            "CATEGORIES_DISABLED": "**{{categories}}** カテゴリを無効にすることに成功しました。"
+          },
+          "ENABLE_CATEGORIES": {
+            "LABEL": "カテゴリーを有効にする",
+            "DESCRIPTION": "Filo のカテゴリーを有効にする。",
+            "NO_CATEGORIES_TO_ENABLE": "現在、利用可能なすべてのカテゴリーが有効になっています。",
+            "CATEGORIES_ENABLED": "**{{categories}}** カテゴリが正常に有効化されました。"
+          }
+        }
+      },
+      "LANGUAGE": {
+        "LABEL": "言語",
+        "DESCRIPTION": "このサーバーで Filo の言語を変更する。",
+        "SELECT_A_LANGUAGE": "設定したい言語を選択する必要があります。",
+        "SELECT_A_LANGUAGE_PLACEHOLDER": "言語を選択する",
+        "LANGUAGE_SET": "**{{language}}** 言語を正常に設定しました。"
+      },
+      "REPORTS": {
+        "LABEL": "レポート",
+        "DESCRIPTION": "サーバー会員にレポートツールを提供する。",
+        "SUBMODULES_SELECTOR": {
+          "MEMBERS": "メンバーレポートモジュールの動作を変更する。",
+          "MESSAGES": "メッセージレポートモジュールの動作を変更する。"
         },
-        "EXCEPTIONS": {
+        "CONFIGURE": {
+          "REPORTS_CHANNEL": {
+            "LABEL": "レポートチャンネルを設定する",
+            "DESCRIPTION": "レポートの送信先を設定する。"
+          },
+          "IGNORED_ROLE": {
+            "LABEL": "無視される役割を設定する",
+            "DESCRIPTION": "メンバーがレポートを送信できないロールを設定する。",
+            "IGNORED_ROLE_SET": "**{{role.mention}}** ({{role.id}}) ロールを無視されたロールとして設定することに成功しました。"
+          },
+          "TOGGLE_DELETE_REVIEWED_REPORTS": {
+            "LABEL": "レビュー済みレポートの削除をトグルする",
+            "DESCRIPTION": "レビュー済みレポートの削除状況を変更する。",
+            "DELETE_REVIEWED_REPORTS_TOGGLED": "レビューされたレポートの削除に成功しました **{{action}}**。"
+          },
+          "NOTIFICATION_ROLES": {
             "ADD": {
-                "LABEL": "{{type}} を追加する",
-                "DESCRIPTION": "モジュールの例外リストに {{type}} を追加する。",
-                "COMPLETED": "モジュールの例外リストに {{value}} {{type}} を追加することに成功しました。",
-                "COMPLETED_ALTERNATIVE": "モジュールの例外リストに **{{number}}** {{type}} を追加することに成功しました。"
+              "LABEL": "通知ロールの追加",
+              "DESCRIPTION": "レポート送信時に通知されるロールを追加する。",
+              "COMPLETED": "**{{role.mention}}** ({{role.id}}) ロールを通知ロールとして正常に追加されました。",
+              "COMPLETED_ALTERNATIVE": "通知ロールとして **{{number}}** ロールを正常に追加しました。"
             },
             "SET": {
-                "LABEL": "{{type}} を設定します",
-                "DESCRIPTION": "{{type}} リストにモジュールの例外リストを設定する。",
-                "COMPLETED": "モジュールの例外リストに {{value}} {{type}} を設定することに成功しました。",
-                "COMPLETED_ALTERNATIVE": "モジュールの例外リストに **{{number}}** {{type}} を設定することに成功しました。"
+              "LABEL": "通知の役割を設定する",
+              "DESCRIPTION": "レポート送信時に通知されるロールを設定します。",
+              "COMPLETED": "**{{role.mention}}** ({{role.id}}) ロールを通知ロールに設定することに成功しました。",
+              "COMPLETED_ALTERNATIVE": "通知ロールとして **{{number}}** ロールを正常に設定しました。"
             },
             "REMOVE": {
-                "LABEL": "{{type}} を削除します",
-                "DESCRIPTION": "モジュールの例外リストから {{type}} を削除する。",
-                "COMPLETED": "モジュールの例外リストから {{value}} {{type}} を削除することに成功しました。",
-                "COMPLETED_ALTERNATIVE": "モジュールの例外リストから **{{number}}** {{type}} を削除することに成功しました。",
-                "NO_DATA_TO_REMOVE": "モジュールの例外リストから削除できる {{value}} はありません。"
+              "LABEL": "通知ロールの削除",
+              "DESCRIPTION": "レポート送信時に通知されるロールを削除する。",
+              "COMPLETED": "通知ロールとして **{{role.mention}}** ({{role.id}}) ロールを正常に削除しました。",
+              "COMPLETED_ALTERNATIVE": "通知ロールとして **{{number}}** ロールを正常に削除しました。",
+              "NO_DATA_TO_REMOVE": "削除可能な通知ロールはありません。"
             }
-        },
-        "COMMUNITY": {
-            "NAME": "コミュニティ",
-            "COMMANDS": {
-                "LABEL": "コマンド",
-                "DESCRIPTION": "Filo のコマンドの動作を変更します。",
-                "CONFIGURE": {
-                    "SELECT_THE_COMMANDS": "{{action}}、コマンドを選択する必要があります。",
-                    "SELECT_THE_CATEGORIES": "{{action}} するカテゴリーを選択する必要があります。",
-                    "SELECT_THE_COMMANDS_PLACEHOLDER": "コマンドを選択する",
-                    "SELECT_THE_CATEGORIES_PLACEHOLDER": "カテゴリーを選択する",
-                    "DISABLE_COMMANDS": {
-                        "LABEL": "無効化されたコマンド",
-                        "DESCRIPTION": "Filoのコマンドを無効化します。",
-                        "NO_COMMANDS_TO_DISABLE": "使用可能なコマンドはすべて無効化されています。",
-                        "COMMANDS_DISABLED": "**{{commands}}** コマンドの無効化に成功しました。"
-                    },
-                    "ENABLE_COMMANDS": {
-                        "LABEL": "コマンドを有効にする",
-                        "DESCRIPTION": "Filo のコマンドを有効にする。",
-                        "NO_COMMANDS_TO_ENABLE": "現在、利用可能なすべてのコマンドが有効になっています。",
-                        "COMMANDS_ENABLED": "**{{commands}}** コマンドが正常に有効になりました。"
-                    },
-                    "DISABLE_CATEGORIES": {
-                        "LABEL": "カテゴリーを無効にする",
-                        "DESCRIPTION": "Filo のカテゴリーを無効にする。",
-                        "NO_CATEGORIES_TO_DISABLE": "利用可能なすべてのカテゴリが無効化されました。",
-                        "CATEGORIES_DISABLED": "**{{categories}}** カテゴリを無効にすることに成功しました。"
-                    },
-                    "ENABLE_CATEGORIES": {
-                        "LABEL": "カテゴリーを有効にする",
-                        "DESCRIPTION": "Filo のカテゴリーを有効にする。",
-                        "NO_CATEGORIES_TO_ENABLE": "現在、利用可能なすべてのカテゴリーが有効になっています。",
-                        "CATEGORIES_ENABLED": "**{{categories}}** カテゴリが正常に有効化されました。"
-                    }
-                }
+          },
+          "REASON": {
+            "LABEL": "理由パラメータを設定する",
+            "DESCRIPTION": "レポートの理由欄の動作を変更する。",
+            "SET_MIN_LENGTH_OF_MEMBER_REASON": {
+              "LABEL": "メンバー理由の最小長を設定する",
+              "DESCRIPTION": "メンバーレポートの理由の最小長さを設定します。",
+              "FORM": {
+                "LABEL": "最小の理由長さ"
+              },
+              "COMPLETED": "メンバーズリースの最小長を **{{number}}** 文字に設定することに成功しました。"
             },
-            "LANGUAGE": {
-                "LABEL": "言語",
-                "DESCRIPTION": "このサーバーで Filo の言語を変更する。",
-                "SELECT_A_LANGUAGE": "設定したい言語を選択する必要があります。",
-                "SELECT_A_LANGUAGE_PLACEHOLDER": "言語を選択する",
-                "LANGUAGE_SET": "**{{language}}** 言語を正常に設定しました。"
+            "SET_MAX_LENGTH_OF_MEMBER_REASON": {
+              "LABEL": "メンバー理由の最大長を設定する",
+              "DESCRIPTION": "メンバーレポートの理由の最大長を設定します。",
+              "FORM": {
+                "LABEL": "理由の最大長"
+              },
+              "COMPLETED": "メンバーズリースの最大長を **{{number}}** 文字に設定することに成功しました。"
             },
-            "REPORTS": {
-                "LABEL": "レポート",
-                "DESCRIPTION": "サーバー会員にレポートツールを提供する。",
-                "SUBMODULES_SELECTOR": {
-                    "MEMBERS": "メンバーレポートモジュールの動作を変更する。",
-                    "MESSAGES": "メッセージレポートモジュールの動作を変更する。"
-                },
-                "CONFIGURE": {
-                    "REPORTS_CHANNEL": {
-                        "LABEL": "レポートチャンネルを設定する",
-                        "DESCRIPTION": "レポートの送信先を設定する。"
-                    },
-                    "IGNORED_ROLE": {
-                        "LABEL": "無視される役割を設定する",
-                        "DESCRIPTION": "メンバーがレポートを送信できないロールを設定する。",
-                        "IGNORED_ROLE_SET": "**{{role.mention}}** ({{role.id}}) ロールを無視されたロールとして設定することに成功しました。"
-                    },
-                    "TOGGLE_DELETE_REVIEWED_REPORTS": {
-                        "LABEL": "レビュー済みレポートの削除をトグルする",
-                        "DESCRIPTION": "レビュー済みレポートの削除状況を変更する。",
-                        "DELETE_REVIEWED_REPORTS_TOGGLED": "レビューされたレポートの削除に成功しました **{{action}}**。"
-                    },
-                    "NOTIFICATION_ROLES": {
-                        "ADD": {
-                            "LABEL": "通知ロールの追加",
-                            "DESCRIPTION": "レポート送信時に通知されるロールを追加する。",
-                            "COMPLETED": "**{{role.mention}}** ({{role.id}}) ロールを通知ロールとして正常に追加されました。",
-                            "COMPLETED_ALTERNATIVE": "通知ロールとして **{{number}}** ロールを正常に追加しました。"
-                        },
-                        "SET": {
-                            "LABEL": "通知の役割を設定する",
-                            "DESCRIPTION": "レポート送信時に通知されるロールを設定します。",
-                            "COMPLETED": "**{{role.mention}}** ({{role.id}}) ロールを通知ロールに設定することに成功しました。",
-                            "COMPLETED_ALTERNATIVE": "通知ロールとして **{{number}}** ロールを正常に設定しました。"
-                        },
-                        "REMOVE": {
-                            "LABEL": "通知ロールの削除",
-                            "DESCRIPTION": "レポート送信時に通知されるロールを削除する。",
-                            "COMPLETED": "通知ロールとして **{{role.mention}}** ({{role.id}}) ロールを正常に削除しました。",
-                            "COMPLETED_ALTERNATIVE": "通知ロールとして **{{number}}** ロールを正常に削除しました。",
-                            "NO_DATA_TO_REMOVE": "削除可能な通知ロールはありません。"
-                        }
-                    },
-                    "REASON": {
-                        "LABEL": "理由パラメータを設定する",
-                        "DESCRIPTION": "レポートの理由欄の動作を変更する。",
-                        "SET_MIN_LENGTH_OF_MEMBER_REASON": {
-                            "LABEL": "メンバー理由の最小長を設定する",
-                            "DESCRIPTION": "メンバーレポートの理由の最小長さを設定します。",
-                            "FORM": {
-                                "LABEL": "最小の理由長さ"
-                            },
-                            "COMPLETED": "メンバーズリースの最小長を **{{number}}** 文字に設定することに成功しました。"
-                        },
-                        "SET_MAX_LENGTH_OF_MEMBER_REASON": {
-                            "LABEL": "メンバー理由の最大長を設定する",
-                            "DESCRIPTION": "メンバーレポートの理由の最大長を設定します。",
-                            "FORM": {
-                                "LABEL": "理由の最大長"
-                            },
-                            "COMPLETED": "メンバーズリースの最大長を **{{number}}** 文字に設定することに成功しました。"
-                        },
-                        "CLEAN_MARKDOWN_OF_MEMBER_REASON": {
-                            "LABEL": "メンバー理由のマークダウンのクリーニングをトグルする",
-                            "DESCRIPTION": "メンバーレポートの理由のマークダウンのクリーニングの状況を変更する。",
-                            "COMPLETED": "あなたは、メンバー理由のマークダウンのクリーニングを成功させました **{{action}}**。"
-                        },
-                        "SET_MIN_LENGTH_OF_REVIEWER_REASON": {
-                            "LABEL": "レビュアーの理由の最小長を設定する",
-                            "DESCRIPTION": "レビュアーレポートの理由の最小長さを設定します。",
-                            "FORM": {
-                                "LABEL": "最小の理由長さ"
-                            },
-                            "COMPLETED": "レビューアの理由の最小長を **{{number}}** 文字に設定することに成功しました。"
-                        },
-                        "SET_MAX_LENGTH_OF_REVIEWER_REASON": {
-                            "LABEL": "レビューア理由の最大長を設定する",
-                            "DESCRIPTION": "レビュアーレポートの理由の最大長を設定します。",
-                            "FORM": {
-                                "LABEL": "理由の最大長"
-                            },
-                            "COMPLETED": "査読者の理由の最大長を **{{number}}** 文字に設定することに成功しました。"
-                        },
-                        "CLEAN_MARKDOWN_OF_REVIEWER_REASON": {
-                            "LABEL": "レビュアー理由のマークダウンのクリーニングをトグルする",
-                            "DESCRIPTION": "レビュアーレポートの理由のマークダウンのクリーニングのステータスを変更します。",
-                            "COMPLETED": "あなたは成功しました **{{action}}** レビューア理由のマークダウンのクリーニング。"
-                        }
-                    },
-                    "EVIDENCES": {
-                        "LABEL": "エビデンスパラメーターを設定する",
-                        "DESCRIPTION": "レポートのエビデンスフィールドの動作を変更します。",
-                        "SET_MIN_COUNT": {
-                            "LABEL": "エビデンスの最小数を設定する",
-                            "DESCRIPTION": "レポートが持つべき証拠書類の最小数を設定する。",
-                            "FORM": {
-                                "LABEL": "ミニマムカウント"
-                            },
-                            "COMPLETED": "証拠品の最小数を **{{number}}** に設定することに成功しました。"
-                        }
-                    }
-                }
+            "CLEAN_MARKDOWN_OF_MEMBER_REASON": {
+              "LABEL": "メンバー理由のマークダウンのクリーニングをトグルする",
+              "DESCRIPTION": "メンバーレポートの理由のマークダウンのクリーニングの状況を変更する。",
+              "COMPLETED": "あなたは、メンバー理由のマークダウンのクリーニングを成功させました **{{action}}**。"
+            },
+            "SET_MIN_LENGTH_OF_REVIEWER_REASON": {
+              "LABEL": "レビュアーの理由の最小長を設定する",
+              "DESCRIPTION": "レビュアーレポートの理由の最小長さを設定します。",
+              "FORM": {
+                "LABEL": "最小の理由長さ"
+              },
+              "COMPLETED": "レビューアの理由の最小長を **{{number}}** 文字に設定することに成功しました。"
+            },
+            "SET_MAX_LENGTH_OF_REVIEWER_REASON": {
+              "LABEL": "レビューア理由の最大長を設定する",
+              "DESCRIPTION": "レビュアーレポートの理由の最大長を設定します。",
+              "FORM": {
+                "LABEL": "理由の最大長"
+              },
+              "COMPLETED": "査読者の理由の最大長を **{{number}}** 文字に設定することに成功しました。"
+            },
+            "CLEAN_MARKDOWN_OF_REVIEWER_REASON": {
+              "LABEL": "レビュアー理由のマークダウンのクリーニングをトグルする",
+              "DESCRIPTION": "レビュアーレポートの理由のマークダウンのクリーニングのステータスを変更します。",
+              "COMPLETED": "あなたは成功しました **{{action}}** レビューア理由のマークダウンのクリーニング。"
             }
-        },
-        "VIEW": {
-            "TITLE": "**{{module}}** モジュールの設定を表示する",
-            "NO_DATA": "データなし",
-            "SELECT_THE_DATA": "表示するデータを選択する",
-            "VIEW_ALL": "すべて表示 {{data}}。",
-            "DM_STATUS": "DM ステータス",
-            "COOLDOWN": "クールダウン",
-            "EXCEPTIONS": "{{type}} 例外",
-            "COMMUNITY": {
-                "COMMANDS": {
-                    "DISABLED_COMMANDS": "無効化されたコマンド",
-                    "DISABLED_CATEGORIES": "障がい者カテゴリー"
-                },
-                "LANGUAGE": {
-                    "LANGUAGE_CODE": "言語コード"
-                },
-                "REPORTS": {
-                    "REPORTS_CHANNEL": "レポートチャンネル",
-                    "IGNORED_ROLE": "無視される役割",
-                    "DELETE_REVIEWED_REPORTS": "レビュー済みレポートの削除",
-                    "NOTIFICATION_ROLES": "お知らせの役割",
-                    "REASON_PARAMETERS": {
-                        "TITLE": "理由パラメータ",
-                        "MIN_LENGTH_OF_MEMBER_REASON": "メンバー理由の最小長さ",
-                        "MAX_LENGTH_OF_MEMBER_REASON": "会員理由の最大長",
-                        "CLEAN_MARKDOWN_OF_MEMBER_REASON": "メンバー理由のクリーンなマークダウン",
-                        "MIN_LENGTH_OF_REVIEWER_REASON": "レビュアー理由の最低長さ",
-                        "MAX_LENGTH_OF_REVIEWER_REASON": "レビューア理由の最大長",
-                        "CLEAN_MARKDOWN_OF_REVIEWER_REASON": "レビュアーの理由をきれいにマークダウンする"
-                    },
-                    "EVIDENCES_PARAMETERS": {
-                        "TITLE": "エヴィデンスパラメーター",
-                        "MIN_COUNT": "最低限必要な証拠品数"
-                    }
-                }
-            },
-            "ACTION": "アクション",
-            "MODERATION": {
-                "AUTO_MODERATION": {
-                    "REQUIRED_OPTIONAL_CONDITIONALS": "必須オプション条件",
-                    "CONDITIONALS": "条件",
-                    "CONDITIONAL": "条件付き #{{conditional}}",
-                    "EXPECTED_VALUE": "期待値",
-                    "REQUIRED_STATUS": "必須ステータス",
-                    "LEVEL": "レベル #{{level}}"
-                }
+          },
+          "EVIDENCES": {
+            "LABEL": "エビデンスパラメーターを設定する",
+            "DESCRIPTION": "レポートのエビデンスフィールドの動作を変更します。",
+            "SET_MIN_COUNT": {
+              "LABEL": "エビデンスの最小数を設定する",
+              "DESCRIPTION": "レポートが持つべき証拠書類の最小数を設定する。",
+              "FORM": {
+                "LABEL": "ミニマムカウント"
+              },
+              "COMPLETED": "証拠品の最小数を **{{number}}** に設定することに成功しました。"
             }
+          }
+        }
+      }
+    },
+    "VIEW": {
+      "TITLE": "**{{module}}** モジュールの設定を表示する",
+      "NO_DATA": "データなし",
+      "SELECT_THE_DATA": "表示するデータを選択する",
+      "VIEW_ALL": "すべて表示 {{data}}。",
+      "DM_STATUS": "DM ステータス",
+      "COOLDOWN": "クールダウン",
+      "EXCEPTIONS": "{{type}} 例外",
+      "COMMUNITY": {
+        "COMMANDS": {
+          "DISABLED_COMMANDS": "無効化されたコマンド",
+          "DISABLED_CATEGORIES": "障がい者カテゴリー"
         },
-        "SELECT_A_SANCTION_PLACEHOLDER": "制裁を選択する",
-        "MODERATION": {
-            "ANTI_BAD_WORDS": {
-                "LABEL": "アンチ悪口",
-                "DESCRIPTION": "ユーザーが悪い言葉を使うのを防ぐ。"
-            },
-            "ANTI_EVASION": {
-                "LABEL": "アンチエヴァージョン",
-                "DESCRIPTION": "制裁を逃れようとする者を追放する。"
-            },
-            "ANTI_EXTERNAL_LINKS": {
-                "LABEL": "外部リンク対策",
-                "DESCRIPTION": "ユーザーが外部リンクを送信できないようにする。"
-            },
-            "ANTI_INVITES": {
-                "LABEL": "アンチインビテーション",
-                "DESCRIPTION": "このサーバー以外からの招待の送信を許可しない。"
-            },
-            "ANTI_MASS_MENTIONS": {
-                "LABEL": "アンチ・マス・メンション",
-                "DESCRIPTION": "ユーザーが他のユーザーについて大量に言及するのを防ぐ。"
-            },
-            "ANTI_REPEATED_TEXT": {
-                "LABEL": "繰り返しテキスト対策",
-                "DESCRIPTION": "ユーザーが同じメッセージに繰り返しテキストを送信しないようにします。"
-            },
-            "ANTI_SCAM_LINKS": {
-                "LABEL": "詐欺対策リンク集",
-                "DESCRIPTION": "詐欺と思われるリンクの送信をユーザーに許可しない。"
-            },
-            "ANTI_SPAM": {
-                "LABEL": "アンチスパム",
-                "DESCRIPTION": "ユーザーのスパム行為を防ぐ。"
-            },
-            "AUTO_MODERATION": {
-                "LABEL": "オートモデレーション",
-                "DESCRIPTION": "インテリジェントかつ自動的にユーザーをモデレートする。",
-                "CONDITIONALS_LIST": {
-                    "USER_FLAG": {
-                        "LABEL": "ユーザーフラグ",
-                        "SELECT_THE_FLAG": "設定したい旗を選択しなければならない。",
-                        "SELECT_THE_FLAG_PLACEHOLDER": "国旗を選択",
-                        "DESCRIPTION_ALTERNATIVE": "ユーザーは {{flag}}。",
-                        "FLAG_SET": "**{{flag}}** フラグの設定に成功した。",
-                        "DESCRIPTION": "ユーザーが指定されたフラグを持っているかどうかをチェックする。"
-                    },
-                    "USER_REGISTER_DATE": {
-                        "LABEL": "ユーザー登録日",
-                        "TIME_SET": "ユーザー登録からの経過時間を**{{time}}** に設定することに成功しました。",
-                        "DESCRIPTION": "ユーザー登録からの経過時間を確認する。"
-                    },
-                    "USER_DISPLAY_NAME": {
-                        "LABEL": "ユーザー表示名",
-                        "DESCRIPTION": "ユーザーの表示名を確認する。",
-                        "DISPLAY_NAME_SET": "ユーザーの表示名を**{{name}}** に設定できました。"
-                    },
-                    "USER_NAME": {
-                        "DESCRIPTION": "ユーザー名を確認する。",
-                        "NAME_SET": "ユーザー名を **{{name}}** に設定することに成功した。",
-                        "LABEL": "ユーザー名"
-                    },
-                    "MEMBER_JOIN_DATE": {
-                        "LABEL": "入会日",
-                        "DESCRIPTION": "ユーザーがサーバーに参加してからの経過時間をチェックする。",
-                        "TIME_SET": "ユーザーがサーバーに参加してからの経過時間を**{{time}}** に設定することに成功しました。"
-                    },
-                    "MEMBER_NICKNAME": {
-                        "LABEL": "メンバーニックネーム",
-                        "DESCRIPTION": "メンバーのニックネームを確認してください。",
-                        "NICKNAME_SET": "メンバーのニックネームを**{{name}}** に設定しました。"
-                    },
-                    "MEMBER_PENDING_STATE": {
-                        "LABEL": "会員保留状態",
-                        "DESCRIPTION": "メンバーがサーバー要件に合格しているかどうかをチェックします。",
-                        "SELECT_THE_STATE": "設定したい状態を選択する必要があります。",
-                        "SELECT_THE_STATE_PLACEHOLDER": "州の選択",
-                        "AVAILABLE_STATES": {
-                            "VERIFIED": {
-                                "LABEL": "確認済み",
-                                "DESCRIPTION": "会員の確認"
-                            },
-                            "UNVERIFIED": {
-                                "LABEL": "未確認",
-                                "DESCRIPTION": "メンバーが確認されていない"
-                            }
-                        },
-                        "PENDING_STATE_SET": "保留状態を**{{state}}** に設定することに成功した。"
-                    },
-                    "MEMBER_ROLE": {
-                        "LABEL": "メンバーの役割",
-                        "DESCRIPTION": "メンバーの役割を確認する。",
-                        "ROLE_SET": "メンバーのロールが **{{role.mention}}** ({{role.id}}) に設定されました。"
-                    },
-                    "MEMBER_BOOST_DATE": {
-                        "LABEL": "メンバーブースト日",
-                        "TIME_SET": "**{{time}}** に設定されました。",
-                        "DESCRIPTION": "メンバーがサーバーをブーストしてからの経過時間を確認します。"
-                    },
-                    "MEMBER_TOTAL_SANCTIONS": {
-                        "LABEL": "会員制裁金総額",
-                        "DESCRIPTION": "会員が持っている制裁の総数をチェックする。",
-                        "TOTAL_SANCTIONS_SET": "**{{number}}** に成功しました。"
-                    },
-                    "MEMBER_TOTAL_SANCTIONS_WITH_EXPIRATION": {
-                        "LABEL": "期限付き会員制裁金総額",
-                        "DESCRIPTION": "会員が有効期限内に受けた制裁の総数を確認する。",
-                        "TOTAL_SANCTIONS_WITH_EXPIRATION_SET": "あなたは、直近の **{{number}}** **{{time}} ** で、制裁の総数を に設定することに成功した。"
-                    },
-                    "MEMBER_TOTAL_SANCTIONS_BY_MODULE": {
-                        "LABEL": "モジュール別会員制裁金総額",
-                        "SELECT_THE_MODULE_PLACEHOLDER": "モジュールを選択",
-                        "TOTAL_SANCTIONS_BY_MODULE_SET": "制裁総数を **{{number}}** に、モジュールを **{{module}}** に設定することに成功した。",
-                        "DESCRIPTION": "モジュールごとに、その会員が持っている制裁の総数をチェックする。",
-                        "SELECT_THE_MODULE": "設定したいモジュールを選択する必要があります。"
-                    },
-                    "MEMBER_TOTAL_SANCTIONS_BY_MODULE_WITH_EXPIRATION": {
-                        "LABEL": "期限付きモジュール別会員制裁金総額",
-                        "SELECT_THE_MODULE": "設定したいモジュールを選択する必要があります。",
-                        "SELECT_THE_MODULE_PLACEHOLDER": "モジュールを選択",
-                        "DESCRIPTION": "有効期限が切れたモジュールごとに、会員が持っている制裁の総数をチェックする。",
-                        "TOTAL_SANCTIONS_BY_MODULE_WITH_EXPIRATION_SET": "最後の **{{time}}** と **{{module}}** で、制裁総数を **{{number}}** に、モジュールを に設定することに成功した。"
-                    },
-                    "MEMBER_TOTAL_SANCTIONS_BY_TYPE": {
-                        "LABEL": "会員のタイプ別制裁金総額",
-                        "DESCRIPTION": "会員が持っている制裁の種類別総数をチェックする。",
-                        "SELECT_THE_TYPE": "設定したいタイプを選択する必要があります。",
-                        "SELECT_THE_TYPE_PLACEHOLDER": "タイプを選択",
-                        "TOTAL_SANCTIONS_BY_TYPE_SET": "あなたは制裁総数を **{{number}}** に、タイプを **{{type}}** に設定することに成功した。"
-                    },
-                    "MEMBER_TOTAL_SANCTIONS_BY_TYPE_WITH_EXPIRATION": {
-                        "LABEL": "期限付き会員制裁金の種類別総額",
-                        "DESCRIPTION": "会員が持っている制裁の種類別総数を、有効期限付きでチェックする。",
-                        "SELECT_THE_TYPE": "設定したいタイプを選択する必要があります。",
-                        "SELECT_THE_TYPE_PLACEHOLDER": "タイプを選択",
-                        "TOTAL_SANCTIONS_BY_TYPE_WITH_EXPIRATION_SET": "過去 **{{time}}** における制裁の合計数を **{{number}}** に設定し、種類を **{{type}}** に設定しました。"
-                    },
-                    "MEMBER_TOTAL_SANCTIONS_BY_TYPE_BY_MODULE": {
-                        "LABEL": "モジュール別タイプ別会員制裁金総額",
-                        "DESCRIPTION": "会員が持つ制裁権の総数を、モジュール別にタイプ別にチェックする。",
-                        "SELECT_THE_TYPE": "設定したいタイプを選択する必要があります。",
-                        "SELECT_THE_TYPE_PLACEHOLDER": "タイプを選択",
-                        "SELECT_THE_MODULE": "設定したいモジュールを選択する必要があります。",
-                        "SELECT_THE_MODULE_PLACEHOLDER": "モジュールを選択",
-                        "TOTAL_SANCTIONS_BY_TYPE_BY_MODULE_SET": "あなたは制裁総数を **{{number}}** に、タイプを **{{type}}** に、モジュールを **{{module}}** に設定することに成功しました。"
-                    },
-                    "MEMBER_TOTAL_SANCTIONS_BY_TYPE_BY_MODULE_WITH_EXPIRATION": {
-                        "LABEL": "会員の制裁金総額（タイプ別、モジュール別、期限付き",
-                        "SELECT_THE_TYPE": "設定したいタイプを選択する必要があります。",
-                        "SELECT_THE_TYPE_PLACEHOLDER": "タイプを選択",
-                        "SELECT_THE_MODULE_PLACEHOLDER": "モジュールを選択",
-                        "DESCRIPTION": "有効期限のあるモジュールごとに、会員が持っている制裁の総数をタイプ別にチェックする。",
-                        "SELECT_THE_MODULE": "設定したいモジュールを選択する必要があります。",
-                        "TOTAL_SANCTIONS_BY_TYPE_BY_MODULE_WITH_EXPIRATION_SET": "最後の **{{time}}** で、制裁総数を **{{number}}** に、タイプを **{{type}}** に、モジュールを **{{module}}** に設定することに成功しました。"
-                    },
-                    "SERVER_FEATURES": {
-                        "LABEL": "サーバー機能",
-                        "DESCRIPTION": "サーバーに指定された機能があるかどうかをチェックする。",
-                        "SELECT_THE_FEATURE": "設定したい機能を選択する必要があります。",
-                        "SELECT_THE_FEATURE_PLACEHOLDER": "機能を選択する",
-                        "FEATURE_SET": "**{{feature}}** 機能の設定が完了しました。",
-                        "DESCRIPTION_ALTERNATIVE": "サーバーには {{feature}}。"
-                    },
-                    "USER_BLACKLISTED_THIRD_PARTY": {
-                        "LABEL": "ユーザーがサードパーティをブラックリストに登録",
-                        "DESCRIPTION": "ユーザーがサードパーティーのブラックリストに載っていないかチェックする。",
-                        "SELECT_THE_STATUS": "設定したいステータスを選択する必要があります。",
-                        "SELECT_THE_STATUS_PLACEHOLDER": "ステータスを選択",
-                        "STATUS_SET": "ステータスを **{{status}}** に設定することに成功した。",
-                        "AVAILABLE_STATUS": {
-                            "BLACKLISTED": {
-                                "LABEL": "ブラックリスト入り",
-                                "DESCRIPTION": "ユーザーをブラックリストに登録する"
-                            },
-                            "NOT_BLACKLISTED": {
-                                "DESCRIPTION": "ユーザーがブラックリストに載ってはならない",
-                                "LABEL": "ブラックリスト入りしていない"
-                            }
-                        }
-                    }
-                },
-                "CONFIGURE": {
-                    "SELECT_THE_ACTION": "レベルで実行したいアクションを選択する必要があります。",
-                    "CONDITIONALS": {
-                        "ADD_CONDITIONAL": {
-                            "LABEL": "条件付き追加",
-                            "DESCRIPTION": "レベルに条件を追加する。",
-                            "COMPLETED": "レベルに条件を追加することに成功しました。"
-                        },
-                        "EDIT_CONDITIONAL": {
-                            "LABEL": "条件付き編集",
-                            "COMPLETED": "レベルの条件編集に成功しました。",
-                            "DESCRIPTION": "レベルの条件を編集する。"
-                        },
-                        "REMOVE_CONDITIONAL": {
-                            "LABEL": "条件付き",
-                            "DESCRIPTION": "レベルから条件を削除する。",
-                            "COMPLETED": "あなたはレベルからの条件解除に成功した。"
-                        },
-                        "SELECT_THE_CONDITIONAL": "{{action}} を選択する必要があります。",
-                        "SELECT_THE_CONDITIONAL_PLACEHOLDER": "条件を選択する",
-                        "SELECT_THE_EXPECTED_VALUE_PLACEHOLDER": "期待値を選択",
-                        "AVAILABLE_EXPECTED_VALUES": {
-                            "TRUE": {
-                                "LABEL": "真",
-                                "DESCRIPTION": "期待値は真でなければならない"
-                            },
-                            "FALSE": {
-                                "LABEL": "偽",
-                                "DESCRIPTION": "期待値は偽でなければならない"
-                            }
-                        },
-                        "EXPECTED_VALUE_SET": "期待値を **{{value}}** に設定することに成功した。",
-                        "SELECT_THE_TYPE_OF_CONDITIONAL": "設定したい条件の種類を選択しなければならない。",
-                        "SELECT_THE_TYPE_OF_CONDITIONAL_PLACEHOLDER": "条件の種類を選択する",
-                        "AVAILABLE_TYPES_OF_CONDITIONAL": {
-                            "REQUIRED": {
-                                "LABEL": "必須",
-                                "DESCRIPTION": "条件を満たす必要がある"
-                            },
-                            "OPTIONAL": {
-                                "LABEL": "オプション",
-                                "DESCRIPTION": "条件は任意"
-                            }
-                        },
-                        "SELECT_THE_OPERAND": "設定したいオペランドを選択する必要があります。",
-                        "AVAILABLE_OPERANDS": {
-                            "GREATER_THAN_OR_EQUAL": {
-                                "LABEL": "以上",
-                                "DESCRIPTION": "値は比較値以上でなければならない"
-                            },
-                            "LESS_THAN_OR_EQUAL": {
-                                "LABEL": "以下",
-                                "DESCRIPTION": "値は比較値以下でなければならない"
-                            },
-                            "GREATER_THAN": {
-                                "LABEL": "より大きい",
-                                "DESCRIPTION": "値は比較された値より大きくなければならない"
-                            },
-                            "EQUAL": {
-                                "LABEL": "同等",
-                                "DESCRIPTION": "値は比較された値と等しくなければならない"
-                            },
-                            "LESS_THAN": {
-                                "LABEL": "未満",
-                                "DESCRIPTION": "値は比較された値より小さくなければならない"
-                            }
-                        },
-                        "OPERAND_SET": "オペランドを**{{value}}** に設定することに成功した。",
-                        "SELECT_THE_REQUIRED_CONDITIONS": "設定したい必要条件を選択する必要があります。",
-                        "SELECT_THE_REQUIRED_CONDITIONS_OPTION_DESCRIPTION": "{{number}} の条件を満たす必要がある。",
-                        "REQUIRED_CONDITIONS_SET": "**{{conditions}}** に必要な条件を設定することに成功した。",
-                        "SELECT_THE_EXPECTED_VALUE": "設定したい期待値を選択する必要がある。",
-                        "TYPE_OF_CONDITIONAL_SET": "**{{value}}** に設定することができました。",
-                        "SELECT_THE_OPERAND_PLACEHOLDER": "オペランドを選択する",
-                        "SELECT_THE_REQUIRED_CONDITIONS_PLACEHOLDER": "必要な条件を選択する"
-                    },
-                    "CREATE_A_LEVEL": {
-                        "FORM": {
-                            "LABEL": "レベルポジション"
-                        },
-                        "LEVEL_POSITION_SET": "**#{{position}}** にレベルポジションを設定することに成功した。",
-                        "COMPLETED": "レベルの作成に成功しました。",
-                        "LABEL": "レベルを作成する",
-                        "DESCRIPTION": "自動モデレーション・モジュールのレベルを作成します。"
-                    },
-                    "EDIT_A_LEVEL": {
-                        "NO_LEVELS_FOUND": "編集可能なレベルはない。",
-                        "SELECT_THE_LEVEL_PLACEHOLDER": "レベルを選択",
-                        "SELECT_THE_LEVEL_OPTION_DESCRIPTION": "レベルを編集する #{{level}}.",
-                        "COMPLETED": "あなたはレベル **#{{level}}** の編集に成功しました。",
-                        "SELECT_THE_LEVEL": "編集したいレベルを選択する必要があります。",
-                        "DESCRIPTION": "自動モデレーションモジュールからレベルを編集します。",
-                        "LABEL": "レベルの編集",
-                        "LEVEL_SELECTED": "編集するレベル **#{{level}}** の選択に成功しました。"
-                    },
-                    "EDIT_THE_LEVEL_SANCTION": {
-                        "LABEL": "レベル制裁の編集",
-                        "DESCRIPTION": "レベルの制裁を編集する。",
-                        "NO_LEVELS_FOUND": "編集可能なレベルはない。",
-                        "SELECT_THE_LEVEL": "編集したいレベルを選択する必要があります。",
-                        "SELECT_THE_LEVEL_PLACEHOLDER": "レベルを選択",
-                        "LEVEL_SELECTED": "レベル **#{{level}}** を選択し、その制裁を編集することに成功した。",
-                        "COMPLETED": "レベル **#{{level}}** の制裁を正常に編集しました。",
-                        "SELECT_THE_LEVEL_OPTION_DESCRIPTION": "レベルの制裁を編集する #{{level}}."
-                    },
-                    "DELETE_A_LEVEL": {
-                        "LABEL": "レベルを削除する",
-                        "DESCRIPTION": "自動モデレーション・モジュールからレベルを削除する。",
-                        "NO_LEVELS_FOUND": "削除可能なレベルはありません。",
-                        "SELECT_THE_LEVEL_PLACEHOLDER": "レベルを選択",
-                        "SELECT_THE_LEVEL_OPTION_DESCRIPTION": "レベルを削除 #{{level}}.",
-                        "COMPLETED": "レベル **#{{level}}** を正常に削除しました。",
-                        "SELECT_THE_LEVEL": "削除したいレベルを選択する必要があります。"
-                    }
-                }
-            },
-            "NAME": "モデレーション"
+        "LANGUAGE": {
+          "LANGUAGE_CODE": "言語コード"
         },
-        "SELECT_A_SANCTION": "設定したい制裁を選択しなければならない。",
-        "SANCTION_SET": "**{{sanction}}** 制裁の設定に成功しました"
-    }
+        "REPORTS": {
+          "REPORTS_CHANNEL": "レポートチャンネル",
+          "IGNORED_ROLE": "無視される役割",
+          "DELETE_REVIEWED_REPORTS": "レビュー済みレポートの削除",
+          "NOTIFICATION_ROLES": "お知らせの役割",
+          "REASON_PARAMETERS": {
+            "TITLE": "理由パラメータ",
+            "MIN_LENGTH_OF_MEMBER_REASON": "メンバー理由の最小長さ",
+            "MAX_LENGTH_OF_MEMBER_REASON": "会員理由の最大長",
+            "CLEAN_MARKDOWN_OF_MEMBER_REASON": "メンバー理由のクリーンなマークダウン",
+            "MIN_LENGTH_OF_REVIEWER_REASON": "レビュアー理由の最低長さ",
+            "MAX_LENGTH_OF_REVIEWER_REASON": "レビューア理由の最大長",
+            "CLEAN_MARKDOWN_OF_REVIEWER_REASON": "レビュアーの理由をきれいにマークダウンする"
+          },
+          "EVIDENCES_PARAMETERS": {
+            "TITLE": "エヴィデンスパラメーター",
+            "MIN_COUNT": "最低限必要な証拠品数"
+          }
+        }
+      },
+      "ACTION": "アクション",
+      "MODERATION": {
+        "AUTO_MODERATION": {
+          "REQUIRED_OPTIONAL_CONDITIONALS": "必須オプション条件",
+          "CONDITIONALS": "条件",
+          "CONDITIONAL": "条件付き #{{conditional}}",
+          "EXPECTED_VALUE": "期待値",
+          "REQUIRED_STATUS": "必須ステータス",
+          "LEVEL": "レベル #{{level}}"
+        }
+      }
+    },
+    "SELECT_A_SANCTION_PLACEHOLDER": "制裁を選択する",
+    "MODERATION": {
+      "ANTI_BAD_WORDS": {
+        "LABEL": "アンチ悪口",
+        "DESCRIPTION": "ユーザーが悪い言葉を使うのを防ぐ。"
+      },
+      "ANTI_EVASION": {
+        "LABEL": "アンチエヴァージョン",
+        "DESCRIPTION": "制裁を逃れようとする者を追放する。"
+      },
+      "ANTI_EXTERNAL_LINKS": {
+        "LABEL": "外部リンク対策",
+        "DESCRIPTION": "ユーザーが外部リンクを送信できないようにする。"
+      },
+      "ANTI_INVITES": {
+        "LABEL": "アンチインビテーション",
+        "DESCRIPTION": "このサーバー以外からの招待の送信を許可しない。"
+      },
+      "ANTI_MASS_MENTIONS": {
+        "LABEL": "アンチ・マス・メンション",
+        "DESCRIPTION": "ユーザーが他のユーザーについて大量に言及するのを防ぐ。"
+      },
+      "ANTI_REPEATED_TEXT": {
+        "LABEL": "繰り返しテキスト対策",
+        "DESCRIPTION": "ユーザーが同じメッセージに繰り返しテキストを送信しないようにします。"
+      },
+      "ANTI_SCAM_LINKS": {
+        "LABEL": "詐欺対策リンク集",
+        "DESCRIPTION": "詐欺と思われるリンクの送信をユーザーに許可しない。"
+      },
+      "ANTI_SPAM": {
+        "LABEL": "アンチスパム",
+        "DESCRIPTION": "ユーザーのスパム行為を防ぐ。"
+      },
+      "AUTO_MODERATION": {
+        "LABEL": "オートモデレーション",
+        "DESCRIPTION": "インテリジェントかつ自動的にユーザーをモデレートする。",
+        "CONDITIONALS_LIST": {
+          "USER_FLAG": {
+            "LABEL": "ユーザーフラグ",
+            "SELECT_THE_FLAG": "設定したい旗を選択しなければならない。",
+            "SELECT_THE_FLAG_PLACEHOLDER": "国旗を選択",
+            "DESCRIPTION_ALTERNATIVE": "ユーザーは {{flag}}。",
+            "FLAG_SET": "**{{flag}}** フラグの設定に成功した。",
+            "DESCRIPTION": "ユーザーが指定されたフラグを持っているかどうかをチェックする。"
+          },
+          "USER_REGISTER_DATE": {
+            "LABEL": "ユーザー登録日",
+            "TIME_SET": "ユーザー登録からの経過時間を**{{time}}** に設定することに成功しました。",
+            "DESCRIPTION": "ユーザー登録からの経過時間を確認する。"
+          },
+          "USER_DISPLAY_NAME": {
+            "LABEL": "ユーザー表示名",
+            "DESCRIPTION": "ユーザーの表示名を確認する。",
+            "DISPLAY_NAME_SET": "ユーザーの表示名を**{{name}}** に設定できました。"
+          },
+          "USER_NAME": {
+            "DESCRIPTION": "ユーザー名を確認する。",
+            "NAME_SET": "ユーザー名を **{{name}}** に設定することに成功した。",
+            "LABEL": "ユーザー名"
+          },
+          "MEMBER_JOIN_DATE": {
+            "LABEL": "入会日",
+            "DESCRIPTION": "ユーザーがサーバーに参加してからの経過時間をチェックする。",
+            "TIME_SET": "ユーザーがサーバーに参加してからの経過時間を**{{time}}** に設定することに成功しました。"
+          },
+          "MEMBER_NICKNAME": {
+            "LABEL": "メンバーニックネーム",
+            "DESCRIPTION": "メンバーのニックネームを確認してください。",
+            "NICKNAME_SET": "メンバーのニックネームを**{{name}}** に設定しました。"
+          },
+          "MEMBER_PENDING_STATE": {
+            "LABEL": "会員保留状態",
+            "DESCRIPTION": "メンバーがサーバー要件に合格しているかどうかをチェックします。",
+            "SELECT_THE_STATE": "設定したい状態を選択する必要があります。",
+            "SELECT_THE_STATE_PLACEHOLDER": "州の選択",
+            "AVAILABLE_STATES": {
+              "VERIFIED": {
+                "LABEL": "確認済み",
+                "DESCRIPTION": "会員の確認"
+              },
+              "UNVERIFIED": {
+                "LABEL": "未確認",
+                "DESCRIPTION": "メンバーが確認されていない"
+              }
+            },
+            "PENDING_STATE_SET": "保留状態を**{{state}}** に設定することに成功した。"
+          },
+          "MEMBER_ROLE": {
+            "LABEL": "メンバーの役割",
+            "DESCRIPTION": "メンバーの役割を確認する。",
+            "ROLE_SET": "メンバーのロールが **{{role.mention}}** ({{role.id}}) に設定されました。"
+          },
+          "MEMBER_BOOST_DATE": {
+            "LABEL": "メンバーブースト日",
+            "TIME_SET": "**{{time}}** に設定されました。",
+            "DESCRIPTION": "メンバーがサーバーをブーストしてからの経過時間を確認します。"
+          },
+          "MEMBER_TOTAL_SANCTIONS": {
+            "LABEL": "会員制裁金総額",
+            "DESCRIPTION": "会員が持っている制裁の総数をチェックする。",
+            "TOTAL_SANCTIONS_SET": "**{{number}}** に成功しました。"
+          },
+          "MEMBER_TOTAL_SANCTIONS_WITH_EXPIRATION": {
+            "LABEL": "期限付き会員制裁金総額",
+            "DESCRIPTION": "会員が有効期限内に受けた制裁の総数を確認する。",
+            "TOTAL_SANCTIONS_WITH_EXPIRATION_SET": "あなたは、直近の **{{number}}** **{{time}} ** で、制裁の総数を に設定することに成功した。"
+          },
+          "MEMBER_TOTAL_SANCTIONS_BY_MODULE": {
+            "LABEL": "モジュール別会員制裁金総額",
+            "SELECT_THE_MODULE_PLACEHOLDER": "モジュールを選択",
+            "TOTAL_SANCTIONS_BY_MODULE_SET": "制裁総数を **{{number}}** に、モジュールを **{{module}}** に設定することに成功した。",
+            "DESCRIPTION": "モジュールごとに、その会員が持っている制裁の総数をチェックする。",
+            "SELECT_THE_MODULE": "設定したいモジュールを選択する必要があります。"
+          },
+          "MEMBER_TOTAL_SANCTIONS_BY_MODULE_WITH_EXPIRATION": {
+            "LABEL": "期限付きモジュール別会員制裁金総額",
+            "SELECT_THE_MODULE": "設定したいモジュールを選択する必要があります。",
+            "SELECT_THE_MODULE_PLACEHOLDER": "モジュールを選択",
+            "DESCRIPTION": "有効期限が切れたモジュールごとに、会員が持っている制裁の総数をチェックする。",
+            "TOTAL_SANCTIONS_BY_MODULE_WITH_EXPIRATION_SET": "最後の **{{time}}** と **{{module}}** で、制裁総数を **{{number}}** に、モジュールを に設定することに成功した。"
+          },
+          "MEMBER_TOTAL_SANCTIONS_BY_TYPE": {
+            "LABEL": "会員のタイプ別制裁金総額",
+            "DESCRIPTION": "会員が持っている制裁の種類別総数をチェックする。",
+            "SELECT_THE_TYPE": "設定したいタイプを選択する必要があります。",
+            "SELECT_THE_TYPE_PLACEHOLDER": "タイプを選択",
+            "TOTAL_SANCTIONS_BY_TYPE_SET": "あなたは制裁総数を **{{number}}** に、タイプを **{{type}}** に設定することに成功した。"
+          },
+          "MEMBER_TOTAL_SANCTIONS_BY_TYPE_WITH_EXPIRATION": {
+            "LABEL": "期限付き会員制裁金の種類別総額",
+            "DESCRIPTION": "会員が持っている制裁の種類別総数を、有効期限付きでチェックする。",
+            "SELECT_THE_TYPE": "設定したいタイプを選択する必要があります。",
+            "SELECT_THE_TYPE_PLACEHOLDER": "タイプを選択",
+            "TOTAL_SANCTIONS_BY_TYPE_WITH_EXPIRATION_SET": "過去 **{{time}}** における制裁の合計数を **{{number}}** に設定し、種類を **{{type}}** に設定しました。"
+          },
+          "MEMBER_TOTAL_SANCTIONS_BY_TYPE_BY_MODULE": {
+            "LABEL": "モジュール別タイプ別会員制裁金総額",
+            "DESCRIPTION": "会員が持つ制裁権の総数を、モジュール別にタイプ別にチェックする。",
+            "SELECT_THE_TYPE": "設定したいタイプを選択する必要があります。",
+            "SELECT_THE_TYPE_PLACEHOLDER": "タイプを選択",
+            "SELECT_THE_MODULE": "設定したいモジュールを選択する必要があります。",
+            "SELECT_THE_MODULE_PLACEHOLDER": "モジュールを選択",
+            "TOTAL_SANCTIONS_BY_TYPE_BY_MODULE_SET": "あなたは制裁総数を **{{number}}** に、タイプを **{{type}}** に、モジュールを **{{module}}** に設定することに成功しました。"
+          },
+          "MEMBER_TOTAL_SANCTIONS_BY_TYPE_BY_MODULE_WITH_EXPIRATION": {
+            "LABEL": "会員の制裁金総額（タイプ別、モジュール別、期限付き",
+            "SELECT_THE_TYPE": "設定したいタイプを選択する必要があります。",
+            "SELECT_THE_TYPE_PLACEHOLDER": "タイプを選択",
+            "SELECT_THE_MODULE_PLACEHOLDER": "モジュールを選択",
+            "DESCRIPTION": "有効期限のあるモジュールごとに、会員が持っている制裁の総数をタイプ別にチェックする。",
+            "SELECT_THE_MODULE": "設定したいモジュールを選択する必要があります。",
+            "TOTAL_SANCTIONS_BY_TYPE_BY_MODULE_WITH_EXPIRATION_SET": "最後の **{{time}}** で、制裁総数を **{{number}}** に、タイプを **{{type}}** に、モジュールを **{{module}}** に設定することに成功しました。"
+          },
+          "SERVER_FEATURES": {
+            "LABEL": "サーバー機能",
+            "DESCRIPTION": "サーバーに指定された機能があるかどうかをチェックする。",
+            "SELECT_THE_FEATURE": "設定したい機能を選択する必要があります。",
+            "SELECT_THE_FEATURE_PLACEHOLDER": "機能を選択する",
+            "FEATURE_SET": "**{{feature}}** 機能の設定が完了しました。",
+            "DESCRIPTION_ALTERNATIVE": "サーバーには {{feature}}。"
+          },
+          "USER_BLACKLISTED_THIRD_PARTY": {
+            "LABEL": "ユーザーがサードパーティをブラックリストに登録",
+            "DESCRIPTION": "ユーザーがサードパーティーのブラックリストに載っていないかチェックする。",
+            "SELECT_THE_STATUS": "設定したいステータスを選択する必要があります。",
+            "SELECT_THE_STATUS_PLACEHOLDER": "ステータスを選択",
+            "STATUS_SET": "ステータスを **{{status}}** に設定することに成功した。",
+            "AVAILABLE_STATUS": {
+              "BLACKLISTED": {
+                "LABEL": "ブラックリスト入り",
+                "DESCRIPTION": "ユーザーをブラックリストに登録する"
+              },
+              "NOT_BLACKLISTED": {
+                "DESCRIPTION": "ユーザーがブラックリストに載ってはならない",
+                "LABEL": "ブラックリスト入りしていない"
+              }
+            }
+          }
+        },
+        "CONFIGURE": {
+          "SELECT_THE_ACTION": "レベルで実行したいアクションを選択する必要があります。",
+          "CONDITIONALS": {
+            "ADD_CONDITIONAL": {
+              "LABEL": "条件付き追加",
+              "DESCRIPTION": "レベルに条件を追加する。",
+              "COMPLETED": "レベルに条件を追加することに成功しました。"
+            },
+            "EDIT_CONDITIONAL": {
+              "LABEL": "条件付き編集",
+              "COMPLETED": "レベルの条件編集に成功しました。",
+              "DESCRIPTION": "レベルの条件を編集する。"
+            },
+            "REMOVE_CONDITIONAL": {
+              "LABEL": "条件付き",
+              "DESCRIPTION": "レベルから条件を削除する。",
+              "COMPLETED": "あなたはレベルからの条件解除に成功した。"
+            },
+            "SELECT_THE_CONDITIONAL": "{{action}} を選択する必要があります。",
+            "SELECT_THE_CONDITIONAL_PLACEHOLDER": "条件を選択する",
+            "SELECT_THE_EXPECTED_VALUE_PLACEHOLDER": "期待値を選択",
+            "AVAILABLE_EXPECTED_VALUES": {
+              "TRUE": {
+                "LABEL": "真",
+                "DESCRIPTION": "期待値は真でなければならない"
+              },
+              "FALSE": {
+                "LABEL": "偽",
+                "DESCRIPTION": "期待値は偽でなければならない"
+              }
+            },
+            "EXPECTED_VALUE_SET": "期待値を **{{value}}** に設定することに成功した。",
+            "SELECT_THE_TYPE_OF_CONDITIONAL": "設定したい条件の種類を選択しなければならない。",
+            "SELECT_THE_TYPE_OF_CONDITIONAL_PLACEHOLDER": "条件の種類を選択する",
+            "AVAILABLE_TYPES_OF_CONDITIONAL": {
+              "REQUIRED": {
+                "LABEL": "必須",
+                "DESCRIPTION": "条件を満たす必要がある"
+              },
+              "OPTIONAL": {
+                "LABEL": "オプション",
+                "DESCRIPTION": "条件は任意"
+              }
+            },
+            "SELECT_THE_OPERAND": "設定したいオペランドを選択する必要があります。",
+            "AVAILABLE_OPERANDS": {
+              "GREATER_THAN_OR_EQUAL": {
+                "LABEL": "以上",
+                "DESCRIPTION": "値は比較値以上でなければならない"
+              },
+              "LESS_THAN_OR_EQUAL": {
+                "LABEL": "以下",
+                "DESCRIPTION": "値は比較値以下でなければならない"
+              },
+              "GREATER_THAN": {
+                "LABEL": "より大きい",
+                "DESCRIPTION": "値は比較された値より大きくなければならない"
+              },
+              "EQUAL": {
+                "LABEL": "同等",
+                "DESCRIPTION": "値は比較された値と等しくなければならない"
+              },
+              "LESS_THAN": {
+                "LABEL": "未満",
+                "DESCRIPTION": "値は比較された値より小さくなければならない"
+              }
+            },
+            "OPERAND_SET": "オペランドを**{{value}}** に設定することに成功した。",
+            "SELECT_THE_REQUIRED_CONDITIONS": "設定したい必要条件を選択する必要があります。",
+            "SELECT_THE_REQUIRED_CONDITIONS_OPTION_DESCRIPTION": "{{number}} の条件を満たす必要がある。",
+            "REQUIRED_CONDITIONS_SET": "**{{conditions}}** に必要な条件を設定することに成功した。",
+            "SELECT_THE_EXPECTED_VALUE": "設定したい期待値を選択する必要がある。",
+            "TYPE_OF_CONDITIONAL_SET": "**{{value}}** に設定することができました。",
+            "SELECT_THE_OPERAND_PLACEHOLDER": "オペランドを選択する",
+            "SELECT_THE_REQUIRED_CONDITIONS_PLACEHOLDER": "必要な条件を選択する"
+          },
+          "CREATE_A_LEVEL": {
+            "FORM": {
+              "LABEL": "レベルポジション"
+            },
+            "LEVEL_POSITION_SET": "**#{{position}}** にレベルポジションを設定することに成功した。",
+            "COMPLETED": "レベルの作成に成功しました。",
+            "LABEL": "レベルを作成する",
+            "DESCRIPTION": "自動モデレーション・モジュールのレベルを作成します。"
+          },
+          "EDIT_A_LEVEL": {
+            "NO_LEVELS_FOUND": "編集可能なレベルはない。",
+            "SELECT_THE_LEVEL_PLACEHOLDER": "レベルを選択",
+            "SELECT_THE_LEVEL_OPTION_DESCRIPTION": "レベルを編集する #{{level}}.",
+            "COMPLETED": "あなたはレベル **#{{level}}** の編集に成功しました。",
+            "SELECT_THE_LEVEL": "編集したいレベルを選択する必要があります。",
+            "DESCRIPTION": "自動モデレーションモジュールからレベルを編集します。",
+            "LABEL": "レベルの編集",
+            "LEVEL_SELECTED": "編集するレベル **#{{level}}** の選択に成功しました。"
+          },
+          "EDIT_THE_LEVEL_SANCTION": {
+            "LABEL": "レベル制裁の編集",
+            "DESCRIPTION": "レベルの制裁を編集する。",
+            "NO_LEVELS_FOUND": "編集可能なレベルはない。",
+            "SELECT_THE_LEVEL": "編集したいレベルを選択する必要があります。",
+            "SELECT_THE_LEVEL_PLACEHOLDER": "レベルを選択",
+            "LEVEL_SELECTED": "レベル **#{{level}}** を選択し、その制裁を編集することに成功した。",
+            "COMPLETED": "レベル **#{{level}}** の制裁を正常に編集しました。",
+            "SELECT_THE_LEVEL_OPTION_DESCRIPTION": "レベルの制裁を編集する #{{level}}."
+          },
+          "DELETE_A_LEVEL": {
+            "LABEL": "レベルを削除する",
+            "DESCRIPTION": "自動モデレーション・モジュールからレベルを削除する。",
+            "NO_LEVELS_FOUND": "削除可能なレベルはありません。",
+            "SELECT_THE_LEVEL_PLACEHOLDER": "レベルを選択",
+            "SELECT_THE_LEVEL_OPTION_DESCRIPTION": "レベルを削除 #{{level}}.",
+            "COMPLETED": "レベル **#{{level}}** を正常に削除しました。",
+            "SELECT_THE_LEVEL": "削除したいレベルを選択する必要があります。"
+          }
+        }
+      },
+      "NAME": "モデレーション"
+    },
+    "SELECT_A_SANCTION": "設定したい制裁を選択しなければならない。",
+    "SANCTION_SET": "**{{sanction}}** 制裁の設定に成功しました"
+  }
 }

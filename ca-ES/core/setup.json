@@ -1,561 +1,561 @@
 {
-    "HOME": {
-        "PRE_START": "Abans de continuar, deus fer clic en el botó **{{button}}**.",
-        "DESCRIPTION": "Comença a configurar Filo seleccionant la categoria de mòduls que vols configurar i després selecciona el mòdul que desitja operar.\n\n**Necessita una guia de referència? No et preocupis!**\nFent **[clic aquí]({{url}})**, et redirigirem a la Wiki de Filo, la qual conté informació sobre com configurar qualsevol cosa.\n\n**Massa complicat?**\n**[Contactan's]({{url2}})** si tens alguna pregunta o necessites alguna aclaració adicional.",
-        "SELECT_A_MODULE_CATEGORY": {
-            "PLACEHOLDER": "Selecciona una categoria de mòduls",
-            "ADMINISTRATION": {
-                "LABEL": "Mòduls d'administració",
-                "DESCRIPTION": "Mòduls per ajudar-te en l'administració del teu servidor."
-            },
-            "COMMUNITY": {
-                "LABEL": "Mòduls de comunitat",
-                "DESCRIPTION": "Mòduls per ajudar-te a millorar l'experiència de la teva comunitat."
-            },
-            "MODERATION": {
-                "LABEL": "Mòduls de moderació",
-                "DESCRIPTION": "Mòdul per ajudar-te a moderar el teu servidor."
-            }
-        },
-        "TITLE": "Menú de Configuració de Filo"
+  "HOME": {
+    "PRE_START": "Abans de continuar, deus fer clic en el botó **{{button}}**.",
+    "DESCRIPTION": "Comença a configurar Filo seleccionant la categoria de mòduls que vols configurar i després selecciona el mòdul que desitja operar.\n\n**Necessita una guia de referència? No et preocupis!**\nFent **[clic aquí]({{url}})**, et redirigirem a la Wiki de Filo, la qual conté informació sobre com configurar qualsevol cosa.\n\n**Massa complicat?**\n**[Contactan's]({{url2}})** si tens alguna pregunta o necessites alguna aclaració adicional.",
+    "SELECT_A_MODULE_CATEGORY": {
+      "PLACEHOLDER": "Selecciona una categoria de mòduls",
+      "ADMINISTRATION": {
+        "LABEL": "Mòduls d'administració",
+        "DESCRIPTION": "Mòduls per ajudar-te en l'administració del teu servidor."
+      },
+      "COMMUNITY": {
+        "LABEL": "Mòduls de comunitat",
+        "DESCRIPTION": "Mòduls per ajudar-te a millorar l'experiència de la teva comunitat."
+      },
+      "MODERATION": {
+        "LABEL": "Mòduls de moderació",
+        "DESCRIPTION": "Mòdul per ajudar-te a moderar el teu servidor."
+      }
     },
-    "LOADING_DATA": "Si us plau espera mentre es carregen les dades necessàries.",
-    "MODULES": {
-        "SELECT_A_MODULE": "Deus seleccionar el mòdul de la categoria **{{module}}** que vols configurar.",
-        "SELECT_A_SUBMODULE": "Deus seleccionar el submòdul del mòdul **{{module}}** que vols configurar.",
-        "PLACEHOLDER": "Selecciona un mòdul",
-        "SELECT_THE_ACTION": "Deus seleccionar l'acció que vols dur a terme en el mòdul.",
-        "SELECT_THE_ACTION_PLACEHOLDER": "Selecciona una acció",
-        "MODULE_ENABLED_OR_DISABLED": "El mòdul **{{module}}** s'ha {{action}} correctament.",
-        "RESET_REQUEST_WARNING": "Estàs segur que vols restablir el mòdul **{{module}}**? Aquesta acció no es pot desfer!",
-        "MODULE_RESET": "El mòdul **{{module}}** s'ha restablert correctament.",
-        "SELECT_A_CHANNEL": "Deus seleccionar el canal que vols establir.",
-        "SELECT_A_CHANNEL_PLACEHOLDER": "Selecciona un canal",
-        "SELECT_AT_LEAST_ONE_CHANNEL": "Deus seleccionar almenys un canal.",
-        "SELECT_A_ROLE": "Deus seleccionar el rol que vols establir.",
-        "SELECT_A_ROLE_PLACEHOLDER": "Selecciona un rol",
-        "SELECT_AT_LEAST_ONE_ROLE": "Deus seleccionar almenys un rol.",
-        "CHANNEL_SET": "Has establert el canal **[#{{channel.name}}]({{url}})** per al mòdul **{{module}}** correctament.",
-        "DM_STATUS": {
-            "LABEL": "Alternar l'estat dels MDs",
-            "DESCRIPTION": "Canvia l'estat de les notificacions per MD.",
-            "DM_STATUS_TOGGLED": "Has **{{action}}** les notificacions MD per al mòdul **{{module}}** correctament."
+    "TITLE": "Menú de Configuració de Filo"
+  },
+  "LOADING_DATA": "Si us plau espera mentre es carregen les dades necessàries.",
+  "MODULES": {
+    "SELECT_A_MODULE": "Deus seleccionar el mòdul de la categoria **{{module}}** que vols configurar.",
+    "SELECT_A_SUBMODULE": "Deus seleccionar el submòdul del mòdul **{{module}}** que vols configurar.",
+    "PLACEHOLDER": "Selecciona un mòdul",
+    "SELECT_THE_ACTION": "Deus seleccionar l'acció que vols dur a terme en el mòdul.",
+    "SELECT_THE_ACTION_PLACEHOLDER": "Selecciona una acció",
+    "MODULE_ENABLED_OR_DISABLED": "El mòdul **{{module}}** s'ha {{action}} correctament.",
+    "RESET_REQUEST_WARNING": "Estàs segur que vols restablir el mòdul **{{module}}**? Aquesta acció no es pot desfer!",
+    "MODULE_RESET": "El mòdul **{{module}}** s'ha restablert correctament.",
+    "SELECT_A_CHANNEL": "Deus seleccionar el canal que vols establir.",
+    "SELECT_A_CHANNEL_PLACEHOLDER": "Selecciona un canal",
+    "SELECT_AT_LEAST_ONE_CHANNEL": "Deus seleccionar almenys un canal.",
+    "SELECT_A_ROLE": "Deus seleccionar el rol que vols establir.",
+    "SELECT_A_ROLE_PLACEHOLDER": "Selecciona un rol",
+    "SELECT_AT_LEAST_ONE_ROLE": "Deus seleccionar almenys un rol.",
+    "CHANNEL_SET": "Has establert el canal **[#{{channel.name}}]({{url}})** per al mòdul **{{module}}** correctament.",
+    "DM_STATUS": {
+      "LABEL": "Alternar l'estat dels MDs",
+      "DESCRIPTION": "Canvia l'estat de les notificacions per MD.",
+      "DM_STATUS_TOGGLED": "Has **{{action}}** les notificacions MD per al mòdul **{{module}}** correctament."
+    },
+    "EXCEPTIONS": {
+      "ADD": {
+        "LABEL": "Afegir {{type}}",
+        "DESCRIPTION": "Afegeix un {{type}} a la llista d'excepcions del mòdul.",
+        "COMPLETED": "Has afegit el {{type}} {{value}} a la llista d'excepcions del mòdul.",
+        "COMPLETED_ALTERNATIVE": "Has afegit **{{number}}** {{type}} a la llista d'excepcions del mòdul."
+      },
+      "SET": {
+        "LABEL": "Establir els {{type}}",
+        "DESCRIPTION": "Establir la llista de {{type}} per la llista d'excepcions del mòdul.",
+        "COMPLETED": "Has establert el {{type}} {{value}} per la llista d'excepcions del mòdul.",
+        "COMPLETED_ALTERNATIVE": "Has afegit **{{number}}** {{type}} a la llista d'excepcions del mòdul."
+      },
+      "REMOVE": {
+        "LABEL": "Eliminar {{type}}",
+        "DESCRIPTION": "Elimina {{type}} de la llista d'excepcions del mòdul.",
+        "COMPLETED": "Ha eliminat el {{type}} {{value}} de la llista d'excepcions del mòdul.",
+        "COMPLETED_ALTERNATIVE": "Ha eliminat **{{number}}** {{type}} de la llista d'excepcions del mòdul.",
+        "NO_DATA_TO_REMOVE": "No n'hi ha {{value}} disponibles per eliminar de la llista d'excepcions del mòdul."
+      }
+    },
+    "COMMUNITY": {
+      "NAME": "Comunitat",
+      "COMMANDS": {
+        "LABEL": "Ordres",
+        "DESCRIPTION": "Canvia el comportament de les ordres de Filo.",
+        "CONFIGURE": {
+          "SELECT_THE_COMMANDS": "Deus seleccionar les ordres que vols {{action}}.",
+          "SELECT_THE_CATEGORIES": "Deus seleccionar les categories que vols {{action}}.",
+          "SELECT_THE_COMMANDS_PLACEHOLDER": "Selecciona les ordres",
+          "SELECT_THE_CATEGORIES_PLACEHOLDER": "Selecciona les categories",
+          "DISABLE_COMMANDS": {
+            "LABEL": "Desactivar ordres",
+            "DESCRIPTION": "Desactiva les ordres de Filo.",
+            "NO_COMMANDS_TO_DISABLE": "Totes les ordres disponibles han sigut desactivades.",
+            "COMMANDS_DISABLED": "Has desactivat **{{commands}}** ordres correctament."
+          },
+          "ENABLE_COMMANDS": {
+            "LABEL": "Activar ordres",
+            "DESCRIPTION": "Activa les ordres de Filo.",
+            "NO_COMMANDS_TO_ENABLE": "Totes les ordres disponibles estan activades actualment.",
+            "COMMANDS_ENABLED": "Has activat **{{commands}}** ordres correctament."
+          },
+          "DISABLE_CATEGORIES": {
+            "LABEL": "Desactivar categories",
+            "DESCRIPTION": "Desactiva les categories de Filo.",
+            "NO_CATEGORIES_TO_DISABLE": "Totes les categories disponibles han sigut desactivades.",
+            "CATEGORIES_DISABLED": "Has desactivat **{{categories}}** categories correctament."
+          },
+          "ENABLE_CATEGORIES": {
+            "LABEL": "Activar categories",
+            "DESCRIPTION": "Activa les categories de Filo.",
+            "NO_CATEGORIES_TO_ENABLE": "Totes les categories disponibles estan activades actualment.",
+            "CATEGORIES_ENABLED": "Has activat **{{categories}}** categories correctament."
+          }
+        }
+      },
+      "LANGUAGE": {
+        "LABEL": "Llengua",
+        "DESCRIPTION": "Canvia la llengua de Filo en aquest servidor.",
+        "SELECT_A_LANGUAGE": "Deus seleccionar la llengua que vols establir.",
+        "SELECT_A_LANGUAGE_PLACEHOLDER": "Selecciona una llengua",
+        "LANGUAGE_SET": "Has establert la llengua **{{language}}** correctament."
+      },
+      "REPORTS": {
+        "LABEL": "Informes",
+        "DESCRIPTION": "Proporciona eines d'informes als membres del seu servidor.",
+        "SUBMODULES_SELECTOR": {
+          "MEMBERS": "Canvia el comportament del mòdul d'informes de membres.",
+          "MESSAGES": "Canvia el comportament del mòdul d'informes de missatges."
         },
-        "EXCEPTIONS": {
+        "CONFIGURE": {
+          "REPORTS_CHANNEL": {
+            "LABEL": "Establir el canal d'informes",
+            "DESCRIPTION": "Establir on vols que els informes siguin enviats."
+          },
+          "IGNORED_ROLE": {
+            "LABEL": "Establir el rol ignorat",
+            "DESCRIPTION": "Establir un rol els membres del qual no hi poden enviar informes.",
+            "IGNORED_ROLE_SET": "Has establert el rol **{{role.mention}}** ({{role.id}}) com a rol ignorat correctament."
+          },
+          "TOGGLE_DELETE_REVIEWED_REPORTS": {
+            "LABEL": "Alternar l'eliminació d'informes revisats",
+            "DESCRIPTION": "Canvia l'estat de l'eliminació dels informes revisats.",
+            "DELETE_REVIEWED_REPORTS_TOGGLED": "Ha aconseguit **{{action}}** l'eliminació d'informes revisats."
+          },
+          "NOTIFICATION_ROLES": {
             "ADD": {
-                "LABEL": "Afegir {{type}}",
-                "DESCRIPTION": "Afegeix un {{type}} a la llista d'excepcions del mòdul.",
-                "COMPLETED": "Has afegit el {{type}} {{value}} a la llista d'excepcions del mòdul.",
-                "COMPLETED_ALTERNATIVE": "Has afegit **{{number}}** {{type}} a la llista d'excepcions del mòdul."
+              "LABEL": "Afegir rols de notificació",
+              "DESCRIPTION": "Afegeix rols que seran notificats quan un informe sigui enviat.",
+              "COMPLETED": "Has establert el rol **{{role.mention}}** ({{role.id}}) com un rol de notificació correctament.",
+              "COMPLETED_ALTERNATIVE": "Has afegit **{{number}}** rols com a rols de notificació correctament."
             },
             "SET": {
-                "LABEL": "Establir els {{type}}",
-                "DESCRIPTION": "Establir la llista de {{type}} per la llista d'excepcions del mòdul.",
-                "COMPLETED": "Has establert el {{type}} {{value}} per la llista d'excepcions del mòdul.",
-                "COMPLETED_ALTERNATIVE": "Has afegit **{{number}}** {{type}} a la llista d'excepcions del mòdul."
+              "LABEL": "Establir els rols de notificació",
+              "DESCRIPTION": "Establir els rols que hi seran notificats quan un informe sigui enviat.",
+              "COMPLETED": "Has establert el rol **{{role.mention}}** ({{role.id}}) com un rol de notificació correctament.",
+              "COMPLETED_ALTERNATIVE": "Has establert **{{number}}** rols com a rols de notificació correctament."
             },
             "REMOVE": {
-                "LABEL": "Eliminar {{type}}",
-                "DESCRIPTION": "Elimina {{type}} de la llista d'excepcions del mòdul.",
-                "COMPLETED": "Ha eliminat el {{type}} {{value}} de la llista d'excepcions del mòdul.",
-                "COMPLETED_ALTERNATIVE": "Ha eliminat **{{number}}** {{type}} de la llista d'excepcions del mòdul.",
-                "NO_DATA_TO_REMOVE": "No n'hi ha {{value}} disponibles per eliminar de la llista d'excepcions del mòdul."
+              "LABEL": "Eliminar rols de notificació",
+              "DESCRIPTION": "Elimina rols que no vulguis que siguin notificats quan un informe sigui enviat.",
+              "COMPLETED": "Has eliminat el rol **{{role.mention}}** ({{role.id}}) com un rol de notificació correctament.",
+              "COMPLETED_ALTERNATIVE": "Has eliminat **{{number}}** rols de notificació correctament.",
+              "NO_DATA_TO_REMOVE": "No n'hi ha rols de notificació disponibles per eliminar."
             }
-        },
-        "COMMUNITY": {
-            "NAME": "Comunitat",
-            "COMMANDS": {
-                "LABEL": "Ordres",
-                "DESCRIPTION": "Canvia el comportament de les ordres de Filo.",
-                "CONFIGURE": {
-                    "SELECT_THE_COMMANDS": "Deus seleccionar les ordres que vols {{action}}.",
-                    "SELECT_THE_CATEGORIES": "Deus seleccionar les categories que vols {{action}}.",
-                    "SELECT_THE_COMMANDS_PLACEHOLDER": "Selecciona les ordres",
-                    "SELECT_THE_CATEGORIES_PLACEHOLDER": "Selecciona les categories",
-                    "DISABLE_COMMANDS": {
-                        "LABEL": "Desactivar ordres",
-                        "DESCRIPTION": "Desactiva les ordres de Filo.",
-                        "NO_COMMANDS_TO_DISABLE": "Totes les ordres disponibles han sigut desactivades.",
-                        "COMMANDS_DISABLED": "Has desactivat **{{commands}}** ordres correctament."
-                    },
-                    "ENABLE_COMMANDS": {
-                        "LABEL": "Activar ordres",
-                        "DESCRIPTION": "Activa les ordres de Filo.",
-                        "NO_COMMANDS_TO_ENABLE": "Totes les ordres disponibles estan activades actualment.",
-                        "COMMANDS_ENABLED": "Has activat **{{commands}}** ordres correctament."
-                    },
-                    "DISABLE_CATEGORIES": {
-                        "LABEL": "Desactivar categories",
-                        "DESCRIPTION": "Desactiva les categories de Filo.",
-                        "NO_CATEGORIES_TO_DISABLE": "Totes les categories disponibles han sigut desactivades.",
-                        "CATEGORIES_DISABLED": "Has desactivat **{{categories}}** categories correctament."
-                    },
-                    "ENABLE_CATEGORIES": {
-                        "LABEL": "Activar categories",
-                        "DESCRIPTION": "Activa les categories de Filo.",
-                        "NO_CATEGORIES_TO_ENABLE": "Totes les categories disponibles estan activades actualment.",
-                        "CATEGORIES_ENABLED": "Has activat **{{categories}}** categories correctament."
-                    }
-                }
+          },
+          "REASON": {
+            "LABEL": "Configurar els paràmetres de raó",
+            "DESCRIPTION": "Canvia el comportament dels camps de raó dels informes.",
+            "SET_MIN_LENGTH_OF_MEMBER_REASON": {
+              "LABEL": "Establir la longitud mínima de la raó del membre",
+              "DESCRIPTION": "Establir la longitud mínima de la raó dels informes de membres.",
+              "FORM": {
+                "LABEL": "Longitud mínima de raó"
+              },
+              "COMPLETED": "Has establert la longitud mínima de la raó del membre a **{{number}}** caràcters correctament."
             },
-            "LANGUAGE": {
-                "LABEL": "Llengua",
-                "DESCRIPTION": "Canvia la llengua de Filo en aquest servidor.",
-                "SELECT_A_LANGUAGE": "Deus seleccionar la llengua que vols establir.",
-                "SELECT_A_LANGUAGE_PLACEHOLDER": "Selecciona una llengua",
-                "LANGUAGE_SET": "Has establert la llengua **{{language}}** correctament."
+            "SET_MAX_LENGTH_OF_MEMBER_REASON": {
+              "LABEL": "Establir la longitud màxima de la raó del membre",
+              "DESCRIPTION": "Estableix la longitud màxima de la raó dels informes de membres.",
+              "FORM": {
+                "LABEL": "Longitud màxima de la raó"
+              },
+              "COMPLETED": "Has establert la longitud màxima de la raó del membre a **{{number}}** caràcters correctament."
             },
-            "REPORTS": {
-                "LABEL": "Informes",
-                "DESCRIPTION": "Proporciona eines d'informes als membres del seu servidor.",
-                "SUBMODULES_SELECTOR": {
-                    "MEMBERS": "Canvia el comportament del mòdul d'informes de membres.",
-                    "MESSAGES": "Canvia el comportament del mòdul d'informes de missatges."
-                },
-                "CONFIGURE": {
-                    "REPORTS_CHANNEL": {
-                        "LABEL": "Establir el canal d'informes",
-                        "DESCRIPTION": "Establir on vols que els informes siguin enviats."
-                    },
-                    "IGNORED_ROLE": {
-                        "LABEL": "Establir el rol ignorat",
-                        "DESCRIPTION": "Establir un rol els membres del qual no hi poden enviar informes.",
-                        "IGNORED_ROLE_SET": "Has establert el rol **{{role.mention}}** ({{role.id}}) com a rol ignorat correctament."
-                    },
-                    "TOGGLE_DELETE_REVIEWED_REPORTS": {
-                        "LABEL": "Alternar l'eliminació d'informes revisats",
-                        "DESCRIPTION": "Canvia l'estat de l'eliminació dels informes revisats.",
-                        "DELETE_REVIEWED_REPORTS_TOGGLED": "Ha aconseguit **{{action}}** l'eliminació d'informes revisats."
-                    },
-                    "NOTIFICATION_ROLES": {
-                        "ADD": {
-                            "LABEL": "Afegir rols de notificació",
-                            "DESCRIPTION": "Afegeix rols que seran notificats quan un informe sigui enviat.",
-                            "COMPLETED": "Has establert el rol **{{role.mention}}** ({{role.id}}) com un rol de notificació correctament.",
-                            "COMPLETED_ALTERNATIVE": "Has afegit **{{number}}** rols com a rols de notificació correctament."
-                        },
-                        "SET": {
-                            "LABEL": "Establir els rols de notificació",
-                            "DESCRIPTION": "Establir els rols que hi seran notificats quan un informe sigui enviat.",
-                            "COMPLETED": "Has establert el rol **{{role.mention}}** ({{role.id}}) com un rol de notificació correctament.",
-                            "COMPLETED_ALTERNATIVE": "Has establert **{{number}}** rols com a rols de notificació correctament."
-                        },
-                        "REMOVE": {
-                            "LABEL": "Eliminar rols de notificació",
-                            "DESCRIPTION": "Elimina rols que no vulguis que siguin notificats quan un informe sigui enviat.",
-                            "COMPLETED": "Has eliminat el rol **{{role.mention}}** ({{role.id}}) com un rol de notificació correctament.",
-                            "COMPLETED_ALTERNATIVE": "Has eliminat **{{number}}** rols de notificació correctament.",
-                            "NO_DATA_TO_REMOVE": "No n'hi ha rols de notificació disponibles per eliminar."
-                        }
-                    },
-                    "REASON": {
-                        "LABEL": "Configurar els paràmetres de raó",
-                        "DESCRIPTION": "Canvia el comportament dels camps de raó dels informes.",
-                        "SET_MIN_LENGTH_OF_MEMBER_REASON": {
-                            "LABEL": "Establir la longitud mínima de la raó del membre",
-                            "DESCRIPTION": "Establir la longitud mínima de la raó dels informes de membres.",
-                            "FORM": {
-                                "LABEL": "Longitud mínima de raó"
-                            },
-                            "COMPLETED": "Has establert la longitud mínima de la raó del membre a **{{number}}** caràcters correctament."
-                        },
-                        "SET_MAX_LENGTH_OF_MEMBER_REASON": {
-                            "LABEL": "Establir la longitud màxima de la raó del membre",
-                            "DESCRIPTION": "Estableix la longitud màxima de la raó dels informes de membres.",
-                            "FORM": {
-                                "LABEL": "Longitud màxima de la raó"
-                            },
-                            "COMPLETED": "Has establert la longitud màxima de la raó del membre a **{{number}}** caràcters correctament."
-                        },
-                        "CLEAN_MARKDOWN_OF_MEMBER_REASON": {
-                            "LABEL": "Alternar la neteja de \"markdown\" de la raó del membre",
-                            "DESCRIPTION": "Canviar l'estat de la neteja del \"markdown\" de la raó dels informes de membre.",
-                            "COMPLETED": "Has **{{action}}** la neteja de \"markdown\" de la raó de membres."
-                        },
-                        "SET_MIN_LENGTH_OF_REVIEWER_REASON": {
-                            "LABEL": "Establir la longitud mínima de la raó del revisor",
-                            "DESCRIPTION": "Establir la longitud mínima de la raó del revisor d'informes.",
-                            "FORM": {
-                                "LABEL": "Longitud mínima de raó"
-                            },
-                            "COMPLETED": "Has establert la longitud mínima de la raó del revisor a **{{number}}** caràcters correctament."
-                        },
-                        "SET_MAX_LENGTH_OF_REVIEWER_REASON": {
-                            "LABEL": "Establir la longitud màxima de la raó del revisor",
-                            "DESCRIPTION": "Establir la longitud màxima de la raó del revisor d'informes.",
-                            "FORM": {
-                                "LABEL": "Longitud màxima de la raó"
-                            },
-                            "COMPLETED": "Has establert la longitud màxima de la raó del revisor a **{{number}}** caràcters correctament."
-                        },
-                        "CLEAN_MARKDOWN_OF_REVIEWER_REASON": {
-                            "LABEL": "Alternar la neteja de \"markdown\" de la raó del revisor",
-                            "DESCRIPTION": "Canvia l'estat de la neteja del \"markdown\" de la raó del revisor.",
-                            "COMPLETED": "Has **{{action}}** la neteja de \"markdown\" de les raons de revisors correctament."
-                        }
-                    },
-                    "EVIDENCES": {
-                        "LABEL": "Configurar els paràmetres d'evidències",
-                        "DESCRIPTION": "Canvia el comportament dels camps d'evidències dels informes.",
-                        "SET_MIN_COUNT": {
-                            "LABEL": "Establir la quantitat mínima d'evidències",
-                            "DESCRIPTION": "Establir la quantitat mínima d'evidències que un informe deu tenir.",
-                            "FORM": {
-                                "LABEL": "Quantitat mínima"
-                            },
-                            "COMPLETED": "Has establert la quantitat mínima d'evidències a **{{number}}** correctament."
-                        }
-                    }
-                }
+            "CLEAN_MARKDOWN_OF_MEMBER_REASON": {
+              "LABEL": "Alternar la neteja de \"markdown\" de la raó del membre",
+              "DESCRIPTION": "Canviar l'estat de la neteja del \"markdown\" de la raó dels informes de membre.",
+              "COMPLETED": "Has **{{action}}** la neteja de \"markdown\" de la raó de membres."
+            },
+            "SET_MIN_LENGTH_OF_REVIEWER_REASON": {
+              "LABEL": "Establir la longitud mínima de la raó del revisor",
+              "DESCRIPTION": "Establir la longitud mínima de la raó del revisor d'informes.",
+              "FORM": {
+                "LABEL": "Longitud mínima de raó"
+              },
+              "COMPLETED": "Has establert la longitud mínima de la raó del revisor a **{{number}}** caràcters correctament."
+            },
+            "SET_MAX_LENGTH_OF_REVIEWER_REASON": {
+              "LABEL": "Establir la longitud màxima de la raó del revisor",
+              "DESCRIPTION": "Establir la longitud màxima de la raó del revisor d'informes.",
+              "FORM": {
+                "LABEL": "Longitud màxima de la raó"
+              },
+              "COMPLETED": "Has establert la longitud màxima de la raó del revisor a **{{number}}** caràcters correctament."
+            },
+            "CLEAN_MARKDOWN_OF_REVIEWER_REASON": {
+              "LABEL": "Alternar la neteja de \"markdown\" de la raó del revisor",
+              "DESCRIPTION": "Canvia l'estat de la neteja del \"markdown\" de la raó del revisor.",
+              "COMPLETED": "Has **{{action}}** la neteja de \"markdown\" de les raons de revisors correctament."
             }
-        },
-        "VIEW": {
-            "TITLE": "Veient les configuracions del mòdul **{{module}}**",
-            "NO_DATA": "Sense dades",
-            "SELECT_THE_DATA": "Selecciona les dades a veure",
-            "VIEW_ALL": "Veure totes les {{data}}.",
-            "DM_STATUS": "Estat del MD",
-            "COOLDOWN": "Temps d'espera",
-            "EXCEPTIONS": "Excepcions de {{type}}",
-            "COMMUNITY": {
-                "COMMANDS": {
-                    "DISABLED_COMMANDS": "Ordres desactivades",
-                    "DISABLED_CATEGORIES": "Categories desactivades"
-                },
-                "LANGUAGE": {
-                    "LANGUAGE_CODE": "Codi de la llengua"
-                },
-                "REPORTS": {
-                    "REPORTS_CHANNEL": "Canal d'informes",
-                    "IGNORED_ROLE": "Rol ignorat",
-                    "DELETE_REVIEWED_REPORTS": "Eliminar informes revisats",
-                    "NOTIFICATION_ROLES": "Rols de notificacions",
-                    "REASON_PARAMETERS": {
-                        "TITLE": "Paràmetres de raó",
-                        "MIN_LENGTH_OF_MEMBER_REASON": "Longitud mínima de la raó del membre",
-                        "MAX_LENGTH_OF_MEMBER_REASON": "Longitud màxima de la raó del membre",
-                        "CLEAN_MARKDOWN_OF_MEMBER_REASON": "Neteja el \"markdown\" de la raó del membre",
-                        "MIN_LENGTH_OF_REVIEWER_REASON": "Longitud mínima de la raó del revisor",
-                        "MAX_LENGTH_OF_REVIEWER_REASON": "Longitud màxima de la raó del revisor",
-                        "CLEAN_MARKDOWN_OF_REVIEWER_REASON": "Neteja de \"markdown\" de la raó del revisor"
-                    },
-                    "EVIDENCES_PARAMETERS": {
-                        "TITLE": "Paràmetres d'evidències",
-                        "MIN_COUNT": "Quantitat mínima d'evidències"
-                    }
-                }
-            },
-            "ACTION": "Acció",
-            "MODERATION": {
-                "AUTO_MODERATION": {
-                    "REQUIRED_OPTIONAL_CONDITIONALS": "Condicionals opcionals requerits",
-                    "CONDITIONALS": "Condicionals",
-                    "CONDITIONAL": "Condicional #{{conditional}}",
-                    "EXPECTED_VALUE": "Valor esperat",
-                    "REQUIRED_STATUS": "Estat requerit",
-                    "LEVEL": "Nivell #{{level}}"
-                }
+          },
+          "EVIDENCES": {
+            "LABEL": "Configurar els paràmetres d'evidències",
+            "DESCRIPTION": "Canvia el comportament dels camps d'evidències dels informes.",
+            "SET_MIN_COUNT": {
+              "LABEL": "Establir la quantitat mínima d'evidències",
+              "DESCRIPTION": "Establir la quantitat mínima d'evidències que un informe deu tenir.",
+              "FORM": {
+                "LABEL": "Quantitat mínima"
+              },
+              "COMPLETED": "Has establert la quantitat mínima d'evidències a **{{number}}** correctament."
             }
+          }
+        }
+      }
+    },
+    "VIEW": {
+      "TITLE": "Veient les configuracions del mòdul **{{module}}**",
+      "NO_DATA": "Sense dades",
+      "SELECT_THE_DATA": "Selecciona les dades a veure",
+      "VIEW_ALL": "Veure totes les {{data}}.",
+      "DM_STATUS": "Estat del MD",
+      "COOLDOWN": "Temps d'espera",
+      "EXCEPTIONS": "Excepcions de {{type}}",
+      "COMMUNITY": {
+        "COMMANDS": {
+          "DISABLED_COMMANDS": "Ordres desactivades",
+          "DISABLED_CATEGORIES": "Categories desactivades"
         },
-        "SELECT_A_SANCTION_PLACEHOLDER": "Selecciona una sanció",
-        "SANCTION_SET": "Has establit correctament la sanció **{{sanction}}**",
-        "MODERATION": {
-            "ANTI_BAD_WORDS": {
-                "DESCRIPTION": "Evita que els usuaris utilitzin paraules malsonants.",
-                "LABEL": "Anti Paraules Dolentes"
-            },
-            "ANTI_EVASION": {
-                "LABEL": "Anti Evasió",
-                "DESCRIPTION": "Prohibeix a aquells que intentin evadir les seves sancions."
-            },
-            "ANTI_EXTERNAL_LINKS": {
-                "LABEL": "Anti Enllaços Externs",
-                "DESCRIPTION": "Evita que els usuaris enviin enllaços externs."
-            },
-            "ANTI_INVITES": {
-                "LABEL": "Anti Invitacions",
-                "DESCRIPTION": "No permetis que els usuaris enviin invitacions que no siguin d'aquest servidor."
-            },
-            "ANTI_MASS_MENTIONS": {
-                "LABEL": "Anti Mencions Masives",
-                "DESCRIPTION": "Evita que els usuaris mencionin masivament a altres usuaris."
-            },
-            "ANTI_REPEATED_TEXT": {
-                "LABEL": "Anti Text Repetit",
-                "DESCRIPTION": "Evita que els usuaris enviin text repetit en el mateix missatge."
-            },
-            "ANTI_SCAM_LINKS": {
-                "LABEL": "Anti Enllaços Estafadors",
-                "DESCRIPTION": "No permetis que els usuaris enviin enllaços que es considerin estafes."
-            },
-            "ANTI_SPAM": {
-                "LABEL": "Anti Spam",
-                "DESCRIPTION": "Evita que els usuaris facin spam."
-            },
-            "AUTO_MODERATION": {
-                "LABEL": "Auto Moderació",
-                "CONDITIONALS_LIST": {
-                    "USER_FLAG": {
-                        "LABEL": "Bandera d'usuari",
-                        "DESCRIPTION": "Comprova si l'usuari té la bandera especificada.",
-                        "SELECT_THE_FLAG": "Deus seleccionar la bandera que vols establir.",
-                        "SELECT_THE_FLAG_PLACEHOLDER": "Selecciona la bandera",
-                        "DESCRIPTION_ALTERNATIVE": "L'usuari deu tenir la bandera {{flag}}.",
-                        "FLAG_SET": "Has establit correctament la bandera **{{flag}}**."
-                    },
-                    "USER_REGISTER_DATE": {
-                        "LABEL": "Data de registre de l'usuari",
-                        "DESCRIPTION": "Comprova el temps transcurrit desde el registre de l'usuari.",
-                        "TIME_SET": "Has establit correctament el temps transcurrit desde el registre de l'usuari a **{{time}}**."
-                    },
-                    "USER_DISPLAY_NAME": {
-                        "LABEL": "Nom d'usuari mostrat",
-                        "DESCRIPTION": "Comprova el nom mostrat de l'usuari.",
-                        "DISPLAY_NAME_SET": "Has establit correctament el nom mostrat de l'usuari a **{{name}}**."
-                    },
-                    "USER_NAME": {
-                        "LABEL": "Nom d'usuari",
-                        "DESCRIPTION": "Comprova el nom de l'usuari.",
-                        "NAME_SET": "Has establit correctament el nom d'usuari a **{{name}}**."
-                    },
-                    "MEMBER_JOIN_DATE": {
-                        "LABEL": "Data d'unió",
-                        "TIME_SET": "Has establert correctament el temps transcurrit des de que l'usuari es va unir al servidor a **{{time}}**.",
-                        "DESCRIPTION": "Comprova el temps transcurrit des de que l'usuari es va unir al servidor."
-                    },
-                    "MEMBER_NICKNAME": {
-                        "LABEL": "Sobrenom del membre",
-                        "DESCRIPTION": "Comprova el sobrenom del membre.",
-                        "NICKNAME_SET": "Has establert correctament el sobrenom del membre a **{{name}}**."
-                    },
-                    "MEMBER_PENDING_STATE": {
-                        "LABEL": "Estat pendent del membre",
-                        "SELECT_THE_STATE": "Deus seleccionar l'estat que vols establir.",
-                        "SELECT_THE_STATE_PLACEHOLDER": "Selecciona l'estat",
-                        "PENDING_STATE_SET": "Has establit correctament l'estat pendent com **{{state}}**.",
-                        "AVAILABLE_STATES": {
-                            "VERIFIED": {
-                                "LABEL": "Verificat",
-                                "DESCRIPTION": "El membre deu estar verificat"
-                            },
-                            "UNVERIFIED": {
-                                "LABEL": "Sense verificar",
-                                "DESCRIPTION": "El membre no deu estar verificat"
-                            }
-                        },
-                        "DESCRIPTION": "Comprova que el membre hagi superat els requisits del servidor."
-                    },
-                    "MEMBER_ROLE": {
-                        "LABEL": "Rols del membre",
-                        "DESCRIPTION": "Comprova els rols del membre.",
-                        "ROLE_SET": "Has establit correctament els rols del membre a **{{role.mention}}** ({{role.id}})."
-                    },
-                    "MEMBER_BOOST_DATE": {
-                        "LABEL": "Data de millora del membre",
-                        "DESCRIPTION": "Comprova el temps transcurrit des de que el membre va millorar el servidor.",
-                        "TIME_SET": "Has establit correctament el temps transcurrit des de que el membre va millorar el servidor a **{{time}}**."
-                    },
-                    "MEMBER_TOTAL_SANCTIONS": {
-                        "LABEL": "Sancions totals del membre",
-                        "TOTAL_SANCTIONS_SET": "Has establit correctament el nombre total de sancions a **{{number}}**.",
-                        "DESCRIPTION": "Comprova el nombre total de sancions que té el membre."
-                    },
-                    "MEMBER_TOTAL_SANCTIONS_WITH_EXPIRATION": {
-                        "LABEL": "Sancions totals del membre amb venciment",
-                        "DESCRIPTION": "Comprova el nombre total de sancions que té el membre amb venciment.",
-                        "TOTAL_SANCTIONS_WITH_EXPIRATION_SET": "Has establert correctament el nombre total de sancions a **{{number}}** en els últims **{{time}}**."
-                    },
-                    "MEMBER_TOTAL_SANCTIONS_BY_MODULE": {
-                        "LABEL": "Sancions totals del membre per mòdul",
-                        "DESCRIPTION": "Comprova el nombre total de sancions que té el membre per módul.",
-                        "SELECT_THE_MODULE": "Deus seleccionar el mòdul que desitges establir.",
-                        "SELECT_THE_MODULE_PLACEHOLDER": "Seleciona el mòdul",
-                        "TOTAL_SANCTIONS_BY_MODULE_SET": "Has establert correctament el nombre total de sancions a **{{number}}** i el mòdul en **{{module}}**."
-                    },
-                    "MEMBER_TOTAL_SANCTIONS_BY_MODULE_WITH_EXPIRATION": {
-                        "LABEL": "Sancions totals del membre per mòdul i amb venciment",
-                        "DESCRIPTION": "Consulta el nombre total de sancions que té el membre per mòdul y amb venciment.",
-                        "SELECT_THE_MODULE": "Deus seleccionar el mòdul que desitges establir.",
-                        "SELECT_THE_MODULE_PLACEHOLDER": "Selecciona el mòdul",
-                        "TOTAL_SANCTIONS_BY_MODULE_WITH_EXPIRATION_SET": "Has establert correctament el nombre total de sancions a **{{number}}** en els últims **{{time}}** i el mòdul en **{{module}}**."
-                    },
-                    "MEMBER_TOTAL_SANCTIONS_BY_TYPE": {
-                        "LABEL": "Sancions totals del membre per tipus",
-                        "DESCRIPTION": "Comprova el nombre total de sancions que té el membre per tipus.",
-                        "SELECT_THE_TYPE": "Deus seleccionar el tipus que vols establir.",
-                        "SELECT_THE_TYPE_PLACEHOLDER": "Selecciona el tipus",
-                        "TOTAL_SANCTIONS_BY_TYPE_SET": "Has establert correctament el nombre total de sancions a **{{number}}** i el tipus com **{{type}}**."
-                    },
-                    "MEMBER_TOTAL_SANCTIONS_BY_TYPE_WITH_EXPIRATION": {
-                        "LABEL": "Sancions totals del membre per tipus i amb venciment",
-                        "DESCRIPTION": "Comprova el nombre total de sancions que té el membre per tipus i amb venciment.",
-                        "SELECT_THE_TYPE": "Deus seleccionar el tipus que vols establir.",
-                        "SELECT_THE_TYPE_PLACEHOLDER": "Selecciona el tipus",
-                        "TOTAL_SANCTIONS_BY_TYPE_WITH_EXPIRATION_SET": "Has establert correctament el nombre total de sancions a **{{number}}** en els últims **{{time}}** i el tipus com **{{type}}**."
-                    },
-                    "MEMBER_TOTAL_SANCTIONS_BY_TYPE_BY_MODULE": {
-                        "LABEL": "Sancions totals del membre per tipus i per mòdul",
-                        "DESCRIPTION": "Comprova el nombre total de sancions que té el membre per tipus i per mòdul.",
-                        "SELECT_THE_TYPE": "Deus seleccionar el tipus que vols establir.",
-                        "SELECT_THE_TYPE_PLACEHOLDER": "Selecciona el tipus",
-                        "SELECT_THE_MODULE": "Deus seleccionar el mòdul que desitges establir.",
-                        "SELECT_THE_MODULE_PLACEHOLDER": "Selecciona el mòdul",
-                        "TOTAL_SANCTIONS_BY_TYPE_BY_MODULE_SET": "Has establert correctament el nombre total de sancions a **{{number}}**, el tipus com **{{type}}** i el mòdul en **{{module}}**."
-                    },
-                    "MEMBER_TOTAL_SANCTIONS_BY_TYPE_BY_MODULE_WITH_EXPIRATION": {
-                        "LABEL": "Sancions totals del membre per tipus i per mòdul amb venciment",
-                        "DESCRIPTION": "Comprova el nombre total de sancions que té el membre per tipus i per mòdul amb venciment.",
-                        "SELECT_THE_TYPE": "Deus seleccionar el yipus que vols establir.",
-                        "SELECT_THE_MODULE": "Deus seleccionar el mòdul que desitja establir.",
-                        "SELECT_THE_MODULE_PLACEHOLDER": "Selecciona el mòdul",
-                        "SELECT_THE_TYPE_PLACEHOLDER": "Selecciona el tipus",
-                        "TOTAL_SANCTIONS_BY_TYPE_BY_MODULE_WITH_EXPIRATION_SET": "Has establert correctament el nombre total de sancions a **{{number}}** en els últims **{{time}}**, el tipus com **{{type}}** i el mòdul en **{{module}}**."
-                    },
-                    "SERVER_FEATURES": {
-                        "LABEL": "Característiques del servidor",
-                        "DESCRIPTION": "Comprova si el servidor té la característica especificada.",
-                        "SELECT_THE_FEATURE": "Deus seleccionar la característica que vols establir.",
-                        "SELECT_THE_FEATURE_PLACEHOLDER": "Selecciona la característica",
-                        "DESCRIPTION_ALTERNATIVE": "El servidor deu tenir la característica {{feature}}.",
-                        "FEATURE_SET": "Has establert correctament la característica **{{feature}}**."
-                    },
-                    "USER_BLACKLISTED_THIRD_PARTY": {
-                        "LABEL": "Usuari en la llista de tercers",
-                        "DESCRIPTION": "Comprova si l'usuari està en una llista de tercers.",
-                        "SELECT_THE_STATUS": "Deus seleccionar l'estat que vols establir.",
-                        "SELECT_THE_STATUS_PLACEHOLDER": "Selecciona l'estat",
-                        "STATUS_SET": "Has establert correctament l'estat com **{{status}}**.",
-                        "AVAILABLE_STATUS": {
-                            "BLACKLISTED": {
-                                "LABEL": "En la llista negra",
-                                "DESCRIPTION": "L'usuari deu estar en la llista negra"
-                            },
-                            "NOT_BLACKLISTED": {
-                                "LABEL": "No es troba en la llista negra",
-                                "DESCRIPTION": "L'usuari no deu estar en la llista negra"
-                            }
-                        }
-                    }
-                },
-                "DESCRIPTION": "Modera els usuaris de forma intel·ligent i automàtica.",
-                "CONFIGURE": {
-                    "SELECT_THE_ACTION": "Deus seleccionar l'acció que vols realitzar en el nivell.",
-                    "CONDITIONALS": {
-                        "ADD_CONDITIONAL": {
-                            "LABEL": "Afegir condicional",
-                            "DESCRIPTION": "Afegeix un condicional al nivell.",
-                            "COMPLETED": "Has afegit correctament el condicional al nivell."
-                        },
-                        "EDIT_CONDITIONAL": {
-                            "LABEL": "Editar condicional",
-                            "DESCRIPTION": "Edita un condicional del nivell.",
-                            "COMPLETED": "Has editat correctament el condicional del nivell."
-                        },
-                        "REMOVE_CONDITIONAL": {
-                            "LABEL": "Eliminar condicional",
-                            "DESCRIPTION": "Elimina un condicional del nivell.",
-                            "COMPLETED": "Has eliminat amb éxit el condicional del nivell."
-                        },
-                        "SELECT_THE_CONDITIONAL": "Deus seleccionar el condicional que vols {{action}}.",
-                        "SELECT_THE_EXPECTED_VALUE": "Deus seleccionar el valor esperat que vols establir.",
-                        "SELECT_THE_EXPECTED_VALUE_PLACEHOLDER": "Selecciona el valor esperat",
-                        "AVAILABLE_EXPECTED_VALUES": {
-                            "TRUE": {
-                                "LABEL": "Vertader",
-                                "DESCRIPTION": "El valor esperat deu ser vertader"
-                            },
-                            "FALSE": {
-                                "LABEL": "Fals",
-                                "DESCRIPTION": "El valor esperat deu ser fals"
-                            }
-                        },
-                        "EXPECTED_VALUE_SET": "Has establert correctament el valor esperat com **{{value}}**.",
-                        "SELECT_THE_TYPE_OF_CONDITIONAL": "Deus seleccionar el tipus de condicional que vols establir.",
-                        "SELECT_THE_TYPE_OF_CONDITIONAL_PLACEHOLDER": "Selecciona el tipus de condicional",
-                        "AVAILABLE_TYPES_OF_CONDITIONAL": {
-                            "REQUIRED": {
-                                "LABEL": "Requerit",
-                                "DESCRIPTION": "S'exigeix el cumpliment de la condició"
-                            },
-                            "OPTIONAL": {
-                                "LABEL": "Opcional",
-                                "DESCRIPTION": "La condicional es opcional"
-                            }
-                        },
-                        "TYPE_OF_CONDITIONAL_SET": "Has establert correctament el tipus de condicional com **{{value}}**.",
-                        "SELECT_THE_OPERAND": "Deus seleccionar l'operant que vols establir.",
-                        "SELECT_THE_OPERAND_PLACEHOLDER": "Selecciona l'operant",
-                        "AVAILABLE_OPERANDS": {
-                            "GREATER_THAN": {
-                                "LABEL": "Major que",
-                                "DESCRIPTION": "El valor deu ser major que el valor comparat"
-                            },
-                            "GREATER_THAN_OR_EQUAL": {
-                                "LABEL": "Major o igual que",
-                                "DESCRIPTION": "El valor deu ser major o igual que el valor comparat"
-                            },
-                            "EQUAL": {
-                                "LABEL": "Igual a",
-                                "DESCRIPTION": "El valor deu ser igual al valor comparat"
-                            },
-                            "LESS_THAN": {
-                                "LABEL": "Menor que",
-                                "DESCRIPTION": "El valor deu ser menor al valor comparat"
-                            },
-                            "LESS_THAN_OR_EQUAL": {
-                                "LABEL": "Menor que o igual a",
-                                "DESCRIPTION": "El valor deu ser menor o igual que el valor comparat"
-                            }
-                        },
-                        "OPERAND_SET": "Has establert correctament operant **{{value}}**.",
-                        "SELECT_THE_REQUIRED_CONDITIONS_PLACEHOLDER": "Selecciona les condicions requerides",
-                        "SELECT_THE_REQUIRED_CONDITIONS_OPTION_DESCRIPTION": "{{number}} condicions son requerides per complir-se.",
-                        "REQUIRED_CONDITIONS_SET": "Has establert correctament les condicions requerides a **{{conditions}}**.",
-                        "SELECT_THE_REQUIRED_CONDITIONS": "Deus seleccionar les condicions necesàries que vols establir.",
-                        "SELECT_THE_CONDITIONAL_PLACEHOLDER": "Selecciona un condicional"
-                    },
-                    "CREATE_A_LEVEL": {
-                        "FORM": {
-                            "LABEL": "Posició de nivell"
-                        },
-                        "LEVEL_POSITION_SET": "Has establert correctament la posició del nivell en **#{{position}}**.",
-                        "COMPLETED": "Has creat el nivell correctament.",
-                        "DESCRIPTION": "Crea un nivell per el mòdul d'Auto Moderació.",
-                        "LABEL": "Crear un nivell"
-                    },
-                    "EDIT_A_LEVEL": {
-                        "LABEL": "Editar un nivell",
-                        "DESCRIPTION": "Edita un nivell del mòdul d'Auto Moderació.",
-                        "SELECT_THE_LEVEL": "Deus selecionar el nivell que vols editar.",
-                        "SELECT_THE_LEVEL_PLACEHOLDER": "Selecciona un nivell",
-                        "SELECT_THE_LEVEL_OPTION_DESCRIPTION": "Edita el nivell #{{level}}.",
-                        "LEVEL_SELECTED": "Has seleccionat correctament el nuvell **#{{level}}** para editar.",
-                        "COMPLETED": "Has editat correctament el nivell **#{{level}}**.",
-                        "NO_LEVELS_FOUND": "No n'hi ha nivells disponibles per editar."
-                    },
-                    "EDIT_THE_LEVEL_SANCTION": {
-                        "LABEL": "Editar la sanció del nivell",
-                        "NO_LEVELS_FOUND": "No n'hi ha nivells disponibles per editar.",
-                        "SELECT_THE_LEVEL": "Deus seleccionar el nivell que vols editar.",
-                        "SELECT_THE_LEVEL_PLACEHOLDER": "Selecciona el nivell",
-                        "SELECT_THE_LEVEL_OPTION_DESCRIPTION": "Edita la sanció del nivell #{{level}}.",
-                        "COMPLETED": "Has editat correctament la sanció del nivell **#{{level}}**.",
-                        "DESCRIPTION": "Edita la sanció del nivell.",
-                        "LEVEL_SELECTED": "Has seleccionat correctament el nivell **#{{level}}** per editar la seva sanció."
-                    },
-                    "DELETE_A_LEVEL": {
-                        "LABEL": "Eliminar un nivell",
-                        "DESCRIPTION": "Elimina un nivell del mòdul d'Auto Moderació.",
-                        "NO_LEVELS_FOUND": "No n'hi ha nivells disponibles per eliminar.",
-                        "SELECT_THE_LEVEL": "Deus selecciomar el nivell que vols eliminar.",
-                        "SELECT_THE_LEVEL_PLACEHOLDER": "Selecciona un nivell",
-                        "SELECT_THE_LEVEL_OPTION_DESCRIPTION": "Elimina el nivell #{{level}}.",
-                        "COMPLETED": "Has eliminat correctament el nivell **#{{level}}**."
-                    }
-                }
-            },
-            "NAME": "Moderació"
+        "LANGUAGE": {
+          "LANGUAGE_CODE": "Codi de la llengua"
         },
-        "SELECT_A_SANCTION": "Deus seleccionar la sanció que vols establir."
-    }
+        "REPORTS": {
+          "REPORTS_CHANNEL": "Canal d'informes",
+          "IGNORED_ROLE": "Rol ignorat",
+          "DELETE_REVIEWED_REPORTS": "Eliminar informes revisats",
+          "NOTIFICATION_ROLES": "Rols de notificacions",
+          "REASON_PARAMETERS": {
+            "TITLE": "Paràmetres de raó",
+            "MIN_LENGTH_OF_MEMBER_REASON": "Longitud mínima de la raó del membre",
+            "MAX_LENGTH_OF_MEMBER_REASON": "Longitud màxima de la raó del membre",
+            "CLEAN_MARKDOWN_OF_MEMBER_REASON": "Neteja el \"markdown\" de la raó del membre",
+            "MIN_LENGTH_OF_REVIEWER_REASON": "Longitud mínima de la raó del revisor",
+            "MAX_LENGTH_OF_REVIEWER_REASON": "Longitud màxima de la raó del revisor",
+            "CLEAN_MARKDOWN_OF_REVIEWER_REASON": "Neteja de \"markdown\" de la raó del revisor"
+          },
+          "EVIDENCES_PARAMETERS": {
+            "TITLE": "Paràmetres d'evidències",
+            "MIN_COUNT": "Quantitat mínima d'evidències"
+          }
+        }
+      },
+      "ACTION": "Acció",
+      "MODERATION": {
+        "AUTO_MODERATION": {
+          "REQUIRED_OPTIONAL_CONDITIONALS": "Condicionals opcionals requerits",
+          "CONDITIONALS": "Condicionals",
+          "CONDITIONAL": "Condicional #{{conditional}}",
+          "EXPECTED_VALUE": "Valor esperat",
+          "REQUIRED_STATUS": "Estat requerit",
+          "LEVEL": "Nivell #{{level}}"
+        }
+      }
+    },
+    "SELECT_A_SANCTION_PLACEHOLDER": "Selecciona una sanció",
+    "SANCTION_SET": "Has establit correctament la sanció **{{sanction}}**",
+    "MODERATION": {
+      "ANTI_BAD_WORDS": {
+        "DESCRIPTION": "Evita que els usuaris utilitzin paraules malsonants.",
+        "LABEL": "Anti Paraules Dolentes"
+      },
+      "ANTI_EVASION": {
+        "LABEL": "Anti Evasió",
+        "DESCRIPTION": "Prohibeix a aquells que intentin evadir les seves sancions."
+      },
+      "ANTI_EXTERNAL_LINKS": {
+        "LABEL": "Anti Enllaços Externs",
+        "DESCRIPTION": "Evita que els usuaris enviin enllaços externs."
+      },
+      "ANTI_INVITES": {
+        "LABEL": "Anti Invitacions",
+        "DESCRIPTION": "No permetis que els usuaris enviin invitacions que no siguin d'aquest servidor."
+      },
+      "ANTI_MASS_MENTIONS": {
+        "LABEL": "Anti Mencions Masives",
+        "DESCRIPTION": "Evita que els usuaris mencionin masivament a altres usuaris."
+      },
+      "ANTI_REPEATED_TEXT": {
+        "LABEL": "Anti Text Repetit",
+        "DESCRIPTION": "Evita que els usuaris enviin text repetit en el mateix missatge."
+      },
+      "ANTI_SCAM_LINKS": {
+        "LABEL": "Anti Enllaços Estafadors",
+        "DESCRIPTION": "No permetis que els usuaris enviin enllaços que es considerin estafes."
+      },
+      "ANTI_SPAM": {
+        "LABEL": "Anti Spam",
+        "DESCRIPTION": "Evita que els usuaris facin spam."
+      },
+      "AUTO_MODERATION": {
+        "LABEL": "Auto Moderació",
+        "CONDITIONALS_LIST": {
+          "USER_FLAG": {
+            "LABEL": "Bandera d'usuari",
+            "DESCRIPTION": "Comprova si l'usuari té la bandera especificada.",
+            "SELECT_THE_FLAG": "Deus seleccionar la bandera que vols establir.",
+            "SELECT_THE_FLAG_PLACEHOLDER": "Selecciona la bandera",
+            "DESCRIPTION_ALTERNATIVE": "L'usuari deu tenir la bandera {{flag}}.",
+            "FLAG_SET": "Has establit correctament la bandera **{{flag}}**."
+          },
+          "USER_REGISTER_DATE": {
+            "LABEL": "Data de registre de l'usuari",
+            "DESCRIPTION": "Comprova el temps transcurrit desde el registre de l'usuari.",
+            "TIME_SET": "Has establit correctament el temps transcurrit desde el registre de l'usuari a **{{time}}**."
+          },
+          "USER_DISPLAY_NAME": {
+            "LABEL": "Nom d'usuari mostrat",
+            "DESCRIPTION": "Comprova el nom mostrat de l'usuari.",
+            "DISPLAY_NAME_SET": "Has establit correctament el nom mostrat de l'usuari a **{{name}}**."
+          },
+          "USER_NAME": {
+            "LABEL": "Nom d'usuari",
+            "DESCRIPTION": "Comprova el nom de l'usuari.",
+            "NAME_SET": "Has establit correctament el nom d'usuari a **{{name}}**."
+          },
+          "MEMBER_JOIN_DATE": {
+            "LABEL": "Data d'unió",
+            "TIME_SET": "Has establert correctament el temps transcurrit des de que l'usuari es va unir al servidor a **{{time}}**.",
+            "DESCRIPTION": "Comprova el temps transcurrit des de que l'usuari es va unir al servidor."
+          },
+          "MEMBER_NICKNAME": {
+            "LABEL": "Sobrenom del membre",
+            "DESCRIPTION": "Comprova el sobrenom del membre.",
+            "NICKNAME_SET": "Has establert correctament el sobrenom del membre a **{{name}}**."
+          },
+          "MEMBER_PENDING_STATE": {
+            "LABEL": "Estat pendent del membre",
+            "SELECT_THE_STATE": "Deus seleccionar l'estat que vols establir.",
+            "SELECT_THE_STATE_PLACEHOLDER": "Selecciona l'estat",
+            "PENDING_STATE_SET": "Has establit correctament l'estat pendent com **{{state}}**.",
+            "AVAILABLE_STATES": {
+              "VERIFIED": {
+                "LABEL": "Verificat",
+                "DESCRIPTION": "El membre deu estar verificat"
+              },
+              "UNVERIFIED": {
+                "LABEL": "Sense verificar",
+                "DESCRIPTION": "El membre no deu estar verificat"
+              }
+            },
+            "DESCRIPTION": "Comprova que el membre hagi superat els requisits del servidor."
+          },
+          "MEMBER_ROLE": {
+            "LABEL": "Rols del membre",
+            "DESCRIPTION": "Comprova els rols del membre.",
+            "ROLE_SET": "Has establit correctament els rols del membre a **{{role.mention}}** ({{role.id}})."
+          },
+          "MEMBER_BOOST_DATE": {
+            "LABEL": "Data de millora del membre",
+            "DESCRIPTION": "Comprova el temps transcurrit des de que el membre va millorar el servidor.",
+            "TIME_SET": "Has establit correctament el temps transcurrit des de que el membre va millorar el servidor a **{{time}}**."
+          },
+          "MEMBER_TOTAL_SANCTIONS": {
+            "LABEL": "Sancions totals del membre",
+            "TOTAL_SANCTIONS_SET": "Has establit correctament el nombre total de sancions a **{{number}}**.",
+            "DESCRIPTION": "Comprova el nombre total de sancions que té el membre."
+          },
+          "MEMBER_TOTAL_SANCTIONS_WITH_EXPIRATION": {
+            "LABEL": "Sancions totals del membre amb venciment",
+            "DESCRIPTION": "Comprova el nombre total de sancions que té el membre amb venciment.",
+            "TOTAL_SANCTIONS_WITH_EXPIRATION_SET": "Has establert correctament el nombre total de sancions a **{{number}}** en els últims **{{time}}**."
+          },
+          "MEMBER_TOTAL_SANCTIONS_BY_MODULE": {
+            "LABEL": "Sancions totals del membre per mòdul",
+            "DESCRIPTION": "Comprova el nombre total de sancions que té el membre per módul.",
+            "SELECT_THE_MODULE": "Deus seleccionar el mòdul que desitges establir.",
+            "SELECT_THE_MODULE_PLACEHOLDER": "Seleciona el mòdul",
+            "TOTAL_SANCTIONS_BY_MODULE_SET": "Has establert correctament el nombre total de sancions a **{{number}}** i el mòdul en **{{module}}**."
+          },
+          "MEMBER_TOTAL_SANCTIONS_BY_MODULE_WITH_EXPIRATION": {
+            "LABEL": "Sancions totals del membre per mòdul i amb venciment",
+            "DESCRIPTION": "Consulta el nombre total de sancions que té el membre per mòdul y amb venciment.",
+            "SELECT_THE_MODULE": "Deus seleccionar el mòdul que desitges establir.",
+            "SELECT_THE_MODULE_PLACEHOLDER": "Selecciona el mòdul",
+            "TOTAL_SANCTIONS_BY_MODULE_WITH_EXPIRATION_SET": "Has establert correctament el nombre total de sancions a **{{number}}** en els últims **{{time}}** i el mòdul en **{{module}}**."
+          },
+          "MEMBER_TOTAL_SANCTIONS_BY_TYPE": {
+            "LABEL": "Sancions totals del membre per tipus",
+            "DESCRIPTION": "Comprova el nombre total de sancions que té el membre per tipus.",
+            "SELECT_THE_TYPE": "Deus seleccionar el tipus que vols establir.",
+            "SELECT_THE_TYPE_PLACEHOLDER": "Selecciona el tipus",
+            "TOTAL_SANCTIONS_BY_TYPE_SET": "Has establert correctament el nombre total de sancions a **{{number}}** i el tipus com **{{type}}**."
+          },
+          "MEMBER_TOTAL_SANCTIONS_BY_TYPE_WITH_EXPIRATION": {
+            "LABEL": "Sancions totals del membre per tipus i amb venciment",
+            "DESCRIPTION": "Comprova el nombre total de sancions que té el membre per tipus i amb venciment.",
+            "SELECT_THE_TYPE": "Deus seleccionar el tipus que vols establir.",
+            "SELECT_THE_TYPE_PLACEHOLDER": "Selecciona el tipus",
+            "TOTAL_SANCTIONS_BY_TYPE_WITH_EXPIRATION_SET": "Has establert correctament el nombre total de sancions a **{{number}}** en els últims **{{time}}** i el tipus com **{{type}}**."
+          },
+          "MEMBER_TOTAL_SANCTIONS_BY_TYPE_BY_MODULE": {
+            "LABEL": "Sancions totals del membre per tipus i per mòdul",
+            "DESCRIPTION": "Comprova el nombre total de sancions que té el membre per tipus i per mòdul.",
+            "SELECT_THE_TYPE": "Deus seleccionar el tipus que vols establir.",
+            "SELECT_THE_TYPE_PLACEHOLDER": "Selecciona el tipus",
+            "SELECT_THE_MODULE": "Deus seleccionar el mòdul que desitges establir.",
+            "SELECT_THE_MODULE_PLACEHOLDER": "Selecciona el mòdul",
+            "TOTAL_SANCTIONS_BY_TYPE_BY_MODULE_SET": "Has establert correctament el nombre total de sancions a **{{number}}**, el tipus com **{{type}}** i el mòdul en **{{module}}**."
+          },
+          "MEMBER_TOTAL_SANCTIONS_BY_TYPE_BY_MODULE_WITH_EXPIRATION": {
+            "LABEL": "Sancions totals del membre per tipus i per mòdul amb venciment",
+            "DESCRIPTION": "Comprova el nombre total de sancions que té el membre per tipus i per mòdul amb venciment.",
+            "SELECT_THE_TYPE": "Deus seleccionar el yipus que vols establir.",
+            "SELECT_THE_MODULE": "Deus seleccionar el mòdul que desitja establir.",
+            "SELECT_THE_MODULE_PLACEHOLDER": "Selecciona el mòdul",
+            "SELECT_THE_TYPE_PLACEHOLDER": "Selecciona el tipus",
+            "TOTAL_SANCTIONS_BY_TYPE_BY_MODULE_WITH_EXPIRATION_SET": "Has establert correctament el nombre total de sancions a **{{number}}** en els últims **{{time}}**, el tipus com **{{type}}** i el mòdul en **{{module}}**."
+          },
+          "SERVER_FEATURES": {
+            "LABEL": "Característiques del servidor",
+            "DESCRIPTION": "Comprova si el servidor té la característica especificada.",
+            "SELECT_THE_FEATURE": "Deus seleccionar la característica que vols establir.",
+            "SELECT_THE_FEATURE_PLACEHOLDER": "Selecciona la característica",
+            "DESCRIPTION_ALTERNATIVE": "El servidor deu tenir la característica {{feature}}.",
+            "FEATURE_SET": "Has establert correctament la característica **{{feature}}**."
+          },
+          "USER_BLACKLISTED_THIRD_PARTY": {
+            "LABEL": "Usuari en la llista de tercers",
+            "DESCRIPTION": "Comprova si l'usuari està en una llista de tercers.",
+            "SELECT_THE_STATUS": "Deus seleccionar l'estat que vols establir.",
+            "SELECT_THE_STATUS_PLACEHOLDER": "Selecciona l'estat",
+            "STATUS_SET": "Has establert correctament l'estat com **{{status}}**.",
+            "AVAILABLE_STATUS": {
+              "BLACKLISTED": {
+                "LABEL": "En la llista negra",
+                "DESCRIPTION": "L'usuari deu estar en la llista negra"
+              },
+              "NOT_BLACKLISTED": {
+                "LABEL": "No es troba en la llista negra",
+                "DESCRIPTION": "L'usuari no deu estar en la llista negra"
+              }
+            }
+          }
+        },
+        "DESCRIPTION": "Modera els usuaris de forma intel·ligent i automàtica.",
+        "CONFIGURE": {
+          "SELECT_THE_ACTION": "Deus seleccionar l'acció que vols realitzar en el nivell.",
+          "CONDITIONALS": {
+            "ADD_CONDITIONAL": {
+              "LABEL": "Afegir condicional",
+              "DESCRIPTION": "Afegeix un condicional al nivell.",
+              "COMPLETED": "Has afegit correctament el condicional al nivell."
+            },
+            "EDIT_CONDITIONAL": {
+              "LABEL": "Editar condicional",
+              "DESCRIPTION": "Edita un condicional del nivell.",
+              "COMPLETED": "Has editat correctament el condicional del nivell."
+            },
+            "REMOVE_CONDITIONAL": {
+              "LABEL": "Eliminar condicional",
+              "DESCRIPTION": "Elimina un condicional del nivell.",
+              "COMPLETED": "Has eliminat amb éxit el condicional del nivell."
+            },
+            "SELECT_THE_CONDITIONAL": "Deus seleccionar el condicional que vols {{action}}.",
+            "SELECT_THE_EXPECTED_VALUE": "Deus seleccionar el valor esperat que vols establir.",
+            "SELECT_THE_EXPECTED_VALUE_PLACEHOLDER": "Selecciona el valor esperat",
+            "AVAILABLE_EXPECTED_VALUES": {
+              "TRUE": {
+                "LABEL": "Vertader",
+                "DESCRIPTION": "El valor esperat deu ser vertader"
+              },
+              "FALSE": {
+                "LABEL": "Fals",
+                "DESCRIPTION": "El valor esperat deu ser fals"
+              }
+            },
+            "EXPECTED_VALUE_SET": "Has establert correctament el valor esperat com **{{value}}**.",
+            "SELECT_THE_TYPE_OF_CONDITIONAL": "Deus seleccionar el tipus de condicional que vols establir.",
+            "SELECT_THE_TYPE_OF_CONDITIONAL_PLACEHOLDER": "Selecciona el tipus de condicional",
+            "AVAILABLE_TYPES_OF_CONDITIONAL": {
+              "REQUIRED": {
+                "LABEL": "Requerit",
+                "DESCRIPTION": "S'exigeix el cumpliment de la condició"
+              },
+              "OPTIONAL": {
+                "LABEL": "Opcional",
+                "DESCRIPTION": "La condicional es opcional"
+              }
+            },
+            "TYPE_OF_CONDITIONAL_SET": "Has establert correctament el tipus de condicional com **{{value}}**.",
+            "SELECT_THE_OPERAND": "Deus seleccionar l'operant que vols establir.",
+            "SELECT_THE_OPERAND_PLACEHOLDER": "Selecciona l'operant",
+            "AVAILABLE_OPERANDS": {
+              "GREATER_THAN": {
+                "LABEL": "Major que",
+                "DESCRIPTION": "El valor deu ser major que el valor comparat"
+              },
+              "GREATER_THAN_OR_EQUAL": {
+                "LABEL": "Major o igual que",
+                "DESCRIPTION": "El valor deu ser major o igual que el valor comparat"
+              },
+              "EQUAL": {
+                "LABEL": "Igual a",
+                "DESCRIPTION": "El valor deu ser igual al valor comparat"
+              },
+              "LESS_THAN": {
+                "LABEL": "Menor que",
+                "DESCRIPTION": "El valor deu ser menor al valor comparat"
+              },
+              "LESS_THAN_OR_EQUAL": {
+                "LABEL": "Menor que o igual a",
+                "DESCRIPTION": "El valor deu ser menor o igual que el valor comparat"
+              }
+            },
+            "OPERAND_SET": "Has establert correctament operant **{{value}}**.",
+            "SELECT_THE_REQUIRED_CONDITIONS_PLACEHOLDER": "Selecciona les condicions requerides",
+            "SELECT_THE_REQUIRED_CONDITIONS_OPTION_DESCRIPTION": "{{number}} condicions son requerides per complir-se.",
+            "REQUIRED_CONDITIONS_SET": "Has establert correctament les condicions requerides a **{{conditions}}**.",
+            "SELECT_THE_REQUIRED_CONDITIONS": "Deus seleccionar les condicions necesàries que vols establir.",
+            "SELECT_THE_CONDITIONAL_PLACEHOLDER": "Selecciona un condicional"
+          },
+          "CREATE_A_LEVEL": {
+            "FORM": {
+              "LABEL": "Posició de nivell"
+            },
+            "LEVEL_POSITION_SET": "Has establert correctament la posició del nivell en **#{{position}}**.",
+            "COMPLETED": "Has creat el nivell correctament.",
+            "DESCRIPTION": "Crea un nivell per el mòdul d'Auto Moderació.",
+            "LABEL": "Crear un nivell"
+          },
+          "EDIT_A_LEVEL": {
+            "LABEL": "Editar un nivell",
+            "DESCRIPTION": "Edita un nivell del mòdul d'Auto Moderació.",
+            "SELECT_THE_LEVEL": "Deus selecionar el nivell que vols editar.",
+            "SELECT_THE_LEVEL_PLACEHOLDER": "Selecciona un nivell",
+            "SELECT_THE_LEVEL_OPTION_DESCRIPTION": "Edita el nivell #{{level}}.",
+            "LEVEL_SELECTED": "Has seleccionat correctament el nuvell **#{{level}}** para editar.",
+            "COMPLETED": "Has editat correctament el nivell **#{{level}}**.",
+            "NO_LEVELS_FOUND": "No n'hi ha nivells disponibles per editar."
+          },
+          "EDIT_THE_LEVEL_SANCTION": {
+            "LABEL": "Editar la sanció del nivell",
+            "NO_LEVELS_FOUND": "No n'hi ha nivells disponibles per editar.",
+            "SELECT_THE_LEVEL": "Deus seleccionar el nivell que vols editar.",
+            "SELECT_THE_LEVEL_PLACEHOLDER": "Selecciona el nivell",
+            "SELECT_THE_LEVEL_OPTION_DESCRIPTION": "Edita la sanció del nivell #{{level}}.",
+            "COMPLETED": "Has editat correctament la sanció del nivell **#{{level}}**.",
+            "DESCRIPTION": "Edita la sanció del nivell.",
+            "LEVEL_SELECTED": "Has seleccionat correctament el nivell **#{{level}}** per editar la seva sanció."
+          },
+          "DELETE_A_LEVEL": {
+            "LABEL": "Eliminar un nivell",
+            "DESCRIPTION": "Elimina un nivell del mòdul d'Auto Moderació.",
+            "NO_LEVELS_FOUND": "No n'hi ha nivells disponibles per eliminar.",
+            "SELECT_THE_LEVEL": "Deus selecciomar el nivell que vols eliminar.",
+            "SELECT_THE_LEVEL_PLACEHOLDER": "Selecciona un nivell",
+            "SELECT_THE_LEVEL_OPTION_DESCRIPTION": "Elimina el nivell #{{level}}.",
+            "COMPLETED": "Has eliminat correctament el nivell **#{{level}}**."
+          }
+        }
+      },
+      "NAME": "Moderació"
+    },
+    "SELECT_A_SANCTION": "Deus seleccionar la sanció que vols establir."
+  }
 }
